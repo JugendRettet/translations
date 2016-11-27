@@ -1,5 +1,9 @@
+title='Jugend Rettet'
+
+description='Wir sind eine Organisation von jungen Erwachsenen für junge Erwachsene. Mithilfe von Spendengeldern und unserem Schiff - der Iuventa - betreiben wir private Seenotrettung auf dem Mittelmeer.'
+
 logo='
-![JR Logo](./graphics/logo_weiss_schiff_transparent.svg)
+![JR Logo](../graphics/logo_weiss_schiff_transparent.svg)
 '
 
 menu_intro='
@@ -34,9 +38,11 @@ menu_press='
 Presse
 '
 
-intro='
+intro_title='
 # Jugend **Rettet**
+'
 
+intro='
 ### DAS BESSERE EUROPA DURCH SEENOTRETTUNG IM MITTELMEER.
 
 MIT DER IUVENTA LEISTEN WIR SEENOTRETTUNG IM MITTELMEER. DAS WOLLEN WIR EIGENTLICH NICHT.

@@ -1,5 +1,9 @@
+title='RescYouth'
+
+description='blablabla'
+
 logo='
-![JR Logo](./graphics/logo_weiss_schiff_transparent.svg)
+![JR Logo](../graphics/logo_weiss_schiff_transparent.svg)
 '
 
 menu_intro='
@@ -34,9 +38,11 @@ menu_press='
 Press
 '
 
-intro='
+intro_title='
 # Resc**Youth**
+'
 
+intro='
 ### DAS BESSERE EUROPA DURCH SEENOTRETTUNG IM MITTELMEER.
 
 MIT DER IUVENTA LEISTEN WIR SEENOTRETTUNG IM MITTELMEER. DAS WOLLEN WIR EIGENTLICH NICHT.
