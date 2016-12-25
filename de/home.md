@@ -1,3 +1,6 @@
+lang='de'
+lang_long='de_DE'
+
 title='Jugend Rettet'
 
 description='Wir sind eine Organisation von jungen Erwachsenen für junge Erwachsene. Mithilfe von Spendengeldern und unserem Schiff - der Iuventa - betreiben wir private Seenotrettung auf dem Mittelmeer.'
@@ -39,7 +42,7 @@ Presse
 '
 
 intro_title='
-# Jugend **Rettet**
+Jugend **Rettet**
 '
 
 intro='

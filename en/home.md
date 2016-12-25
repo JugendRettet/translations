@@ -1,3 +1,6 @@
+lang='en'
+lang_long='en_US'
+
 title='RescYouth'
 
 description='blablabla'
@@ -39,7 +42,7 @@ Press
 '
 
 intro_title='
-# Resc**Youth**
+Resc**Youth**
 '
 
 intro='
