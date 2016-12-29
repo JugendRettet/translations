@@ -156,8 +156,9 @@ rescue_as_ambassador='
 '
 
 faq='
-[**NOCH FRAGEN?**  
-KLICKE HIER FÜR UNSERE FAQ](/faq)
+## NOCH FRAGEN? 
+
+[KLICKE HIER FÜR UNSERE FAQ](/faq)
 '
 
 news_title='
