@@ -5,6 +5,10 @@ title='RescYouth'
 
 description='blablabla'
 
+header_title='
+Header
+'
+
 logo='
 ![JR Logo](../graphics/logo_weiss_schiff_transparent.svg)
 '
