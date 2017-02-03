@@ -58,7 +58,7 @@ MIT DER IUVENTA LEISTEN WIR SEENOTRETTUNG IM MITTELMEER. DAS WOLLEN WIR EIGENTLI
 situation='
 ## situation
 
-*5083 Menschen kamen 2016 ums Leben, als sie versuchten, Europa über das Mittelmeer zu erreichen.*
+**5083 Menschen kamen 2016 ums Leben, als sie versuchten, Europa über das Mittelmeer zu erreichen.**
 '
 
 ideals_title='
