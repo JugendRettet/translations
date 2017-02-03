@@ -58,7 +58,7 @@ MIT DER IUVENTA LEISTEN WIR SEENOTRETTUNG IM MITTELMEER. DAS WOLLEN WIR EIGENTLI
 situation='
 ## situation
 
-### 2016 SIND XXXX MENSCHEN, BEI DEM VERSUCH EUROPA ÜBER DAS MITTELMEER ZU ERREICHEN GESTORBEN.
+### 5083 Menschen kamen 2016 ums Leben, als sie versuchten, Europa über das Mittelmeer zu erreichen.  
 '
 
 ideals_title='
@@ -70,7 +70,7 @@ ideals_iuv_title='
 '
 
 ideals_iuv_text='
-DAS WAS. Hier kommt später ein Text hin, der unsere erfolgreichen Missionen kurz und kanckig als politische Praxis beschreiben. Außerdem sind sie sehr humanitär. Wir sind so divers.
+Mit dem Schiff IUVENTA werden seit dem 24. Juli 2016 Menschen aus Seenot gerettet. Die IUVENTA ist ein symbolisches Aktionsfeld, mit dem wir auf die aktuelle politische Lage aufmerksam machen wollen und gleichzeitig sehr konkret die Ohnmacht durchbrechen, indem wir selbst Handeln. Eine professionelle Crew steht dabei eng zur Seite, um das Gelingen der Operation zu sichern.
 '
 
 ideals_iuv_link='
@@ -82,17 +82,18 @@ ideals_proposals_title='
 '
 
 ideals_proposals_text='
-DAS WARUM. Ein Text über legale Einreisewege, Safe Passages und einen Diskurs über Asylpolitik. Generell unsere politische Forderung. Außerdem sollte man noch einbringen, dass wir das als junge Menschen einfordern.
+Wir lehnen uns als junge Generation gegen das fehlende Handeln der EU gegenüber dem Sterben auf dem Mittelmeer auf. Europa ist in der Verantwortung eine gemeinsame Lösung zu finden. Nur durch ein konkretes Projekt wird die „politische Ohnmacht“ überwunden. Unsere Organisation ist selbstverwaltet und bewusst unabhängig.
+Wir denken: Jeder Mensch verdient die Rettung aus Seenot.
 '
 
 ideals_actions='
 ### WAS WIR KONKRET MACHEN
 
-WAS WIR TUN. Ein Text über das Netzwerk, das Forum, und wie die beiden Bereiche zusammen packen und wie wir dadurch im Forum mit dem Botschafter Netzwerk in den Diskurs eintreten. Text, Text, Text. Ein Text über das Netzwerk, das Forum, und wie die beiden Bereiche zusammen packen und wie wir dadurch im Forum mit dem Botschafter Netzwerk in den Diskurs eintreten.
+Mit dem Botschafter_Innen-Netzwerk schafft unsere Organisation eine Plattform, auf der sich junge Menschen langfristig über nationale und europäische Positionen in der Flüchtlingspolitik und Seenotrettung austauschen können. Der Verein engagiert sich also einerseits in dem konkreten und hoch symbolischen Aktionsfeld unseres Schiffes und schafft andererseits eine politische Plattform: das Botschafter_Innen- Netzwerk.
 
 ### WAS WIR KONKRET MACHEN wollen
 
-SEENOTRETTUNG DER EU, LEGALE EINREISEWEGE  DISKURS ÜBER ASYLPOLITIK
+Unser Ziel ist klar: Weniger Tote. Wir fordern als junge Europäerinnen gemeinsam, dass kein Mensch auf der Flucht nach Europa sterben soll.
 '
 
 about_us_title='
@@ -104,7 +105,7 @@ about_us_our_story_title='
 '
 
 about_us_iuv_title='
-### Die Iuventa. Das Wie.
+### Die Iuventa
 '
 
 about_us_transparency_title='
@@ -116,7 +117,7 @@ team_title='
 '
 
 team_donations='
-### Spenden
+### Spender_innen
 '
 
 team_berlin='
@@ -128,11 +129,11 @@ team_crew='
 '
 
 team_embassies='
-### Botschafter
+### Botschafter_innen
 '
 
 team_sponsors='
-### Sponsoren
+### Sponsor_innen
 '
 
 rescue_as_title='
@@ -140,19 +141,19 @@ rescue_as_title='
 '
 
 rescue_as_sponsor='
-### Sponsor
+### Sponsor_in
 '
 
 rescue_as_donator='
-### Spender
+### Spender_innen
 '
 
 rescue_as_voluntary='
-### Freiwilliger
+### Freiwillige_r
 '
 
 rescue_as_ambassador='
-### Botschafter
+### Botschafter_in
 '
 
 faq='
@@ -174,7 +175,7 @@ FOLGE UNS...
 '
 
 news_insta='
-### insta
+### Instagram
 '
 
 news_news_item='
@@ -202,13 +203,9 @@ news_events='
 '
 
 news_news_mission='
-### Misson Internet
+### Misson: Umbau
 
-**178 Menschen gerettet**
-'
-
-news_mission_link='
-[MISSION INTERNET ZEIGT DEN MENSCHEN WER WIR SIND. KLICKE HIER FÜR AKTUELLE BILDER UND NEUIGKEITEN DER MISSION.](/mission)
+[178 kg Stahl werden geschweisst](/mission)
 '
 
 donate_title='
