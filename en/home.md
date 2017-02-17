@@ -10,7 +10,7 @@ header_title='
 '
 
 logo='
-![JR Logo](../graphics/logo_weiss_schiff_transparent.svg)
+![JR Logo](../f//graphics/logo_weiss_schiff_transparent.svg)
 '
 
 menu_intro='
