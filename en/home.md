@@ -123,6 +123,8 @@ team_title='
 
 team_donations='
 ### Spender_innen
+
+![Spender_innen](../f/images/index/team/Berlin.jpg)
 '
 
 team_berlin='
