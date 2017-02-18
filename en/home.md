@@ -101,14 +101,20 @@ about_us_title='
 
 about_us_our_story_title='
 ### Our Story
+
+![Our Story](../f/images/index/about_us/OurStory.jpg)
 '
 
 about_us_iuv_title='
-### Die Iuventa. Das Wie.
+### Die Iuventa
+
+![Die Iuventa](../f/images/index/about_us/IUVENTA.jpg)
 '
 
 about_us_transparency_title='
 ### Transparenz
+
+![Transparenz](../f/images/index/about_us/Transparenz.jpg)
 '
 
 team_title='
@@ -116,43 +122,61 @@ team_title='
 '
 
 team_donations='
-### Spenden
+### Spender_innen
 '
 
 team_berlin='
 ### Berlin
+
+![Berlin](../f/images/index/team/Berlin.jpg)
 '
 
 team_crew='
 ### Crew
+
+![Crew](../f/images/index/team/crew.jpg)
 '
 
 team_embassies='
-### Botschafter
+### Botschafter_innen
+
+![Botschafter_innen](../f/images/index/team/crew.jpg)
 '
 
 team_sponsors='
-### Sponsoren
+### Sponsor_innen
+
+![Sponsor_innen](../f/images/index/team/crew.jpg)
 '
 
 rescue_as_title='
 ## Rette mit als...
+
+![Rette mit als...](../f/images/index/about_us/Transparenz.jpg)
 '
 
 rescue_as_sponsor='
-### Sponsor
+### Sponsor_in
+
+![Sponsor_in](../f/images/index/about_us/Transparenz.jpg)
 '
 
 rescue_as_donator='
-### Spender
+### Spender_innen
+
+![Spender_innen](../f/images/index/about_us/Transparenz.jpg)
 '
 
 rescue_as_voluntary='
-### Freiwilliger
+### Freiwillige_r
+
+![Freiwillige_r](../f/images/index/about_us/Transparenz.jpg)
 '
 
 rescue_as_ambassador='
-### Botschafter
+### Botschafter_in
+
+![Botschafter_in](../f/images/index/about_us/Transparenz.jpg)
 '
 
 faq='
