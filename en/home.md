@@ -1,9 +1,18 @@
-lang='en'
-lang_long='en_US'
+lang='
+en
+'
 
-title='RescYouth'
+lang_long='
+en_US
+'
 
-description='blablabla'
+title='
+RescYouth
+'
+
+description='
+blablabla
+'
 
 header_title='
 ## Header

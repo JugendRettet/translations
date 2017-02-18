@@ -9,5 +9,5 @@ D- 10973 Berlin
 
 Mail: [press@jugendrettet.org](mailto://press@jugendrettet.org)
 
-[→ press portfolio](/f/files/press_portfolio_JR.pdf) (updated August 7th 2016)
+[→ press portfolio](/f/files/press_portfolio_JR.pdf) (updated August 7th '16)
 '
