@@ -151,8 +151,6 @@ team_sponsors='
 
 rescue_as_title='
 ## Rette mit als...
-
-![Rette mit als...](../f/images/index/about_us/Transparenz.jpg)
 '
 
 rescue_as_sponsor='
