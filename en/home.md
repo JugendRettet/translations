@@ -55,7 +55,7 @@ Press
 '
 
 intro_title='
-Resc**Youth**
+# Resc**Youth**
 '
 
 intro='

@@ -55,7 +55,7 @@ Presse
 '
 
 intro_title='
-Jugend **Rettet**
+# Jugend **Rettet**
 '
 
 intro='
