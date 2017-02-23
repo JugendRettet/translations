@@ -1,6 +1,4 @@
 crewing='
-#crewing
-
 # Crewing
 
 Du willst als Crewmitglied die Rettung auf dem Mittelmeer durchführen?
