@@ -7,9 +7,9 @@ Ab März wird die Iuventa wieder vor der libyschen Küste im Einsatz sein. Um di
 
 Wir suchen Menschen mit Berufserfahrung, die sich über das hohe Risiko der Rettungsaktionen bewusst sind. Bitte frage dich selbst, ob du dir die Situation zutraust. Aufgrund der besonderen Anforderungen sind wir gezwungen die Crew sehr sorgsam auszuwählen.
 
-Unser Bewerbungsformular findest Du unter folgendem Link: [/crew](/crew)
+Unser Bewerbungsformular findest Du unter folgendem Link: **[/crew](/crew)**
 
-Bei Fragen steht Dir unser Crewing-Department gerne unter [crew@jugendrettet.org](mailto:crew@jugendrettet.org) zur Verfügung.
+Bei Fragen steht Dir unser Crewing-Department gerne unter **[crew@jugendrettet.org](mailto:crew@jugendrettet.org)** zur Verfügung.
 
 Da aufgrund der internationalen Zusammensetzung der Crew und des Charakters des Einsatzes Englisch unsere Bordsprache ist, findest Du die Informationen zu den verschiedenen Positionen direkt auf Englisch.
 
@@ -29,13 +29,13 @@ The crew aboard the Iuventa consists of between 14 and 16 people that fill a ran
 ## Nautical positions / regular ship's operation
 
 <span class="text-center">
-[master](#master) | [chief mate](#chief-mate) | [2nd mate](#2nd-mate) | [chief engineer](#chief-engineer) | [2nd engineer](#2nd-engineer) | [electrician](#electrician) | [bosun](#bosun)
+**[master](#master)** | **[chief mate](#chief-mate)** | **[2nd mate](#2nd-mate)** | **[chief engineer](#chief-engineer)** | **[2nd engineer](#2nd-engineer)** | **[electrician](#electrician)** | **[bosun](#bosun)**
 </span>
 
 ## SAR POSITIONS
 
 <span class="text-center">
-[HOM](#hom) | [Deck Manager](#deck-manager) | [RIB Driver](#rib-driver) | [RIB Leader](#rib-leader) | [RIB Mediator](#rib-mediator) | [Lilli driver](#lilli-driver) | [Lilli Leader](#lilli-leader) | [Doctor](#doctor) | [Medic](#medic)
+**[HOM](#hom)** | **[Deck Manager](#deck-manager)** | **[RIB Driver](#rib-driver)** | **[RIB Leader](#rib-leader)** | **[RIB Mediator](#rib-mediator)** | **[Lilli driver](#lilli-driver)** | **[Lilli Leader](#lilli-leader)** | **[Doctor](#doctor)** | **[Medic](#medic)**
 </span>
 
 ### <a name="master"></a>MASTER
