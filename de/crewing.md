@@ -28,11 +28,11 @@ The crew aboard the Iuventa consists of between 14 and 16 people that fill a ran
 
 ## Nautical positions / regular ship's operation
 
-[master](#master) | [chief mate](#chief-mate) | [2nd mate](#2nd-mate) | [chief engineer](#chief-engineer) | [2nd engineer](#2nd-engineer) | [electrician](#electrician) | [bosun](#bosun)
+<span class="center">[master](#master) | [chief mate](#chief-mate) | [2nd mate](#2nd-mate) | [chief engineer](#chief-engineer) | [2nd engineer](#2nd-engineer) | [electrician](#electrician) | [bosun](#bosun)</span>
 
 ## SAR POSITIONS
 
-[HOM](#hom) | [Deck Manager](#deck-manager) | [RIB Driver](#rib-driver) | [RIB Leader](#rib-leader) | [RIB Mediator](#rib-mediator) | [Lilli driver](#lilli-driver) | [Lilli Leader](#lilli-leader) | [Doctor](#doctor) | [Medic](#medic)
+<span class="center">[HOM](#hom) | [Deck Manager](#deck-manager) | [RIB Driver](#rib-driver) | [RIB Leader](#rib-leader) | [RIB Mediator](#rib-mediator) | [Lilli driver](#lilli-driver) | [Lilli Leader](#lilli-leader) | [Doctor](#doctor) | [Medic](#medic)</span>
 
 ### <a name="master"></a>MASTER
 
