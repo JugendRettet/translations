@@ -23,22 +23,22 @@ Da aufgrund der internationalen Zusammensetzung der Crew und des Charakters des 
 
 ## POSITIONS ABOARD THE IUVENTA
 
-The crew aboard the Iuventa consists of between 14 and 16 people that fill a range of nautical and SAR specific positions as well as **[media](#PRESS)**.
+The crew aboard the Iuventa consists of between 14 and 16 people that fill a range of nautical and SAR specific positions as well as **[media](#press)**.
 
 
 ## Nautical positions / regular ship's operation
 
 <span class="text-center">
-**[master](#MASTER)** | **[chief mate](#CHIEF_MATE)** | **[2nd mate](#2nd_MATE)** | **[chief engineer](#CHIEF_ENGINEER)** | **[2nd engineer](#2nd_ENGINEER)** | **[electrician](#ELECTRICIAN)** | **[bosun](#BOSUN)**
+**[master](#master)** | **[chief mate](#chief-mate)** | **[2nd mate](#2nd-mate)** | **[chief engineer](#chief-engineer)** | **[2nd engineer](#2nd-engineer)** | **[electrician](#electrician)** | **[bosun](#bosun)**
 </span>
 
 ## SAR POSITIONS
 
 <span class="text-center">
-**[HOM](#HEAD_OF_MISSION)** | **[Deck Manager](#DECK_MANAGER)** | **[RIB Driver](#RIB_-_DRIVER)** | **[RIB Leader](#RIB_-_TEAM_LEADER)** | **[RIB Mediator](#RIB_-_MEDIATOR___contact_person)** | **[Lilli driver](#LILLI_-_DRIVER)** | **[Lilli Leader](#LILLI_-_TEAM_LEADER)** | **[Doctor](#DOCTOR)** | **[Medic](#MEDIC)**
+**[HOM](#hom)** | **[Deck Manager](#deck-manager)** | **[RIB Driver](#rib-driver)** | **[RIB Leader](#rib-leader)** | **[RIB Mediator](#rib-mediator)** | **[Lilli driver](#lilli-driver)** | **[Lilli Leader](#lilli-leader)** | **[Doctor](#doctor)** | **[Medic](#medic)**
 </span>
 
-### MASTER
+### <a name="master"></a>MASTER
 
 * has the overview, responsibility and control of the vessel and crew safety; directs both in accordance to maintain same
 * is responsible for all nautical and technical decisions concerning the operation as well as related crew instructions
@@ -58,7 +58,7 @@ The crew aboard the Iuventa consists of between 14 and 16 people that fill a ran
 * confident in decision-making
 * has ideally previously joined a rescue mission on the Iuventa as Chief Mate
 
-### CHIEF MATE
+### <a name="chief-mate"></a>CHIEF MATE
 
 * Works in close collaboration with master and Head of Mission
 * communicates with external parties, such as other ships in vicinity
@@ -74,7 +74,7 @@ The crew aboard the Iuventa consists of between 14 and 16 people that fill a ran
 * alternatively other (non-professional) certificates and extensive experience in a similar range of duties can be considered as well
 * has a strong safety awareness and knowledge of standard safety equipment and procedures on board ships
 
-### 2nd MATE
+### <a name="2nd-mate"></a>2nd MATE
 
 * responsible for all safety equipment on board
 * facilitates safety trainings and drills in collaboration with the chief mate
@@ -93,7 +93,7 @@ The crew aboard the Iuventa consists of between 14 and 16 people that fill a ran
 
 
 
-### CHIEF ENGINEER
+### <a name="chief-engineer"></a>CHIEF ENGINEER
 
 * Responsible for the operation and maintenance of the main engine, generators, pumps, compressors.
 * Operates the crane and anchor winches
@@ -111,7 +111,7 @@ The crew aboard the Iuventa consists of between 14 and 16 people that fill a ran
 * Has a professional engineering qualification, ideally ship engineering
 * Good working knowledge and experience of standard safety equipment for ships
 
-### 2nd ENGINEER
+### <a name="2nd-engineer"></a>2nd ENGINEER
 
 * Assists the chief engineer to operate and maintain the main engine, generators, pumps, compressors.
 * Assists the chief engineer to operate the crane and anchor winches
@@ -129,7 +129,7 @@ The crew aboard the Iuventa consists of between 14 and 16 people that fill a ran
 * Good working knowledge and experience of standard safety equipment for ships
 * works well within a team environment
 
-### ELECTRICIAN
+### <a name="electrician"></a>ELECTRICIAN
 
 * Is familiar with the electrical and IT systems aboard (engine room, bridge, RIB)
 * problem solves electrical and electronic issues
@@ -146,7 +146,7 @@ The crew aboard the Iuventa consists of between 14 and 16 people that fill a ran
 * Experience with electrical systems and IT essential
 * Ideally has experience on ships
 
-### BOSUN
+### <a name="bosun"></a>BOSUN
 
 * Responsible to take care of maintenance jobs (i.e. deck painting, woodworks etc.); instructs deck crew as required
 * Works in close collaboration with Chief Mate
@@ -164,7 +164,7 @@ The crew aboard the Iuventa consists of between 14 and 16 people that fill a ran
 
 ## SAR POSITIONS
 
-### HEAD OF MISSION
+### <a name="hom"></a>HEAD OF MISSION
 
 * involved in the preparation and follow-up of the mission
 * coordinates the cooperation of the individual SAR-departments (bridge, RIB, deck, Med team) during the mission
@@ -194,7 +194,7 @@ The crew aboard the Iuventa consists of between 14 and 16 people that fill a ran
 * confident in decision-making
 * has ideally previously joined a rescue mission on the Iuventa
 
-### DECK MANAGER
+### <a name="deck-manager"></a>DECK MANAGER
 
 * has the overview and control of the deck related work during SAR operations (safty of all people on deck, ensures that all the equipment is always ready to use)
 * directing work process as per specification of the HoM/ Master
@@ -214,7 +214,7 @@ The crew aboard the Iuventa consists of between 14 and 16 people that fill a ran
 * confident in decision-making especially in stressful situations
 * has ideally previously joined a rescue mission on the Iuventa
 
-### RIB - DRIVER
+### <a name="rib-driver"></a>RIB - DRIVER
 
 * is responsible for all nautical and technical decisions concerning the operation on site as well as related crew intructions
 * has overview and control of the boat and crew safety as well as safety of people in distress; directs both in accordance to maintain same
@@ -236,7 +236,7 @@ The crew aboard the Iuventa consists of between 14 and 16 people that fill a ran
 * Ideally has previous SAR experience
 * remains calm in stressful situations
 
-### RIB - TEAM LEADER
+### <a name="rib-leader"></a>RIB - TEAM LEADER
 
 * collaborates closely with HOM and instructs RIB driver and mediator in accordance to SOP
 * responsible to maintain a general overview of the rescue operation on site
@@ -262,7 +262,7 @@ The crew aboard the Iuventa consists of between 14 and 16 people that fill a ran
 * able to coordinate a team effectively especially in stressful situations
 * first aid medical training essential, ideally with medical qualification
 
-### RIB - MEDIATOR / contact person
+### <a name="rib-mediator"></a>RIB - MEDIATOR / contact person
 
 * Establishes initial contact with refugees, collects relevant information and maintains conversation with the people in distress
 * Passes on relevant information to team leader
@@ -286,7 +286,7 @@ The crew aboard the Iuventa consists of between 14 and 16 people that fill a ran
 * first aid training essential, ideally has medical qualification
 * team player
 
-### LILLI - DRIVER
+### <a name="lilli-driver"></a>LILLI - DRIVER
 
 * is responsible for the nautical and technical decisions aboard the small RIB
 * has overview and control of the boat and crew safety as well as safety of people in distress; directs both in accordance to maintain same
@@ -309,7 +309,7 @@ The crew aboard the Iuventa consists of between 14 and 16 people that fill a ran
 * remains calm in stressful situations
 * team player
 
-### LILLI - TEAM LEADER
+### <a name="lilli-leader"></a>LILLI - TEAM LEADER
 
 * collaborates closely with HOM, RIB 1 and instructs the driver in accordance with SOP
 * is responsible for the crew's and refugees' safety during operational procedures
@@ -332,7 +332,7 @@ The crew aboard the Iuventa consists of between 14 and 16 people that fill a ran
 * good team player
 * first aid medical training
 
-### DOCTOR
+### <a name="doctor"></a>DOCTOR
 
 * responsible for the medical assessment and treatment of refugees as well as Iuventa crew
 * operates the hospital during SAR operations
@@ -360,7 +360,7 @@ The crew aboard the Iuventa consists of between 14 and 16 people that fill a ran
 * team management experience
 * The cooperation-partner Rainbow4Africa is in charge of all medical aspects including the crewing. We will forward your application.
 
-### MEDIC
+### <a name="medic"></a>MEDIC
 
 * responsible for assisting the doctor in the medical assessment and treatment of refugees as well as Iuventa crew
 * responsible for administration of medication in collaboration with the doctor
@@ -388,7 +388,7 @@ The crew aboard the Iuventa consists of between 14 and 16 people that fill a ran
 * good team player as well as basic leadership skills
 * The cooperation-partner Rainbow4Africa is in charge of all medical aspects including the crewing. We will forward your application.
 
-### PRESS
+### <a name="press"></a>PRESS
 
 * Are obliged to document in accordance with Jugend Rettet policies and confidentiality guidelines
 * Also required to complete general deckhand duties as required during SAR operations, i.e. launching RIBS, look-out, embarking people on the ship, giving out food and water to guests, clean up
