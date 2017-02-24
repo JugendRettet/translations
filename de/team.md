@@ -1,10 +1,38 @@
 sub_team_title='
 # Team
 '
+
+sub_team_berlin_menu='
+Berlin
+'
+sub_team_berlin_title='
+## Berlin
+'
+
 sub_team_berlin='
+
 '
+
+sub_team_crew_menu='
+Crew
+'
+
+sub_team_crew_title='
+## Crew
+'
+
 sub_team_crew='
+
 '
+
+sub_team_embassies_menu='
+Botschafter_innen
+'
+
+sub_team_embassies_title='
+## Botschafter_innen
+'
+
 sub_team_embassies='
 <iframe id="team_emb_map" src="https://www.google.com/maps/d/u/0/embed?mid=1MPGOL2_dmS64Tq5BfVtV7KuU5UY"></iframe>
 
@@ -63,8 +91,26 @@ sub_team_embassies='
 * **Zürich**: [Adrian](mailto:Adrian_Zuerich@jugendrettet.org)
 * **Überlingen**: [Johnny](mailto:Johnny_Ueberlingen@jugendrettet.org)
 '
+
+sub_team_donations_menu='
+Spender_innen
+'
+
+sub_team_donations_title='
+## Spender_innen
+'
+
 sub_team_donations='
 '
+
+sub_team_sponsors_menu='
+Sponsor_innen
+'
+
+sub_team_sponsors_title='
+## Sponsor_innen
+'
+
 sub_team_sponsors='
 * ![Jugendpresse.de](../f/logos/jpd.svg "Jugendpresse.de")
 * ![Santinis.de](../f/logos/Santini-Logo_sw.svg "Santinis.de")
