@@ -66,13 +66,24 @@ sub_team_embassies='
 sub_team_donations='
 '
 sub_team_sponsors='
-* ![Santinis.de](../f/logos/Santini-Logo_sw.svg "Santinis.de")
-* ![printproduction.de](../f/logos/Logo_Print_Production_2c.svg "printproduction.de")
-* ![netzwerk-selbsthilfe.de](../f/logos/nwsh.png "netzwerk-selbsthilfe.de")
-* ![Start with a Friend](../f/logos/start-with-a-friend-logo_klein.jpg "Start with a Friend")
-* ![Flüchtlinge Willkommen](../f/logos/FW-Logo.svg "Flüchtlinge Willkommen")
-* ![Druckhaus Griemlich](../f/logos/Logo_Druckhaus_Gremlich.svg "Druckhaus Griemlich")
-* ![Stage For Peace](../f/logos/Stage_For_Piece.svg "Stage For Peace")
-* ![Falkun Films](../f/logos/Falkun_Films.svg "Falkun Films")
-* ![SbE Bundesvereinigung Stressbearbeitung nach belastenden Ereignissen e.V.](../f/logos/sbe.svg "SbE Bundesvereinigung Stressbearbeitung nach belastenden Ereignissen e.V.")
+* ![Jugendpresse.de](../f/logos/jpd.svg)
+Jugendpresse.de
+* ![Santinis.de](../f/logos/Santini-Logo_sw.svg)
+Santinis.de
+* ![printproduction.de](../f/logos/Logo_Print_Production_2c.svg)
+printproduction.de
+* ![netzwerk-selbsthilfe.de](../f/logos/nwsh.png)
+netzwerk-selbsthilfe.de
+* ![Start with a Friend](../f/logos/start-with-a-friend-logo_klein.jpg)
+Start with a Friend
+* ![Flüchtlinge Willkommen](../f/logos/FW-Logo.svg)
+Flüchtlinge Willkommen
+* ![Druckhaus Griemlich](../f/logos/Logo_Druckhaus_Gremlich.svg)
+Druckhaus Griemlich
+* ![Stage For Peace](../f/logos/Stage_For_Piece.svg)
+Stage For Peace
+* ![Falkun Films](../f/logos/Falkun_Films.svg)
+Falkun Films
+* ![SbE Bundesvereinigung Stressbearbeitung nach belastenden Ereignissen e.V.](../f/logos/sbe.svg)
+SbE Bundesvereinigung Stressbearbeitung nach belastenden Ereignissen e.V.
 '
