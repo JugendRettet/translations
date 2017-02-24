@@ -6,6 +6,8 @@ sub_team_berlin='
 sub_team_crew='
 '
 sub_team_embassies='
+<iframe id="team_emb_map" src="https://www.google.com/maps/d/u/0/embed?mid=1MPGOL2_dmS64Tq5BfVtV7KuU5UY"></iframe>
+
 * **Barcelona**: [Leo](mailto:Leo@jugendrettet.org)
 * **Basel**: [Angelica](mailto:Angelica_Basel@jugendrettet.org)
 * **Berlin**: [Sonja](mailto:Sonja@jugendrettet.org)
