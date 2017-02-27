@@ -6,6 +6,8 @@ about_iuventa_title='
 '
 
 about_iuventa='
+*Die Genauigkeit der angegeben Position ist abhängig vom aktuellen Empfang, der während Rettungseinsätzen für einige Zeit auch ausfallen kann.*
+
 Im Mai 2016 konnten wir nach unserer erfolgreichen Crowdfunding-Kampagne und durch die Hilfe unzähliger Unterstützer_innen, die IUVENTA erwerben. In den folgenden 2 Monaten wurde das Schiff umgebaut und nach Malta überführt. Seit Juli 2016 sind die Missionen der IUVENTA Jugend Rettets aktiver Beitrag zur Linderung des Leids im Mittelmeer.
 
 Ursprünglich war die 33m lange Iuventa als Fischereifahrzeug für die rauen Bedingungen der Nordsee konzipiert. Redundante Funktionen können im gesamten Schiff gefunden werden, wie z. B. zwei Hilfsmotoren und die extra robusten Konstruktionselemente des Hauptmotors, die auch unter härtesten Bedingungen einen kontinuierlichen Betrieb gewährleisten.
