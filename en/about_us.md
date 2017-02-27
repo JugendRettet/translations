@@ -1,8 +1,11 @@
-about_us='
+about_us_title='
 # About Us
-
+'
+about_us_iuventa_title='
 ## The IUVENTA
+'
 
+about_us_iuventa='
 The ship selected to become Jugend Rettet’s active contribution to Maritime Search and Rescue in the Central Mediterranean Sea was acquired in May 2016, converted and refitted by the tremendous effort of many volunteers for her new task and christened IUVENTA.
 
 Originally the 33m long Iuventa was designed as a fishing vessel for the rough and frequently hostile conditions of the North Sea. Redundant features can be found throughout the ship such as two auxiliary engines and design elements of the main engine that ensure continuous operation even in the roughest conditions.
