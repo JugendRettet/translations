@@ -215,7 +215,7 @@ news_news_item='
 '
 
 news_archive='
-[ARCHIV](/archiv)
+[ARCHIV](./archive)
 '
 
 news_follow_iuv='
@@ -241,7 +241,7 @@ news_news_mission='
 '
 
 news_mission_link='
-[MISSION INTERNET ZEIGT DEN MENSCHEN WER WIR SIND. KLICKE HIER FÜR AKTUELLE BILDER UND NEUIGKEITEN DER MISSION.](/mission)
+[MISSION INTERNET ZEIGT DEN MENSCHEN WER WIR SIND. KLICKE HIER FÜR AKTUELLE BILDER UND NEUIGKEITEN DER MISSION.](./mission)
 '
 
 donate_title='
