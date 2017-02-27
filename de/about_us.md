@@ -1,6 +1,19 @@
 about_title='
 # Über uns
 '
+
+about_our_story_menu='
+Chronologie
+'
+
+about_our_story='
+## Chronologie
+'
+
+about_iuventa_menu='
+IUVENTA
+'
+
 about_iuventa_title='
 ## Die IUVENTA
 '
@@ -18,6 +31,11 @@ Typischerweise für ein Fischereifahrzeug ist das Freibord bemerkenswert niedrig
 
 Bei normalen Rettungseinsätzen liegt die Besatzung zwischen 11 und 13 Personen.
 '
+
+about_transparency_menu='
+Transparenz
+'
+
 about_transparency='
 ## Transparenz
 

@@ -1,6 +1,19 @@
 about_title='
 # About Us
 '
+
+about_our_story_menu='
+Chronologie
+'
+
+about_our_story='
+## Chronologie
+'
+
+about_iuventa_menu='
+IUVENTA
+'
+
 about_iuventa_title='
 ## The IUVENTA
 '
@@ -19,4 +32,12 @@ In normal rescue operations the crew complement is between 11-13 persons.
 Two fast rescue boats (RHIBS) are stored on the main deck which are launched by means of a hydraulic telescopic crane which as replaced for a better model in 2017.
 
 Typically for a fishing vessel the freeboard is remarkably low for handling nets which gives two advantages: first, it allows easy launch and recovery of the two rescue boats; second, rescued boats can be taken alongside and persons embarked quickly in a safe manner.
+'
+
+about_transparency_menu='
+Transparency
+'
+
+about_transparency='
+## Transparency
 '
