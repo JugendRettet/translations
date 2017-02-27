@@ -27,7 +27,7 @@ Der Verein Jugend **Rettet** e.V. wurde am 3. Oktober 2015 gegründet. Sitz und 
 
 Unsere Vereinssatzung in ihrer aktuellen von der ordentlichen Mitgliederversammlung am 03. Oktober 2015 in Berlin beschlossenen Fassung finden Sie [hier](../f/files/Vereinssatzung_v1.pdf).
 
-Eine Übersicht zu den Zielen und Umsetzung des Vereins finden Sie [hier](about_us).
+Eine Übersicht zu den Zielen und Umsetzung des Vereins finden Sie [hier](./#intro).
 
 ### 3. ANGABEN ZUR STEUERBEGÜNSTIGUNG
 
