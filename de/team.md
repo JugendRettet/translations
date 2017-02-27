@@ -1,11 +1,41 @@
 sub_team_title='
 # Team
 '
+
+sub_team_berlin_menu='
+Berlin
+'
+sub_team_berlin_title='
+## Berlin
+'
+
 sub_team_berlin='
+
 '
+
+sub_team_crew_menu='
+Crew
+'
+
+sub_team_crew_title='
+## Crew
+'
+
 sub_team_crew='
+
 '
+
+sub_team_embassies_menu='
+Botschafter_innen
+'
+
+sub_team_embassies_title='
+## Botschafter_innen
+'
+
 sub_team_embassies='
+<iframe id="team_emb_map" src="https://www.google.com/maps/d/u/0/embed?mid=1MPGOL2_dmS64Tq5BfVtV7KuU5UY"></iframe>
+
 * **Barcelona**: [Leo](mailto:Leo@jugendrettet.org)
 * **Basel**: [Angelica](mailto:Angelica_Basel@jugendrettet.org)
 * **Berlin**: [Sonja](mailto:Sonja@jugendrettet.org)
@@ -42,12 +72,11 @@ sub_team_embassies='
 * **Mainz**: [Christian](mailto:Christian_Mainz@jugendrettet.org)
 * **Marburg**: [Max](mailto:Max_Marburg@jugendrettet.org)
 * **München**: [Lisa](mailto:Lisa@jugendrettet.org), [Paul](mailto:Paul_Muenster@jugendrettet.org)
-* **Nürnberg**: [Annemarie](mailto:Annemarie_Nuernberg@jugendrettet.org), [Jojo](mailto:Jojo@jugendrettet.org), [Marc](mailto:Marc_Nuernberg@jugendrettet.org)
+* **Nürnberg**: [Annemarie](mailto:Annemarie_Nuernberg@jugendrettet.org), [Mark](mailto:Mark_Nuernberg@jugendrettet.org)
 * **Oldenburg**: [Deniz](mailto:Deniz_Oldenburg@jugendrettet.org), [Maxi](mailto:Maxi_Oldenburg@jugendrettet.org), [Sabeth](mailto:Sabeth_Oldenburg@jugendrettet.org)
 * **Osnabrück**: [Jascha](mailto:Jascha_Osnabrueck@jugendrettet.org)
 * **Ostfriesland**: [Jana](mailto:Jana_Ostfriesland@jugendrettet.org), [Julia](mailto:Julia@jugendrettet.org), [Mareke](mailto:Mareke@jugendrettet.org)
 * **Paderborn**: [Wiebke](mailto:Paderborn@jugendrettet.org)
-* **Paris**: [Anna](mailto:Anna_Paris@jugendrettet.org)
 * **Passau**: [Ben](mailto:Ben_Passau@jugendrettet.org)
 * **Potsdam**: [Alex](mailto:Alex@jugendrettet.org), [Christoph](mailto:Christoph@jugendrettet.org)
 * **Roma**: [Carla](mailto:Carla_Roma@jugendrettet.org)
@@ -57,31 +86,38 @@ sub_team_embassies='
 * **Stockholm**: [Jonas](mailto:Jonas_Stockholm@jugendrettet.org)
 * **Warszawa**: [Marcin](mailto:Marcin_Warszawa@jugendrettet.org)
 * **Weimar**: [Manuel](mailto:Manuel_Weimar@jugendrettet.org)
-* **Wuppertal**: [Natalie](mailto:Natalie_Wuppertal@jugendrettet.org)
 * **Zürich**: [Adrian](mailto:Adrian_Zuerich@jugendrettet.org)
 * **Überlingen**: [Johnny](mailto:Johnny_Ueberlingen@jugendrettet.org)
 '
+
+sub_team_donations_menu='
+Spender_innen
+'
+
+sub_team_donations_title='
+## Spender_innen
+'
+
 sub_team_donations='
 '
+
+sub_team_sponsors_menu='
+Sponsor_innen
+'
+
+sub_team_sponsors_title='
+## Sponsor_innen
+'
+
 sub_team_sponsors='
-* ![Jugendpresse.de](../f/logos/jpd.svg)
-Jugendpresse.de
-* ![Santinis.de](../f/logos/Santini-Logo_sw.svg)
-Santinis.de
-* ![printproduction.de](../f/logos/Logo_Print_Production_2c.svg)
-printproduction.de
-* ![netzwerk-selbsthilfe.de](../f/logos/nwsh.png)
-netzwerk-selbsthilfe.de
-* ![Start with a Friend](../f/logos/start-with-a-friend-logo_klein.jpg)
-Start with a Friend
-* ![Flüchtlinge Willkommen](../f/logos/FW-Logo.svg)
-Flüchtlinge Willkommen
-* ![Druckhaus Griemlich](../f/logos/Logo_Druckhaus_Gremlich.svg)
-Druckhaus Griemlich
-* ![Stage For Peace](../f/logos/Stage_For_Piece.svg)
-Stage For Peace
-* ![Falkun Films](../f/logos/Falkun_Films.svg)
-Falkun Films
-* ![SbE Bundesvereinigung Stressbearbeitung nach belastenden Ereignissen e.V.](../f/logos/sbe.svg)
-SbE Bundesvereinigung Stressbearbeitung nach belastenden Ereignissen e.V.
+* ![Jugendpresse.de](../f/logos/jpd.svg "Jugendpresse.de")
+* ![Santinis.de](../f/logos/Santini-Logo_sw.svg "Santinis.de")
+* ![printproduction.de](../f/logos/Logo_Print_Production_2c.svg "printproduction.de")
+* ![netzwerk-selbsthilfe.de](../f/logos/nwsh.png "netzwerk-selbsthilfe.de")
+* ![Start with a Friend](../f/logos/start-with-a-friend-logo_klein.jpg "Start with a Friend")
+* ![Flüchtlinge Willkommen](../f/logos/FW-Logo.svg "Flüchtlinge Willkommen")
+* ![Druckhaus Griemlich](../f/logos/Logo_Druckhaus_Gremlich.svg "Druckhaus Griemlich")
+* ![Stage For Peace](../f/logos/Stage_For_Piece.svg "Stage For Peace")
+* ![Falkun Films](../f/logos/Falkun_Films.svg "Falkun Films")
+* ![SbE Bundesvereinigung Stressbearbeitung nach belastenden Ereignissen e.V.](../f/logos/sbe.svg "SbE Bundesvereinigung Stressbearbeitung nach belastenden Ereignissen e.V.")
 '
