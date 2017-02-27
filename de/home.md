@@ -216,7 +216,7 @@ news_news_item='
 '
 
 news_archive='
-[ARCHIV](/archiv)
+[ARCHIV](./archive)
 '
 
 news_follow_iuv='
@@ -238,7 +238,7 @@ news_events='
 news_news_mission='
 ### Misson: Umbau
 
-[178 kg Stahl werden geschweisst](/mission)
+[178 kg Stahl werden geschweisst](./mission)
 '
 
 donate_title='
