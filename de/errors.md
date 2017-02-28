@@ -3,7 +3,7 @@ notfound='
 
 Das ist ein Fehler.
 
-Die angefragte URL wurde auf dem Server nciht gefunden.
+Die angefragte URL wurde auf dem Server nicht gefunden.
 '
 
 forbidden='
