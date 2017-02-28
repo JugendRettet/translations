@@ -1,11 +1,26 @@
-about_us_title='
+about_title='
 # Über uns
 '
-about_us_iuventa_title='
+
+about_our_story_menu='
+Chronologie
+'
+
+about_our_story='
+## Chronologie
+'
+
+about_iuventa_menu='
+IUVENTA
+'
+
+about_iuventa_title='
 ## Die IUVENTA
 '
 
-about_us_iuventa='
+about_iuventa='
+*Die Genauigkeit der angegeben Position ist abhängig vom aktuellen Empfang, der während Rettungseinsätzen für einige Zeit auch ausfallen kann.*
+
 Im Mai 2016 konnten wir nach unserer erfolgreichen Crowdfunding-Kampagne und durch die Hilfe unzähliger Unterstützer_innen, die IUVENTA erwerben. In den folgenden 2 Monaten wurde das Schiff umgebaut und nach Malta überführt. Seit Juli 2016 sind die Missionen der IUVENTA Jugend Rettets aktiver Beitrag zur Linderung des Leids im Mittelmeer.
 
 Ursprünglich war die 33m lange Iuventa als Fischereifahrzeug für die rauen Bedingungen der Nordsee konzipiert. Redundante Funktionen können im gesamten Schiff gefunden werden, wie z. B. zwei Hilfsmotoren und die extra robusten Konstruktionselemente des Hauptmotors, die auch unter härtesten Bedingungen einen kontinuierlichen Betrieb gewährleisten.
@@ -16,7 +31,12 @@ Typischerweise für ein Fischereifahrzeug ist das Freibord bemerkenswert niedrig
 
 Bei normalen Rettungseinsätzen liegt die Besatzung zwischen 11 und 13 Personen.
 '
-about_us_transparency='
+
+about_transparency_menu='
+Transparenz
+'
+
+about_transparency='
 ## Transparenz
 
 ![Initiative Transparente Zivilgesellschaft](../f/logos/Transparente_Zivilgesellschaft.svg)

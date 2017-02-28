@@ -1,11 +1,26 @@
-about_us_title='
+about_title='
 # About Us
 '
-about_us_iuventa_title='
+
+about_our_story_menu='
+Chronologie
+'
+
+about_our_story='
+## Chronologie
+'
+
+about_iuventa_menu='
+IUVENTA
+'
+
+about_iuventa_title='
 ## The IUVENTA
 '
 
-about_us_iuventa='
+about_iuventa='
+*The accuracy of the displayed position depends on the current reception of the signal, which can be low while on rescue missions.*
+
 The ship selected to become Jugend Rettet’s active contribution to Maritime Search and Rescue in the Central Mediterranean Sea was acquired in May 2016, converted and refitted by the tremendous effort of many volunteers for her new task and christened IUVENTA.
 
 Originally the 33m long Iuventa was designed as a fishing vessel for the rough and frequently hostile conditions of the North Sea. Redundant features can be found throughout the ship such as two auxiliary engines and design elements of the main engine that ensure continuous operation even in the roughest conditions.
@@ -17,4 +32,12 @@ In normal rescue operations the crew complement is between 11-13 persons.
 Two fast rescue boats (RHIBS) are stored on the main deck which are launched by means of a hydraulic telescopic crane which as replaced for a better model in 2017.
 
 Typically for a fishing vessel the freeboard is remarkably low for handling nets which gives two advantages: first, it allows easy launch and recovery of the two rescue boats; second, rescued boats can be taken alongside and persons embarked quickly in a safe manner.
+'
+
+about_transparency_menu='
+Transparency
+'
+
+about_transparency='
+## Transparency
 '
