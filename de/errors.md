@@ -1,4 +1,4 @@
-404='
+notfound='
 # 404
 
 Das ist ein Fehler.
@@ -6,7 +6,7 @@ Das ist ein Fehler.
 Die angefragte URL wurde auf dem Server nciht gefunden.
 '
 
-403='
+forbidden='
 # 403
 
 Das ist ein Fehler.
