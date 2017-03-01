@@ -59,23 +59,23 @@ intro_title='
 '
 
 intro='
-### DAS BESSERE EUROPA DURCH SEENOTRETTUNG IM MITTELMEER.
+**DAS BESSERE EUROPA DURCH SEENOTRETTUNG IM MITTELMEER.**
 
 MIT DER IUVENTA LEISTEN WIR SEENOTRETTUNG IM MITTELMEER. DAS WOLLEN WIR EIGENTLICH NICHT.
 '
 
 situation='
-## situation
+### situation
 
 **5083 Menschen kamen 2016 ums Leben, als sie versuchten, Europa über das Mittelmeer zu erreichen.**
 '
 
 ideals_title='
-## Unsere Ideale
+### Unsere Ideale
 '
 
 ideals_iuv_title='
-### Die Iuventa
+#### Die Iuventa
 '
 
 ideals_iuv_text='
@@ -87,7 +87,7 @@ ideals_iuv_link='
 '
 
 ideals_proposals_title='
-### Unsere Forderung
+#### Unsere Forderung
 '
 
 ideals_proposals_text='
@@ -189,9 +189,11 @@ rescue_as_ambassador='
 ![Botschafter_in](../f/images/new/rescue_embassies.gif)
 '
 
-faq='
+faq_title='
 ## NOCH FRAGEN?
+'
 
+faq='
 [KLICKE HIER FÜR UNSERE FAQ](/faq)
 '
 
