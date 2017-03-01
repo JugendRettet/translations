@@ -1,3 +1,7 @@
+menu_legal='
+Impressum
+'
+
 legal='
 # Impressum
 
