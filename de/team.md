@@ -11,6 +11,7 @@ sub_team_berlin_title='
 
 sub_team_berlin='
 
+![Berlin](../f/images/index/team/Berlin.jpg)
 '
 
 sub_team_crew_menu='
@@ -23,6 +24,7 @@ sub_team_crew_title='
 
 sub_team_crew='
 
+![Crew](../f/images/new/team_crew.jpg)
 '
 
 sub_team_embassies_menu='
@@ -99,6 +101,7 @@ sub_team_donations_title='
 '
 
 sub_team_donations='
+![Spender_innen](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDqRqY8_hMTd34GQwRg8jJ71F3P83LzUNlSF7XC1BM84YXyBBC)
 '
 
 sub_team_sponsors_menu='
