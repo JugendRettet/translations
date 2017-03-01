@@ -3,7 +3,7 @@ rescue_as='
 
 ## Sponsor_in
 
-[Sponsor_in](../f/images/new/rescue_sponsor.jpg)
+![Sponsor_in](../f/images/new/rescue_sponsor.jpg)
 
 Werde jetzt Sponsor_in und unterstütze unsere Arbeit mit einem monatlichen Betrag. Deine Unterstützung hilft uns dabei unsere Mission im Mittelmeer zu finanzieren und Menschen aus Seenot zu retten.
 
