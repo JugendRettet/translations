@@ -134,7 +134,7 @@ team_title='
 team_donations='
 ### Spender_innen
 
-![Spender_innen](../f/images/new/team_donors.jpg)
+![Spender_innen](../f/images/new/team_donor.jpg)
 '
 
 team_berlin='
