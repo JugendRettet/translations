@@ -134,7 +134,7 @@ team_title='
 team_donations='
 ### Spender_innen
 
-![Spender_innen](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDqRqY8_hMTd34GQwRg8jJ71F3P83LzUNlSF7XC1BM84YXyBBC)
+![Spender_innen](../f/images/new/team_donors.jpg)
 '
 
 team_berlin='
@@ -158,7 +158,7 @@ team_embassies='
 team_sponsors='
 ### Sponsor_innen
 
-![Sponsor_innen](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDqRqY8_hMTd34GQwRg8jJ71F3P83LzUNlSF7XC1BM84YXyBBC)
+![Sponsor_innen](../f/images/new/team_sponsor.jpg)
 '
 
 rescue_as_title='
