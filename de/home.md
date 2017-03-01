@@ -112,19 +112,19 @@ about_us_title='
 about_us_our_story_title='
 ### Our Story
 
-![Our Story](../f/images/index/about_us/OurStory.jpg)
+![Our Story](../f/images/new/about_story.jpg)
 '
 
 about_us_iuv_title='
 ### Die Iuventa
 
-![Die Iuventa](../f/images/index/about_us/IUVENTA.jpg)
+![Die Iuventa](../f/images/new/about_iuventa.jpg)
 '
 
 about_us_transparency_title='
 ### Transparenz
 
-![Transparenz](../f/images/index/about_us/Transparenz.jpg)
+![Transparenz](../f/images/new/about_transparenz.jpg)
 '
 
 team_title='
@@ -140,7 +140,7 @@ team_donations='
 team_berlin='
 ### Berlin
 
-![Berlin](../f/images/index/team/Berlin.jpg)
+![Berlin](../f/images/new/about_berlin.jpg)
 '
 
 team_crew='
