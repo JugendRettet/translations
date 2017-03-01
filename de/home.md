@@ -140,7 +140,7 @@ team_donations='
 team_berlin='
 ### Berlin
 
-![Berlin](../f/images/new/about_berlin.jpg)
+![Berlin](../f/images/new/team_berlin.jpg)
 '
 
 team_crew='
