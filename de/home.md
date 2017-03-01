@@ -212,6 +212,8 @@ news_insta='
 '
 
 news_news_item='
+### News
+
 **14. Oktober:** Mission Unity konnte 148 Menschen retten.
 '
 
