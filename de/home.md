@@ -83,7 +83,7 @@ Mit dem Schiff IUVENTA werden seit dem 24. Juli 2016 Menschen aus Seenot gerette
 '
 
 ideals_iuv_link='
-[FOLGE DER IUVENTA AUF IHREN MISSIONEN...](/iuventa)
+[FOLGE DER IUVENTA AUF IHREN MISSIONEN...](./about#iuventa)
 '
 
 ideals_proposals_title='
@@ -220,7 +220,7 @@ news_archive='
 '
 
 news_follow_iuv='
-[FOLGE DER IUVENTA...](/iuventa)
+[FOLGE DER IUVENTA...](./about#iuventa)
 '
 
 news_press_release='
