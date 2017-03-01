@@ -172,9 +172,9 @@ rescue_as_sponsor='
 '
 
 rescue_as_donator='
-### Spender_innen
+### Spender_in
 
-![Spender_innen](../f/images/new/rescue_donor.jpg)
+![Spender_in](../f/images/new/rescue_donor.jpg)
 '
 
 rescue_as_voluntary='
