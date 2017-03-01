@@ -134,7 +134,7 @@ team_title='
 team_donations='
 ### Spender_innen
 
-![Spender_innen](../f/images/index/team/Berlin.jpg)
+![Spender_innen](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDqRqY8_hMTd34GQwRg8jJ71F3P83LzUNlSF7XC1BM84YXyBBC)
 '
 
 team_berlin='
@@ -146,19 +146,19 @@ team_berlin='
 team_crew='
 ### Crew
 
-![Crew](../f/images/index/team/crew.jpg)
+![Crew](../f/images/new/team_crew.jpg)
 '
 
 team_embassies='
 ### Botschafter_innen
 
-![Botschafter_innen](../f/images/index/team/crew.jpg)
+![Botschafter_innen](../f/images/new/team_embassies.jpg)
 '
 
 team_sponsors='
 ### Sponsor_innen
 
-![Sponsor_innen](../f/images/index/team/crew.jpg)
+![Sponsor_innen](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDqRqY8_hMTd34GQwRg8jJ71F3P83LzUNlSF7XC1BM84YXyBBC)
 '
 
 rescue_as_title='
@@ -168,29 +168,29 @@ rescue_as_title='
 rescue_as_sponsor='
 ### Sponsor_in
 
-![Sponsor_in](../f/images/index/about_us/Transparenz.jpg)
+![Sponsor_in](../f/images/new/rescue_sponsor.jpg)
 '
 
 rescue_as_donator='
 ### Spender_innen
 
-![Spender_innen](../f/images/index/about_us/Transparenz.jpg)
+![Spender_innen](../f/images/new/rescue_donor.jpg)
 '
 
 rescue_as_voluntary='
 ### Freiwillige_r
 
-![Freiwillige_r](../f/images/index/about_us/Transparenz.jpg)
+![Freiwillige_r](../f/images/new/rescue_helper.jpg)
 '
 
 rescue_as_ambassador='
 ### Botschafter_in
 
-![Botschafter_in](../f/images/index/about_us/Transparenz.jpg)
+![Botschafter_in](../f/images/new/rescue_embassies.gif)
 '
 
 faq='
-## NOCH FRAGEN? 
+## NOCH FRAGEN?
 
 [KLICKE HIER FÜR UNSERE FAQ](/faq)
 '
@@ -273,5 +273,5 @@ DE28 1005 0000 0190 4657 43
 **BIC:**  
 BELADEBEXXX  
 **Kreditinstitut:**  
-Berliner Sparkasse 
+Berliner Sparkasse
 '
