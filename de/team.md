@@ -101,7 +101,7 @@ sub_team_donations_title='
 '
 
 sub_team_donations='
-![Spender_innen](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDqRqY8_hMTd34GQwRg8jJ71F3P83LzUNlSF7XC1BM84YXyBBC)
+![Spender_innen](../f/images/new/team_donor.jpg)
 '
 
 sub_team_sponsors_menu='
