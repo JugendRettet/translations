@@ -112,19 +112,19 @@ about_us_title='
 about_us_our_story_title='
 ### Our Story
 
-![Our Story](../f/images/new/about_story.jpg)
+!![Our Story](../f/images/new/about_story.jpg)
 '
 
 about_us_iuv_title='
 ### Die Iuventa
 
-![Die Iuventa](../f/images/new/about_iuventa.jpg)
+!![Die Iuventa](../f/images/new/about_iuventa.jpg)
 '
 
 about_us_transparency_title='
 ### Transparenz
 
-![Transparenz](../f/images/new/about_transparenz.jpg)
+!![Transparenz](../f/images/new/about_transparenz.jpg)
 '
 
 team_title='
@@ -134,31 +134,31 @@ team_title='
 team_donations='
 ### Spender_innen
 
-![Spender_innen](../f/images/new/team_donor.jpg)
+!![Spender_innen](../f/images/new/team_donor.jpg)
 '
 
 team_berlin='
 ### Berlin
 
-![Berlin](../f/images/new/team_berlin.jpg)
+!![Berlin](../f/images/new/team_berlin.jpg)
 '
 
 team_crew='
 ### Crew
 
-![Crew](../f/images/new/team_crew.jpg)
+!![Crew](../f/images/new/team_crew.jpg)
 '
 
 team_embassies='
 ### Botschafter_innen
 
-![Botschafter_innen](../f/images/new/team_embassies.jpg)
+!![Botschafter_innen](../f/images/new/team_embassies.jpg)
 '
 
 team_sponsors='
 ### Sponsor_innen
 
-![Sponsor_innen](../f/images/new/team_sponsor.jpg)
+!![Sponsor_innen](../f/images/new/team_sponsor.jpg)
 '
 
 rescue_as_title='
@@ -168,25 +168,25 @@ rescue_as_title='
 rescue_as_sponsor='
 ### Sponsor_in
 
-![Sponsor_in](../f/images/new/rescue_sponsor.jpg)
+!![Sponsor_in](../f/images/new/rescue_sponsor.jpg)
 '
 
 rescue_as_donator='
 ### Spender_in
 
-![Spender_in](../f/images/new/rescue_donor.jpg)
+!![Spender_in](../f/images/new/rescue_donor.jpg)
 '
 
 rescue_as_voluntary='
 ### Freiwillige_r
 
-![Freiwillige_r](../f/images/new/rescue_helper.jpg)
+!![Freiwillige_r](../f/images/new/rescue_helper.jpg)
 '
 
 rescue_as_ambassador='
 ### Botschafter_in
 
-![Botschafter_in](../f/images/new/rescue_embassies.gif)
+!![Botschafter_in](../f/images/new/rescue_embassies.gif)
 '
 
 faq_title='
