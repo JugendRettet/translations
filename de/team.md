@@ -11,7 +11,7 @@ sub_team_berlin_title='
 
 sub_team_berlin='
 
-![Berlin](../f/images/index/team/Berlin.jpg)
+![Berlin](../f/images/new/team_berlin.jpg)
 '
 
 sub_team_crew_menu='
