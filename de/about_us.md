@@ -9,7 +9,7 @@ Chronologie
 about_our_story='
 ## Chronologie
 
-!![Chronologie](../f/images/index/about_us/OurStory.jpg)
+!![Chronologie](../f/images/new/about_story.jpg)
 '
 
 about_iuventa_menu='
