@@ -9,7 +9,7 @@ Chronologie
 about_our_story='
 ## Chronologie
 
-![Chronologie](../f/images/index/about_us/OurStory.jpg)
+!![Chronologie](../f/images/new/about_story.jpg)
 '
 
 about_iuventa_menu='
@@ -41,7 +41,7 @@ Transparenz
 about_transparency='
 ## Transparenz
 
-![Initiative Transparente Zivilgesellschaft](../f/logos/Transparente_Zivilgesellschaft.svg)
+!![Initiative Transparente Zivilgesellschaft](../f/logos/Transparente_Zivilgesellschaft.svg)
 
 Jugend **Rettet** nimmt seine Aufgaben als vertrauenswürdige und verantwortungsbewusste gemeinnützige Organisation ernst. Transparenz ist uns wichtig. Deshalb haben wir uns der [Initiative Transparente Zivilgesellschaft](http://www.transparente-zivilgesellschaft.de/) angeschlossen. Wir haben uns in diesem Rahmen verpflichtet, die nachstehenden Informationen der Öffentlichkeit auf unserer Webseite zur Verfügung zu stellen und regelmäßig zu updaten.
 
