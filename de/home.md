@@ -68,9 +68,10 @@ Wir klären über die Situation vor Ort auf und suchen gemeinsam nach Lösungen.
 situation='
 ### SITUATION
 
-**Noch nie ertranken so viele Menschen bei ihrer Flucht über die zentrale Mittelmeerroute, wie im vergangenen Jahr. 4579 Mal kam jede Hilfe zu spät. 
+Noch nie ertranken so viele Menschen bei ihrer Flucht über die zentrale Mittelmeerroute, wie im vergangenen Jahr. 4579 Mal kam jede Hilfe zu spät. 
 Wie hoch die Dunkelziffer ist können wir kaum erahnen. 
-Trotzdem übernimmt Europa keine Verantwortung für dieses unbeschreibliche Leid an unseren Außengrenzen. Weiterhin gibt es kein staatliches Seenotrettungsprogramm. Stattdessen sollen die Menschen aufgehalten und in libyschen Lagern gehalten werden. Die Zustände, die dort herrschen, wurden uns von Geflüchteten als menschenunwürdig und grausam beschrieben. **
+Trotzdem übernimmt Europa keine Verantwortung für dieses unbeschreibliche Leid an unseren Außengrenzen. Weiterhin gibt es kein staatliches Seenotrettungsprogramm. Stattdessen sollen die Menschen aufgehalten und in libyschen Lagern gehalten werden. Die Zustände, die dort herrschen, wurden uns von Geflüchteten als menschenunwürdig und grausam beschrieben.
+
 '
 
 ideals_title='
