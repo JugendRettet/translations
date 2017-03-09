@@ -4,7 +4,7 @@ mission='
 
 ## MISSION DE MAIZIÈRE
 
-![Mission De Maizière Wellenhintergrund](../f/files/website/images/new/Missionen_Mission1.png)
+![Mission De Maizière Wellenhintergrund](../f/images/new/Missionen_Mission1.png)
 
 **DIE ERSTE MISSION 2017**
 
