@@ -7,7 +7,7 @@ Nachdem ein Boot in Seenot lokalisiert wurde, entweder durch aktive Suche mit Fe
 Eines der RIBs beginnt dann, Personen an Bord der IUVENTA zu bringen, während das andere immer mit dem Boot in Kontakt bleibt. Bei Gelegenheit bringen die RIBs das Boot längsseits zur IUVENTA zur direkten Einstieg.  
 Einmal an Bord werden die gerettete Personen mit ärztlicher Hilfe und vor allem Trinkwasser und leichter Kost versorgt.  
 Größere NGO oder Schiffe der italienischen Küstenwache bringen unsere geretteten Personen an Land.
-'
+
 ## MISSION DE MAIZIÈRE
 
 **DIE ERSTE MISSION 2017**
@@ -18,5 +18,4 @@ Wir fragen uns: Wenn wir ein Schiff kaufen können, es umbauen und eine professi
 
 Ab sofort werden wir unsere Missionen genau den Menschen widmen, deren Verantwortung wir zur Zeit auf See übernehmen. 
 Unsere erste Mission soll deshalb **Thomas De Maizière** gewidmet werden.
-
 '
