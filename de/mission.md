@@ -4,7 +4,8 @@ mission='
 
 ## MISSION DE MAIZIÈRE
 
-! [Mission De Maizière Wellenhintergrund] (../f/files/website/images/new/Missionen_Mission1.png)
+![Mission De Maizière Wellenhintergrund](../f/files/website/images/new/Missionen_Mission1.png)
+
 **DIE ERSTE MISSION 2017**
 
 Als junge Europäer_innen übernehmen wir den Job von politischen Akteuren, die auf der Basis von europäischen Werten Verantwortung tragen müssten. Doch wir können nicht weiter zuschauen, wie die Verantwortung vor der Festung Europas abgewälzt wird. 
