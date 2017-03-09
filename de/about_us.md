@@ -3,11 +3,11 @@ about_title='
 '
 
 about_our_story_menu='
-Chronologie
+Our Story
 '
 
 about_our_story='
-## Chronologie
+## Our Story
 
 !![Chronologie](../f/images/new/about_story.jpg)
 '
