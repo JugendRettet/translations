@@ -87,7 +87,7 @@ Mit unserem Schiff, der IUVENTA, retten wir seit dem 24. Juli 2016 Menschen aus 
 '
 
 ideals_iuv_link='
-[FOLGE DER IUVENTA AUF IHREN MISSIONEN...](./about#iuventa)
+[FOLGE DER IUVENTA AUF IHREN MISSIONEN...](/iuventa)
 '
 
 ideals_proposals_title='
@@ -230,7 +230,7 @@ news_archive='
 '
 
 news_follow_iuv='
-[FOLGE DER IUVENTA...](./about#iuventa)
+[FOLGE DER IUVENTA...](/iuventa)
 '
 
 news_press_release='
