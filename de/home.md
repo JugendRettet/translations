@@ -236,7 +236,7 @@ news_follow_iuv='
 news_press_release='
 ### Pressemeldung
 
-**10. Oktober:** Im Zeichen der Jugend segelt Andronikos für Jugend Rettet herum.
+**09. März:** Jugend Rettet startet Mission: De Maizière 
 '
 
 news_events='
@@ -246,9 +246,9 @@ news_events='
 '
 
 news_news_mission='
-### Misson: Umbau
+### Misson: De Maizière
 
-[178 kg Stahl werden geschweisst](./mission)
+[Wir übernehmen Verantwortung](./mission)
 '
 
 donate_title='
