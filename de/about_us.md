@@ -1,3 +1,34 @@
+# Menu item on the start page
+index_menu_about_us='
+Über uns
+'
+
+# section on the start page
+
+index_about_us_title='
+## About Us
+'
+
+index_about_us_our_story_title='
+### Our Story
+
+!![Our Story](../f/images/new/about_story.jpg)
+'
+
+index_about_us_iuv_title='
+### Die Iuventa
+
+!![Die Iuventa](../f/images/new/about_iuventa.jpg)
+'
+
+index_about_us_transparency_title='
+### Transparenz
+
+!![Transparenz](../f/images/new/about_transparenz.jpg)
+'
+
+# actual page
+
 about_title='
 # Über uns
 '
