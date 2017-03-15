@@ -10,8 +10,13 @@ sub_team_berlin_title='
 '
 
 sub_team_berlin='
-
 !![Berlin](../f/images/new/team_berlin.jpg)
+
+In Berlin schlägt das Herz unseres Vereins. Hier arbeitet das Kernteam Tag für Tag daran, die Missionen zu planen, den Verein bekannter zu machen und unsere Unterstützer_innen untereinander zu vernetzen.  
+Daneben gibt es auch eine Vielzahl an Menschen, die tagtäglich an der Planung und Organisation beteiligt sind. Egal ob Malta, Köln, oder Madrid - Zusammen schaffen wir es, über nationale Grenzen hinaus ein gemeinsames Projekt zu stemmen.
+
+[Kontakt](./contact)
+[Presse](./press)
 '
 
 sub_team_crew_menu='
@@ -23,8 +28,15 @@ sub_team_crew_title='
 '
 
 sub_team_crew='
-
 !![Crew](../f/images/new/team_crew.jpg)
+
+Bei normalen Rettungseinsätzen liegt die Besatzung zwischen 11 und 13 Personen. Für den laufenden Betrieb des Schiffes sind unsere professionell ausgebildeten Nautiker zuständig. Neben dem Kapitän kümmern sich der erste Offizier, zweite Offizier und zwei Bordingenieure darum, dass die IUVENTA immer sicher von A nach B kommt.  
+Im Rettungseinsatz besetzen jeweils 2 - 3 Crew-Mitglieder unsere beiden Schnellboote, die sich den Booten in Seenot vom Heck aus nähern und Rettungswesten verteilen. Einmal an Bord werden die gerettete Personen von unserem zweiköpfigen Ärzteteam an Bord versorgt.  
+Auf der Brücke der IUVENTA koordiniert der Head of Mission gemeinsam mit dem Kapitän den Ablauf der Rettungseinsätze.  
+Natürlich muss während eines Einsatzes auch Wasser und Essen verteilt werden, das Deck und die Schwimmwesten müssen gewaschen und das Schiff auf Vordermann gehalten werden. Hier gibt es genug Arbeit für alle.  
+Auf Malta kümmert sich außerdem noch ein dreiköpfiges Team um den reibungslosen Ablauf der laufenden Missionen und die Organisation des Camps. 
+
+Unsere gesamte Crew arbeitet ehrenamtlich. Wenn du auch Teil der Crew werden möchtest, erfahre [hier](./crewing) mehr über die einzelnen Positionen.
 '
 
 sub_team_embassies_menu='
@@ -36,6 +48,9 @@ sub_team_embassies_title='
 '
 
 sub_team_embassies='
+Als Botschafter_in diskutierst du aktiv über politische Lösungen und gestaltest unsere Forderungen mit. Werde Teil unseres landesübergreifenden Netzwerkes! Außerdem machst du JUGEND RETTET in deinem Ort bekannt. Egal wo du herkommst, wir freuen uns immer über junge Menschen, die z.B. aktiv in Diskussionen teilnehmen, Vorträge organisieren, Spendenveranstaltungen machen und uns unterstützen.  
+Schaue hier, ob es vielleicht schon ein_e Botschafter_in in deinem Ort gibt, die du unterstützen kannst:
+
 <iframe id="team_emb_map" src="https://www.google.com/maps/d/u/0/embed?mid=1MPGOL2_dmS64Tq5BfVtV7KuU5UY"></iframe>
 
 * **Barcelona**: [Leo](mailto:Leo@jugendrettet.org)
@@ -106,17 +121,23 @@ sub_team_donations_title='
 
 sub_team_donations='
 !![Spender_innen](../f/images/new/team_donor.jpg)
+
+Der Vielzahl an einzelnen Menschen haben wir es zu verdanken, dass wir letztes Jahr über 6500 Menschen retten konnten. Jede Spende hilft uns auc,h weiterhin Missionen umzusetzen und damit das zu tun, was nötig ist, um das Sterben zu beenden.  
+Wir sehen Spender_innen als Teil unseres Netzwerkes an, egal ob durch Zeitspenden, wenn wir Hilfe brauchen, Sachspenden für unsere Ausstattung oder durch finanzielle Unterstützung - Jede_r Einzelne hilft uns das Projekt umzusetzen. 
 '
 
 sub_team_sponsors_menu='
-Sponsor_innen
+Unterstützer_innen
 '
 
 sub_team_sponsors_title='
-## Sponsor_innen
+## Unterstützer_innen
 '
 
 sub_team_sponsors='
+Eine kleine Liste unserer Unterstützer_innen findet ihr hier. Wir danken jedem einzelnen für die gute Zusammenarbeit! 
+Wenn du uns auch mit Sachspenden oder ähnlichen Unterstützen möchtest, schreibe eine Mail an [Sponsor@jugendrettet.org](mailto:Sponsor@jugendrettet.org).
+
 * ![Jugendpresse.de](../f/logos/jpd.svg "Jugendpresse.de")
 * ![Santinis.de](../f/logos/Santini-Logo_sw.svg "Santinis.de")
 * ![printproduction.de](../f/logos/Logo_Print_Production_2c.svg "printproduction.de")
