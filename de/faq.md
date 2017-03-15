@@ -81,7 +81,9 @@ Wir zeigen durch das Projekt, dass junge Leute auch ohne großen Dachverband im 
 Das Mittelmeer ist zum Symbol der europäischen Abschottungspolitik geworden: Obwohl täglich Menschen auf dem Mittelmeer in Not geraten, gibt es kein staatliches Rettungsprogramm. Der Fokus liegt stattdessen auf der Grenzsicherung und dem Aufdecken der Schleppernetzwerke. Unser Schiff ist ein klares Zeichen gegen die europäische Gleichgültigkeit gegenüber dem Sterben auf dem Mittelmeer. Das Recht auf Leben und Sicherheit gilt für alle, überall.
 
 - - -
+'
 
+sub_faq_footnotes='
 ###### 1
 
 Eine wörtlichere Übersetzung würde von "der Gefahr auf See verloren oder verschollen zu gehen" sprechen.
@@ -104,7 +106,7 @@ Vgl. Pro Asyl: Europas Schande: „Triton“ und „Mare Nostrum“ im Vergleich
 
 ###### 6
 
-Vgl. Frontex: Legal Basis, unter: <http://frontex.europa.eu/about-frontex/legal-basis/> (Stand: 15.09.15).
+Vgl. Frontex: Legal Basis, unter: <http://frontex.europa.eu/about-frontex/legal-basis/> (Stand: 15.09.15).  
 Vgl. Frontex: Mission and Tasks, unter: <http://frontex.europa.eu/about-frontex/mission-and-tasks/> (Stand: 15.09.15).
 
 ###### 7
