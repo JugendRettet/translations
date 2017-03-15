@@ -41,6 +41,62 @@ about_our_story='
 ## Our Story
 
 !![Chronologie](../f/images/new/about_story.jpg)
+
+Schon von Anfang an wussten wir, dass es nicht immer einfach wird. Mit der Zeit haben wir von der Hilfe und Erfahrung anderer profitiert und uns und damit den Verein selbst weiter entwickelt.  
+Hier seht ihr unsere Meilensteine:  
+
+### 2015
+
+* **Mitte Mai**  
+Tägliche Meldungen über Tote im Mittelmeer. Die Idee, JUGEND RETTET zu gründen, entsteht. Erste Kontakte werden aufgebaut.
+* **Juli**  
+Bildung des Kernteams in Berlin und Aufbau eines Botschafternetzwerks in Deutschland. Festlegung auf den holländischen Fischtrawler als geeignetes Schiff für die Ziele der Organisation.
+* **3. Oktober**  
+Gründung des Vereins JUGEND RETTET e.V., Eintragung ins Vereinsregister.
+* **November**  
+Start der Spendenphase zum Schiffserwerb.
+* **2. Dezember**  
+Erster Schulbesuch von JUGEND RETTET und Beginn von Schulkooperationen.
+
+### 2016
+
+* **8. März**  
+Mitglied der Initiative Transparente Zivilgesellschaft (ITZ). 
+* **Mitte April**  
+Das Kaufangebot für das Schiff geht raus.
+* **19. Mai**  
+Unterzeichnung des Kaufvertrags.
+* **9. Juni**  
+Start der Umbauarbeiten.
+* **24. Juni**  
+Schiffstaufe auf den Namen IUVENTA.
+* **30. Juni**  
+Die IUVENTA verlässt Emden. Nächster Halt Malta, um von dort noch im Juli mit den Rettungen zu beginnen.
+* **17. Juli**  
+Die IUVENTA erreicht Maltal.
+* **24. Juli**  
+Die IUVENTA verlässt Malta für ihre erste Rettungsmission unterdem Namen Solidarity und rettet 1388 Menschen.
+* **12. August**  
+Mission Equality startet und es können 140 Menschen gerettet werden.
+* **1. September**  
+Die Crew startet die Mission Responsibility und rettet 1454 Menschen.
+* **16. September**  
+Start der Rettungsmission Humanity , bei der 131 Menschen gerettet werden.
+* **4. Oktober**  
+In der Mission Unity ist JUGEND RETTET an der Rettung von 423 Menschen beteiligt.
+* **21. Oktober**  
+In der Mission Dignity konnte die Crew 2733 Menschen aus Seenot retten.
+* **11. November**  
+Mission Diversity rettet 393 Menschen aus Seenot.
+* **Winter**  
+Planung der nächsten Missionen
+
+### 2017
+
+* **Ende März**  
+Umbau der IUVENTA.
+* **9. März**  
+Start der Mission: De Maiziere.
 '
 
 about_iuventa_menu='
