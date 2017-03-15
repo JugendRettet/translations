@@ -12,13 +12,14 @@ Werde jetzt Sponsor_in und unterstütze unsere Arbeit mit einem monatlichen Betr
 !![Spender_in](../f/images/new/rescue_donor.jpg)
 
 Mit deiner Spende sorgst du dafür, dass wir mit unserem Schiff im zentralen Mittelmeer weiterhin Menschen aus Seenot retten können.
+
 [Spenden](./#donate)
 
 ## Freiwillige_r
 
 !![Freiwillige_r](../f/images/new/rescue_helper.jpg)
 
-Wir sind immer auf der Suche nach qualifizierten Personen, die unsere Rettungsmission im Mittelmeer unterstützen. Mehr Informationen zu den Anforderungen und wie du dich bewerben kannst findest du [hier](./crewing).
+Wir sind immer auf der Suche nach qualifizierten Personen, die unsere Rettungsmission im Mittelmeer unterstützen. Mehr Informationen zu den Anforderungen und wie du dich bewerben kannst, findest du [hier](./crewing).
 
 ## Botschafter_in
 

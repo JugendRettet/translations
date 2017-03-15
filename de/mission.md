@@ -11,8 +11,8 @@ Größere NGO oder Schiffe der italienischen Küstenwache bringen unsere gerette
 ## MISSION DE MAIZIÈRE
 
 **DIE ERSTE MISSION 2017**
-Als junge Europäer_innen übernehmen wir den Job von politischen Akteuren, die auf der Basis von europäischen Werten Verantwortung tragen müssten. Doch wir können nicht weiter zuschauen, wie die Verantwortung vor der Festung Europas abgewälzt wird. 
-Wir investieren ehrenamtlich die Zeit und Energie, um für unser Europa einzustehen. Und wenn Menschen an unsere Grenzen sterben gibt es für uns nur eine Lösung: Man rettet sie.
+Als junge Europäer_innen übernehmen wir den Job von politischen Akteuren, die auf der Basis von europäischen Werten Verantwortung tragen müssten. Doch wir können nicht weiter zuschauen, wie die Verantwortung vor der Festung Europas abgewälzt wird.  
+Wir investieren ehrenamtlich die Zeit und Energie, um für unser Europa einzustehen. Und wenn Menschen an unsere Grenzen sterben, gibt es für uns nur eine Lösung: Man rettet sie.
 
 Wir fragen uns: Wenn wir ein Schiff kaufen können, es umbauen und eine professionelle Crew organisieren um Menschen aus Seenot retten - warum können politische Entscheidungsträger uns diese Aufgabe nicht abnehmen?
 
