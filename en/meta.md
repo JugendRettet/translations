@@ -1,7 +1,7 @@
 lang='
-de
+en
 '
 
 lang_long='
-de_DE
+en_US
 '
