@@ -36,7 +36,7 @@ index_team_embassies='
 index_team_sponsors='
 ### Sponsor_innen
 
-!![Sponsor_innen](../f/images/new/team_sponsor.jpg)
+!![Sponsor_innen](../f/images/new/team_sponsor_.jpg)
 '
 
 
