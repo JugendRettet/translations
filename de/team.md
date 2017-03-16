@@ -166,7 +166,7 @@ sub_team_donations_title='
 sub_team_donations='
 !![Spender_innen](../f/images/new/team_donor.jpg)
 
-Der Vielzahl an einzelnen Menschen haben wir es zu verdanken, dass wir letztes Jahr über 6500 Menschen retten konnten. Jede Spende hilft uns auc,h weiterhin Missionen umzusetzen und damit das zu tun, was nötig ist, um das Sterben zu beenden.  
+Der Vielzahl an einzelnen Menschen haben wir es zu verdanken, dass wir letztes Jahr über 6500 Menschen retten konnten. Jede Spende hilft uns auch weiterhin Missionen umzusetzen und damit das zu tun, was nötig ist, um das Sterben zu beenden.  
 Wir sehen Spender_innen als Teil unseres Netzwerkes an, egal ob durch Zeitspenden, wenn wir Hilfe brauchen, Sachspenden für unsere Ausstattung oder durch finanzielle Unterstützung - Jede_r Einzelne hilft uns das Projekt umzusetzen. 
 '
 
