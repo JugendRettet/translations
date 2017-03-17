@@ -11,7 +11,7 @@ index_faq_title='
 '
 
 index_faq='
-[KLICKE HIER FÜR UNSERE FAQ](/faq)
+[KLICKE HIER FÜR UNSERE FAQ](./faq)
 '
 
 
