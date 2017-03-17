@@ -17,9 +17,11 @@ index_faq='
 
 # actual page
 
-sub_faq='
+sub_faq_title='
 # FAQ
+'
 
+sub_faq='
 Häufig gestellte Fragen:
 
 <!--TOC-->
