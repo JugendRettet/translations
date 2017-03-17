@@ -1,6 +1,12 @@
-crewing='
-# Crewing
+crewing_menu='
+Crewing
+'
 
+crewing_title='
+# Crewing
+'
+
+crewing='
 Du willst als Crewmitglied die Rettung auf dem Mittelmeer durchführen?
 
 Ab März wird die Iuventa wieder vor der libyschen Küste im Einsatz sein. Um die geplanten Missionen auch wirklich erfolgreich durchführen zu können, brauchen wir Deine Hilfe!
