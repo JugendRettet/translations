@@ -12,9 +12,7 @@ Jetzt Spenden für „Rette mit! Spende für Rettungseinsätze auf dem Mittelmee
 '
 
 donate_calc_text='
-Ich spende: 50 €
-
-Mit 50 € operiert die IUVENTA ung. 1 Stunde im Mittelmeer. Jede Sekunde kann Leben retten.
+Der Vielzahl an einzelnen Menschen haben wir es zu verdanken, dass wir letztes Jahr über 6500 Menschen retten konnten. Jede Spende hilft uns auch weiterhin Missionen umzusetzen und damit das zu tun, was nötig ist, um das Sterben zu beenden.  
 '
 
 donate_merch_link='

@@ -13,7 +13,7 @@ index_rescue_as_title='
 index_rescue_as_sponsor='
 ### Sponsor_in
 
-!![Sponsor_in](../f/images/new/rescue_sponsor.jpg)
+!![Sponsor_in](../f/images/new/rescue_sponsor_.jpg)
 '
 
 index_rescue_as_donator='
@@ -25,13 +25,13 @@ index_rescue_as_donator='
 index_rescue_as_voluntary='
 ### Freiwillige_r
 
-!![Freiwillige_r](../f/images/new/rescue_helper.jpg)
+!![Freiwillige_r](../f/images/new/rescue_help.jpg)
 '
 
 index_rescue_as_ambassador='
 ### Botschafter_in
 
-!![Botschafter_in](../f/images/new/rescue_embassies.gif)
+!![Botschafter_in](../f/images/new/rescue_embassie.jpg)
 '
 
 
@@ -48,7 +48,7 @@ Sponsor_in
 rescue_as_sponsor='
 ## Sponsor_in
 
-!![Sponsor_in](../f/images/new/rescue_sponsor.jpg)
+!![Sponsor_in](../f/images/new/rescue_sponsor_.jpg)
 
 Werde jetzt Sponsor_in und unterstütze unsere Arbeit mit einem monatlichen Betrag. Deine Unterstützung hilft uns dabei unsere Mission im Mittelmeer zu finanzieren und Menschen aus Seenot zu retten.
 '
@@ -74,7 +74,7 @@ Freiwillige_r
 rescue_as_helper='
 ## Freiwillige_r
 
-!![Freiwillige_r](../f/images/new/rescue_helper.jpg)
+!![Freiwillige_r](../f/images/new/rescue_help.jpg)
 
 Wir sind immer auf der Suche nach qualifizierten Personen, die unsere Rettungsmission im Mittelmeer unterstützen. Mehr Informationen zu den Anforderungen und wie du dich bewerben kannst, findest du [hier](./crewing).
 '
@@ -86,7 +86,7 @@ Botschafter_in
 rescue_as_ambassador='
 ## Botschafter_in
 
-!![Botschafter_in](../f/images/new/rescue_embassies.gif)
+!![Botschafter_in](../f/images/new/rescue_embassie.jpg)
 
 Werde offizielle_r Repräsentant_in unserer Organisation bei dir vor Ort. Organisiere Spendenaktionen und -events, Informationsveranstaltungen und mache Öffentlichkeitsarbeit für unseren Verein. Wir statten dich dafür mit den notwendigen Materialien aus und sind selbstverständlich immer für Fragen ansprechbar. Du kannst in deiner Arbeit als Botschafter_in selbstverständlich selbst kreativ werden und eigene Ideen mit einbringen. Zudem kannst du dich in unserem Forum an den politischen Diskussionen zum Thema Asyl beteiligen.
 Interessiert? Dann schreib einfach eine Mail an [botschaftenAG@jugendrettet.org](mailto:botschaftenAG@jugendrettet.org)
