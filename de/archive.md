@@ -1,5 +1,16 @@
-archive='
+archive_menu='
+Archiv
+'
+
+archive_title='
 # Archiv
+'
+archive_2016_menu='
+2016
+'
+
+archive_2016='
+## 2016
 
 #### **12. Dezember** Neue Pullis, Zipper, Beanies und Shirts
 
@@ -1129,6 +1140,14 @@ Die Aachener Nachrichten haben unser Team vor Ort besucht und über uns geschrie
 #### **04. Januar 2016** Bericht im K50 - Magazin für Köln und Region
 
 Im K50 - Magazin für Köln und Region ist ein kleiner Bericht über uns erschienen. Wenn ihr bei uns dabei sein wollt, dann meldet euch bei unserem Kölner Botschafter <a href="mailto:carlo@jugendrettet.org">Carlo</a>.
+'
+
+archive_2015_menu='
+2015
+'
+
+archive_2015='
+## 2015
 
 #### **17. Dezember** Offenes Treffen in Aachen und Filmvorstellung Asyland in Bonn
 

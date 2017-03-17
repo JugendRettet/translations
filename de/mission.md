@@ -1,7 +1,16 @@
-mission='
+mission_menu='
+Mission
+'
+
+mission_title='
 # Mission
+'
 
+mission_current_menu='
+De Maizière
+'
 
+mission_current='
 ## MISSION DE MAIZIÈRE
 
 ![Mission De Maizière Wellenhintergrund](../f/images/new/Missionen_Mission1.png)
@@ -15,8 +24,13 @@ Wir fragen uns: Wenn wir ein Schiff kaufen können, es umbauen und eine professi
 
 Ab sofort werden wir unsere Missionen genau den Menschen widmen, deren Verantwortung wir zur Zeit auf See übernehmen. 
 Unsere erste Mission soll deshalb **Thomas De Maizière** gewidmet werden.
+'
 
+mission_procedure_menu='
+Ablauf
+'
 
+mission_procedure='
 ## Ablauf einer Mission
 
 Nachdem ein Boot in Seenot lokalisiert wurde, entweder durch aktive Suche mit Fernglas und Radargerät, oder durch das Rettungskoordinationszentrum (MRCC) in Rom, bleibt die IUVENTA in angemessener Entfernung vom Boot in Seenot. Währenddessen nähern sich die RIBs (Rigid Inflatable Boat)  dem Boot vom Heck aus und verteilen die Rettungswesten.  
