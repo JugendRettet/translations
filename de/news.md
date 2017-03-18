@@ -8,7 +8,7 @@ news_title='
 '
 
 news_follow_us='
-FOLGE UNS...
+NEWSLETTER ABONNIEREN
 '
 
 news_news_item='
