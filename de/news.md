@@ -14,7 +14,7 @@ FOLGE UNS...
 news_news_item='
 ### News
 
-**14. Oktober:** Mission De Maizière konnte 110 Menschen retten.
+**16. Oktober:** Mission De Maizière wurde beendet und konnte 110 Menschen retten.
 '
 
 news_press_release='
