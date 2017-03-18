@@ -10,9 +10,9 @@ index_about_us_title='
 '
 
 index_about_us_our_story_title='
-### Our Story
+### Entwicklung
 
-!![Our Story](../f/images/new/about_story.jpg)
+!![Entwicklung](../f/images/new/about_story.jpg)
 '
 
 index_about_us_iuv_title='
@@ -34,11 +34,11 @@ about_title='
 '
 
 about_our_story_menu='
-Our Story
+Entwicklung
 '
 
 about_our_story='
-## Our Story
+## Entwicklung
 
 !![Chronologie](../f/images/new/about_story.jpg)
 
