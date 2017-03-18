@@ -20,7 +20,7 @@ news_news_item='
 news_press_release='
 ### Pressemeldung
 
-**09. März:** Jugend Rettet startet Mission: De Maizière 
+[**09. März:** Jugend Rettet startet Mission: De Maizière](../f/files/Pressemitteilung.pdf) 
 '
 
 news_events='
