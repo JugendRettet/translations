@@ -68,7 +68,8 @@ Wenn Sie eine Seite unseres Webauftritts aufrufen, die ein solches Plugin enthä
 Sind Sie bei einem der Dienste eingeloggt, können die Anbieter den Besuch unserer Website Ihrem Profil auf Facebook, Google+, Twitter bzw. Instagram unmittelbar zuordnen. Wenn Sie mit den Plugins interagieren, zum Beispiel den „Gefällt mir“-, den „Twittern“- bzw. den „Instagram“-Button betätigen, wird die entsprechende Information ebenfalls direkt an einen Server der Anbieter übermittelt und dort gespeichert. Die Informationen werden außerdem in dem sozialen Netzwerk, auf Ihrem Twitter- bzw. Instagram-Account veröffentlicht und dort Ihren Kontakten angezeigt.  
 Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch die Anbieter sowie Ihre diesbezüglichen Rechte und Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen Sie bitte den Datenschutzhinweisen der Anbieter.  
 
-Datenschutzhinweise von Facebook: <http://www.facebook.com/policy.php Datenschutzhinweise Datenschutzhinweise von Twitter: https://twitter.com/privacy>  
+Datenschutzhinweise von Facebook: <http://www.facebook.com/policy.php>  
+Datenschutzhinweise Datenschutzhinweise von Twitter: <https://twitter.com/privacy>  
 Datenschutzhinweise von Instagram <https://help.instagram.com/155833707900388/>  
 
 Wenn Sie nicht möchten, dass Google, Facebook, Twitter oder Instagram die über unseren Webauftritt gesammelten Daten unmittelbar Ihrem Profil in dem jeweiligen Dienst zuordnen, müssen Sie sich vor Ihrem Besuch unserer Website bei dem entsprechenden Dienst ausloggen. Sie können das Laden der Plugins auch mit Add-Ons für Ihren Browser komplett verhindern, z. B. mit dem Skript-Blocker „NoScript“ (<http://noscript.net/>).
