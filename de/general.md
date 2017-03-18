@@ -5,7 +5,8 @@ Jugend Rettet
 
 # Description of the whole page (e.g. to be seen on link preview cards)
 description='
-Wir sind eine Organisation von jungen Erwachsenen für junge Erwachsene. Mithilfe von Spendengeldern und unserem Schiff - der Iuventa - betreiben wir private Seenotrettung auf dem Mittelmeer.
+Wir sind eine Organisation junger Menschen, die mithilfe von Spenden ehrenamtlich Seenotrettung betreiben. Mit unserem Schiff, der IUVENTA, retten wir Menschen aus Seenot im Mittelmeer.
+Unterstütze uns jetzt und rette mit!
 '
 
 logo='
