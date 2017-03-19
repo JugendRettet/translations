@@ -48,15 +48,15 @@ Hier seht ihr unsere Meilensteine:
 ### 2015
 
 * **Mitte Mai**  
-Tägliche Meldungen über Tote im Mittelmeer. Die Idee, JUGEND RETTET zu gründen, entsteht. Erste Kontakte werden aufgebaut.
+Tägliche Meldungen über Tote im Mittelmeer. Die Idee, JUGEND **RETTET** zu gründen, entsteht. Erste Kontakte werden aufgebaut.
 * **Juli**  
 Bildung des Kernteams in Berlin und Aufbau eines Botschafternetzwerks in Deutschland. Festlegung auf den holländischen Fischtrawler als geeignetes Schiff für die Ziele der Organisation.
 * **3. Oktober**  
-Gründung des Vereins JUGEND RETTET e.V., Eintragung ins Vereinsregister.
+Gründung des Vereins JUGEND **RETTET** e.V., Eintragung ins Vereinsregister.
 * **November**  
 Start der Spendenphase zum Schiffserwerb.
 * **2. Dezember**  
-Erster Schulbesuch von JUGEND RETTET und Beginn von Schulkooperationen.
+Erster Schulbesuch von JUGEND **RETTET** und Beginn von Schulkooperationen.
 
 ### 2016
 
@@ -83,7 +83,7 @@ Die Crew startet die Mission Responsibility und rettet 1454 Menschen.
 * **16. September**  
 Start der Rettungsmission Humanity , bei der 131 Menschen gerettet werden.
 * **4. Oktober**  
-In der Mission Unity ist JUGEND RETTET an der Rettung von 423 Menschen beteiligt.
+In der Mission Unity ist JUGEND **RETTET** an der Rettung von 423 Menschen beteiligt.
 * **21. Oktober**  
 In der Mission Dignity konnte die Crew 2733 Menschen aus Seenot retten.
 * **11. November**  
@@ -110,7 +110,7 @@ about_iuventa_title='
 about_iuventa='
 *Die Genauigkeit der angegeben Position ist abhängig vom aktuellen Empfang, der während Rettungseinsätzen für einige Zeit auch ausfallen kann.*
 
-Im Mai 2016 konnten wir nach unserer erfolgreichen Crowdfunding-Kampagne und durch die Hilfe unzähliger Unterstützer_innen die IUVENTA erwerben. In den folgenden 2 Monaten wurde das Schiff umgebaut und nach Malta überführt. Seit Juli 2016 sind die Missionen der IUVENTA Jugend Rettets aktiver Beitrag zur Linderung des Leids im Mittelmeer.
+Im Mai 2016 konnten wir nach unserer erfolgreichen Crowdfunding-Kampagne und durch die Hilfe unzähliger Unterstützer_innen die IUVENTA erwerben. In den folgenden 2 Monaten wurde das Schiff umgebaut und nach Malta überführt. Seit Juli 2016 sind die Missionen der IUVENTA JUGEND **RETTET**s aktiver Beitrag zur Linderung des Leids im Mittelmeer.
 
 Ursprünglich war die 33m lange Iuventa als Fischereifahrzeug für die rauen Bedingungen der Nordsee konzipiert. Redundante Funktionen können im gesamten Schiff gefunden werden, wie z. B. zwei Hilfsmotoren und die extra robusten Konstruktionselemente des Hauptmotors, die auch unter härtesten Bedingungen einen kontinuierlichen Betrieb gewährleisten.
 
@@ -171,7 +171,7 @@ Eine Übersicht über die Tätigkeiten des Vereins finden Sie in unserem [Jahres
 
 Alle an JUGEND **RETTET** beteiligten Personen, wie auch alle Berater_innen arbeiten ausschließlich auf ehrenamtlicher Basis. Unser Team besteht aus überwiegend jungen Menschen, deren Motivation für das Projekt auf das Retten auf einer Verbesserung der humanitären Lage im Mittelmeer basiert.
 
-Das Jugend Rettet Kernteam in Berlin besteht aus 9 Leuten. Deutschlandweit engagieren sich derzeit 60 Personen an unserer Arbeit.
+Das JUGEND **RETTET** Kernteam in Berlin besteht aus 9 Leuten. Deutschlandweit engagieren sich derzeit 60 Personen an unserer Arbeit.
 
 ### 7./8. ANGABEN ZUR MITTELHERKUNFT- UND VERWENDUNG
 

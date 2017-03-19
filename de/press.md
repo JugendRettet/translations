@@ -7,7 +7,7 @@ press='
 # Presse
 
 Isabel Grahn & Pauline Schmidt  
-Leitung Pressestelle Jugend Rettet e.V.
+Leitung Pressestelle JUGEND **RETTET** e.V.
 
 Postfach 36 03 55  
 D- 10973 Berlin

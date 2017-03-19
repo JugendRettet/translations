@@ -5,6 +5,15 @@ Archiv
 archive_title='
 # Archiv
 '
+
+archive_2017_menu='
+2017
+'
+
+archive_2017='
+## 2017
+'
+
 archive_2016_menu='
 2016
 '
@@ -46,7 +55,7 @@ Die IUVENTA hat ihr Winterlager in Kroatien erreicht. Dort wird sie im Februar n
 #### **23. November** 6.526 Leben mit sieben Missionen gerettet
 
 Mit Mission Diversity geht die letzte Mission für dieses Jahr zuende. Sieben Mission konnten wir 2016 fahren. Vielen, vielen Dank an dieser Stelle an alle sieben Crews. Ihr habt unsere theoretischen Überlegungen erst möglich gemacht und 6.526 Leben gerettet.
-Außerdem möchten wir an dieser Stelle auch allen anderen danken, die es ermöglicht haben, dass die Iuventa heute ein Rettungsschiff ist: unseren zahlreichen Spender_innen, allen Umbauhelfer_innen und auch unseren Botschafter_innen, die nicht nur dafür sorgen, dass Jugend Rettet bekannter wird, sondern auch unfassbar viele Spenden sammelten. Jugend Rettet war von Anfang an eine Mitmachorganisation und wir sind sehr dankbar und stolz auf das, was wir gemeinsam geschafft haben. DANKE!
+Außerdem möchten wir an dieser Stelle auch allen anderen danken, die es ermöglicht haben, dass die Iuventa heute ein Rettungsschiff ist: unseren zahlreichen Spender_innen, allen Umbauhelfer_innen und auch unseren Botschafter_innen, die nicht nur dafür sorgen, dass JUGEND **RETTET** bekannter wird, sondern auch unfassbar viele Spenden sammelten. Jugend Rettet war von Anfang an eine Mitmachorganisation und wir sind sehr dankbar und stolz auf das, was wir gemeinsam geschafft haben. DANKE!
 
 
 #### **23. November** Mission Diversity abgeschlossen
@@ -160,7 +169,7 @@ Liebe Berliner, wir erwarten euch nächsten Samstag im Loophole Berlin, denn Til
 
 #### **28. Oktober** Benefizumsegelung der Insel Lesbos durch einen fünfzehnjährigen
 
-Andronicus, 15, wird am 28. Oktober eine Benefizumsegelung um seine Heimatinsel Lesbos starten, um Spendengelder für Jugend Rettet zu sammeln und für das Thema zu Flucht sensibilisieren. „Mit meiner Umsegelung möchte ich Jugend Rettet helfen, ihre Missionen erfolgreich weiterzuführen, denn jeder Mensch, der in Seenot geraten ist, muss gerettet werden. Jeder von uns kann dies auf seine Weise durch Aktionen wie diese oder durch Spenden unterstützen. Jugend Rettet zeigt das in einer Weise, die mich tief beeindruckt hat und die für mich lebenslang ein Vorbild sein wird.“, erklärt Andronikos.
+Andronicus, 15, wird am 28. Oktober eine Benefizumsegelung um seine Heimatinsel Lesbos starten, um Spendengelder für JUGEND **RETTET** zu sammeln und für das Thema zu Flucht sensibilisieren. „Mit meiner Umsegelung möchte ich Jugend Rettet helfen, ihre Missionen erfolgreich weiterzuführen, denn jeder Mensch, der in Seenot geraten ist, muss gerettet werden. Jeder von uns kann dies auf seine Weise durch Aktionen wie diese oder durch Spenden unterstützen. Jugend Rettet zeigt das in einer Weise, die mich tief beeindruckt hat und die für mich lebenslang ein Vorbild sein wird.“, erklärt Andronikos.
 
 
 #### **27. Oktober** Weitere Rettungseinsätze
@@ -175,7 +184,7 @@ Nur 2h nachdem der Einsatz abgeschlossen war und die Gäste für den Transport a
 Journalist Lukas hat unsere Mission Equality begleitet. <a href="http://www.jetzt.de/fluechtlinge/vor-der-kueste-libyens?utm_source=whatsapp&utm_medium=whatsbroadcast&utm_campaign=sz_jetzt" target="_blank">Hier geht es zu seinen Eindrücken</a>.
 
 
-#### **25. Oktober** Jugend Rettet im Süddeutsche Magazin
+#### **25. Oktober** JUGEND **RETTET** im Süddeutsche Magazin
 
 César Dezfuli, Fotojournalist aus Madrid, hat unsere Crew auf der ersten Rettungsmission der IUVENTA begleitet. In den zwei gemeinsamen Wochen lernte er unsere Crew und viele Geflüchtete kennen. Seine Eindrücke beschriebt er <a href="http://sz-magazin.sueddeutsche.de/texte/anzeigen/45149/Ich-wollte-verstehen-wer-sie-sind" target="_blank">hier im Gespräch mit dem Süddeutsche Zeitung Magazin</a>.
 
@@ -195,7 +204,7 @@ Titus und Jule sind von 22:00 - 24:00 Uhr bei <a href="http://www.fritz.de/progr
 Am 28. Oktober startet der 15-jährige Andronikus eine Benefizumsegelung um seine Heimatinsel Lesbos. <a href="http://www.taz.de/!5347553/" target="_blank">Mehr erfahrt ihr hier</a>.
 
 
-#### **22. Oktober** Jugend Rettet im ZDF Länderspiegel
+#### **22. Oktober** JUGEND **RETTET** im ZDF Länderspiegel
 
 Gestern lief im ZDF Länderspiegel ein abschließender Beitrag (<a href="http://www.zdf.de/ZDFmediathek/beitrag/video/2863666/Jugend-rettet-auf-dem-Mittelmeer#/beitrag/video/2863666/Jugend-rettet-auf-dem-Mittelmeer" target="_blank">Link</a>) über Mission Unity mit Eindrücken und Beweggründen der Crew, Team Berlin und den Geflüchteten selbst.
 
@@ -237,7 +246,7 @@ Im gestrigen Heute-journal lief ein <a href="http://www.zdf.de/ZDFmediathek/beit
 Reporter Carsten Behrendt begleitet unsere derzeitige Crew der Mission Unity. Er berichtet von seinen Eindrücken an Bord und interviewt Crew, sowie Geflüchtete: <a href="http://www.zdf.de/ZDFmediathek#/beitrag/video/2855598/Flüchtlinge:-Einsatz-auf-der-Iuventa" target="_blank">Mediathek-Link</a>.
 
 
-#### **11. Oktober** Jugend Rettet im ZDF Morgenmagazin
+#### **11. Oktober** JUGEND **RETTET** im ZDF Morgenmagazin
 
 Lena und Jakob sind zum zweiten Mal zu Gast im MoMa. Das Interview könnt ihr euch hier nochmal anschauen: <a href="http://www.zdf.de/ZDFmediathek/beitrag/video/2855726/Fluechtlinge-Staat-muss-aktiv-werden?bc=kua884718&ipad=true#/beitrag/video/2855726/Fluechtlinge-Staat-muss-aktiv-werden" target="_blank">Mediathek-Link</a>.
 
@@ -275,7 +284,7 @@ Auf unserer letzten Mission, Mission Humanity, hatten wir Zohra Bensemra von Reu
 
 
 
-#### **3. Oktober** Jugend Rettet bei @meinengagement
+#### **3. Oktober** JUGEND **RETTET** bei @meinengagement
 
 
 Wir übernehmen diese Woche den Twitter Account von mein_engagement! <a href="https://twitter.com/meinengagement" target="_blank">Folgt uns!</a>
@@ -289,7 +298,7 @@ Unsere Crew der Mission Humanity ist sicher zurück auf Malta. Wir danken euch f
 
 
 
-#### **25. September** Jugend Rettet im ARD Europamagazin
+#### **25. September** JUGEND **RETTET** im ARD Europamagazin
 
 
 Die Crew der Mission Responsibility wurde während ihrer Operation auf dem Mittelmeer begleitet. Den ganzen Beitrag könnt ihr euch hier ansehen: <a href="http://bit.ly/jr_ard" target="_blank">bit.ly/jr_ard</a>
@@ -315,7 +324,7 @@ Am späten Nachmittag konnten alle Gäste wohlbehalten an Save the Children übe
 #### **19. September** Deutsch-Japanischer Austausch
 
 
-Lena, Alex und Sonja hielten im Rahmen des Deutsch-Japanischer Austausches in Berlin einen Vortrag über Jugend Rettet e.V. und die Rettungsmissionen.
+Lena, Alex und Sonja hielten im Rahmen des Deutsch-Japanischer Austausches in Berlin einen Vortrag über JUGEND **RETTET** e.V. und die Rettungsmissionen.
 
 
 
@@ -374,14 +383,14 @@ Unsere der Crew Mission Responsibility hat zusammen mit <a target="_blank" href=
 #### **3. September** Gewinner beim Z2X Festival von ZEIT ONLINE
 
 
-Die Teilnehmer_innen stimmten über das Projekt ab, das von ZEIT ONLINE weiter gefördert werden soll. Mit knapp 250 Stimmen wählte die Z2X Community Jugend Rettet. Wir sagen danke und freuen uns auf das was kommt.
+Die Teilnehmer_innen stimmten über das Projekt ab, das von ZEIT ONLINE weiter gefördert werden soll. Mit knapp 250 Stimmen wählte die Z2X Community JUGEND **RETTET**. Wir sagen danke und freuen uns auf das was kommt.
 
 
 
-#### **3.-4. September** Jugend Rettet beim ZEIT ONLINE Festival Z2X
+#### **3.-4. September** JUGEND **RETTET** beim ZEIT ONLINE Festival Z2X
 
 
-Am 3.- 4. September 2016 findet das "Z2X - Festival der neuen Visionäre" in Berlin statt. Das Wochenende wird von <a target="_blank" href="https://www.facebook.com/zeitonline/">ZEIT ONLINE</a> organisiert und soll Denkanstöße liefern, wie unsere Gesellschaft nachhaltig verbessert werden kann. An zwei Tagen soll zu verschiedensten gesamtgesellschaftlich relevanten Themen in Form von verschiedene Panels, Diskussionsrunden und Vorträgen intensiver Austausch stattfinden. Jugend Rettet wird ebenfalls in Form von Matthias (Crewing), Titus (Koordinator Schiff) und Pauline (Presse/ Öffentlichkeit) teilnehmen und von ihren Erfahrungen auf See und dem Aufbau der Organisation berichten.  Unter diesem Link könnt ihr teilnehmen: <a target="_blank" href="http://www.zeit.de/z2x/register/">http://www.zeit.de/z2x/register/</a>
+Am 3.- 4. September 2016 findet das "Z2X - Festival der neuen Visionäre" in Berlin statt. Das Wochenende wird von <a target="_blank" href="https://www.facebook.com/zeitonline/">ZEIT ONLINE</a> organisiert und soll Denkanstöße liefern, wie unsere Gesellschaft nachhaltig verbessert werden kann. An zwei Tagen soll zu verschiedensten gesamtgesellschaftlich relevanten Themen in Form von verschiedene Panels, Diskussionsrunden und Vorträgen intensiver Austausch stattfinden. JUGEND **RETTET** wird ebenfalls in Form von Matthias (Crewing), Titus (Koordinator Schiff) und Pauline (Presse/ Öffentlichkeit) teilnehmen und von ihren Erfahrungen auf See und dem Aufbau der Organisation berichten.  Unter diesem Link könnt ihr teilnehmen: <a target="_blank" href="http://www.zeit.de/z2x/register/">http://www.zeit.de/z2x/register/</a>
 
 
 
@@ -444,7 +453,7 @@ Jeder Mensch verdient die Rettung aus Seenot.
 
 
 
-#### **27. Juli** Jugend Rettet Merchandise ist da
+#### **27. Juli** JUGEND **RETTET** Merchandise ist da
 
 
 Seenotrettung mit einem T-Shirt? Ihr habt gefragt - wir haben gemacht. Rette mit und trage schöne T-Shirts, Zipper und Pullis. Der Erlös fließt direkt in Mission Humanity! Die Artikel sind übrigens nicht nur Fairtrade, sondern auch aus Biobaumwolle und sehr gemütlich: <a target="_blank" href="https://jugendrettet.org/merch">jugendrettet.org/merch</a>
@@ -465,14 +474,14 @@ Thomas von Sea Watch teilt seine Erfahrungen, die er bei drei Rettungsmissionen 
 
 
 
-#### **22. Juli** Hans-Sachs-Gymnasium Nürnberg sammelt für Jugend Rettet
+#### **22. Juli** Hans-Sachs-Gymnasium Nürnberg sammelt für JUGEND **RETTET**
 
 
-Das Hans-Sachs-Gymnasium in Nürnberg bekommt den Titel „Schule ohne Rassismus“ verliehen und sammelt unter dieser Initiative Spenden für Jugend Rettet. Danke an die SMV für die Organisation.
+Das Hans-Sachs-Gymnasium in Nürnberg bekommt den Titel „Schule ohne Rassismus“ verliehen und sammelt unter dieser Initiative Spenden für JUGEND **RETTET**. Danke an die SMV für die Organisation.
 
 
 
-#### **21. Juli** Jugend Rettet in der spanischen Presse
+#### **21. Juli** JUGEND **RETTET** in der spanischen Presse
 
 
 Die spanische Zeitung europa press veröffentlicht einen Artikel über uns.  
@@ -497,7 +506,7 @@ Nun dauert es nicht mehr lange bis die IUVENTA ihr eigentliches Ziel verfolgen k
 #### **14. Juli** Lena und Jakob in Rom beim MRCC
 
 
-Lena und Jakob stellen heute beim UNA VIS Meeting in Rom Jugend Rettet vor. Für das Treffen sind alle NGOs, die im Mittelmeer tätig sind, die italienische Küstenwache und das Maritime Rescue Coordination Centre, das die Einsätze leitet, vor Ort.
+Lena und Jakob stellen heute beim UNA VIS Meeting in Rom JUGEND **RETTET** vor. Für das Treffen sind alle NGOs, die im Mittelmeer tätig sind, die italienische Küstenwache und das Maritime Rescue Coordination Centre, das die Einsätze leitet, vor Ort.
 
 
 
@@ -518,14 +527,14 @@ Wir sind bei einem Freundschaftsspiel der ganz besonderen Art dabei: ESV Neuaubi
 #### **1. Juli** Stage for Peace Festival in Nürnberg
 
 
-Wir freuen uns, am 1.7. beim ersten <a href="https://www.facebook.com/stageforpeace/" target="_blank">Stage for Peace Festival</a> in Nürnberg dabei zu sein. Wir sind mit einem Infostand vor Ort und 50% der Einnahmen gehen an Jugend Rettet. Wir raten also allen aus der Gegend: Ticket holen und für den guten Zweck feiern: <a href="http://bit.ly/stageforpeace" target="_blank">bit.ly/stageforpeace</a>
+Wir freuen uns, am 1.7. beim ersten <a href="https://www.facebook.com/stageforpeace/" target="_blank">Stage for Peace Festival</a> in Nürnberg dabei zu sein. Wir sind mit einem Infostand vor Ort und 50% der Einnahmen gehen an JUGEND **RETTET**. Wir raten also allen aus der Gegend: Ticket holen und für den guten Zweck feiern: <a href="http://bit.ly/stageforpeace" target="_blank">bit.ly/stageforpeace</a>
 
 
 
-#### **Juni 2016** Ein Jahr Jugend Rettet
+#### **Juni 2016** Ein Jahr JUGEND **RETTET**
 
 
-Vor einem Jahr haben Lena und Jakob Jugend Rettet e.V. gegründet. Wir sind alle stolz auf was wir bisher erreicht haben.
+Vor einem Jahr haben Lena und Jakob JUGEND **RETTET** e.V. gegründet. Wir sind alle stolz auf was wir bisher erreicht haben.
 
 
 
@@ -536,7 +545,7 @@ Die Iuventa macht sich auf den Weg nach Malta, um von dort aus in wenigen Wochen
 
 
 
-#### **26. Juni** Jugend Rettet in der FAZ
+#### **26. Juni** JUGEND **RETTET** in der FAZ
 
 
 Die FAZ berichtet über uns. Den Artikel gibt es <a href="http://www.faz.net/aktuell/gesellschaft/die-organisation-jugend-rettet-will-fluechtlinge-aus-seenot-retten-14291451.html" target="_blank">hier</a>.
@@ -567,7 +576,7 @@ Lena hat im Rahmen des Rheingauer Wirtschaftsforums 2016 bei den Podiumsdiskussi
 #### **13. Juni** Teilnahme an Seminar zum Thema Seenotrettung
 
 
-Eine gute Vorbereitung für den Einsatz im Mittelmeer ist für uns essentiell. Vom 6. bis 8. Juni haben deshalb mehrere Crewmitglieder von Jugend Rettet an einem dreitätigen Lehrgang zum Thema Seenotrettung auf dem <a href="https://www.facebook.com/Segelschiff-Thor-Heyerdahl-150058301767227/">Segelschiff Thor Heyerdahl</a> teilgenommen. Wir bedanken uns bei <a href="https://www.facebook.com/seawatchprojekt/" target="_blank">Sea-Watch</a> für die Organisation!
+Eine gute Vorbereitung für den Einsatz im Mittelmeer ist für uns essentiell. Vom 6. bis 8. Juni haben deshalb mehrere Crewmitglieder von JUGEND **RETTET** an einem dreitätigen Lehrgang zum Thema Seenotrettung auf dem <a href="https://www.facebook.com/Segelschiff-Thor-Heyerdahl-150058301767227/">Segelschiff Thor Heyerdahl</a> teilgenommen. Wir bedanken uns bei <a href="https://www.facebook.com/seawatchprojekt/" target="_blank">Sea-Watch</a> für die Organisation!
 
 
 
@@ -616,7 +625,7 @@ Jakob unterzeichnet den Kaufvertrag für das Schiff
 
 
 
-#### **10. Mai** Jugend Rettet bei ev1.tv
+#### **10. Mai** JUGEND **RETTET** bei ev1.tv
 
 
 Botschafter Jannik hat uns bei ev1.tv vorgestellt.
@@ -627,7 +636,7 @@ Botschafter Jannik hat uns bei ev1.tv vorgestellt.
 #### **02. Mai** Unterstützung von Jasmin Gerat
 
 
-"Auf dem Weg zu langfristigen Lösungen darf nicht in Vergessenheit geraten, dass jeden Tag weitere Menschen auf der Flucht sind und sofort Hilfe brauchen - so direkt wie es geht. Ich unterstütze das Projekt von Jugend Rettet, weil es genau dort vor Ort ist, wo immer noch zu viele Menschen sterben müssen: auf dem Meer. Jugend Rettet handelt und lebt Nächstenliebe, das berührt mich sehr und ich bitte jede/n unterstützend zu spenden und sei es nur ein kleiner Betrag - jeder Cent zählt!"
+"Auf dem Weg zu langfristigen Lösungen darf nicht in Vergessenheit geraten, dass jeden Tag weitere Menschen auf der Flucht sind und sofort Hilfe brauchen - so direkt wie es geht. Ich unterstütze das Projekt von JUGEND **RETTET**, weil es genau dort vor Ort ist, wo immer noch zu viele Menschen sterben müssen: auf dem Meer. Jugend Rettet handelt und lebt Nächstenliebe, das berührt mich sehr und ich bitte jede/n unterstützend zu spenden und sei es nur ein kleiner Betrag - jeder Cent zählt!"
 
 
 Wir danken Jasmin Gerat für die Unterstützung!
@@ -648,14 +657,14 @@ Ein wenig internationale Presse: La Stampa aus Italien berichtet über unsere Ar
 
 
 Heute Morgen konntet ihr ein kleines Interview auf Radio Q, dem Campusradio Münster, mit Pauline aus dem Kernteam Berlin hören.  
-Wenn Ihr bei Jugend Rettet mitmachen wollt, meldet Euch bei Botschafterin Jana unter: <jana@jugendrettet.org>
+Wenn Ihr bei JUGEND **RETTET** mitmachen wollt, meldet Euch bei Botschafterin Jana unter: <jana@jugendrettet.org>
 
 
 
 #### **26. April** Beteiligung an "Dialog Extrem"
 
 
-Heute waren wir bei der Veranstaltung Dialog Extrem, bei der Expert_innen ihre Projekte und ihr Vorhaben erklären können. Wir stellten Jugend Rettet vor und erklärten, warum es die Seenotrettung auf dem Mittelmeer braucht.
+Heute waren wir bei der Veranstaltung Dialog Extrem, bei der Expert_innen ihre Projekte und ihr Vorhaben erklären können. Wir stellten JUGEND **RETTET** vor und erklärten, warum es die Seenotrettung auf dem Mittelmeer braucht.
 
 <a target="_blank" href="../f/images/old/20160426.jpg"><img class="news" src="../f/images/old/20160426.jpg"></a>
 
@@ -805,7 +814,7 @@ Passend zum Anlass fand diesen Abend unsere Soli-Party im Lauschangriff Berlin s
 <a href="../f/images/old/20160318.jpg" target="_blank"><img class="news" src="../f/images/old/20160318.jpg"></a>
 
 
-#### **18. März** Bericht über Jugend Rettet bei ZEITjUNG 
+#### **18. März** Bericht über JUGEND **RETTET** bei ZEITjUNG 
 
 Wir hatten diese Woche ein nettes Gespräch mit ZEITjUNG.de. Das Ergebnis könnt ihr hier lesen.
 
@@ -813,7 +822,7 @@ Wir hatten diese Woche ein nettes Gespräch mit ZEITjUNG.de. Das Ergebnis könnt
 
 
 
-#### **18. März** Bericht über Jugend Rettet bei Zeit Online 
+#### **18. März** Bericht über JUGEND **RETTET** bei Zeit Online 
 
 
 <a href="http://www.zeit.de/studium/uni-leben/2016-03/jugend-rettet-fluechtlinge-mittelmeer-private-seenothilfe">&#8594; Link</a>
@@ -831,7 +840,7 @@ Wenn ihr mit Tobi und dem Team Bonn in Kontakt treten wollt, könnt ihr das via 
 <a href="../f/images/old/20160317.jpg" target="_blank"><img class="news" src='../f/images/old/20160317.jpg'></a>
 
 
-#### **17. März** Jugend Rettet im ZDF beim "Morgenmagazin" 
+#### **17. März** JUGEND **RETTET** im ZDF beim "Morgenmagazin" 
 
 
 Heute Morgen waren wir wieder im ZDF. Diesmal beim "Morgenmagazin".
@@ -845,7 +854,7 @@ Lena und Jakob haben mit Dunja Hayali über die aktuelle Situation und die gepla
 
 
 
-#### **16. März** Jugend Rettet im ZDF bei "heute – in Deutschland"  
+#### **16. März** JUGEND **RETTET** im ZDF bei "heute – in Deutschland"  
 
 
 Heute Mittag waren wir im ZDF bei "heute – in Deutschland" zu sehen!
@@ -908,7 +917,7 @@ Wir sind ganz verliebt in die Antilopen Gang. Koljah hat uns gestern vorgestellt
 #### **08. März 2016** Unsere Verpflichtung zur Transparenz 
 
 
-Das Vertrauen unserer SpenderInnen und UnterstützerInnen wollen wir durch eine bestmögliche Transparenz über unsere Arbeit zurückgeben. Jugend Rettet ist deshalb offiziell Mitglied bei der Initiative Transparente Zivilgesellschaft (ITZ). Das bedeutet, dass wir uns freiwillig verpflichten, viele Informationen über unsere Vereinsstruktur, Tätigkeiten und Finanzen auf unserer Website öffentlich zugänglich zu machen und regelmäßig zu updaten:
+Das Vertrauen unserer SpenderInnen und UnterstützerInnen wollen wir durch eine bestmögliche Transparenz über unsere Arbeit zurückgeben. JUGEND **RETTET** ist deshalb offiziell Mitglied bei der Initiative Transparente Zivilgesellschaft (ITZ). Das bedeutet, dass wir uns freiwillig verpflichten, viele Informationen über unsere Vereinsstruktur, Tätigkeiten und Finanzen auf unserer Website öffentlich zugänglich zu machen und regelmäßig zu updaten:
 
 
 <a target="_blank" href="./transparenz">&#8594; Transparenz</a>
@@ -924,7 +933,7 @@ Als einer der 733 Unterzeichner der Initiative sprechen wir uns klar für Transp
 #### **04. März** Schlemmen für das Schiff 
 
 
-"helping Jugend Rettet e.V. saving the world, one cupcake at a time. thanks to Tristeza :: kollektivkneipe :: for having us!"
+"helping JUGEND **RETTET** e.V. saving the world, one cupcake at a time. thanks to Tristeza :: kollektivkneipe :: for having us!"
 
 
 Vielen Dank für diese schöne Aktion!
@@ -1052,7 +1061,7 @@ Münster: Botschafterin Jana hat im Cafe "Teilchen und Beschleuniger" selbstgeba
 <a href="../f/images/old/5/jana2.jpg" target="_blank"><img class="news" src='../f/images/old/5/jana2.jpg'></a>
 
 
-Köln: Botschafter Carlo war bei der Aufführung von "Der gute Mensch von Sezuan" für Jugend Rettet dabei. Es wurden Flyer verteilt und Spenden gesammelt.
+Köln: Botschafter Carlo war bei der Aufführung von "Der gute Mensch von Sezuan" für JUGEND **RETTET** dabei. Es wurden Flyer verteilt und Spenden gesammelt.
 
 
 
@@ -1103,9 +1112,9 @@ Team Aachen, hier ein Teil des Teams zusammen mit Rotary-Präsidenten Jens Zier,
 
 "Wir wollen den Jugendaspekt als Druckmittel benutzen. Wenn wir das ohne Erfahrung schaffen, dann gibt es keine Ausrede für das Versagen von staatlichen Akteuren."    <a href="http://www.n-tv.de/panorama/Jugend-Rettet-hat-Fluechtlingssterben-satt-article16749591.html">"n-tv Der Nachrichtensender"</a> hat sich mit den Gründungsmitgliedern Lena und Jakob getroffen. Viel Spaß beim lesen!
 
-#### **14. Januar** Jugend Rettet macht Worte!
+#### **14. Januar** JUGEND **RETTET** macht Worte!
 
-Jugend Rettet macht Worte!   Heute fand ein Supportslam für uns statt. Unser Dank an "Leuchtfeuerworte"!
+JUGEND **RETTET** macht Worte!   Heute fand ein Supportslam für uns statt. Unser Dank an "Leuchtfeuerworte"!
 
 #### **12. Januar** Wir sind auf Instagram!
 
@@ -1229,9 +1238,9 @@ Your browser does not support the video tag.
 </video>
 
 **19. November** Offenes Treffen in Potsdam  
-#### **13. November** Harald Zindler berät Jugend Rettet + offenes Treffen in Berlin Neukoelln
+#### **13. November** Harald Zindler berät JUGEND **RETTET** + offenes Treffen in Berlin Neukoelln
 
-Wir sind stolz, euch einen wichtigen Berater von Jugend Rettet vorstellen zu können: Harald Zindler, Gründungsmitglied von Greenpeace und Leiter mehrerer Greenpeace-Aktionen, wie der riskanten Besetzung in Nordenham (<a target="_blank" href="http://bit.ly/nrdnhm1">http://bit.ly/nrdnhm1</a>). Er hat selber vier Schiffe angeschafft und berät uns nun beim Schiffskauf.
+Wir sind stolz, euch einen wichtigen Berater von JUGEND **RETTET** vorstellen zu können: Harald Zindler, Gründungsmitglied von Greenpeace und Leiter mehrerer Greenpeace-Aktionen, wie der riskanten Besetzung in Nordenham (<a target="_blank" href="http://bit.ly/nrdnhm1">http://bit.ly/nrdnhm1</a>). Er hat selber vier Schiffe angeschafft und berät uns nun beim Schiffskauf.
 
 <a href="../f/images/old/zindler.jpg" target="_blank"><img src="../f/images/old/zindler.jpg"></a>
 
@@ -1268,9 +1277,9 @@ Wir brauchen deine Spende, um der europäischen Gleichgkültigekit gegenüber de
 Heute konnten wir auf dem Nowkoelln Flowmarkt über unser Projekt berichten! Gleichzeitig konnten wir mit eurer Unterstützung ganze 600€ zusammen bekommen, die direkt in unser Schiff fließen.
 <a href="../f/images/old/flowmarkt.jpg" target="_blank"><img class="news" src='../f/images/old/flowmarkt.jpg'></a>
 
-#### **31. Oktober** Besuch von *Jugend Rettet* und seiner Berater an der holländischen Küste
+#### **31. Oktober** Besuch von *JUGEND **RETTET*** und seiner Berater an der holländischen Küste
 
-Unsere erste Rettungsmission wird immer greifbarer. Bei einem Besuch von Jugend Rettet und seiner Berater an der holländischen Küste wurden vier Schiffe besichtigt. Wir schauten uns besonders genau die Fläche an Deck, Lagerräume unter Deck und die Kräne an Bord an, ob diese für unser Vorhaben geeignet sind. Für uns war die Reise nach Holland ein großer Schritt, denn wir können zufrieden feststellen, wie unser Vorhaben Tag für Tag konkreter wird. Bei der nächsten Reise nach Holland werden wir den Rückweg mit unserem Schiff zurücklegen. Dafür sammeln wir ab Montag die Gelder. Noch 2 Tage bis zur 1. Spendenphase!
+Unsere erste Rettungsmission wird immer greifbarer. Bei einem Besuch von JUGEND **RETTET** und seiner Berater an der holländischen Küste wurden vier Schiffe besichtigt. Wir schauten uns besonders genau die Fläche an Deck, Lagerräume unter Deck und die Kräne an Bord an, ob diese für unser Vorhaben geeignet sind. Für uns war die Reise nach Holland ein großer Schritt, denn wir können zufrieden feststellen, wie unser Vorhaben Tag für Tag konkreter wird. Bei der nächsten Reise nach Holland werden wir den Rückweg mit unserem Schiff zurücklegen. Dafür sammeln wir ab Montag die Gelder. Noch 2 Tage bis zur 1. Spendenphase!
 
 #### **19. Oktober** Start Twitter + Unser Spendenkonto ist eröffnet!
 
@@ -1292,7 +1301,7 @@ Austausch mit Vertretern des Bundesministeriums der Verteidigung über den Bunde
 
 #### **3. Oktober 2015** Gründung und 1. Offenes Treffen
 
-Gründung des Vereins Jugend Rettet, Eintragung ins Vereinsregister.  
+Gründung des Vereins JUGEND **RETTET**, Eintragung ins Vereinsregister.  
 Unser erstes offenes Treffen gestern Abend war ein voller Erfolg. Vielen Dank an alle, die da waren.
 Wir werden den Vortrag regelmäßig wiederholen. Wer noch Tipps für Räumlichkeiten in Berlin oder anderen deutschen Städten hat, in denen wir uns vorstellen könnten, schreibt uns bitte an <info@jugendrettet.org>.
 <a href="../f/images/old/erstes_treffen.jpg" target="_blank"><img src="../f/images/old/erstes_treffen.jpg"></a>
@@ -1313,9 +1322,9 @@ Festlegung auf einen holländischen Fischtrawler als geeignetes Schiff für die 
 
 #### **Juni 2015** Prüfung unseres Konzeptes
 
-Überprüfung des Konzepts von *Jugend Rettet* auf technische und finanzielle Machbarkeit. Kostenvoranschläge werden erarbeitet, die rechtliche Grundlage unseres Einsatzes  geklärt.
+Überprüfung des Konzepts von *JUGEND **RETTET*** auf technische und finanzielle Machbarkeit. Kostenvoranschläge werden erarbeitet, die rechtliche Grundlage unseres Einsatzes  geklärt.
 
-#### **Anfang Juni 2015** Idee zu *Jugend Rettet* entsteht
+#### **Anfang Juni 2015** Idee zu *JUGEND **RETTET*** entsteht
 
-Meldungen über Tote im Mittelmeer jeden Tag. Die Idee *Jugend Rettet* zu gründen, entsteht. Meinungen zum Vorhaben werden eingeholt. Experten und Mitstreiter gesucht. Über Reeder, Verbände, Kapitäne werden Kontakte aufgebaut.
+Meldungen über Tote im Mittelmeer jeden Tag. Die Idee *JUGEND **RETTET*** zu gründen, entsteht. Meinungen zum Vorhaben werden eingeholt. Experten und Mitstreiter gesucht. Über Reeder, Verbände, Kapitäne werden Kontakte aufgebaut.
 '
