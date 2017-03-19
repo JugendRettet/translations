@@ -6,7 +6,7 @@ index_menu_about_us='
 # section on the start page
 
 index_about_us_title='
-## About Us
+## Über uns
 '
 
 index_about_us_our_story_title='
