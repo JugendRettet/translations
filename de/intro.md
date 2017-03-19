@@ -4,7 +4,7 @@ Jugend **Rettet**
 '
 
 intro_title='
-# Jugend **Rettet**
+# JUGEND **RETTET**
 '
 
 intro='
