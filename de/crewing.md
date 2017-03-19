@@ -15,7 +15,7 @@ Wir suchen Menschen mit Berufserfahrung, die sich über das hohe Risiko der Rett
 
 Unser Bewerbungsformular findest Du unter folgendem Link: **[/crew](/crew)**
 
-Bei Fragen steht Dir unser Crewing-Department gerne unter **[crew@jugendrettet.org](mailto:crew@jugendrettet.org)** zur Verfügung.
+Bei Fragen steht Dir unser Crewing-Department gerne unter **<crew@jugendrettet.org>** zur Verfügung.
 
 Da aufgrund der internationalen Zusammensetzung der Crew und des Charakters des Einsatzes Englisch unsere Bordsprache ist, findest Du die Informationen zu den verschiedenen Positionen direkt auf Englisch.
 
