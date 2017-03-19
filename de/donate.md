@@ -25,7 +25,7 @@ donate_donations_account='
 
 donate_account_info='
 **Empfänger:**  
-Jugend Rettet e.V.  
+JUGEND **RETTET** e.V.  
 **Kontonummer:**  
 0190465743  
 **IBAN:**  

@@ -92,7 +92,7 @@ sub_team_embassies_title='
 '
 
 sub_team_embassies='
-Als Botschafter_in diskutierst du aktiv über politische Lösungen und gestaltest unsere Forderungen mit. Werde Teil unseres landesübergreifenden Netzwerkes! Außerdem machst du JUGEND RETTET in deinem Ort bekannt. Egal wo du herkommst, wir freuen uns immer über junge Menschen, die z.B. aktiv in Diskussionen teilnehmen, Vorträge organisieren, Spendenveranstaltungen machen und uns unterstützen.  
+Als Botschafter_in diskutierst du aktiv über politische Lösungen und gestaltest unsere Forderungen mit. Werde Teil unseres landesübergreifenden Netzwerkes! Außerdem machst du JUGEND **RETTET** in deinem Ort bekannt. Egal wo du herkommst, wir freuen uns immer über junge Menschen, die z.B. aktiv in Diskussionen teilnehmen, Vorträge organisieren, Spendenveranstaltungen machen und uns unterstützen.  
 Schaue hier, ob es vielleicht schon ein_e Botschafter_in in deinem Ort gibt, die du unterstützen kannst:
 
 <iframe id="team_emb_map" src="https://www.google.com/maps/d/u/0/embed?mid=1MPGOL2_dmS64Tq5BfVtV7KuU5UY"></iframe>

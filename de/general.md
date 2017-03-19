@@ -1,6 +1,6 @@
 # Title of the whole page (e.g. to be seen on the browser's tab)
 title='
-Jugend Rettet
+JUGEND RETTET
 '
 
 # Description of the whole page (e.g. to be seen on link preview cards)

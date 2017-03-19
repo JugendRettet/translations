@@ -396,7 +396,7 @@ The crew aboard the Iuventa consists of between 14 and 16 people that fill a ran
 
 ### PRESS
 
-* Are obliged to document in accordance with Jugend Rettet policies and confidentiality guidelines
+* Are obliged to document in accordance with JUGEND **RETTET** policies and confidentiality guidelines
 * Also required to complete general deckhand duties as required during SAR operations, i.e. launching RIBS, look-out, embarking people on the ship, giving out food and water to guests, clean up
 * Are encouraged to assist with maintenance jobs.
 

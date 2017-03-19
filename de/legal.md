@@ -8,7 +8,7 @@ legal='
 
 ## Diese Website wird betrieben von
 
-Jugend Rettet e.V.  
+JUGEND **RETTET** e.V.  
 Ruhlsdorferstr. 120  
 14513 Teltow  
 
