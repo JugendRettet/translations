@@ -32,17 +32,19 @@ Da aufgrund der internationalen Zusammensetzung der Crew und des Charakters des 
 The crew aboard the Iuventa consists of between 14 and 16 people that fill a range of nautical and SAR specific positions as well as **[media](#PRESS)**.
 
 
-## Nautical positions / regular ship's operation
+### Nautical positions / regular ship's operation
 
 <span class="text-center">
 **[master](#MASTER)** | **[chief mate](#CHIEF_MATE)** | **[2nd mate](#2nd_MATE)** | **[chief engineer](#CHIEF_ENGINEER)** | **[2nd engineer](#2nd_ENGINEER)** | **[electrician](#ELECTRICIAN)** | **[bosun](#BOSUN)**
 </span>
 
-## SAR POSITIONS
+### SAR POSITIONS
 
 <span class="text-center">
-**[HOM](#HEAD_OF_MISSION)** | **[Deck Manager](#DECK_MANAGER)** | **[RIB Driver](#RIB_-_DRIVER)** | **[RIB Leader](#RIB_-_TEAM_LEADER)** | **[RIB Mediator](#RIB_-_MEDIATOR___contact_person)** | **[Lilli driver](#LILLI_-_DRIVER)** | **[Lilli Leader](#LILLI_-_TEAM_LEADER)** | **[Doctor](#DOCTOR)** | **[Medic](#MEDIC)**
+**[HOM](#HEAD_OF_MISSION)** | **[Deck Manager](#DECK_MANAGER)** | **[RIB Driver](#RIB_-_DRIVER)** | **[RIB Leader](#RIB_-_TEAM_LEADER)** | **[RIB Mediator](#RIB_-_MEDIATOR_contact_person)** | **[Lilli driver](#LILLI_-_DRIVER)** | **[Lilli Leader](#LILLI_-_TEAM_LEADER)** | **[Doctor](#DOCTOR)** | **[Medic](#MEDIC)**
 </span>
+
+## Nautical positions / regular ship's operation
 
 ### MASTER
 
