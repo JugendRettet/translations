@@ -6,7 +6,7 @@ crewing_title='
 # Crewing
 '
 
-crewing='
+crewing_intro='
 Du willst als Crewmitglied die Rettung auf dem Mittelmeer durchführen?
 
 Ab März wird die Iuventa wieder vor der libyschen Küste im Einsatz sein. Um die geplanten Missionen auch wirklich erfolgreich durchführen zu können, brauchen wir Deine Hilfe!
@@ -26,7 +26,13 @@ Da aufgrund der internationalen Zusammensetzung der Crew und des Charakters des 
 * Acute stressors can impact on individuals as well as the team, potentially impeding on performance levels. In order to not compromise operational safety, individual crew members are required to reflect on personal stress levels, identify ways of dealing with stress and seek support if necessary.
 * Since the crews are usually composed of people from various countries, a good English proficiency is required in order to communicate effectively within the crew. Also the communication with the other organisations is done in English.
 * For all crew members it is essential to work well in a team environment.
+'
 
+crewing_menu_positions='
+Positions
+'
+
+crewing_positions='
 ## POSITIONS ABOARD THE IUVENTA
 
 The crew aboard the Iuventa consists of between 14 and 16 people that fill a range of nautical and SAR specific positions as well as **[media](#PRESS)**.
@@ -43,7 +49,13 @@ The crew aboard the Iuventa consists of between 14 and 16 people that fill a ran
 <span class="text-center">
 **[HOM](#HEAD_OF_MISSION)** | **[Deck Manager](#DECK_MANAGER)** | **[RIB Driver](#RIB_-_DRIVER)** | **[RIB Leader](#RIB_-_TEAM_LEADER)** | **[RIB Mediator](#RIB_-_MEDIATOR_contact_person)** | **[Lilli driver](#LILLI_-_DRIVER)** | **[Lilli Leader](#LILLI_-_TEAM_LEADER)** | **[Doctor](#DOCTOR)** | **[Medic](#MEDIC)**
 </span>
+'
 
+crewing_menu_nautical='
+Nautical
+'
+
+crewing_nautical='
 ## Nautical positions / regular ship's operation
 
 ### MASTER
@@ -169,7 +181,13 @@ The crew aboard the Iuventa consists of between 14 and 16 people that fill a ran
 * Experience at sea with basic seamanship knowledge
 * good handy*wo*man-skills
 * works well within a team environment
+'
 
+crewing_menu_sar='
+SAR
+'
+
+crewing_sar='
 ## SAR POSITIONS
 
 ### HEAD OF MISSION
@@ -395,8 +413,14 @@ The crew aboard the Iuventa consists of between 14 and 16 people that fill a ran
 * ideally familiar with treating children and pregnant women
 * good team player as well as basic leadership skills
 * The cooperation-partner Rainbow4Africa is in charge of all medical aspects including the crewing. We will forward your application.
+'
 
-### PRESS
+crewing_menu_press='
+Press
+'
+
+crewing_press='
+## PRESS
 
 * Are obliged to document in accordance with JUGEND **RETTET** policies and confidentiality guidelines
 * Also required to complete general deckhand duties as required during SAR operations, i.e. launching RIBS, look-out, embarking people on the ship, giving out food and water to guests, clean up
