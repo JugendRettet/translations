@@ -5,6 +5,15 @@ Archiv
 archive_title='
 # Archiv
 '
+
+archive_2017_menu='
+2017
+'
+
+archive_2017='
+## 2017
+'
+
 archive_2016_menu='
 2016
 '
