@@ -589,7 +589,7 @@ Pauline gibt, nachdem unser Schiff in Emden zum Umbau angekommen ist, ein <a hre
 #### **9. Juni** Start der Umbauarbeiten
 
 
-Interessierte HelferInnen können sich bei <a href="mailto:titus@jugendrettet.org">titus@jugendrettet.org</a> mit dem Betreff „Umbau“ melden.
+Interessierte HelferInnen können sich bei <titus@jugendrettet.org> mit dem Betreff „Umbau“ melden.
 
 <a target="_blank" href="https://www.facebook.com/JugendRettet/photos/?tab=album&album_id=497657640443474" target="_blank">→ Fotoalbum</a>
 
@@ -648,7 +648,7 @@ Ein wenig internationale Presse: La Stampa aus Italien berichtet über unsere Ar
 
 
 Heute Morgen konntet ihr ein kleines Interview auf Radio Q, dem Campusradio Münster, mit Pauline aus dem Kernteam Berlin hören.  
-Wenn Ihr bei Jugend Rettet mitmachen wollt, meldet Euch bei Botschafterin Jana unter: <a target="_blank" href="mailto:jana@jugendrettet.org">jana@jugendrettet.org</a>
+Wenn Ihr bei Jugend Rettet mitmachen wollt, meldet Euch bei Botschafterin Jana unter: <jana@jugendrettet.org>
 
 
 
@@ -826,7 +826,7 @@ Wir hatten diese Woche ein nettes Gespräch mit ZEITjUNG.de. Das Ergebnis könnt
 Heute fand zum zweiten und vorerst letzten Mal die Blutspendeaktion in Bonn statt. Unser Botschafter Tobi und sein Team haben diese Aktion mit dem Blutspendedienst Haema Blutspendedienst organisiert, bei der durch jede Blutspende 25€ direkt an uns und die Finanzierung des Schiffes gingen. Eine schöne Gelegenheit gleich 2x etwas Gutes zu tun und wir sagen Dankeschön an alle Beteiligten.
 
 
-Wenn ihr mit Tobi und dem Team Bonn in Kontakt treten wollt, könnt ihr das via Mail: <a href="mailto:tobias@jugendrettet.org">tobias@jugendrettet.org</a>.
+Wenn ihr mit Tobi und dem Team Bonn in Kontakt treten wollt, könnt ihr das via Mail: <tobias@jugendrettet.org>.
 
 <a href="../f/images/old/20160317.jpg" target="_blank"><img class="news" src='../f/images/old/20160317.jpg'></a>
 
@@ -954,7 +954,7 @@ Heute waren wir nochmal in den Niederlanden, um eines der für uns geeignetsten 
 Danke an unsere Liechtensteiner Botschafterin Helena, die ähnlich wie Team Aachen eine Bötchen-Aktion gestartet hat und damit 1100€ sammeln konnte. Tolle Arbeit!
 
 
-Wenn ihr Helena bei ihrer Arbeit in Liechtenstein unterstützen wollt, schickt ihr eine Mail an <a href="mailto:helena@jugendrettet.org">helena@jugendrettet.org</a>.
+Wenn ihr Helena bei ihrer Arbeit in Liechtenstein unterstützen wollt, schickt ihr eine Mail an <helena@jugendrettet.org>
 
 <a href="../f/images/old/20160227.jpg" target="_blank"><img class="news" src='../f/images/old/20160227.jpg'></a>
 
@@ -1250,7 +1250,7 @@ Gleichzeitig ging die erste Woche der Spendenphase vorbei und wir sind überwäl
 
 #### **7. November** Besuch bei den Jugendmedientagen in Bonn
 
-Unser Besuch bei den Jugendmedientagen war ein voller Erfolg und wir haben einen engagierten Botschafter für Bonn gefunden. Damit er möglichst schnell seine Aktionsideen umsetzen kann, braucht er jetzt euch als Kleine Retter. Wenn ihr in Bonn lebt und bereit seid aktiv zu werden meldet euch bei <a href="mailto:tobias@jugendrettet.org">tobias@jugendrettet.org</a> .
+Unser Besuch bei den Jugendmedientagen war ein voller Erfolg und wir haben einen engagierten Botschafter für Bonn gefunden. Damit er möglichst schnell seine Aktionsideen umsetzen kann, braucht er jetzt euch als Kleine Retter. Wenn ihr in Bonn lebt und bereit seid aktiv zu werden meldet euch bei <tobias@jugendrettet.org>.
 <a href="../f/images/old/jmtage.jpg" target="_blank"><img src="../f/images/old/jmtage.jpg"></a>
 
 #### **6. November** Nürnberger Botschafterin bei Radio AFKmax
@@ -1294,7 +1294,7 @@ Austausch mit Vertretern des Bundesministeriums der Verteidigung über den Bunde
 
 Gründung des Vereins Jugend Rettet, Eintragung ins Vereinsregister.  
 Unser erstes offenes Treffen gestern Abend war ein voller Erfolg. Vielen Dank an alle, die da waren.
-Wir werden den Vortrag regelmäßig wiederholen. Wer noch Tipps für Räumlichkeiten in Berlin oder anderen deutschen Städten hat, in denen wir uns vorstellen könnten, schreibt uns bitte an <a href="mailto:info@jugendrettet.org" class="link">info@jugendrettet.org</a>.
+Wir werden den Vortrag regelmäßig wiederholen. Wer noch Tipps für Räumlichkeiten in Berlin oder anderen deutschen Städten hat, in denen wir uns vorstellen könnten, schreibt uns bitte an <info@jugendrettet.org>.
 <a href="../f/images/old/erstes_treffen.jpg" target="_blank"><img src="../f/images/old/erstes_treffen.jpg"></a>
 
 #### **27. September**  Jugendrettet.org geht online
