@@ -13,7 +13,7 @@ De Maizière
 mission_current='
 ## MISSION DE MAIZIÈRE
 
-![Mission De Maizière Wellenhintergrund](../f/images/new/Missionen_Mission1.png)
+![Mission De Maizière Wellenhintergrund](../f/images/new/mission_current.jpg)
 
 **DIE ERSTE MISSION 2017**
 
