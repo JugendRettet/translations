@@ -32,7 +32,7 @@ news_events='
 '
 
 news_news_mission='
-### Misson: De Maizière
+### Mission: De Maizière
 
 [Wir übernehmen Verantwortung](./mission)
 '
