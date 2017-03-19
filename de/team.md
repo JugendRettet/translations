@@ -171,11 +171,11 @@ Wir sehen Spender_innen als Teil unseres Netzwerkes an, egal ob durch Zeitspende
 '
 
 sub_team_sponsors_menu='
-Unterstützer_innen
+Sponsor_innen
 '
 
 sub_team_sponsors_title='
-## Unterstützer_innen
+## Sponsor_innen
 '
 
 sub_team_sponsors='
