@@ -6,6 +6,12 @@ mission_title='
 # Mission
 '
 
+news_news_mission='
+### Mission: Von der Leyen
+
+[Wir übernehmen Verantwortung](./mission)
+'
+
 mission_current_menu='
 Von der Leyen
 '
