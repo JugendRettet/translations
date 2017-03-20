@@ -29,12 +29,6 @@ news_events='
 [EVENTS](https://www.facebook.com/pg/JugendRettet/events/)
 '
 
-news_news_mission='
-### Mission: De Maizière
-
-[Wir übernehmen Verantwortung](./mission)
-'
-
 news_archive='
 [ARCHIV](./archive)
 '
