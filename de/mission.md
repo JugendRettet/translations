@@ -64,4 +64,7 @@ Wir fragen uns: Wenn wir ein Schiff kaufen können, es umbauen und eine professi
 
 Ab sofort werden wir unsere Missionen genau den Menschen widmen, deren Verantwortung wir zur Zeit auf See übernehmen. 
 Unsere erste Mission soll deshalb **Thomas De Maizière** gewidmet werden.
+
+[Wenn dir das Innenministerium aufeinmal schreibt... Teil 1](https://www.facebook.com/notes/jugend-rettet-ev/wenn-dir-das-innenministerium-aufeinmal-schreibt-teil-1/636961783179725)  
+[Wenn dir das Innenministerium aufeinmal schreibt... Teil 2](https://www.facebook.com/notes/jugend-rettet-ev/wenn-dir-das-innenministerium-aufeinmal-schreibt-teil-2/638090533066850)
 '
