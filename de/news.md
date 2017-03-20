@@ -16,7 +16,7 @@ news_news_item_title='
 '
 
 news_news_item='
-**16. Oktober:** Mission De Maizière wurde beendet und konnte 110 Menschen retten.
+**16. März:** Mission De Maizière wurde beendet und konnte 110 Menschen retten.
 '
 
 news_press_release='
