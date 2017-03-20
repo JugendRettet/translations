@@ -7,28 +7,24 @@ mission_title='
 '
 
 mission_current_menu='
-De Maizière
+Von der Leyen
 '
 
 mission_current='
-## MISSION DE MAIZIÈRE
+## Von der Leyen
 
-![Mission De Maizière Wellenhintergrund](../f/images/new/mission_current.jpg)
+![Mission De Maizière Wellenhintergrund](../f/images/new/mission_Ursula.jpg)
 
-**DIE ERSTE MISSION 2017**
+**DIE ZWEITE MISSION 2017**
 
-Als junge Europäer_innen übernehmen wir den Job von politischen Akteuren, die auf der Basis von europäischen Werten Verantwortung tragen müssten. Doch wir können nicht weiter zuschauen, wie die Verantwortung vor der Festung Europas abgewälzt wird.  
-Wir investieren ehrenamtlich die Zeit und Energie, um für unser Europa einzustehen. Und wenn Menschen an unsere Grenzen sterben, gibt es für uns nur eine Lösung: Man rettet sie.
-
-Wir fragen uns: Wenn wir ein Schiff kaufen können, es umbauen und eine professionelle Crew organisieren um Menschen aus Seenot retten - warum können politische Entscheidungsträger uns diese Aufgabe nicht abnehmen?
-
-Ab sofort werden wir unsere Missionen genau den Menschen widmen, deren Verantwortung wir zur Zeit auf See übernehmen. 
-Unsere erste Mission soll deshalb **Thomas De Maizière** gewidmet werden.
+**Wir fordern ein staatliche Seenotrettungsprogramm, Frau von der Leyen!**  
+Seit Beginn der Mission Sophia jagen die Schiffe der Marine ein Phantom - Schlepper auf dem Mittelmeer.
+Anstatt mit 42,3 Millionen Euro Menschen aus Seenot zu retten, dürfen die Schiffe nicht aktiv die Suche und Rettung betreiben. Stattdessen müssen wir für die Politiker_innen auf See die Verantwortung übernehmen!
+Frau von der Leyen hat 2015 die Schiffe mit diesem öffentlichen Auftrag der Suche und Rettung ins Seegebiet vor Libyen geschickt. Übrig geblieben ist von ihren Versprechen nur ein Mandat zur Schlepperbekämpfung. Das Wort ‘Rescue’ taucht im Mandatstext nirgends mehr auf. Für die nächsten zwei Wochen werden wir ihre Worte Wahrheit werden lassen und Seenotrettung betreiben. 
 
 ### Ergänzungen
 
-[Wenn dir das Innenministerium aufeinmal schreibt... Teil 1](https://www.facebook.com/notes/jugend-rettet-ev/wenn-dir-das-innenministerium-aufeinmal-schreibt-teil-1/636961783179725)  
-[Wenn dir das Innenministerium aufeinmal schreibt... Teil 2](https://www.facebook.com/notes/jugend-rettet-ev/wenn-dir-das-innenministerium-aufeinmal-schreibt-teil-2/638090533066850)
+[Brief an Frau Von der Leyen](https://www.facebook.com/JugendRettet/photos/a.415060405369865.1073741826.409016039307635/639754809567089/?type=3&theater)
 '
 
 mission_procedure_menu='
