@@ -192,4 +192,8 @@ Wenn du uns auch mit Sachspenden oder ähnlichen Unterstützen möchtest, schrei
 * ![Stage For Peace](../f/logos/Stage_For_Piece.svg "Stage For Peace")
 * ![Falkun Films](../f/logos/Falkun_Films.svg "Falkun Films")
 * ![SbE Bundesvereinigung Stressbearbeitung nach belastenden Ereignissen e.V.](../f/logos/sbe.svg "SbE Bundesvereinigung Stressbearbeitung nach belastenden Ereignissen e.V.")
+* ![Garmin Deutschland GmbH](..f/logos/Garmin.jpg "Garmin Deutschland GmbH")
+* ![SeaServ GmbH](..f/logos/SeaServ.svg "SeaServ GmbH")
+* ![ASK Kloska GmbH](..f/logos/Kloska.svg "ASK Kloska GmbH")
+* ![Peter Schmidt Group](..f/logos/PSG.svg "Peter Schmidt Group")
 '
