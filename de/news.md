@@ -26,7 +26,7 @@ news_press_release='
 '
 
 news_events='
-[EVENTS](https://www.facebook.com/pg/JugendRettet/events/)
+[VERANSTALTUNGEN](https://www.facebook.com/pg/JugendRettet/events/)
 '
 
 news_archive='
