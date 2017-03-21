@@ -30,7 +30,7 @@ archive_2016='
 
 #### **12. Dezember** Neue Pullis, Zipper, Beanies und Shirts
 
-Unser neuer Merch ist da. Unter <jugendrettet.org/merch> gibt es jetzt neben neuen Hoodies, Shirts und Zippern auch Beanies.
+Unser neuer Merch ist da. Unter <https://jugendrettet.org/merch> gibt es jetzt neben neuen Hoodies, Shirts und Zippern auch Beanies.
 
 
 #### **10. Dezember** ZDF Mittagsmagazin
@@ -85,7 +85,7 @@ Jule und Pauline haben [Auf Klo](https://www.facebook.com/aufklo/) erklärt waru
 
 Zusammen mit Humany Tee und Studio Flox wurde ein kleines Video produziert, das die Geschichte von „Short“ erzählt und warum jedes T-Shirt zählt:  
 [&#8594; Link](https://vimeo.com/192088415)
-Übrigens 80% des Erlöses der Humany Tee Shirts geht an uns: <everyshirtmatters.com>
+Übrigens 80% des Erlöses der Humany Tee Shirts geht an uns: <http://everyshirtmatters.com>
 
 
 #### **17. November** 100 Menschen gerettet
@@ -149,7 +149,7 @@ Nach vier Mission übergibt unser Captain Uli die IUVENTA an unseren nächsten C
 
 #### **6. November** Jakob beim Tigerenten Club
 
-Jakob war zu Gast beim Tigerenten Club. Hier gehts zur ganzen Folge: <bit.ly/JR_tigerente>.
+Jakob war zu Gast beim Tigerenten Club. Hier gehts zur ganzen Folge: <http://bit.ly/JR_tigerente>.
 
 
 #### **6. November** Mission Dignity abgeschlossen - 2733 Menschen gerettet
