@@ -73,9 +73,9 @@ Schiffstaufe auf den Namen IUVENTA.
 * **30. Juni**  
 Die IUVENTA verlässt Emden. Nächster Halt Malta, um von dort noch im Juli mit den Rettungen zu beginnen.
 * **17. Juli**  
-Die IUVENTA erreicht Maltal.
+Die IUVENTA erreicht Malta.
 * **24. Juli**  
-Die IUVENTA verlässt Malta für ihre erste Rettungsmission unterdem Namen Solidarity und rettet 1388 Menschen.
+Die IUVENTA verlässt Malta für ihre erste Rettungsmission unter dem Namen Solidarity und rettet 1388 Menschen.
 * **12. August**  
 Mission Equality startet und es können 140 Menschen gerettet werden.
 * **1. September**  
