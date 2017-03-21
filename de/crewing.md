@@ -58,7 +58,8 @@ Nautical
 crewing_nautical='
 ## Nautical positions / regular ship's operation
 
-### MASTER
+MASTER
+......
 
 * has the overview, responsibility and control of the vessel and crew safety; directs both in accordance to maintain same
 * is responsible for all nautical and technical decisions concerning the operation as well as related crew instructions
@@ -78,7 +79,8 @@ crewing_nautical='
 * confident in decision-making
 * has ideally previously joined a rescue mission on the Iuventa as Chief Mate
 
-### CHIEF MATE
+CHIEF MATE
+..........
 
 * Works in close collaboration with master and Head of Mission
 * communicates with external parties, such as other ships in vicinity
@@ -94,7 +96,8 @@ crewing_nautical='
 * alternatively other (non-professional) certificates and extensive experience in a similar range of duties can be considered as well
 * has a strong safety awareness and knowledge of standard safety equipment and procedures on board ships
 
-### 2nd MATE
+2nd MATE
+........
 
 * responsible for all safety equipment on board
 * facilitates safety trainings and drills in collaboration with the chief mate
@@ -113,7 +116,8 @@ crewing_nautical='
 
 
 
-### CHIEF ENGINEER
+CHIEF ENGINEER
+..............
 
 * Responsible for the operation and maintenance of the main engine, generators, pumps, compressors.
 * Operates the crane and anchor winches
@@ -131,7 +135,8 @@ crewing_nautical='
 * Has a professional engineering qualification, ideally ship engineering
 * Good working knowledge and experience of standard safety equipment for ships
 
-### 2nd ENGINEER
+2nd ENGINEER
+............
 
 * Assists the chief engineer to operate and maintain the main engine, generators, pumps, compressors.
 * Assists the chief engineer to operate the crane and anchor winches
@@ -149,7 +154,8 @@ crewing_nautical='
 * Good working knowledge and experience of standard safety equipment for ships
 * works well within a team environment
 
-### ELECTRICIAN
+ELECTRICIAN
+...........
 
 * Is familiar with the electrical and IT systems aboard (engine room, bridge, RIB)
 * problem solves electrical and electronic issues
@@ -166,7 +172,8 @@ crewing_nautical='
 * Experience with electrical systems and IT essential
 * Ideally has experience on ships
 
-### BOSUN
+BOSUN
+.....
 
 * Responsible to take care of maintenance jobs (i.e. deck painting, woodworks etc.); instructs deck crew as required
 * Works in close collaboration with Chief Mate
@@ -190,7 +197,8 @@ SAR
 crewing_sar='
 ## SAR POSITIONS
 
-### HEAD OF MISSION
+HEAD OF MISSION
+...............
 
 * involved in the preparation and follow-up of the mission
 * coordinates the cooperation of the individual SAR-departments (bridge, RIB, deck, Med team) during the mission
@@ -220,7 +228,8 @@ crewing_sar='
 * confident in decision-making
 * has ideally previously joined a rescue mission on the Iuventa
 
-### DECK MANAGER
+DECK MANAGER
+............
 
 * has the overview and control of the deck related work during SAR operations (safty of all people on deck, ensures that all the equipment is always ready to use)
 * directing work process as per specification of the HoM/ Master
@@ -240,7 +249,8 @@ crewing_sar='
 * confident in decision-making especially in stressful situations
 * has ideally previously joined a rescue mission on the Iuventa
 
-### RIB - DRIVER
+RIB - DRIVER
+............
 
 * is responsible for all nautical and technical decisions concerning the operation on site as well as related crew intructions
 * has overview and control of the boat and crew safety as well as safety of people in distress; directs both in accordance to maintain same
@@ -262,7 +272,8 @@ crewing_sar='
 * Ideally has previous SAR experience
 * remains calm in stressful situations
 
-### RIB - TEAM LEADER
+RIB - TEAM LEADER
+..................
 
 * collaborates closely with HOM and instructs RIB driver and mediator in accordance to SOP
 * responsible to maintain a general overview of the rescue operation on site
@@ -288,7 +299,8 @@ crewing_sar='
 * able to coordinate a team effectively especially in stressful situations
 * first aid medical training essential, ideally with medical qualification
 
-### RIB - MEDIATOR / contact person
+RIB - MEDIATOR / contact person
+................................
 
 * Establishes initial contact with refugees, collects relevant information and maintains conversation with the people in distress
 * Passes on relevant information to team leader
@@ -312,7 +324,8 @@ crewing_sar='
 * first aid training essential, ideally has medical qualification
 * team player
 
-### LILLI - DRIVER
+LILLI - DRIVER
+...............
 
 * is responsible for the nautical and technical decisions aboard the small RIB
 * has overview and control of the boat and crew safety as well as safety of people in distress; directs both in accordance to maintain same
@@ -335,7 +348,8 @@ crewing_sar='
 * remains calm in stressful situations
 * team player
 
-### LILLI - TEAM LEADER
+LILLI - TEAM LEADER
+....................
 
 * collaborates closely with HOM, RIB 1 and instructs the driver in accordance with SOP
 * is responsible for the crew's and refugees' safety during operational procedures
@@ -358,7 +372,8 @@ crewing_sar='
 * good team player
 * first aid medical training
 
-### DOCTOR
+DOCTOR
+.......
 
 * responsible for the medical assessment and treatment of refugees as well as Iuventa crew
 * operates the hospital during SAR operations
@@ -386,7 +401,8 @@ crewing_sar='
 * team management experience
 * The cooperation-partner Rainbow4Africa is in charge of all medical aspects including the crewing. We will forward your application.
 
-### MEDIC
+MEDIC
+......
 
 * responsible for assisting the doctor in the medical assessment and treatment of refugees as well as Iuventa crew
 * responsible for administration of medication in collaboration with the doctor
@@ -420,7 +436,8 @@ Press
 '
 
 crewing_press='
-## PRESS
+PRESS
+-----
 
 * Are obliged to document in accordance with JUGEND **RETTET** policies and confidentiality guidelines
 * Also required to complete general deckhand duties as required during SAR operations, i.e. launching RIBS, look-out, embarking people on the ship, giving out food and water to guests, clean up
