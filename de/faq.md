@@ -37,17 +37,17 @@ Rechtliche Grundlage für die Rettungsaktionen auf dem Mittelmeer ist das Seerec
 
 Wir retten Menschen, die auf dem Mittelmeer in Seenot geraten.  Jeder Mensch hat das Recht auf Leben, Freiheit und Sicherheit der Person (vgl. AEMR Art. 3). Hier einen Unterschied zu machen wäre ein Verstoß gegen das in den Menschenrechten verankerte Verbot der Diskriminierung.[²](#2)
 
-			
+
 3 Wie rettet ihr die Menschen?
 ------------------------------
 
-Die Koordination der Rettungseinsätze auf dem Mittelmeer übernimmt das Maritime Rescue Coordination Centre in Rom. Sie informieren uns über einen Seenotfall in unserer Nähe oder wir informieren unsererseits, sollten wir Menschen in Seenot per Fernglas entdecken. Anschließend nähern wir uns mit unserem Beiboot dem betroffenen Boot und verteilen Rettungswesten an alle. Wir klären ab, wie viele medizinische Notfälle, Kinder und schwangere Frauen sich auf dem Boot befinden, da diese zuerst gerettet werden. Dann holen wir die Geretteten zu uns an Bord und kümmern uns um die  medizinische Erstversorgung, sowie die Versorgung mit Trinkwasser und Essen. 
+Die Koordination der Rettungseinsätze auf dem Mittelmeer übernimmt das Maritime Rescue Coordination Centre in Rom. Sie informieren uns über einen Seenotfall in unserer Nähe oder wir informieren unsererseits, sollten wir Menschen in Seenot per Fernglas entdecken. Anschließend nähern wir uns mit unserem Beiboot dem betroffenen Boot und verteilen Rettungswesten an alle. Wir klären ab, wie viele medizinische Notfälle, Kinder und schwangere Frauen sich auf dem Boot befinden, da diese zuerst gerettet werden. Dann holen wir die Geretteten zu uns an Bord und kümmern uns um die  medizinische Erstversorgung, sowie die Versorgung mit Trinkwasser und Essen.
 
 
-4 Wo ist euer Schiff im Einsatz? 
+4 Wo ist euer Schiff im Einsatz?
 --------------------------------
 
-Unser Schiff patrouilliert auf dem Mittelmeer zwischen Libyen und Italien. Dieser Seeweg wird als zentrale Mittelmeerroute beschrieben, über die Menschen auf der Flucht versuchen nach Europa zu gelangen. Die meisten Rettungen finden innerhalb der libyschen 24-Meilenzone (außerhalb des lybischen Hoheitsgewässers) statt.
+Unser Schiff patrouilliert auf dem Mittelmeer zwischen Libyen und Italien. Dieser Seeweg wird als zentrale Mittelmeerroute beschrieben, über die Menschen auf der Flucht versuchen nach Europa zu gelangen. Die meisten Rettungen finden innerhalb der 24-Meilenzone (außerhalb des lybischen Hoheitsgewässers) statt.
 
 
 5 Woher kommen die Menschen, die über die zentrale Mittelmeerroute flüchten?
@@ -62,7 +62,7 @@ Unser Schiff patrouilliert auf dem Mittelmeer zwischen Libyen und Italien. Diese
 Wir bleiben während einer Mission durchgehend im Einsatzgebiet und übernehmen nicht den Transfer der Geretteten. Auf Anweisung des Maritime Rescue Coordination Centre Rom und in Absprachen mit anderen Akteur_innen im Einsatzgebiet geben wir die Geretteten nach einiger Zeit an ein größeres Schiff ab, das dann nach Italien fährt.
 
 
-7 Warum übernehmt ihr die Rettung? 
+7 Warum übernehmt ihr die Rettung?
 ----------------------------------
 
 2016 ertranken 4579  Menschen Mittelmeer, davon 4581 auf der zentralen Mittelmeeroute[⁴](#4). Seit dem Ende von Mare Nostrum 2014 gibt es kein umfassendes staatliches Seenotrettungsprogramm mehr. Stattdessen setzt die EU mit der Frontex-Mission Triton und der Militäroperation Sophia auf Abschottung durch Sicherung der europäischen Außengrenzen. Damit wird die humanitäre Aufgabe der Seenotrettung verkannt. Wir wollen nicht tatenlos zusehen, wie Menschen auf dem Mittelmeer ertrinken und sehen uns aufgrund fehlender staatlicher Rettungsstrukturen gezwungen, die Aufgabe der Seenotrettung selber zu übernehmen.
