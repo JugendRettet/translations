@@ -10,7 +10,7 @@ intro_title='
 intro='
 **JEDER MENSCH VERDIENT DIE RETTUNG AUS SEENOT.**
 
-JUGEND **RETTET** ist ein Netzwerk junger Europäer_innen. Gemeinsam haben wir ein Schiff gekauft und umgebaut. Mit unserer IUVENTA machen wir das, was die Regierung nicht schafft - die Rettung von Menschen aus Seenot.
+JUGEND **RETTET** ist ein Netzwerk junger Europäer_innen. Gemeinsam haben wir ein Schiff gekauft und umgebaut. Mit unserer IUVENTA machen wir das, was die Regierung nicht schafft - die Rettung von Menschen aus Seenot. 
 Wir klären über die Situation vor Ort auf und suchen gemeinsam nach Lösungen. Informiere dich hier über unsere Arbeit.
 '
 
@@ -32,7 +32,7 @@ ideals_iuv_title='
 '
 
 ideals_iuv_text='
-Mit unserem Schiff, der IUVENTA, retten wir seit dem 24. Juli 2016 Menschen aus Seenot. Insgesamt konnten unsere Crews in 7 Missionen 6.526 Menschen vor dem Tod bewahren. Unsere IUVENTA ist somit konkretes Handlungsfeld und Symbol. Wir sind selbst aktiv und handeln. Wir zeigen, dass es möglich ist, etwas gegen das Sterben zu tun. Damit durchbrechen wir das Gefühl der Ohnmacht, welches aktuell in der Politik herrscht.
+Mit unserem Schiff, der IUVENTA, retten wir seit dem 24. Juli 2016 Menschen aus Seenot. Insgesamt konnten unsere Crews in 7 Missionen 6.526 Menschen vor dem Tod bewahren. Unsere IUVENTA ist somit konkretes Handlungsfeld und Symbol. Wir sind selbst aktiv und handeln. Wir zeigen, dass es möglich ist, etwas gegen das Sterben zu tun. Damit durchbrechen wir das Gefühl der Ohnmacht, welches aktuell in der Politik herrscht. 
 '
 
 ideals_iuv_link='
@@ -44,7 +44,7 @@ ideals_proposals_title='
 '
 
 ideals_proposals_text='
-Als junge Europäer_innen können und wollen wir den Status Quo der europäischen Asylpolitik nicht hinnehmen. Wir fordern von den politischen Akteuren die Notsituation der Menschen zu entschärfen und praktische Hilfe zu leisten. Dafür brauchen wir ein Seenotrettungsprogramm und die Entkriminalisierung von Flucht und flüchtenden Menschen.
+Als junge Europäer_innen können und wollen wir den Status Quo der europäischen Asylpolitik nicht hinnehmen. Wir fordern von den politischen Akteuren die Notsituation der Menschen zu entschärfen und praktische Hilfe zu leisten. Dafür brauchen wir ein Seenotrettungsprogramm und die Entkriminalisierung von Flucht und flüchtenden Menschen. 
 Stattdessen werden die Menschen mit neugezogenen Mauern von der "Festung Europa" ferngehalten und in ihrer Mobilität eingeschränkt - Diese Maßnahmen lehnen wir ab.
 '
 
@@ -52,6 +52,8 @@ ideals_actions='
 ### WAS WIR KONKRET MACHEN
 
 Mit dem Botschafter_Innen-Netzwerk schafft unsere Organisation eine Plattform, auf der sich junge Menschen langfristig über nationale und europäische Positionen in der Flüchtlingspolitik und Seenotrettung austauschen können. Der Verein engagiert sich also einerseits in dem konkreten und hoch symbolischen Aktionsfeld unseres Schiffes und schafft andererseits eine politische Plattform: das Botschafter_Innen- Netzwerk.
+
+### WAS WIR KONKRET MACHEN wollen
 
 Mit unserer IUVENTA patrouillieren wir seit Juli 2016 auf der zentralen Mittelmeerroute nahe der libyschen Hoheitsgewässer. Wir finden in Seenot geratene Boote und bringen die Menschen in Sicherheit. An Bord der IUVENTA leisten wir Erste Hilfe und versorgen die Geretteten mit Wasser und Nahrung.  
 In unserem ersten Einsatzjahr 2016 konnten wir auf 7 Rettungsmissionen 6.526 Menschen aus Lebensgefahr retten.  

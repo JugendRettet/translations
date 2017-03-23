@@ -61,7 +61,7 @@ Erster Schulbesuch von JUGEND **RETTET** und Beginn von Schulkooperationen.
 ### 2016
 
 * **8. März**  
-Mitglied der Initiative Transparente Zivilgesellschaft (ITZ).
+Mitglied der Initiative Transparente Zivilgesellschaft (ITZ). 
 * **Mitte April**  
 Das Kaufangebot für das Schiff geht raus.
 * **19. Mai**  
@@ -120,7 +120,6 @@ Typischerweise für ein Fischereifahrzeug ist das Freibord bemerkenswert niedrig
 
 Bei normalen Rettungseinsätzen liegt die Besatzung zwischen 11 und 13 Personen.
 '
-### [Unsere aktuelle Mission](./mission)
 
 about_transparency_menu='
 Transparenz
