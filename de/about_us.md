@@ -153,7 +153,7 @@ Folglich ist unsere Organisation von der Körperschaftssteuer und Gewerbesteuer 
 
 Der JUGEND **RETTET** e.V. ist berechtigt Spendenbescheinigungen auszustellen.
 
-Den offiziellen Bescheid finden Sie [hier.](../f/Gemeinnuetzigkeit_Bescheid.pdf)
+Den offiziellen Bescheid finden Sie [hier.](../f/files/Gemeinnuetzigkeit_Bescheid.pdf)
 
 ### 4. NAME UND FUNKTION WESENTLICHER ENTSCHEIDUNGSTRÄGER
 
