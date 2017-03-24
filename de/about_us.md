@@ -118,7 +118,7 @@ Die großen Deckflächen ermöglichen die Unterbringung von bis zu 220 gerettete
 Auf dem Hauptdeck werden zwei schnelle Rettungsboote (RHIBS) gelagert, die mit einem hydraulischen Teleskop-Kran zu Wasser gelassen werden. Dieser wurde Anfang Februar 2017 durch ein besseres Modell ersetzt.  
 Typischerweise für ein Fischereifahrzeug ist das Freibord bemerkenswert niedrig; das bietet uns zwei Vorteile: Erstens ermöglicht es das einfache Zuwasserlassen und Anbordholen der beiden Rettungsboote. Zweitens können die Boote der Geretteten längsseits genommen werden und Personen schnell und in sicherer Weise eingeladen werden.
 
-Bei normalen Rettungseinsätzen liegt die Besatzung zwischen 11 und 13 Personen.
+Bei normalen Rettungseinsätzen liegt die Besatzung bei mindestens 13 Personen.
 '
 
 about_transparency_menu='
