@@ -141,6 +141,7 @@ Schaue hier, ob es vielleicht schon ein_e Botschafter_in in deinem Ort gibt, die
 * **Ostfriesland**: [Jana](mailto:Jana_Ostfriesland@jugendrettet.org), [Julia](mailto:Julia@jugendrettet.org), [Mareke](mailto:Mareke@jugendrettet.org)
 * **Paderborn**: [Wiebke](mailto:Paderborn@jugendrettet.org)
 * **Passau**: [Ben](mailto:Ben_Passau@jugendrettet.org)
+* **Poitiers:** [Lukas](Lukas_Poitiers@jugendrettet.org)
 * **Porta Westfalica:** [Marie](Marie_PortaWestfalica@jugendrettet.org)
 * **Potsdam**: [Alex](mailto:Alex@jugendrettet.org), [Christoph](mailto:Christoph@jugendrettet.org)
 * **Roma**: [Carla](mailto:Carla_Roma@jugendrettet.org)
