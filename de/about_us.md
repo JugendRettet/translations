@@ -119,6 +119,8 @@ Auf dem Hauptdeck werden zwei schnelle Rettungsboote (RHIBS) gelagert, die mit e
 Typischerweise für ein Fischereifahrzeug ist das Freibord bemerkenswert niedrig; das bietet uns zwei Vorteile: Erstens ermöglicht es das einfache Zuwasserlassen und Anbordholen der beiden Rettungsboote. Zweitens können die Boote der Geretteten längsseits genommen werden und Personen schnell und in sicherer Weise eingeladen werden.
 
 Bei normalen Rettungseinsätzen liegt die Besatzung bei mindestens 13 Personen.
+
+**[Unsere aktuelle Mission](./mission)**
 '
 
 about_transparency_menu='
