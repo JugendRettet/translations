@@ -53,9 +53,10 @@ ideals_actions='
 
 Mit dem Botschafter_Innen-Netzwerk schafft unsere Organisation eine Plattform, auf der sich junge Menschen langfristig über nationale und europäische Positionen in der Flüchtlingspolitik und Seenotrettung austauschen können. Der Verein engagiert sich also einerseits in dem konkreten und hoch symbolischen Aktionsfeld unseres Schiffes und schafft andererseits eine politische Plattform: das Botschafter_Innen- Netzwerk.
 
+Mit unserer IUVENTA patrouillieren wir seit Juli 2016 auf der zentralen Mittelmeerroute nahe der libyschen Hoheitsgewässer. Wir finden in Seenot geratene Boote und bringen die Menschen in Sicherheit. An Bord der IUVENTA leisten wir Erste Hilfe und versorgen die Geretteten mit Wasser und Nahrung.  
+In unserem ersten Einsatzjahr 2016 konnten wir auf 7 Rettungsmissionen 6.526 Menschen aus Lebensgefahr retten. 
+
 ### WAS WIR KONKRET MACHEN wollen
 
-Mit unserer IUVENTA patrouillieren wir seit Juli 2016 auf der zentralen Mittelmeerroute nahe der libyschen Hoheitsgewässer. Wir finden in Seenot geratene Boote und bringen die Menschen in Sicherheit. An Bord der IUVENTA leisten wir Erste Hilfe und versorgen die Geretteten mit Wasser und Nahrung.  
-In unserem ersten Einsatzjahr 2016 konnten wir auf 7 Rettungsmissionen 6.526 Menschen aus Lebensgefahr retten.  
 Neben der Seenotrettung wollen wir mit unserem europäischen Botschafter_innen-Netzwerk ein Zeichen setzen und mit politischer Arbeit gegen den Status Quo der europäischen Asylpolitik vorgehen. Dabei setzen wir auf die Teilnahme junger Europäer_innen am politischen Geschehen. Als junge Generation wollen wir uns aktiv an der Gestaltung einer lebenswerten Gesellschaft beteiligen. Gemeinsam machen wir auf den Missstand an unseren Außengrenzen aufmerksam, informieren über die politische Situation vor Ort und mobilisieren europaweit Unterstützer_innen. Dadurch wollen wir öffentlichen Druck auf staatliche Akteur_innen ausüben, endlich das fundamentale Recht auf Leben und Sicherheit auch auf dem Mittelmeer durchzusetzen.
 '
