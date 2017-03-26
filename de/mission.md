@@ -16,6 +16,11 @@ mission_current_menu='
 Von der Leyen
 '
 
+donate_animation_mission='
+Laufend:  
+[**Mission 2**: Von der Leyen](./mission)
+'
+
 mission_current='
 ## Von der Leyen
 
