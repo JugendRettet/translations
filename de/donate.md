@@ -7,6 +7,12 @@ donate_title='
 ## Spenden
 '
 
+donate_animation_text='
+Aktuell sind **3**/15 Missionen im Jahr 2017 finanziert.
+
+[Zur Aufschlüsselung](/betterplace)
+'
+
 donate_betterplace_text='
 Jetzt Spenden für „Rette mit! Spende für Rettungseinsätze auf dem Mittelmeer“ bei unserem Partner betterplace.org
 '
