@@ -8,7 +8,7 @@ donate_title='
 '
 
 donate_animation_text='
-Aktuell sind **3**/15 Missionen im Jahr 2017 finanziert.
+Aktuell sind **8**/15 Missionen im Jahr 2017 finanziert.
 
 [Zur Aufschlüsselung](/betterplace)
 '
