@@ -7,6 +7,8 @@ crewing_title='
 '
 
 crewing_intro='
+*[Bewerbungen für Presse an Bord](#press)*
+
 Du willst als Crewmitglied die Rettung auf dem Mittelmeer durchführen?
 
 Ab März wird die Iuventa wieder vor der libyschen Küste im Einsatz sein. Um die geplanten Missionen auch wirklich erfolgreich durchführen zu können, brauchen wir Deine Hilfe!
@@ -438,6 +440,8 @@ Press
 crewing_press='
 PRESS
 -----
+
+*For applications as member of the press please contact <press@jugendrettet.org> directly (don't use the application form).*
 
 * Are obliged to document in accordance with JUGEND **RETTET** policies and confidentiality guidelines
 * Also required to complete general deckhand duties as required during SAR operations, i.e. launching RIBS, look-out, embarking people on the ship, giving out food and water to guests, clean up
