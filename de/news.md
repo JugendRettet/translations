@@ -34,5 +34,5 @@ news_archive='
 '
 
 news_follow_iuv='
-[FOLGE DER IUVENTA...](./about#iuventa)
+[POSITION DER IUVENTA](./about#iuventa)
 '
