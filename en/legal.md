@@ -21,7 +21,6 @@ Ruhlsdorferstr. 120
 Vereinsregister: Amtsgericht Berlin (Charlottenburg) VR 34604  
 [Vereinssatzung](../f/files/Vereinssatzung_v1.pdf)  
 
-[Tel.: +49 175 822 87 35](tel:+491758228735)  
 [E-Mail: info@jugendrettet.org](mailto:info@jugendrettet.org)  
 
 ## Vertreten durch
