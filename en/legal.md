@@ -6,7 +6,7 @@ Legal notice
 legal='
 # Legal notice
 
-*Please note: This is a non-binding translation of our German disclaimer and is solely provided for the purpose of easy reading and understanding for our international guests. For all claims and more detailled information you are kindly requested to refer to the [original German version](../de/legal).*
+*Please note: This is a non-binding translation of our German disclaimer and is solely provided for the purpose of easy reading and understanding for our international guests. For all claims and more detailed information you are kindly requested to refer to the [original German version](../de/legal).*
 
 ## Website provided by
 
