@@ -1,12 +1,12 @@
 # Menu item on the start page
 index_menu_about_us='
-About Us
+About us
 '
 
 # section on the start page
 
 index_about_us_title='
-## About Us
+## About us
 '
 
 index_about_us_our_story_title='
@@ -16,21 +16,21 @@ index_about_us_our_story_title='
 '
 
 index_about_us_iuv_title='
-### Die Iuventa
+### The Iuventa
 
-!![Die Iuventa](../f/images/new/about_iuventa.jpg)
+!![The Iuventa](../f/images/new/about_iuventa.jpg)
 '
 
 index_about_us_transparency_title='
-### Transparenz
+### Transparency
 
-!![Transparenz](../f/images/new/about_transparenz.jpg)
+!![Transparency](../f/images/new/about_transparenz.jpg)
 '
 
 # actual page
 
 about_title='
-# About Us
+# About us
 '
 
 about_our_story_menu='
@@ -40,63 +40,63 @@ Our Story
 about_our_story='
 ## Our Story
 
-!![Chronologie](../f/images/new/about_story.jpg)
+!![Our Story](../f/images/new/about_story.jpg)
 
-Schon von Anfang an wussten wir, dass es nicht immer einfach wird. Mit der Zeit haben wir von der Hilfe und Erfahrung anderer profitiert und uns und damit den Verein selbst weiter entwickelt.  
-Hier seht ihr unsere Meilensteine:  
+Right from the beginning we knew that our goals would be hard to reach. As time passed we grew as persons and as an organisation by learning from the experiences of others and with the help of many.
+Here are our most important milestones:
 
 ### 2015
 
-* **Mitte Mai**  
-Tägliche Meldungen über Tote im Mittelmeer. Die Idee, JUGEND RETTET zu gründen, entsteht. Erste Kontakte werden aufgebaut.
-* **Juli**  
-Bildung des Kernteams in Berlin und Aufbau eines Botschafternetzwerks in Deutschland. Festlegung auf den holländischen Fischtrawler als geeignetes Schiff für die Ziele der Organisation.
-* **3. Oktober**  
-Gründung des Vereins JUGEND RETTET e.V., Eintragung ins Vereinsregister.
+* **May**  
+Daily reports of drownings in the Mediterranean. The idea of founding JUGEND RETTET **IUVENTA** is being developed. Networking begins.
+* **July**  
+A core team in Berlin emerges and a network of ambassadors in Germany is being build. We decide to search for a Dutch fish trawler as our ship.
+* **Oktober 3rd**  
+Founding of 'JUGEND **RETTET** e.V.' (JUGEND RETTET **IUVENTA**) and official registration in Germany.
 * **November**  
-Start der Spendenphase zum Schiffserwerb.
-* **2. Dezember**  
-Erster Schulbesuch von JUGEND RETTET und Beginn von Schulkooperationen.
+Start of the fundraising to fund our ship.
+* **December 2nd**  
+First visit to a school and start of collaborations with more schools.
 
 ### 2016
 
-* **8. März**  
-Mitglied der Initiative Transparente Zivilgesellschaft (ITZ). 
-* **Mitte April**  
-Das Kaufangebot für das Schiff geht raus.
-* **19. Mai**  
-Unterzeichnung des Kaufvertrags.
-* **9. Juni**  
-Start der Umbauarbeiten.
-* **24. Juni**  
-Schiffstaufe auf den Namen IUVENTA.
-* **30. Juni**  
-Die IUVENTA verlässt Emden. Nächster Halt Malta, um von dort noch im Juli mit den Rettungen zu beginnen.
-* **17. Juli**  
-Die IUVENTA erreicht Maltal.
-* **24. Juli**  
-Die IUVENTA verlässt Malta für ihre erste Rettungsmission unterdem Namen Solidarity und rettet 1388 Menschen.
-* **12. August**  
-Mission Equality startet und es können 140 Menschen gerettet werden.
-* **1. September**  
-Die Crew startet die Mission Responsibility und rettet 1454 Menschen.
-* **16. September**  
-Start der Rettungsmission Humanity , bei der 131 Menschen gerettet werden.
-* **4. Oktober**  
-In der Mission Unity ist JUGEND RETTET an der Rettung von 423 Menschen beteiligt.
-* **21. Oktober**  
-In der Mission Dignity konnte die Crew 2733 Menschen aus Seenot retten.
-* **11. November**  
-Mission Diversity rettet 393 Menschen aus Seenot.
+* **March 8th**  
+Joining 'Initiative Transparente Zivilgesellschaft (ITZ)' (Initiative for a transparent civil society) as a member.
+* **April**  
+Proposal for buying the ship.
+* **May 19th**  
+Signing the ship's purchase.
+* **June 9th**  
+Start of the conversion works on the ship.
+* **June 24th**  
+Naming of our ship: 'IUVENTA'.
+* **June 30th**  
+The IUVENTA is leaving it's conversion harbour in Emden. It's heading to Malta to start the rescue missions in July.
+* **July 17th**  
+Arriving in Malta.
+* **July 24th**  
+Leaving the harbour in Malta to start the first rescue mission - named 'Solidarity' - saving 1388 people.
+* **August 12th**  
+Mission Equality starts. 140 people will be rescued.
+* **September 1st**  
+Mission Responsibility rescues 1454 people.
+* **September 16th**  
+131 people are being saved on mission Humanity.
+* **Oktober 4th**  
+On mission Unity JUGEND RETTET **IUVENTA** is involved in rescuing 423 people.
+* **Oktober 21st**  
+Our crew of mission Dignity was able to rescue 2733 people from maritime distress.
+* **November 11th**  
+Mission Diversity rescues 393 people.
 * **Winter**  
-Planung der nächsten Missionen
+Planning missions for the next year.
 
 ### 2017
 
-* **Ende März**  
-Umbau der IUVENTA.
+* **End of March**  
+Renovation of the IUVENTA.
 * **9. März**  
-Start der Mission: De Maiziere.
+[Start of missions in 2017.](./mission)
 '
 
 about_iuventa_menu='
@@ -104,7 +104,7 @@ IUVENTA
 '
 
 about_iuventa_title='
-## Die IUVENTA
+## The IUVENTA
 '
 
 about_iuventa='
@@ -112,7 +112,7 @@ about_iuventa='
 
 The ship selected to become Jugend Rettet’s active contribution to Maritime Search and Rescue in the Central Mediterranean Sea was acquired in May 2016, converted and refitted by the tremendous effort of many volunteers for her new task and christened IUVENTA.
 
-Originally the 33m long Iuventa was designed as a fishing vessel for the rough and frequently hostile conditions of the North Sea. Redundant features can be found throughout the ship such as two auxiliary engines and design elements of the main engine that ensure continuous operation even in the roughest conditions.
+Originally the 33m long IUVENTA was designed as a fishing vessel for the rough and frequently hostile conditions of the North Sea. Redundant features can be found throughout the ship such as two auxiliary engines and design elements of the main engine that ensure continuous operation even in the roughest conditions.
 
 The once large deck spaces for working fishing gear was decluttered in the conversion to allow the accommodation of up to 100 rescued persons. Tarpaulins can be arranged to either protect the deck space from the sun or provide shelter from wind and rain.
 
@@ -121,69 +121,73 @@ In normal rescue operations the crew complement is between 11-13 persons.
 Two fast rescue boats (RHIBS) are stored on the main deck which are launched by means of a hydraulic telescopic crane which as replaced for a better model in 2017.
 
 Typically for a fishing vessel the freeboard is remarkably low for handling nets which gives two advantages: first, it allows easy launch and recovery of the two rescue boats; second, rescued boats can be taken alongside and persons embarked quickly in a safe manner.
+
+On a usual rescue mission the crew consists of at least 13 members.
+
+**[Current mission](./mission)**
 '
 
 about_transparency_menu='
-Transparenz
+Transparency
 '
 
 about_transparency='
-## Transparenz
+## Transparency
 
 !![Initiative Transparente Zivilgesellschaft](../f/logos/Transparente_Zivilgesellschaft.svg)
 
-JUGEND **RETTET** nimmt seine Aufgaben als vertrauenswürdige und verantwortungsbewusste gemeinnützige Organisation ernst. Transparenz ist uns wichtig. Deshalb haben wir uns der [Initiative Transparente Zivilgesellschaft](http://www.transparente-zivilgesellschaft.de/) angeschlossen. Wir haben uns in diesem Rahmen verpflichtet, die nachstehenden Informationen der Öffentlichkeit auf unserer Webseite zur Verfügung zu stellen und regelmäßig zu updaten.
+JUGEND RETTET **IUVENTA** is aware of it's duties as a responsible and trustworthy charitable organisation and takes them seriously. Transparency is important to us. This is why we joined the [ITZ](http://www.transparente-zivilgesellschaft.de/)  (Initiative for a transparent civil society) as a member. This means that we committed to make following information public and to keep it up to date.
 
-### 1. NAME, SITZ, ANSCHRIFT UND GRÜNDUNGSJAHR
+### 1. NAME, RESIDENCE, ADDRESS AND YEAR OF FOUNDING
 
-Der Verein JUGEND **RETTET** e.V. wurde am 3. Oktober 2015 gegründet. Sitz und Anschrift des Vereins befinden sich in der Ruhlsdorferstraße 151, 14513 Teltow.
+The organisation ('Verein') 'JUGEND **RETTET** e.V.' (JUGEND RETTET **IUVENTA**) was founded October 3rd 2015. Residence and address of the organisation are: Ruhlsdorferstraße 151, 14513 Teltow, Germany.
 
-### 2. SATZUNG, ZIELE UND UMSETZUNG
+### 2. STATUTE, GOALS AND IMPLEMENTATION
 
-Unsere Vereinssatzung in ihrer aktuellen von der ordentlichen Mitgliederversammlung am 03. Oktober 2015 in Berlin beschlossenen Fassung finden Sie [hier](../f/files/Vereinssatzung_v1.pdf).
+Our statute in it's current form, how it was properly determined by the General Meeting October 3rd 2015 is public [here](../f/files/Vereinssatzung_v1.pdf).
 
-Eine Übersicht zu den Zielen und Umsetzung des Vereins finden Sie [hier](./#intro).
+A summary of the goals of the organisation can be found [here](./#intro).
 
-### 3. ANGABEN ZUR STEUERBEGÜNSTIGUNG
+### 3. INFORMATION ON TAX BENEFITS
 
-Die Satzung von „JUGEND **RETTET** e.V.“ erfüllt nach dem letzten uns zugegangenen Bescheid des Finanzamts für Körperschaften I, Berlin (Steuernummer 27/669/53338) vom 03.11.2015 nach § 5 Abs. 1 Nr. 9 die offiziellen Kriterien zur Förderung folgender gemeinnütziger Zwecke:
+The statute of 'JUGEND **RETTET** e.V.' (JUGEND RETTET **IUVENTA**) fulfils the official criteria to be eligible as a charitable organisation for following goals, regarding § 5 Abs. 1 Nr. 9, as it is stated by the last notification received from the tax authority 'für Körperschaften I, Berlin (Steuernummer 27/669/53338)' on 11/03/2015:
 
-* Förderung der Hilfe für Flüchtlinge und Förderung der Rettung aus Lebensgefahr nach § 52 Abs. 2 Satz 1 Nr.(n) 10 und 11 AO
-* Förderung der Internationalen Gesinnung und Förderung des Bürgerschaftlichen Engagements nach § 52 Abs. 2 Satz 1 Nr.(n) 13 und 25 AO
+* Support of refugees and support of rescue from risk of death (Förderung der Hilfe für Flüchtlinge und Förderung der Rettung aus Lebensgefahr nach § 52 Abs. 2 Satz 1 Nr.(n) 10 und 11 AO)
+* Support of international attitude and support of commitment to citizenship (Förderung der Internationalen Gesinnung und Förderung des Bürgerschaftlichen Engagements nach § 52 Abs. 2 Satz 1 Nr.(n) 13 und 25 AO)
 
-Folglich ist unsere Organisation von der Körperschaftssteuer und Gewerbesteuer befreit.
+By that our organisation is tax-exempt of corporation tax and business tax.
 
-Der JUGEND **RETTET** e.V. ist berechtigt Spendenbescheinigungen auszustellen.
+'JUGEND **RETTET** e.V.' (JUGEND RETTET **IUVENTA**) is allowed to issue donation certificates.
 
-Den offiziellen Bescheid finden Sie [hier.](../f/Gemeinnuetzigkeit_Bescheid.pdf)
+You can see the current notification [here](../f/files/Gemeinnuetzigkeit_Bescheid.pdf).
 
-### 4. NAME UND FUNKTION WESENTLICHER ENTSCHEIDUNGSTRÄGER
+### 4. NAMES AND FUNCTIONS OF ESSENTIAL DECISION-MAKING INSTRUMENTS
 
-Vorstand:
+Board:
 
-* Erster Vorsitzender: Jakob Schoen
-* Zweite Vorsitzende: Lena Waldhoff
+* First chair-person: Jakob Schoen
+* Second chair-person: Lena Waldhoff
 
 
-### 5. TÄTIGKEITSBERICHT
+### 5. ACTIVITY REPORT
 
-Eine Übersicht über die Tätigkeiten des Vereins finden Sie in unserem [Jahresbericht 2015](../f/files/Jahresbericht_2015.pdf).
+A summary of the organisation's activities can be found in our [Annual Report 2015](../f/files/Jahresbericht_2015.pdf).
 
-### 6. PERSONALSTRUKTUR
+### 6. PERSONAL STRUCTURE
 
-Alle an JUGEND **RETTET** beteiligten Personen, wie auch alle Berater_innen arbeiten ausschließlich auf ehrenamtlicher Basis. Unser Team besteht aus überwiegend jungen Menschen, deren Motivation für das Projekt auf das Retten auf einer Verbesserung der humanitären Lage im Mittelmeer basiert.
+Every person involved in 'JUGEND **RETTET** e.V.' (JUGEND RETTET **IUVENTA**), as well as all advisors, contribute unsalaried. Our team consists of mainly young persons. Their motivation derives from the will to rescue lives and to improve the humanitarian situation on the Mediterranean.
 
-Das Jugend Rettet Kernteam in Berlin besteht aus 9 Leuten. Deutschlandweit engagieren sich derzeit 60 Personen an unserer Arbeit.
+The core team of JUGEND RETTET **IUVENTA** based in Berlin has 11 members. In all of Germany more than 70 people are engaged in our work.
 
-### 7./8. ANGABEN ZUR MITTELHERKUNFT- UND VERWENDUNG
+### 7./8. INFORMATION ON FUNDING AND SPENDING
 
-Eine Übersicht über die Mittelherkunft- und Verwendung des Vereins finden Sie in unserem [Jahresbericht 2015](../f/files/Jahresbericht_JR_2015.pdf).
+You can find a summary on our funding and spending in our [Annual Report 2015](../f/files/Jahresbericht_JR_2015.pdf).
 
-### 9. GESELLSCHAFTSRECHTLICHE VERBUNDENHEIT MIT DRITTEN
+### 9. RELATIONSHIPS WITH THIRD PARTIES REGARDING COMPANY LAW
 
-Eine gesellschaftsrechtliche Verbundenheit mit Dritten, z.B. ausgegliederter Wirtschaftsbetrieb, Partnerorganisation oder Ähnliches besteht nicht.
+There are no relationships with third parties regarding company law.
 
-### 10. NAMEN VON JURISTISCHEN PERSONEN, DEREN JÄHRLICHE ZAHLUNGEN MEHR ALS 10% DES GESAMTBUDGETS AUSMACHEN
+### 10. NAMES OF LEGAL PERSONS, WHOSe ANNUAL PAYMENTS MAKE UP MORE THAN 10% OF OUR WHOLE BUDGET
 
-JUGEND **RETTET** hat derzeit keine Unterstützer_innen oder Förderer_innen, deren jährliche Zahlungen mehr als 10% des Gesamtbudgets ausmachen. Unsere Arbeit trägt sich durch das Engagement und die Hilfe vieler.
+JUGEND RETTET **IUVENTA** has no supporter or sponsor whose annual payments make up more than 10% of our whole budget. Our work is made possible by the contributions of many.
 '
