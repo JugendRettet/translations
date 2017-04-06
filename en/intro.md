@@ -1,61 +1,62 @@
 # Menu item on the start page
 index_menu_intro='
-Jugend **Rettet**
+Jugend Rettet **IUVENTA**
 '
 
 intro_title='
-# Jugend **Rettet**
+# Jugend Rettet **IUVENTA**
 '
 
 intro='
-**JEDER MENSCH VERDIENT DIE RETTUNG AUS SEENOT.**
+**EVERYONE IN MARITIME EMERGENCY DESERVES RESCUE.**
 
-JUGEND **RETTET** ist ein Netzwerk junger Europäer_innen. Gemeinsam haben wir ein Schiff gekauft und umgebaut. Mit unserer IUVENTA machen wir das, was die Regierung nicht schafft - die Rettung von Menschen aus Seenot. 
-Wir klären über die Situation vor Ort auf und suchen gemeinsam nach Lösungen. Informiere dich hier über unsere Arbeit.
+Jugend Rettet **IUVENTA** is a network of young Europeans. Together we bought and converted a ship. With that ship - our IUVENTA - we're doing what governments fail to do: rescuing people in maritime distress.  
+We educate about the situation on the Mediterranean and search for solutions. Here you can find information on our work.
 '
 
 situation='
 ### SITUATION
 
-Noch nie ertranken so viele Menschen bei ihrer Flucht über die zentrale Mittelmeerroute, wie im vergangenen Jahr. 4579 Mal kam jede Hilfe zu spät.  
-Wie hoch die Dunkelziffer ist, können wir kaum erahnen.  
-Trotzdem übernimmt Europa keine Verantwortung für dieses unbeschreibliche Leid an unseren Außengrenzen. Weiterhin gibt es kein staatliches Seenotrettungsprogramm. Stattdessen sollen die Menschen in libyschen Lagern aufgehalten werden. Die Zustände, die dort herrschen, wurden uns von Geflüchteten als menschenunwürdig und grausam beschrieben.
-
+Never before had drowned as many refugees on the central Mediterranean route as in last year. 4579 times any aid was too late, only accounting the registered deaths.  
+We can hardly imagine the real numbers of people lost.  
+And still: Europe takes no responsibility for this suffering at it's borders. There is still no government lead rescue program. Instead there are plans to keep refugees in camps in Libya. Refugees described the conditions in those camps as degrading and cruel.
 '
 
 ideals_title='
-### Unsere Ideale
+### Our Ideals
 '
 
 ideals_iuv_title='
-#### Die Iuventa
+#### THE IUVENTA
 '
 
 ideals_iuv_text='
-Mit unserem Schiff, der IUVENTA, retten wir seit dem 24. Juli 2016 Menschen aus Seenot. Insgesamt konnten unsere Crews in 7 Missionen 6.526 Menschen vor dem Tod bewahren. Unsere IUVENTA ist somit konkretes Handlungsfeld und Symbol. Wir sind selbst aktiv und handeln. Wir zeigen, dass es möglich ist, etwas gegen das Sterben zu tun. Damit durchbrechen wir das Gefühl der Ohnmacht, welches aktuell in der Politik herrscht. 
+With our ship, the IUVENTA, we are rescuing people in maritime distress since July 24th 2016. In 7 rescue missions we managed to save 6,526 lives. Our IUVENTA is a concrete field of action and a symbol simultaneously. We ourselves are active and make a change. We're showing that it's possible to do something against the dying. We are breaking through the sensation of powerlessness which is dominating politics.
 '
 
 ideals_iuv_link='
-[FOLGE DER IUVENTA AUF IHREN MISSIONEN...](./about#iuventa)
+[POSITION OF THE IUVENTA](./about#iuventa)
 '
 
 ideals_proposals_title='
-#### Unsere Forderung
+#### OUR CLAIM
 '
 
 ideals_proposals_text='
-Als junge Europäer_innen können und wollen wir den Status Quo der europäischen Asylpolitik nicht hinnehmen. Wir fordern von den politischen Akteuren die Notsituation der Menschen zu entschärfen und praktische Hilfe zu leisten. Dafür brauchen wir ein Seenotrettungsprogramm und die Entkriminalisierung von Flucht und flüchtenden Menschen. 
-Stattdessen werden die Menschen mit neugezogenen Mauern von der "Festung Europa" ferngehalten und in ihrer Mobilität eingeschränkt - Diese Maßnahmen lehnen wir ab.
+As young Europeans we cannot - and don't want to - accept the status quo of the European asylum policies. Of the political actors we demand to
+ease the distress of refugees and to offer practical help. We need a program focussing on rescue from maritime emergency and we need to decriminalise the seek for asylum and refugees.  
+Instead people are kept away from 'Fortress Europe' by newly built walls and are generally restricted in their mobility - we oppose those measures.
 '
 
 ideals_actions='
-### WAS WIR KONKRET MACHEN
+### OUR CONCRETE ACTIONS
 
-Mit dem Botschafter_Innen-Netzwerk schafft unsere Organisation eine Plattform, auf der sich junge Menschen langfristig über nationale und europäische Positionen in der Flüchtlingspolitik und Seenotrettung austauschen können. Der Verein engagiert sich also einerseits in dem konkreten und hoch symbolischen Aktionsfeld unseres Schiffes und schafft andererseits eine politische Plattform: das Botschafter_Innen- Netzwerk.
+With our network of ambassadors we're building a platform for young people to exchange national and European positions on asylum policies and maritime rescue missions on a long-term basis. The organisation is engaged in the concrete and highly symbolic actions of our ship on the one hand, and providing a political platform on the other hand: our network of embassies.
 
-### WAS WIR KONKRET MACHEN wollen
+With our IUVENTA we are patrolling on the central Mediterranean route since July 2016 near Libyan territorial waters. We search for boats in maritime distress and put the people in safety. On board of the IUVENTA we provide First Aid as well as water and food.  
+In our first year of action 2016 we carried out 7 missions in which we rescued 6,526 people from risk of death.
 
-Mit unserer IUVENTA patrouillieren wir seit Juli 2016 auf der zentralen Mittelmeerroute nahe der libyschen Hoheitsgewässer. Wir finden in Seenot geratene Boote und bringen die Menschen in Sicherheit. An Bord der IUVENTA leisten wir Erste Hilfe und versorgen die Geretteten mit Wasser und Nahrung.  
-In unserem ersten Einsatzjahr 2016 konnten wir auf 7 Rettungsmissionen 6.526 Menschen aus Lebensgefahr retten.  
-Neben der Seenotrettung wollen wir mit unserem europäischen Botschafter_innen-Netzwerk ein Zeichen setzen und mit politischer Arbeit gegen den Status Quo der europäischen Asylpolitik vorgehen. Dabei setzen wir auf die Teilnahme junger Europäer_innen am politischen Geschehen. Als junge Generation wollen wir uns aktiv an der Gestaltung einer lebenswerten Gesellschaft beteiligen. Gemeinsam machen wir auf den Missstand an unseren Außengrenzen aufmerksam, informieren über die politische Situation vor Ort und mobilisieren europaweit Unterstützer_innen. Dadurch wollen wir öffentlichen Druck auf staatliche Akteur_innen ausüben, endlich das fundamentale Recht auf Leben und Sicherheit auch auf dem Mittelmeer durchzusetzen.
+### OUR CONCRETE PLANS
+
+Besides our rescue missions we want to take a stand against the status quo of European asylum policies with our European network of embassies. We are counting on young Europeans to engage in political work. As a young generation we want to actively create a society worth living in. Together we raise awareness for the disgraceful situation on our outer borders and on the Mediterranean and mobilise supporters in all of Europe. We want to put pressure on state actors to enforce the fundamental right on life and security even on the Mediterranean.
 '
