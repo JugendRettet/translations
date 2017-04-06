@@ -40,7 +40,7 @@ Entwicklung
 about_our_story='
 ## Entwicklung
 
-!![Chronologie](../f/images/new/about_story.jpg)
+!![Entwicklung](../f/images/new/about_story.jpg)
 
 Schon von Anfang an wussten wir, dass es nicht immer einfach wird. Mit der Zeit haben wir von der Hilfe und Erfahrung anderer profitiert und uns und damit den Verein selbst weiter entwickelt.  
 Hier seht ihr unsere Meilensteine:  
@@ -81,7 +81,7 @@ Mission Equality startet und es können 140 Menschen gerettet werden.
 * **1. September**  
 Die Crew startet die Mission Responsibility und rettet 1454 Menschen.
 * **16. September**  
-Start der Rettungsmission Humanity , bei der 131 Menschen gerettet werden.
+Start der Rettungsmission Humanity, bei der 131 Menschen gerettet werden.
 * **4. Oktober**  
 In der Mission Unity ist JUGEND **RETTET** an der Rettung von 423 Menschen beteiligt.
 * **21. Oktober**  
@@ -89,14 +89,14 @@ In der Mission Dignity konnte die Crew 2733 Menschen aus Seenot retten.
 * **11. November**  
 Mission Diversity rettet 393 Menschen aus Seenot.
 * **Winter**  
-Planung der nächsten Missionen
+Planung der nächsten Missionen.
 
 ### 2017
 
 * **Ende März**  
 Umbau der IUVENTA.
 * **9. März**  
-Start der Mission: De Maiziere.
+[Start der Missionen in 2017.](./mission)
 '
 
 about_iuventa_menu='
@@ -112,7 +112,7 @@ about_iuventa='
 
 Im Mai 2016 konnten wir nach unserer erfolgreichen Crowdfunding-Kampagne und durch die Hilfe unzähliger Unterstützer_innen die IUVENTA erwerben. In den folgenden 2 Monaten wurde das Schiff umgebaut und nach Malta überführt. Seit Juli 2016 sind die Missionen der IUVENTA JUGEND **RETTET**s aktiver Beitrag zur Linderung des Leids im Mittelmeer.
 
-Ursprünglich war die 33m lange Iuventa als Fischereifahrzeug für die rauen Bedingungen der Nordsee konzipiert. Redundante Funktionen können im gesamten Schiff gefunden werden, wie z. B. zwei Hilfsmotoren und die extra robusten Konstruktionselemente des Hauptmotors, die auch unter härtesten Bedingungen einen kontinuierlichen Betrieb gewährleisten.
+Ursprünglich war die 33m lange IUVENTA als Fischereifahrzeug für die rauen Bedingungen der Nordsee konzipiert. Redundante Funktionen können im gesamten Schiff gefunden werden, wie z. B. zwei Hilfsmotoren und die extra robusten Konstruktionselemente des Hauptmotors, die auch unter härtesten Bedingungen einen kontinuierlichen Betrieb gewährleisten.
 
 Die großen Deckflächen ermöglichen die Unterbringung von bis zu 220 geretteten Personen. Planen können angebracht werden, um den Menschen Schutz vor Sonne, Wind und Regen zu bieten.  
 Auf dem Hauptdeck werden zwei schnelle Rettungsboote (RHIBS) gelagert, die mit einem hydraulischen Teleskop-Kran zu Wasser gelassen werden. Dieser wurde Anfang Februar 2017 durch ein besseres Modell ersetzt.  
@@ -155,7 +155,7 @@ Folglich ist unsere Organisation von der Körperschaftssteuer und Gewerbesteuer 
 
 Der JUGEND **RETTET** e.V. ist berechtigt Spendenbescheinigungen auszustellen.
 
-Den offiziellen Bescheid finden Sie [hier.](../f/files/Gemeinnuetzigkeit_Bescheid.pdf)
+Den offiziellen Bescheid finden Sie [hier](../f/files/Gemeinnuetzigkeit_Bescheid.pdf).
 
 ### 4. NAME UND FUNKTION WESENTLICHER ENTSCHEIDUNGSTRÄGER
 
@@ -171,9 +171,9 @@ Eine Übersicht über die Tätigkeiten des Vereins finden Sie in unserem [Jahres
 
 ### 6. PERSONALSTRUKTUR
 
-Alle an JUGEND **RETTET** beteiligten Personen, wie auch alle Berater_innen arbeiten ausschließlich auf ehrenamtlicher Basis. Unser Team besteht aus überwiegend jungen Menschen, deren Motivation für das Projekt auf das Retten auf einer Verbesserung der humanitären Lage im Mittelmeer basiert.
+Alle an JUGEND **RETTET** beteiligten Personen, wie auch alle Berater_innen arbeiten ausschließlich auf ehrenamtlicher Basis. Unser Team besteht aus überwiegend jungen Menschen, deren Motivation für das Projekt auf das Retten und auf einer Verbesserung der humanitären Lage im Mittelmeer basiert.
 
-Das JUGEND **RETTET** Kernteam in Berlin besteht aus 9 Leuten. Deutschlandweit engagieren sich derzeit 60 Personen an unserer Arbeit.
+Das JUGEND **RETTET** Kernteam in Berlin besteht aus 11 Leuten. Deutschlandweit engagieren sich derzeit mehr als 70 Personen an unserer Arbeit.
 
 ### 7./8. ANGABEN ZUR MITTELHERKUNFT- UND VERWENDUNG
 
