@@ -180,8 +180,8 @@ sub_team_sponsors_title='
 '
 
 sub_team_sponsors='
-Eine kleine Liste unserer Unterstützer_innen findet ihr hier. Wir danken jedem einzelnen für die gute Zusammenarbeit! 
-Wenn du uns auch mit Sachspenden oder ähnlichen Unterstützen möchtest, schreibe eine Mail an [Sponsor@jugendrettet.org](mailto:Sponsor@jugendrettet.org).
+Eine kleine Liste unserer Unterstützer_innen findet ihr hier. Wir danken jedem einzelnen für die gute Zusammenarbeit!  
+Wenn du uns auch mit Sachspenden oder ähnlichen Unterstützen möchtest, schreibe eine Mail an <Sponsor@jugendrettet.org>.
 
 * ![Jugendpresse.de](../f/logos/jpd.svg "Jugendpresse.de")
 * ![Santinis.de](../f/logos/Santini-Logo_sw.svg "Santinis.de")
