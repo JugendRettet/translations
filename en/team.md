@@ -10,7 +10,7 @@ index_team_title='
 '
 
 index_team_donations='
-### Spender_innen
+### Donors
 
 !![Spender_innen](../f/images/new/team_donor.jpg)
 '
@@ -28,15 +28,15 @@ index_team_crew='
 '
 
 index_team_embassies='
-### Botschafter_innen
+### Embassies
 
-!![Botschafter_innen](../f/images/new/team_embassies.jpg)
+!![Embassies](../f/images/new/team_embassies.jpg)
 '
 
 index_team_sponsors='
-### Sponsor_innen
+### Sponsors
 
-!![Sponsor_innen](../f/images/new/team_sponsor.jpg)
+!![Sponsors](../f/images/new/team_sponsor_.jpg)
 '
 
 
@@ -56,11 +56,11 @@ sub_team_berlin_title='
 sub_team_berlin='
 !![Berlin](../f/images/new/team_berlin.jpg)
 
-In Berlin schlägt das Herz unseres Vereins. Hier arbeitet das Kernteam Tag für Tag daran, die Missionen zu planen, den Verein bekannter zu machen und unsere Unterstützer_innen untereinander zu vernetzen.  
-Daneben gibt es auch eine Vielzahl an Menschen, die tagtäglich an der Planung und Organisation beteiligt sind. Egal ob Malta, Köln, oder Madrid - Zusammen schaffen wir es, über nationale Grenzen hinaus ein gemeinsames Projekt zu stemmen.
+Berlin is the heart of our organisation. Here is where our core team is working day for day on planning new missions, raising awareness and to connect our supporters.  
+But there are also a lot of contributors in other places: May it be Malta, Cologne or Madrid: every day we are working together to build our joint project beyond national borders.
 
-[Kontakt](./contact)
-[Presse](./press)
+[Contact](./contact)
+[Press](./press)
 '
 
 sub_team_crew_menu='
@@ -74,26 +74,26 @@ sub_team_crew_title='
 sub_team_crew='
 !![Crew](../f/images/new/team_crew.jpg)
 
-Bei normalen Rettungseinsätzen liegt die Besatzung zwischen 11 und 13 Personen. Für den laufenden Betrieb des Schiffes sind unsere professionell ausgebildeten Nautiker zuständig. Neben dem Kapitän kümmern sich der erste Offizier, zweite Offizier und zwei Bordingenieure darum, dass die IUVENTA immer sicher von A nach B kommt.  
-Im Rettungseinsatz besetzen jeweils 2 - 3 Crew-Mitglieder unsere beiden Schnellboote, die sich den Booten in Seenot vom Heck aus nähern und Rettungswesten verteilen. Einmal an Bord werden die gerettete Personen von unserem zweiköpfigen Ärzteteam an Bord versorgt.  
-Auf der Brücke der IUVENTA koordiniert der Head of Mission gemeinsam mit dem Kapitän den Ablauf der Rettungseinsätze.  
-Natürlich muss während eines Einsatzes auch Wasser und Essen verteilt werden, das Deck und die Schwimmwesten müssen gewaschen und das Schiff auf Vordermann gehalten werden. Hier gibt es genug Arbeit für alle.  
-Auf Malta kümmert sich außerdem noch ein dreiköpfiges Team um den reibungslosen Ablauf der laufenden Missionen und die Organisation des Camps. 
+On a usual rescue mission our crew consists of 11 - 13 people. Professionally trained nautical personnel ensures the running operation of the ship. A Captain, Chief Mate, Second Mate and two Engineers provide safe travelling on the sea.  
+In case of a rescue operation 2 - 3 crew members mount both our speedboats to approach boats in danger from the rear and to hand out life jackets to every person on the boat. After being brought onto our ship our medical team consisting of two provide medical aid.
+On the bridge of the IUVENTA the Head of Mission and Captain coordinate the rescue operations.  
+Other activities on the ship include handing out food and water, cleaning the deck and life jackets and maintaining the ship.  
+A team of three on Malta is responsible for the smooth procedure of the missions and for organising the local camp. 
 
-Unsere gesamte Crew arbeitet ehrenamtlich. Wenn du auch Teil der Crew werden möchtest, erfahre [hier](./crewing) mehr über die einzelnen Positionen.
+All crew members work unsalaried. If you'd like to become a part of our crew you can read more about the specific requierements of each position [here](./crewing).
 '
 
 sub_team_embassies_menu='
-Botschafter_innen
+Ambassadors
 '
 
 sub_team_embassies_title='
-## Botschafter_innen
+## Ambassadors
 '
 
 sub_team_embassies='
-Als Botschafter_in diskutierst du aktiv über politische Lösungen und gestaltest unsere Forderungen mit. Werde Teil unseres landesübergreifenden Netzwerkes! Außerdem machst du JUGEND RETTET in deinem Ort bekannt. Egal wo du herkommst, wir freuen uns immer über junge Menschen, die z.B. aktiv in Diskussionen teilnehmen, Vorträge organisieren, Spendenveranstaltungen machen und uns unterstützen.  
-Schaue hier, ob es vielleicht schon ein_e Botschafter_in in deinem Ort gibt, die du unterstützen kannst:
+As an ambassador you're engaged in discussions on political solutions and helping to shape our claims. Become a part of our transnational network! You'll raise awareness about JUGEND RETTET **IUVENTA** and our actions and goals in your local area. Wherever you are, we'd like to find more young people who like to engage in discussions, to hold presentations and fundraising events and support us with their ideas.  
+Take a look on the map and find out if there's already an embassy near you:
 
 <iframe id="team_emb_map" src="https://www.google.com/maps/d/u/0/embed?mid=1MPGOL2_dmS64Tq5BfVtV7KuU5UY"></iframe>
 
@@ -141,6 +141,7 @@ Schaue hier, ob es vielleicht schon ein_e Botschafter_in in deinem Ort gibt, die
 * **Ostfriesland**: [Jana](mailto:Jana_Ostfriesland@jugendrettet.org), [Julia](mailto:Julia@jugendrettet.org), [Mareke](mailto:Mareke@jugendrettet.org)
 * **Paderborn**: [Wiebke](mailto:Paderborn@jugendrettet.org)
 * **Passau**: [Ben](mailto:Ben_Passau@jugendrettet.org)
+* **Poitiers:** [Lukas](Lukas_Poitiers@jugendrettet.org)
 * **Porta Westfalica:** [Marie](Marie_PortaWestfalica@jugendrettet.org)
 * **Potsdam**: [Alex](mailto:Alex@jugendrettet.org), [Christoph](mailto:Christoph@jugendrettet.org)
 * **Roma**: [Carla](mailto:Carla_Roma@jugendrettet.org)
@@ -156,31 +157,31 @@ Schaue hier, ob es vielleicht schon ein_e Botschafter_in in deinem Ort gibt, die
 '
 
 sub_team_donations_menu='
-Spender_innen
+Donors
 '
 
 sub_team_donations_title='
-## Spender_innen
+## Donors
 '
 
 sub_team_donations='
-!![Spender_innen](../f/images/new/team_donor.jpg)
+!![Donors](../f/images/new/team_donor.jpg)
 
-Der Vielzahl an einzelnen Menschen haben wir es zu verdanken, dass wir letztes Jahr über 6500 Menschen retten konnten. Jede Spende hilft uns auc,h weiterhin Missionen umzusetzen und damit das zu tun, was nötig ist, um das Sterben zu beenden.  
-Wir sehen Spender_innen als Teil unseres Netzwerkes an, egal ob durch Zeitspenden, wenn wir Hilfe brauchen, Sachspenden für unsere Ausstattung oder durch finanzielle Unterstützung - Jede_r Einzelne hilft uns das Projekt umzusetzen. 
+It is thanks to the support of many that we were able to save over 6500 lives in the last year. Each donation helps us to further carry out rescue missions and to do what's necessary to stop the dying on the Mediterranean.  
+For us, donors are a part of our network. Regardless of whether you are helping by donating your time, donating equipment or by donating monetarily - either way will help us carrying on our missions.
 '
 
 sub_team_sponsors_menu='
-Unterstützer_innen
+Sponsors
 '
 
 sub_team_sponsors_title='
-## Unterstützer_innen
+## Sponsors
 '
 
 sub_team_sponsors='
-Eine kleine Liste unserer Unterstützer_innen findet ihr hier. Wir danken jedem einzelnen für die gute Zusammenarbeit! 
-Wenn du uns auch mit Sachspenden oder ähnlichen Unterstützen möchtest, schreibe eine Mail an [Sponsor@jugendrettet.org](mailto:Sponsor@jugendrettet.org).
+Here you can find a short list of our Sponsors. We thank all of you for the good collaboration!  
+If you as well want to help us by donating equipment or by other means, please send an email at <Sponsor@jugendrettet.org>.
 
 * ![Jugendpresse.de](../f/logos/jpd.svg "Jugendpresse.de")
 * ![Santinis.de](../f/logos/Santini-Logo_sw.svg "Santinis.de")
@@ -192,4 +193,8 @@ Wenn du uns auch mit Sachspenden oder ähnlichen Unterstützen möchtest, schrei
 * ![Stage For Peace](../f/logos/Stage_For_Piece.svg "Stage For Peace")
 * ![Falkun Films](../f/logos/Falkun_Films.svg "Falkun Films")
 * ![SbE Bundesvereinigung Stressbearbeitung nach belastenden Ereignissen e.V.](../f/logos/sbe.svg "SbE Bundesvereinigung Stressbearbeitung nach belastenden Ereignissen e.V.")
+* ![Garmin Deutschland GmbH](../f/logos/Garmin.jpg "Garmin Deutschland GmbH")
+* ![SeaServ GmbH](../f/logos/SeaServ.svg "SeaServ GmbH")
+* ![ASK Kloska GmbH](../f/logos/Kloska.svg "ASK Kloska GmbH")
+* ![Peter Schmidt Group](../f/logos/PSG.svg "Peter Schmidt Group")
 '

@@ -1,39 +1,43 @@
 # Menu item on the start page
 index_menu_donate='
-Spenden
+Donate
 '
 
 donate_title='
-## Spenden
+## Donate
+'
+
+donate_animation_text='
+Currently **8**/15 Missions in 2017 are funded.
+
+[Funding of current projects on Betterplace](/betterplace)
 '
 
 donate_betterplace_text='
-Jetzt Spenden für „Rette mit! Spende für Rettungseinsätze auf dem Mittelmeer“ bei unserem Partner betterplace.org
+Join the rescue: sea rescue on the Mediterranean". The donation is processed by our partner betterplace.org
 '
 
 donate_calc_text='
-Ich spende: 50 €
-
-Mit 50 € operiert die IUVENTA ung. 1 Stunde im Mittelmeer. Jede Sekunde kann Leben retten.
+It is the work of many that we were able to rescue 6500 people last year. Every donations helps us to carry on with our rescue missions and to do what's necessary to stop the dying on the Mediterranean.
 '
 
 donate_merch_link='
-[KAUFE UNSEREN KUSCHELIGEN MERCHANDISE](/merch)
+[HELP BY BUYING MERCHANDISE](/merch)
 '
 
 donate_donations_account='
-### SPENDENKONTO
+### ACCOUNT FOR DONATIONS
 '
 
 donate_account_info='
-**Empfänger:**  
-Jugend Rettet e.V.  
-**Kontonummer:**  
+**Beneficiary:**  
+JUGEND **RETTET** e.V.  
+**Account number:**  
 0190465743  
 **IBAN:**  
 DE28 1005 0000 0190 4657 43  
 **BIC:**  
 BELADEBEXXX  
-**Kreditinstitut:**  
+**Bank:**  
 Berliner Sparkasse
 '

@@ -88,6 +88,6 @@ rescue_as_ambassador='
 
 !![Botschafter_in](../f/images/new/rescue_embassie.jpg)
 
-Werde offizielle_r Repräsentant_in unserer Organisation bei dir vor Ort. Organisiere Spendenaktionen und -events, Informationsveranstaltungen und mache Öffentlichkeitsarbeit für unseren Verein. Wir statten dich dafür mit den notwendigen Materialien aus und sind selbstverständlich immer für Fragen ansprechbar. Du kannst in deiner Arbeit als Botschafter_in selbstverständlich selbst kreativ werden und eigene Ideen mit einbringen. Zudem kannst du dich in unserem Forum an den politischen Diskussionen zum Thema Asyl beteiligen.
-Interessiert? Dann schreib einfach eine Mail an [botschaftenAG@jugendrettet.org](mailto:botschaftenAG@jugendrettet.org)
+Werde offizielle_r Repräsentant_in unserer Organisation bei dir vor Ort. Organisiere Spendenaktionen und -events, Informationsveranstaltungen und mache Öffentlichkeitsarbeit für unseren Verein. Wir statten dich dafür mit den notwendigen Materialien aus und sind selbstverständlich immer für Fragen ansprechbar. Du kannst in deiner Arbeit als Botschafter_in selbstverständlich selbst kreativ werden und eigene Ideen mit einbringen. Zudem kannst du dich in unserem Forum an den politischen Diskussionen zum Thema Asyl beteiligen.  
+Interessiert? Dann schreib einfach eine Mail an <BotschaftenAG@jugendrettet.org>.
 '

@@ -65,7 +65,7 @@ Wir bleiben während einer Mission durchgehend im Einsatzgebiet und übernehmen 
 7 Warum übernehmt ihr die Rettung? 
 ----------------------------------
 
-2016 ertranken 4579  Menschen Mittelmeer, davon 4581 auf der zentralen Mittelmeeroute[⁴](#4). Seit dem Ende von Mare Nostrum 2014 gibt es kein umfassendes staatliches Seenotrettungsprogramm mehr. Stattdessen setzt die EU mit der Frontex-Mission Triton und der Militäroperation Sophia auf Abschottung durch Sicherung der europäischen Außengrenzen. Damit wird die humanitäre Aufgabe der Seenotrettung verkannt. Wir wollen nicht tatenlos zusehen, wie Menschen auf dem Mittelmeer ertrinken und sehen uns aufgrund fehlender staatlicher Rettungsstrukturen gezwungen, die Aufgabe der Seenotrettung selber zu übernehmen.
+2016 ertranken 4579 Menschen Mittelmeer, davon 4581 auf der zentralen Mittelmeeroute[⁴](#4). Seit dem Ende von Mare Nostrum 2014 gibt es kein umfassendes staatliches Seenotrettungsprogramm mehr. Stattdessen setzt die EU mit der Frontex-Mission Triton und der Militäroperation Sophia auf Abschottung durch Sicherung der europäischen Außengrenzen. Damit wird die humanitäre Aufgabe der Seenotrettung verkannt. Wir wollen nicht tatenlos zusehen, wie Menschen auf dem Mittelmeer ertrinken und sehen uns aufgrund fehlender staatlicher Rettungsstrukturen gezwungen, die Aufgabe der Seenotrettung selber zu übernehmen.
 
 
 8 Was ist Mare Nostrum?

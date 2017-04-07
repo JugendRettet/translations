@@ -24,13 +24,13 @@ Laufend:
 mission_current='
 ## Von der Leyen
 
-![Mission De Maizière Wellenhintergrund](../f/images/new/mission_Ursula.jpg)
+![Mission Von der Leyen Wellenhintergrund](../f/images/new/mission_Ursula.jpg)
 
 **DIE ZWEITE MISSION 2017**
 
 **Wir fordern ein staatliche Seenotrettungsprogramm, Frau von der Leyen!**  
-Seit Beginn der Mission Sophia jagen die Schiffe der Marine ein Phantom - Schlepper auf dem Mittelmeer.
-Anstatt mit 42,3 Millionen Euro Menschen aus Seenot zu retten, dürfen die Schiffe nicht aktiv die Suche und Rettung betreiben. Stattdessen müssen wir für die Politiker_innen auf See die Verantwortung übernehmen!
+Seit Beginn der Mission Sophia jagen die Schiffe der Marine ein Phantom - Schlepper auf dem Mittelmeer.  
+Anstatt mit 42,3 Millionen Euro Menschen aus Seenot zu retten, dürfen die Schiffe nicht aktiv die Suche und Rettung betreiben. Stattdessen müssen wir für die Politiker_innen auf See die Verantwortung übernehmen!  
 Frau von der Leyen hat 2015 die Schiffe mit diesem öffentlichen Auftrag der Suche und Rettung ins Seegebiet vor Libyen geschickt. Übrig geblieben ist von ihren Versprechen nur ein Mandat zur Schlepperbekämpfung. Das Wort ‘Rescue’ taucht im Mandatstext nirgends mehr auf. Für die nächsten zwei Wochen werden wir ihre Worte Wahrheit werden lassen und Seenotrettung betreiben. 
 
 ### Ergänzungen

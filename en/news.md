@@ -8,37 +8,36 @@ news_title='
 '
 
 news_follow_us='
-FOLGE UNS...
+SUBSCRIBE TO OUR NEWSLETTER
+'
+
+news_news_item_title='
+### News
 '
 
 news_news_item='
-### News
-
-**14. Oktober:** Mission Unity konnte 148 Menschen retten.
+[**March 17th:** Suddenly: Mail from the Ministry of the Interior...](./archive#top)
 '
 
 news_press_release='
-### Pressemeldung
+### Press release
 
-**09. März:** Jugend Rettet startet Mission: De Maizière 
+[**March 9th:** JUGEND RETTET **IUVENTA** starts Mission: De Maizière](../f/files/Pressemitteilung.pdf) 
 '
 
 news_events='
-### Events
-
-**17. November:** Offenes Treffen Lüneburg!
-'
-
-news_news_mission='
-### Misson: De Maizière
-
-[Wir übernehmen Verantwortung](./mission)
+[EVENTS](https://www.facebook.com/pg/JugendRettet/events/)
 '
 
 news_archive='
-[ARCHIV](./archive)
+[ARCHIVE](./archive)
 '
 
 news_follow_iuv='
-[FOLGE DER IUVENTA...](./about#iuventa)
+[POSITION OF THE IUVENTA](./about#iuventa)
 '
+
+email_placeholder='
+Your E-Mail Address
+'
+

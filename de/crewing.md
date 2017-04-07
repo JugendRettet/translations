@@ -11,7 +11,7 @@ crewing_intro='
 
 Du willst als Crewmitglied die Rettung auf dem Mittelmeer durchführen?
 
-Ab März wird die Iuventa wieder vor der libyschen Küste im Einsatz sein. Um die geplanten Missionen auch wirklich erfolgreich durchführen zu können, brauchen wir Deine Hilfe!
+Die IUVENTA ist wieder vor der libyschen Küste im Einsatz. Um die geplanten Missionen auch wirklich erfolgreich durchführen zu können, brauchen wir Deine Hilfe!
 
 Wir suchen Menschen mit Berufserfahrung, die sich über das hohe Risiko der Rettungsaktionen bewusst sind. Bitte frage dich selbst, ob du dir die Situation zutraust. Aufgrund der besonderen Anforderungen sind wir gezwungen die Crew sehr sorgsam auszuwählen.
 
