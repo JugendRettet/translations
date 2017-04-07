@@ -4,7 +4,7 @@ Jugend Rettet **IUVENTA**
 '
 
 intro_title='
-# Jugend Rettet **IUVENTA**
+# JUGEND RETTET **IUVENTA**
 '
 
 intro='
