@@ -197,4 +197,5 @@ If you as well want to help us by donating equipment or by other means, please s
 * ![SeaServ GmbH](../f/logos/SeaServ.svg "SeaServ GmbH")
 * ![ASK Kloska GmbH](../f/logos/Kloska.svg "ASK Kloska GmbH")
 * ![Peter Schmidt Group](../f/logos/PSG.svg "Peter Schmidt Group")
+* ![Raymarine](../f/logos/Raymarine_Logo_2017.svg "Raymarine")
 '
