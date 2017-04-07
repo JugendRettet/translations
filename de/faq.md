@@ -47,7 +47,7 @@ Die Koordination der Rettungseinsätze auf dem Mittelmeer übernimmt das Maritim
 4 Wo ist euer Schiff im Einsatz? 
 --------------------------------
 
-Unser Schiff patrouilliert auf dem Mittelmeer zwischen Libyen und Italien. Dieser Seeweg wird als zentrale Mittelmeerroute beschrieben, über die Menschen auf der Flucht versuchen nach Europa zu gelangen. Die meisten Rettungen finden innerhalb der 24-Meilenzone (außerhalb des lybischen Hoheitsgewässers) statt.
+Unser Schiff patrouilliert auf dem Mittelmeer zwischen Libyen und Italien. Dieser Seeweg wird als zentrale Mittelmeerroute beschrieben, über die Menschen auf der Flucht versuchen nach Europa zu gelangen. Die meisten Rettungen finden innerhalb der 24-Meilenzone (außerhalb des libyschen Hoheitsgewässers) statt.
 
 
 5 Woher kommen die Menschen, die über die zentrale Mittelmeerroute flüchten?

@@ -39,31 +39,31 @@ We rescue people whose lives are in danger on the Mediterranean. Who these rescu
 3  How do you rescue these people?
 ----------------------------------
 
-The coordination of the rescue operations in the Mediterranean is conducted by the Maritime Rescue Coordination Centre, situated in Rome. We are informed about ships in distress via radio or we report back if we sight a ship in distress.2 Subsequently we will approach the endangered vessel and enquire the number of pregnant women and children on board, as they have priority in being rescued. We take everyone on board and provide them with food, drinking water and medical first aid.
+The coordination of the rescue operations in the Mediterranean is conducted by the Maritime Rescue Coordination Centre, situated in Rome. We are informed about ships in distress via radio or we report back if we sight a ship in distress. Subsequently we will approach the endangered vessel and enquire the number of pregnant women and children on board, as they have priority in being rescued. We take everyone on board and provide them with food, drinking water and medical first aid.
 
 
 4 Where is your ship operating?
 ------------------------------------
 
-Our Ship is patrolling on the Mediterranean between Libya and Italy. The Sea route is deemed a central Mediterranean route, through which the populace of refugees attempt to reach Europe.
+Our Ship is patrolling on the Mediterranean between Libya and Italy. The Sea route is deemed a central Mediterranean route, through which the populace of refugees attempt to reach Europe. Most of the rescue operations take place inside the 24 nautical mile area, although outside of Libyan territorial waters.
 
 
-5 Where do the people who escape via the central Mediterannean route come from?
+5 Where do the people who escape via the central Mediteranean route come from?
 -------------------------------------------------------------------------------
 
-The majority of people comes from Syria, Eritrea and Sub-Saharan Africa.[³](#3)
+The IOM reported that in 2016 the majority of people taking that route come from Nigeria, Eritrea und Guinea.[³](#3)
 
 
 6 Where do you take the people after the rescue?
 ------------------------------------------------
 
-Approximately 3500 People died on the Mediterranean in 2014. There has not been a universal state rescue program on the Mediterranean since the end of Mare Nostrum. Instead came Frontex with its Mission Triton mission, who is ostensibly responsible for securing the external borders of Europe.6 As there has not been any sufficient rescue efforts on behalf of the state, we are compelled and feel urged to become involved.
+While on our rescue missions we don't leave the search and rescue zone and don't transfer the rescued people. In accordance with instructions by the Maritime Rescue Coordination Centre Rom and with agreements with other actors in the search and rescue zone we hand over the rescued people to larger ships, which transfer them to Italy.
 
 
 7 Why would you take over the rescue operations?
 ------------------------------------------------
 
-4579 People died on the Mediterranean in 2016, 4581 of them on the central Mediterranean route[⁴](#4). There has not been a universal state rescue program on the Mediterranean since the end of Mare Nostrum in 2014. Instead came Frontex with its Mission Triton mission, who is ostensibly responsible for securing the external borders of Europe.6 As there has not been any sufficient rescue efforts on behalf of the state, we are compelled and feel urged to become involved.
+4579 People died on the Mediterranean in 2016, 4581 of them on the central Mediterranean route[⁴](#4). There has not been a universal state rescue program on the Mediterranean since the end of Mare Nostrum in 2014. Instead came Frontex with its Mission Triton mission, who is ostensibly responsible for securing the external borders of Europe. As there has not been any sufficient rescue efforts on behalf of the state, we are compelled and feel urged to become involved.
 
 8 What is Mare Nostrum?
 -----------------------
@@ -74,7 +74,7 @@ Mare Nostrum was the Italian Sea rescue operation which was conducted by the Ita
 9 What is Frontex?
 ------------------
 
-Frontex is a european border protection agency with its headquarters in Warsaw, whose task is to coordinate the operations on external EU-borders. An important goal of the Agency is to combat the illegal immigration through external EU borders.[⁶](#6)
+Frontex is a European border protection agency with its headquarters in Warsaw, whose task is to coordinate the operations on external EU-borders. An important goal of the Agency is to combat the irregular ('illegal') immigration through external EU borders.[⁶](#6)
 
 
 10 What is Triton?
@@ -98,19 +98,18 @@ In May 2015 Germany sent two Marine ships to the Mediterranean with the task of 
 13 Aren't you supporting smugglers with your actions?
 -----------------------------------------------------
 
-The lack of legal routes into Europe is forcing humans to trust smugglers with their lives. That way, criminals can run a profitable business on their despair. What kind of distress is someone going through to put themselves on a tiny dinghy across the Mediterranean Sea? We are convinced that only long-run improvements in the regions of origin will lead to less refugees on the Mediterranean. As long as improvements aren't implemented, smugglers will make a profit out of the hopeless situation of refugees, irrespective of rescue missions in place.
-
+The humanitarian catastrophe taking place in the Mediterranean is often credited to so called smuggler networks. This is a false conclusion as people are to fleeing because there are smugglers. Instead there are smugglers because people are forced to flee. They are fleeing from war, violence and repression. The lack of legal routes into Europe is forcing humans to trust smugglers with their lives. That way, criminals can run a profitable business on their despair. What kind of distress is someone going through to put themselves on a tiny dinghy across the Mediterranean Sea? In such a kind of business smugglers make profits regardless of whether there are rescue missions or not. We are convinced that only legal migration routes to Europe can make a change towards a more human situation. As long as the status quo stands we will continue our rescue missions. There is no justification for holding political debates above human lives.
 
 15 Why is the youth aspect so important to you?
 -----------------------------------------------
 
-With our organization we show that young people are able to move something without a big umbrella organization in the back. But we do not only speak to young adults as their possibilities to change world problems are often underestimated. Furthermore the youth aspect is making us stronger regarding our politcal demand: If even us young people manage to finance a ship, why doesn’t the German governmanet manage so?
+With our organization we show that young people are able to move something without a big umbrella organization in the back. But we do not only speak to young adults as their possibilities to change world problems are often underestimated. Furthermore the youth aspect is making us stronger regarding our political demand: If even us young people manage to finance a ship, why doesn’t the German government manage to do so?
 
 
 16 Why is in a time like that, a ship the on the Mediterranean most important? 
 ------------------------------------------------------------------------------
 
-The deaths on the Mediterranean central route are vanished from the headlines, but the situation hasn’t. The number of refugees and deaths are as high as ever and therefore the distance between Libya and Italy stays the most dangerous escape way. We don’t let the media tell us that all the refugees have arrived and that the only important thing now is their integration. We engage ourselves now to be there in 2016 before the next message about a big disaster on the Mediterranean appears.
+The Mediterranean has become a symbol of European Isolation policy: Despite of human lives being at risk every day on the Mediterranean there's no state-run rescue program. The focus lies on securing borders and on uncovering smuggler networks. Our ship is a strong symbol against the European indifference to the dying in the Mediterranean. The right to life and security applies to everyone, everywhere.
 
 - - -
 '
