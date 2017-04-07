@@ -34,7 +34,7 @@ news_archive='
 '
 
 news_follow_iuv='
-[POSITION DER IUVENTA](./missions#current)
+[POSITION DER IUVENTA](./mission#current)
 '
 
 email_placeholder='
