@@ -1,6 +1,6 @@
 # Menu item on the start page
 index_menu_press='
-Presse
+Press
 '
 
 press='

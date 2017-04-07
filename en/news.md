@@ -20,7 +20,7 @@ news_news_item='
 '
 
 news_press_release='
-### Pressemeldung
+### Press release
 
 [**March 9th:** JUGEND RETTET **IUVENTA** starts Mission: De Maizière](../f/files/Pressemitteilung.pdf) 
 '
