@@ -36,3 +36,7 @@ news_archive='
 news_follow_iuv='
 [POSITION DER IUVENTA](./about#iuventa)
 '
+
+email_placeholder='
+Deine E-Mail-Adresse
+'
