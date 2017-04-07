@@ -105,6 +105,8 @@ IUVENTA
 
 about_iuventa_title='
 ## The IUVENTA
+
+!![The Iuventa](../f/images/new/about_iuventa.jpg)
 '
 
 about_iuventa='
@@ -124,7 +126,7 @@ Typically for a fishing vessel the freeboard is remarkably low for handling nets
 
 On a usual rescue mission the crew consists of at least 13 members.
 
-**[Current mission](./mission)**
+**[Current mission and position of the IUVENTA](./mission)**
 '
 
 about_transparency_menu='

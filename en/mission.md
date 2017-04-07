@@ -21,11 +21,11 @@ Ongoing:
 [**Mission 2**: Von der Leyen](./mission)
 '
 
-mission_current='
+mission_current_title='
 ## Von der Leyen
+'
 
-![Mission De Maizière background](../f/images/new/mission_Ursula.jpg)
-
+mission_current='
 **THE SECOND MISSION 2017**
 
 **We demand a state-run rescue mission, Frau von der Leyen!**  
