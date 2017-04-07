@@ -105,6 +105,8 @@ IUVENTA
 
 about_iuventa_title='
 ## Die IUVENTA
+
+!![Die Iuventa](../f/images/new/about_iuventa.jpg)
 '
 
 about_iuventa='
@@ -120,7 +122,7 @@ Typischerweise für ein Fischereifahrzeug ist das Freibord bemerkenswert niedrig
 
 Bei normalen Rettungseinsätzen liegt die Besatzung bei mindestens 13 Personen.
 
-**[Unsere aktuelle Mission](./mission)**
+**[Unsere aktuelle Mission und Position der IUVENTA](./mission)**
 '
 
 about_transparency_menu='

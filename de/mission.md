@@ -21,11 +21,11 @@ Laufend:
 [**Mission 2**: Von der Leyen](./mission)
 '
 
-mission_current='
+mission_current_title='
 ## Von der Leyen
+'
 
-![Mission Von der Leyen Wellenhintergrund](../f/images/new/mission_Ursula.jpg)
-
+mission_current='
 **DIE ZWEITE MISSION 2017**
 
 **Wir fordern ein staatliche Seenotrettungsprogramm, Frau von der Leyen!**  

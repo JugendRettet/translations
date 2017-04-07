@@ -34,10 +34,6 @@ ideals_iuv_text='
 With our ship, the IUVENTA, we are rescuing people in maritime distress since July 24th 2016. In 7 rescue missions we managed to save 6,526 lives. Our IUVENTA is a concrete field of action and a symbol simultaneously. We ourselves are active and make a change. We're showing that it's possible to do something against the dying. We are breaking through the sensation of powerlessness which is dominating politics.
 '
 
-ideals_iuv_link='
-[POSITION OF THE IUVENTA](./about#iuventa)
-'
-
 ideals_proposals_title='
 #### OUR CLAIM
 '

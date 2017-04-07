@@ -34,7 +34,7 @@ news_archive='
 '
 
 news_follow_iuv='
-[POSITION DER IUVENTA](./about#iuventa)
+[POSITION DER IUVENTA](./missions#current)
 '
 
 email_placeholder='
