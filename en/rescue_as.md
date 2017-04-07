@@ -1,69 +1,93 @@
 # Menu item on the start page
 index_menu_rescue='
-Rette Mit
+Join as...
 '
 
 
 # section on the start page
 
 index_rescue_as_title='
-## Rette mit als...
+## Join as...
 '
 
 index_rescue_as_sponsor='
-### Sponsor_in
+### Sponsor
 
-!![Sponsor_in](../f/images/new/rescue_sponsor.jpg)
+!![Sponsor](../f/images/new/rescue_sponsor_.jpg)
 '
 
 index_rescue_as_donator='
-### Spender_in
+### Donor
 
-!![Spender_in](../f/images/new/rescue_donor.jpg)
+!![Donor](../f/images/new/rescue_donor.jpg)
 '
 
 index_rescue_as_voluntary='
-### Freiwillige_r
+### Volunteer
 
-!![Freiwillige_r](../f/images/new/rescue_helper.jpg)
+!![Volunteer](../f/images/new/rescue_help.jpg)
 '
 
 index_rescue_as_ambassador='
-### Botschafter_in
+### Ambassador
 
-!![Botschafter_in](../f/images/new/rescue_embassies.gif)
+!![Ambassador](../f/images/new/rescue_embassie.jpg)
 '
 
 
 # actual page
 
-rescue_as='
-# Rette mit als...
+rescue_as_title='
+# Join as...
+'
 
-## Sponsor_in
+rescue_as_sponsor_menu='
+Sponsor
+'
 
-!![Sponsor_in](../f/images/new/team_berlin.jpg)
+rescue_as_sponsor='
+## Sponsor
 
-Werde jetzt Sponsor_in und unterstütze unsere Arbeit mit einem monatlichen Betrag. Deine Unterstützung hilft uns dabei unsere Mission im Mittelmeer zu finanzieren und Menschen aus Seenot zu retten.
+!![Sponsor](../f/images/new/rescue_sponsor_.jpg)
 
-## Spender_in
+Become a sponsor now and help us continue our work with a monthly donation. Your sponsorship supports our funding of rescue missions in the Mediterranean and rescuing people in maritime distress.
+'
 
-!![Spender_in](../f/images/new/rescue_donor.jpg)
+rescue_as_donor_menu='
+Donor
+'
 
-Mit deiner Spende sorgst du dafür, dass wir mit unserem Schiff im zentralen Mittelmeer weiterhin Menschen aus Seenot retten können.
+rescue_as_donor='
+## Donor
 
-[Spenden](./#donate)
+!![Donor](../f/images/new/rescue_donor.jpg)
 
-## Freiwillige_r
+With your donation you are ensuring that we can continue rescuing people in maritime distress with our ship.
 
-!![Freiwillige_r](../f/images/new/rescue_helper.jpg)
+[Donate](./#donate)
+'
 
-Wir sind immer auf der Suche nach qualifizierten Personen, die unsere Rettungsmission im Mittelmeer unterstützen. Mehr Informationen zu den Anforderungen und wie du dich bewerben kannst, findest du [hier](./crewing).
+rescue_as_helper_menu='
+Volunteer
+'
 
-## Botschafter_in
+rescue_as_helper='
+## Volunteer
 
-!![Botschafter_in](../f/images/new/rescue_embassies.gif)
+!![Volunteer](../f/images/new/rescue_help.jpg)
 
-Werde offizielle_r Repräsentant_in unserer Organisation bei dir vor Ort. Organisiere Spendenaktionen und -events, Informationsveranstaltungen und mache Öffentlichkeitsarbeit für unseren Verein. Wir statten dich dafür mit den notwendigen Materialien aus und sind selbstverständlich immer für Fragen ansprechbar. Du kannst in deiner Arbeit als Botschafter_in selbstverständlich selbst kreativ werden und eigene Ideen mit einbringen. Zudem kannst du dich in unserem Forum an den politischen Diskussionen zum Thema Asyl beteiligen.
-Interessiert? Dann schreib einfach eine Mail an [botschaftenAG@jugendrettet.org](mailto:botschaftenAG@jugendrettet.org)
+We are always looking for qualified volunteers to assist our rescue missions on the Mediterranean. You can find more information on the requirements and how to apply [here](./crewing).
+'
+
+rescue_as_ambassador_menu='
+Ambassador
+'
+
+rescue_as_ambassador='
+## Ambassador
+
+!![Ambassador](../f/images/new/rescue_embassie.jpg)
+
+Become an official representative of our organisation in your local area. Organise fundraising events, presentations and do PR. We provide the neccessary materials and aid in case of any questions. You can help JUGEND RETTET **IUVENTA** by getting creative and bringing in your own ideas. Meet the other ambassadors in our online forum and engage in discussions on asylum policies.  
+Interested? Sent us an email at <Embassies@jugendrettet.org>.
 '
