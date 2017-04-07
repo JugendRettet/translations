@@ -122,7 +122,7 @@ Since 2am our crew is in use again. An emergency call from the MRCC woke the cre
 
 #### **November 3rd** Rescue of 420 people
 
-UNHCR informs that 239 people are missing after the catastrophe between Lybia and Italy yesterday evening. Today was a rough day as well. Our crew of „Mission Dignity“ assisted rescuing 420 people from maritime emergency. All passengers were brought to the Phoenix of MOAS safely.  Right now our crew is still busy with ongoing rescue missions. Catastrophes like the one that happened yesterday can be avoided: By safe and legal passages! We demand action from European governments and the civil society right now!
+UNHCR informs that 239 people are missing after the catastrophe between Libya and Italy yesterday evening. Today was a rough day as well. Our crew of „Mission Dignity“ assisted rescuing 420 people from maritime emergency. All passengers were brought to the Phoenix of MOAS safely.  Right now our crew is still busy with ongoing rescue missions. Catastrophes like the one that happened yesterday can be avoided: By safe and legal passages! We demand action from European governments and the civil society right now!
 
 
 #### **October 29th** Refugee Rescue Solidarity Party in Berlin
