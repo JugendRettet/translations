@@ -151,7 +151,7 @@ Schaue hier, ob es vielleicht schon ein_e Botschafter_in in deinem Ort gibt, die
 * **Stockholm**: [Jonas](mailto:Jonas_Stockholm@jugendrettet.org)
 * **Warszawa**: [Marcin](mailto:Marcin_Warszawa@jugendrettet.org)
 * **Weimar**: [Manuel](mailto:Manuel_Weimar@jugendrettet.org)
-* **Würzburg:** [Jakob](Jakob_Wuerzburg@jugendrettet.org)
+* **Würzburg:** [Jakob](mailto:Jakob_Wuerzburg@jugendrettet.org)
 * **Zürich**: [Adrian](mailto:Adrian_Zuerich@jugendrettet.org)
 * **Überlingen**: [Johnny](mailto:Johnny_Ueberlingen@jugendrettet.org)
 '
