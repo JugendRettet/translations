@@ -18,7 +18,7 @@ Sebastian Kurz
 
 donate_animation_mission='
 Ongoing:  
-[**Mission 3**: Von der Leyen](./mission)
+[**Mission 3**: Sebastian Kurz](./mission)
 '
 
 mission_current_title='
