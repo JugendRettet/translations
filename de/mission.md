@@ -7,13 +7,13 @@ mission_title='
 '
 
 news_news_mission='
-### Mission: Von der Leyen
+### Mission: Sebastian Kurz
 
 [Wir übernehmen Verantwortung](./mission)
 '
 
 mission_current_menu='
-Von der Leyen
+Sebastian Kurz
 '
 
 donate_animation_mission='
