@@ -32,7 +32,7 @@ ideals_iuv_title='
 '
 
 ideals_iuv_text='
-Mit unserem Schiff, der IUVENTA, retten wir seit dem 24. Juli 2016 Menschen aus Seenot. Insgesamt konnten unsere Crews in 7 Missionen 6.526 Menschen vor dem Tod bewahren. Unsere IUVENTA ist somit konkretes Handlungsfeld und Symbol. Wir sind selbst aktiv und handeln. Wir zeigen, dass es möglich ist, etwas gegen das Sterben zu tun. Damit durchbrechen wir das Gefühl der Ohnmacht, welches aktuell in der Politik herrscht. 
+Mit unserem Schiff, der IUVENTA, retten wir seit dem 24. Juli 2016 Menschen aus Seenot. Im Jahr 2016 konnten unsere Crews in 7 Missionen 6.526 Menschen vor dem Tod bewahren. Seit Anfang März 2017 sind wir wieder vor der Libybschen Küste aktiv. Unsere IUVENTA ist somit konkretes Handlungsfeld und Symbol. Wir sind selbst aktiv und handeln. Wir zeigen, dass es möglich ist, etwas gegen das Sterben zu tun. Damit durchbrechen wir das Gefühl der Ohnmacht, welches aktuell in der Politik herrscht. 
 '
 
 ideals_proposals_title='

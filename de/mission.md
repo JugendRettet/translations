@@ -7,35 +7,41 @@ mission_title='
 '
 
 news_news_mission='
-### Mission: Von der Leyen
+### Mission: Sebastian Kurz
 
 [Wir übernehmen Verantwortung](./mission)
 '
 
 mission_current_menu='
-Von der Leyen
+Sebastian Kurz
 '
 
 donate_animation_mission='
 Laufend:  
-[**Mission 2**: Von der Leyen](./mission)
+[**Mission 3**: Sebastian Kurz](./mission)
 '
 
 mission_current_title='
-## Von der Leyen
+## Sebastian Kurz
 '
 
 mission_current='
-**DIE ZWEITE MISSION 2017**
+**DIE DRITTE MISSION 2017**
 
-**Wir fordern ein staatliche Seenotrettungsprogramm, Frau von der Leyen!**  
-Seit Beginn der Mission Sophia jagen die Schiffe der Marine ein Phantom - Schlepper auf dem Mittelmeer.  
-Anstatt mit 42,3 Millionen Euro Menschen aus Seenot zu retten, dürfen die Schiffe nicht aktiv die Suche und Rettung betreiben. Stattdessen müssen wir für die Politiker_innen auf See die Verantwortung übernehmen!  
-Frau von der Leyen hat 2015 die Schiffe mit diesem öffentlichen Auftrag der Suche und Rettung ins Seegebiet vor Libyen geschickt. Übrig geblieben ist von ihren Versprechen nur ein Mandat zur Schlepperbekämpfung. Das Wort ‘Rescue’ taucht im Mandatstext nirgends mehr auf. Für die nächsten zwei Wochen werden wir ihre Worte Wahrheit werden lassen und Seenotrettung betreiben. 
+**Erkennen sie die Not der Menschen an, Herr Kurz**
 
-### Ergänzungen
+Erst im März haben Sie davon gesprochen, dass der „NGO-Wahnsinn“ im Mittelmeer beendet werden müsse. Wir würden uns auch freuen, wenn unsere Arbeit überflüssig werden würde. Aber nicht so! 
+Weil Sie die Not der Menschen nicht anerkennen wollen und lieber ein isoliertes Europa sehen möchten, handeln wir dort, wo Sie es nicht tun. Und benennen deshalb unsere Mission nach Ihnen!
 
-[Brief an Frau Von der Leyen](https://www.facebook.com/JugendRettet/photos/a.415060405369865.1073741826.409016039307635/639754809567089/?type=3&theater)
+Wir kritisieren schon seit dem Beginn unseres Projekts die Tatsache, dass private Initiativen die Aufgabe der Seenotrettung übernehmen müssen. Leider gibt es jedoch von staatlicher Seite keine Maßnahmen, die dem Leid und der Not der flüchtenden Menschen entgegenwirken: Es existieren weder umfassende staatliche Seenotrettungsprogramme, noch Maßnahmen, die der illegalisierten Migration vernünftige Einreisemöglichkeiten entgegensetzten.
+Stattdessen versuchen die EU-Regierungen den Missstand auf dem Mittelmeer schlicht aus dem Blickfeld der europäischen Gemeinschaft zu schaffen. Ihre Forderungen, die flüchtenden Menschen nach australischem Vorbild in Lagern außerhalb der EU unterzubringen, schießt genau in dieselbe Richtung: Auffanglager in Nordafrika und der Ausbau der europäischen Grenzsicherung wird die Not der Menschen nicht beenden und das Problem nicht lösen.
+
+Die Schließung der Balkanroute, an der Sie so eifrig gearbeitet haben, steht sinnbildlich dafür, dass solche politischen Maßnahmen vollkommen unzweckmäßig sind. Das Vorgehen, das Sie auch noch als Erfolg titulieren, hat schlichtweg dafür gesorgt, dass sich die Fluchtrouten verlagert haben und mittlerweile mehrere tausend Flüchtende in Griechenland festsitzen. Die Schließung hat weder zu einer Verbesserung für diese Menschen geführt, noch die Migrationsbewegung positiv beeinflusst. 
+Nun werben Sie für die Schließung der Mittelmeerroute. Für ein Europa ohne Geflüchtete, ohne Empathie und ohne moralisches Bewusstsein.
+Australien lässt Geflüchtete in menschenunwürdigen Unterkünften auf abgeschotteten Inseln versauern. Menschenrechtsorganisationen berichten regelmäßig von gewaltvollen Attacken, Vergewaltigungen und Missbrauch von Kindern in diesen Lagern. Soll das ernsthaft das Vorbild für europäische Asylpolitik sein?
+
+Sie klagen an, dass die NGOs im Mittelmeer die Partner der Schlepper seien. Denn auf Grund fehlender Alternativen sind flüchtende Menschen erst gezwungen ihr Leben Schleppern anzuvertrauen. Vielleicht sollten Sie mal über diese Kausalkette nachdenken, anstatt den Organisationen, die Menschen vor dem Ertrinken bewahren, die Schuld in die Schuhe zu schieben.
+
 '
 
 mission_procedure_menu='
@@ -57,6 +63,17 @@ Archiv
 
 mission_archive='
 ## Archiv
+
+### Mission Von der Leyen
+
+**DIE ZWEITE MISSION 2017**
+
+**Wir fordern ein staatliche Seenotrettungsprogramm, Frau von der Leyen!**  
+Seit Beginn der Mission Sophia jagen die Schiffe der Marine ein Phantom - Schlepper auf dem Mittelmeer.  
+Anstatt mit 42,3 Millionen Euro Menschen aus Seenot zu retten, dürfen die Schiffe nicht aktiv die Suche und Rettung betreiben. Stattdessen müssen wir für die Politiker_innen auf See die Verantwortung übernehmen!  
+Frau von der Leyen hat 2015 die Schiffe mit diesem öffentlichen Auftrag der Suche und Rettung ins Seegebiet vor Libyen geschickt. Übrig geblieben ist von ihren Versprechen nur ein Mandat zur Schlepperbekämpfung. Das Wort ‘Rescue’ taucht im Mandatstext nirgends mehr auf. Für die nächsten zwei Wochen werden wir ihre Worte Wahrheit werden lassen und Seenotrettung betreiben. 
+
+[Brief an Frau Von der Leyen](https://www.facebook.com/JugendRettet/photos/a.415060405369865.1073741826.409016039307635/639754809567089/?type=3&theater)
 
 ### Mission De Maizière
 
