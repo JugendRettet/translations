@@ -11,20 +11,14 @@ index_about_us_title='
 
 index_about_us_our_story_title='
 ### Our Story
-
-!![Our Story](../f/images/new/about_story.jpg)
 '
 
 index_about_us_iuv_title='
 ### The Iuventa
-
-!![The Iuventa](../f/images/new/about_iuventa.jpg)
 '
 
 index_about_us_transparency_title='
 ### Transparency
-
-!![Transparency](../f/images/new/about_transparenz.jpg)
 '
 
 # actual page
@@ -37,11 +31,11 @@ about_our_story_menu='
 Our Story
 '
 
-about_our_story='
+about_our_story_title='
 ## Our Story
+'
 
-!![Our Story](../f/images/new/about_story.jpg)
-
+about_our_story='
 Right from the beginning we knew that our goals would be hard to reach. As time passed we grew as persons and as an organisation by learning from the experiences of others and with the help of many.
 Here are our most important milestones:
 
@@ -105,8 +99,6 @@ IUVENTA
 
 about_iuventa_title='
 ## The IUVENTA
-
-!![The Iuventa](../f/images/new/about_iuventa.jpg)
 '
 
 about_iuventa='
@@ -133,11 +125,11 @@ about_transparency_menu='
 Transparency
 '
 
-about_transparency='
+about_transparency_title='
 ## Transparency
+'
 
-!![Initiative Transparente Zivilgesellschaft](../f/logos/Transparente_Zivilgesellschaft.svg)
-
+about_transparency='
 JUGEND RETTET **IUVENTA** is aware of it's duties as a responsible and trustworthy charitable organisation and takes them seriously. Transparency is important to us. This is why we joined the [ITZ](http://www.transparente-zivilgesellschaft.de/)  (Initiative for a transparent civil society) as a member. This means that we committed to make following information public and to keep it up to date.
 
 ### 1. NAME, RESIDENCE, ADDRESS AND YEAR OF FOUNDING

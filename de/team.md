@@ -11,32 +11,22 @@ index_team_title='
 
 index_team_donations='
 ### Spender_innen
-
-!![Spender_innen](../f/images/new/team_donor.jpg)
 '
 
 index_team_berlin='
 ### Berlin
-
-!![Berlin](../f/images/new/team_berlin.jpg)
 '
 
 index_team_crew='
 ### Crew
-
-!![Crew](../f/images/new/team_crew.jpg)
 '
 
 index_team_embassies='
 ### Botschafter_innen
-
-!![Botschafter_innen](../f/images/new/team_embassies.jpg)
 '
 
 index_team_sponsors='
 ### Sponsor_innen
-
-!![Sponsor_innen](../f/images/new/team_sponsor_.jpg)
 '
 
 
@@ -54,8 +44,6 @@ sub_team_berlin_title='
 '
 
 sub_team_berlin='
-!![Berlin](../f/images/new/team_berlin.jpg)
-
 In Berlin schlägt das Herz unseres Vereins. Hier arbeitet das Kernteam Tag für Tag daran, die Missionen zu planen, den Verein bekannter zu machen und unsere Unterstützer_innen untereinander zu vernetzen.  
 Daneben gibt es auch eine Vielzahl an Menschen, die tagtäglich an der Planung und Organisation beteiligt sind. Egal ob Malta, Köln, oder Madrid - Zusammen schaffen wir es, über nationale Grenzen hinaus ein gemeinsames Projekt zu stemmen.
 
@@ -72,8 +60,6 @@ sub_team_crew_title='
 '
 
 sub_team_crew='
-!![Crew](../f/images/new/team_crew.jpg)
-
 Bei normalen Rettungseinsätzen liegt die Besatzung zwischen 11 und 13 Personen. Für den laufenden Betrieb des Schiffes sind unsere professionell ausgebildeten Nautiker zuständig. Neben dem Kapitän kümmern sich der erste Offizier, zweite Offizier und zwei Bordingenieure darum, dass die IUVENTA immer sicher von A nach B kommt.  
 Im Rettungseinsatz besetzen jeweils 2 - 3 Crew-Mitglieder unsere beiden Schnellboote, die sich den Booten in Seenot vom Heck aus nähern und Rettungswesten verteilen. Einmal an Bord werden die gerettete Personen von unserem zweiköpfigen Ärzteteam an Bord versorgt.  
 Auf der Brücke der IUVENTA koordiniert der Head of Mission gemeinsam mit dem Kapitän den Ablauf der Rettungseinsätze.  
@@ -165,8 +151,6 @@ sub_team_donations_title='
 '
 
 sub_team_donations='
-!![Spender_innen](../f/images/new/team_donor.jpg)
-
 Der Vielzahl an einzelnen Menschen haben wir es zu verdanken, dass wir letztes Jahr über 6500 Menschen retten konnten. Jede Spende hilft uns auch weiterhin Missionen umzusetzen und damit das zu tun, was nötig ist, um das Sterben zu beenden.  
 Wir sehen Spender_innen als Teil unseres Netzwerkes an, egal ob durch Zeitspenden, wenn wir Hilfe brauchen, Sachspenden für unsere Ausstattung oder durch finanzielle Unterstützung - Jede_r Einzelne hilft uns das Projekt umzusetzen. 
 '
