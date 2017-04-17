@@ -6,10 +6,6 @@ archive_title='
 # Archiv
 '
 
-archive_2017_menu='
-2017
-'
-
 archive_2017='
 ## 2017
 
@@ -21,10 +17,6 @@ archive_2017='
 [Teil 2](https://www.facebook.com/notes/jugend-rettet-ev/wenn-dir-das-innenministerium-aufeinmal-schreibt-teil-2/638090533066850)
 
 #### **16. März:** Mission De Maizière wurde beendet und konnte 110 Menschen retten.
-'
-
-archive_2016_menu='
-2016
 '
 
 archive_2016='
@@ -1158,10 +1150,6 @@ Die Aachener Nachrichten haben unser Team vor Ort besucht und über uns geschrie
 #### **04. Januar 2016** Bericht im K50 - Magazin für Köln und Region
 
 Im K50 - Magazin für Köln und Region ist ein kleiner Bericht über uns erschienen. Wenn ihr bei uns dabei sein wollt, dann meldet euch bei unserem Kölner Botschafter <a href="mailto:carlo@jugendrettet.org">Carlo</a>.
-'
-
-archive_2015_menu='
-2015
 '
 
 archive_2015='
