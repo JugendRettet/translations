@@ -11,32 +11,22 @@ index_team_title='
 
 index_team_donations='
 ### Donors
-
-!![Spender_innen](../f/images/new/team_donor.jpg)
 '
 
 index_team_berlin='
 ### Berlin
-
-!![Berlin](../f/images/new/team_berlin.jpg)
 '
 
 index_team_crew='
 ### Crew
-
-!![Crew](../f/images/new/team_crew.jpg)
 '
 
 index_team_embassies='
 ### Embassies
-
-!![Embassies](../f/images/new/team_embassies.jpg)
 '
 
 index_team_sponsors='
 ### Sponsors
-
-!![Sponsors](../f/images/new/team_sponsor_.jpg)
 '
 
 
@@ -54,8 +44,6 @@ sub_team_berlin_title='
 '
 
 sub_team_berlin='
-!![Berlin](../f/images/new/team_berlin.jpg)
-
 Berlin is the heart of our organisation. Here is where our core team is working day for day on planning new missions, raising awareness and to connect our supporters.  
 But there are also a lot of contributors in other places: May it be Malta, Cologne or Madrid: every day we are working together to build our joint project beyond national borders.
 
@@ -72,8 +60,6 @@ sub_team_crew_title='
 '
 
 sub_team_crew='
-!![Crew](../f/images/new/team_crew.jpg)
-
 On a usual rescue mission our crew consists of 11 - 13 people. Professionally trained nautical personnel ensures the running operation of the ship. A Captain, Chief Mate, Second Mate and two Engineers provide safe travelling on the sea.  
 In case of a rescue operation 2 - 3 crew members mount both our speedboats to approach boats in danger from the rear and to hand out life jackets to every person on the boat. After being brought onto our ship our medical team consisting of two provide medical aid.
 On the bridge of the IUVENTA the Head of Mission and Captain coordinate the rescue operations.  
@@ -165,8 +151,6 @@ sub_team_donations_title='
 '
 
 sub_team_donations='
-!![Donors](../f/images/new/team_donor.jpg)
-
 It is thanks to the support of many that we were able to save over 6500 lives in the last year. Each donation helps us to further carry out rescue missions and to do what's necessary to stop the dying on the Mediterranean.  
 For us, donors are a part of our network. Regardless of whether you are helping by donating your time, donating equipment or by donating monetarily - either way will help us carrying on our missions.
 '

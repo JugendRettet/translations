@@ -11,20 +11,14 @@ index_about_us_title='
 
 index_about_us_our_story_title='
 ### Entwicklung
-
-!![Entwicklung](../f/images/new/about_story.jpg)
 '
 
 index_about_us_iuv_title='
 ### Die Iuventa
-
-!![Die Iuventa](../f/images/new/about_iuventa.jpg)
 '
 
 index_about_us_transparency_title='
 ### Transparenz
-
-!![Transparenz](../f/images/new/about_transparenz.jpg)
 '
 
 # actual page
@@ -37,11 +31,11 @@ about_our_story_menu='
 Entwicklung
 '
 
-about_our_story='
+about_our_story_title='
 ## Entwicklung
+'
 
-!![Entwicklung](../f/images/new/about_story.jpg)
-
+about_our_story='
 Schon von Anfang an wussten wir, dass es nicht immer einfach wird. Mit der Zeit haben wir von der Hilfe und Erfahrung anderer profitiert und uns und damit den Verein selbst weiter entwickelt.  
 Hier seht ihr unsere Meilensteine:  
 
@@ -105,8 +99,6 @@ IUVENTA
 
 about_iuventa_title='
 ## Die IUVENTA
-
-!![Die Iuventa](../f/images/new/about_iuventa.jpg)
 '
 
 about_iuventa='
@@ -129,11 +121,11 @@ about_transparency_menu='
 Transparenz
 '
 
-about_transparency='
+about_transparency_title='
 ## Transparenz
+'
 
-!![Initiative Transparente Zivilgesellschaft](../f/logos/Transparente_Zivilgesellschaft.svg)
-
+about_transparency='
 JUGEND **RETTET** nimmt seine Aufgaben als vertrauenswürdige und verantwortungsbewusste gemeinnützige Organisation ernst. Transparenz ist uns wichtig. Deshalb haben wir uns der [Initiative Transparente Zivilgesellschaft](http://www.transparente-zivilgesellschaft.de/) angeschlossen. Wir haben uns in diesem Rahmen verpflichtet, die nachstehenden Informationen der Öffentlichkeit auf unserer Webseite zur Verfügung zu stellen und regelmäßig zu updaten.
 
 ### 1. NAME, SITZ, ANSCHRIFT UND GRÜNDUNGSJAHR
