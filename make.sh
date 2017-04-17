@@ -10,8 +10,8 @@ if [ -f "${website_dir}"/wswsh ]; then
   printf "%s\n" "Syncing translations into it..."
   rsync -qaP --del --exclude='.git' "${our_dir}" "${website_dir}"/
   cd "${website_dir}"
-  printf "%s\n" "Switching to branch ${BRANCH}..."
-  git checkout "${BRANCH}"
+  printf "%s\n" "Switching to branch master..."
+  git checkout master
   printf "%s\n" "Building new website..."
   URL="${URL}" WWW_DIR="${WWW_DIR}" ./make.sh
 else
