@@ -22,7 +22,7 @@ news_news_item='
 news_press_release='
 ### Press release
 
-[**March 9th:** JUGEND RETTET **IUVENTA** starts Mission: De Maizière](../f/files/Pressemitteilung.pdf) 
+[**April 18th:** Statement on the incidents of the Easter weekend](../f/files/press_release_180417.pdf) 
 '
 
 news_events='
