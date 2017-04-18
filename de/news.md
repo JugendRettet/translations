@@ -22,7 +22,7 @@ news_news_item='
 news_press_release='
 ### Pressemeldung
 
-[**09. März:** JUGEND **RETTET** startet Mission: De Maizière](../f/files/Pressemitteilung.pdf) 
+[**18. April:** Statement zu den Vorfällen des Osterwochenendes](../f/files/press_release_180417.pdf) 
 '
 
 news_events='
