@@ -20,6 +20,7 @@ sub_team_embassies='
 * **Erlangen**: [Felix](mailto:Felix_Erlangen@jugendrettet.org)
 * **Frankfurt**: [Markus](mailto:Markus_Frankfurt@jugendrettet.org)
 * **Friedrichshafen**: [Zoe](mailto:Zoe_Friedrichshafen@jugendrettet.org)
+* **Göttingen**: [Tatjana](mailto:Tatjana_Goettingen@jugendrettet.org), [Felix](mailto:Felix_Goettingen@jugendrettet.org)
 * **Göteborg**: [Jana](mailto:Jana_Goeteborg@jugendrettet.org), [Solveij](mailto:Solveij_Goeteborg@jugendrettet.org)
 * **Hamburg**: [Marie](mailto:Marie_Hamburg@jugendrettet.org), [Sarah](mailto:Sarah_Hamburg@jugendrettet.org), [Edith](mailto:Edith_Hamburg@jugendrettet.org), [Nele](mailto:Nele_Hamburg@jugendrettet.org)
 * **Hannover**: [Aram](mailto:Aram_Hannover@jugendrettet.org), [David](mailto:David_Hannover@jugendrettet.org), [Lukas](mailto:Lukas_Hannover@jugendrettet.org), [Misheel](mailto:Misheel@jugendrettet.org)
