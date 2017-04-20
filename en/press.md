@@ -14,7 +14,7 @@ D- 10973 Berlin
 
 Mail: [press@jugendrettet.org](mailto://press@jugendrettet.org)
 
-[Press Kit (English)](/f/files/Presskit_JugendRettet.pdf) (updated April 20th '17)
+[Press Kit (English)](/f/files/Presskit_JugendRettet.pdf) (updated April 20th '17)  
 [Press Kit (Italian)](/f/files/CARTELLA_STAMPA_JR.pdf) (updated April 20th '17)
 
 [Application for press on the ship](./crewing#press)
