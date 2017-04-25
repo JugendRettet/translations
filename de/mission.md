@@ -22,7 +22,7 @@ Laufend:
 '
 
 mission_current_title='
-## Mission Fabrice Leggeri
+## Mission: Fabrice Leggeri
 '
 
 mission_current='
