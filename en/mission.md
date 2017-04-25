@@ -18,7 +18,7 @@ Fabrice Leggeri
 
 donate_animation_mission='
 Ongoing:  
-[**Mission 3**: Fabrice Leggeri](./mission)
+[**Mission 4**: Fabrice Leggeri](./mission)
 '
 
 mission_current_title='
@@ -73,7 +73,7 @@ Sincerely,
 
 Your Jugend Rettet Team
 
-### **April 18th '17:** Statement on the incidents of Easter weekend
+#### **April 18th '17:** Statement on the incidents of Easter weekend
 
 The last days were a hard strain on our crew. Through professional work and a combination of the necessary peace and good cooperation, our team was able to surrender everyone safely to a ship of "Save the Children", the Vos Hestia. The helpers have gone to their maximum in the last hours. However, they are in a good condition and now back on their way to our port in Malta.
 
