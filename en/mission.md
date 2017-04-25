@@ -7,25 +7,53 @@ mission_title='
 '
 
 news_news_mission='
-### Mission: Sebastian Kurz
+### Mission: Fabrice Leggeri
 
 [We take responsibility](./mission)
 '
 
 mission_current_menu='
-Sebastian Kurz
+Fabrice Leggeri
 '
 
 donate_animation_mission='
 Ongoing:  
-[**Mission 3**: Sebastian Kurz](./mission)
+[**Mission 3**: Fabrice Leggeri](./mission)
 '
 
 mission_current_title='
-## Sebastian Kurz
+## Fabrice Leggeri
 '
 
 mission_current='
+We name our mission after the Frontex CEO Fabrice Leggeri. Like the missionaries before him, he is responsible and should do more with his authority for the people in distress. We believe: Every person deserves the rescue from distress, Mr. Leggeri!
+'
+
+mission_procedure_menu='
+Mission Procedure
+'
+
+mission_procedure='
+## Mission Procedure
+
+Having discovered a boat in distress either by active search or on direction by a rescue coordination centre, the Iuventa remains at an appropriate stand off distance while the RHIBs approach the stricken boat from the stern and distribute life vets, if necessary.
+
+One of the RHIBS starts then to shuttle persons to safety on board the Iuventa while the other always remains in contact with the boat. On occasion the RHIBS tow the boat alongside the Iuventa for direct embarkation.
+
+Once on board, rescued persons receive medical attention and most importantly drinking water which is kept in large built-in tanks that can be refilled by generating potable water from sea water by means of a water-maker.  
+
+Eventually larger NGO or Italian  coast-guard vessels transfer our rescued persons to safety ashore.
+'
+
+mission_archive_menu='
+Archive
+'
+
+mission_archive='
+## Archive
+
+### Mission Sebastian Kurz
+
 **THE THIRD MISSION 2017**
 
 **Acknowledge the distress of the people, Herr Kurz**  
@@ -72,30 +100,6 @@ Our **Skipper Kai Kaltgärtner** describes the incident as followed:
 Since the founding of our association, we have pointed out that private rescue organizations are filling up existing state gaps. Our demand for an EU rescue program remains as relevant as ever in the course of recent developments. Although our organization has been operating sea rescue for a year, there is no improvement in the situation in sight. The NGOs, on the other hand, reach their limits under certain circumstances. The extreme numbers of the last few days show that very clearly. As a private organization, we provided 2,147 people with rescue tools within three days. The European Union must participate in the rescue of people on the run with a clear mandate. The sole focus on the elimination of the trafficking networks does not help the people, who at this moment have to flee from war and violence. Their lives should never be taken at risk for a policy of deterrence and closed borders.
 
 Further information and statements from the crew and captain will follow in the next days. Due to the circumstances they went though, they need a moment of rest on their way to Malta after this extreme commitment.
-'
-
-mission_procedure_menu='
-Mission Procedure
-'
-
-mission_procedure='
-## Mission Procedure
-
-Having discovered a boat in distress either by active search or on direction by a rescue coordination centre, the Iuventa remains at an appropriate stand off distance while the RHIBs approach the stricken boat from the stern and distribute life vets, if necessary.
-
-One of the RHIBS starts then to shuttle persons to safety on board the Iuventa while the other always remains in contact with the boat. On occasion the RHIBS tow the boat alongside the Iuventa for direct embarkation.
-
-Once on board, rescued persons receive medical attention and most importantly drinking water which is kept in large built-in tanks that can be refilled by generating potable water from sea water by means of a water-maker.  
-
-Eventually larger NGO or Italian  coast-guard vessels transfer our rescued persons to safety ashore.
-'
-
-mission_archive_menu='
-Archive
-'
-
-mission_archive='
-## Archive
 
 ### Mission Von der Leyen
 

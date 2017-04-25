@@ -7,25 +7,50 @@ mission_title='
 '
 
 news_news_mission='
-### Mission: Sebastian Kurz
+### Mission: Fabrice Leggeri
 
 [Wir übernehmen Verantwortung](./mission)
 '
 
 mission_current_menu='
-Sebastian Kurz
+Fabrice Leggeri
 '
 
 donate_animation_mission='
 Laufend:  
-[**Mission 3**: Sebastian Kurz](./mission)
+[**Mission 3**: Fabrice Leggeri](./mission)
 '
 
 mission_current_title='
-## Sebastian Kurz
+## Mission Fabrice Leggeri
 '
 
 mission_current='
+Wir benennen unsere Mission nach Frontex-Chef Fabrice Leggeri. Wie schon die Missions-Namensgeber vor ihm, steht er in der Verantwortung und sollte mit seiner Behörde mehr für die Menschen in Seenot tuen. Denn wir glauben: Jeder Mensch verdient die Rettung aus Seenot, Herr Leggeri!
+'
+
+mission_procedure_menu='
+Ablauf
+'
+
+mission_procedure='
+## Ablauf einer Mission
+
+Nachdem ein Boot in Seenot lokalisiert wurde, entweder durch aktive Suche mit Fernglas und Radargerät, oder durch das Rettungskoordinationszentrum (MRCC) in Rom, bleibt die IUVENTA in angemessener Entfernung vom Boot in Seenot. Währenddessen nähern sich die RIBs (Rigid Inflatable Boat)  dem Boot vom Heck aus und verteilen die Rettungswesten.  
+Eines der RIBs beginnt dann, Personen an Bord der IUVENTA zu bringen, während das andere immer mit dem Boot in Kontakt bleibt. Bei Gelegenheit bringen die RIBs das Boot längsseits zur IUVENTA zur direkten Einstieg.  
+Einmal an Bord werden die gerettete Personen mit ärztlicher Hilfe und vor allem Trinkwasser und leichter Kost versorgt.  
+Größere NGO oder Schiffe der italienischen Küstenwache bringen unsere geretteten Personen an Land.
+'
+
+mission_archive_menu='
+Archiv
+'
+
+mission_archive='
+## Archiv
+
+### Mission Sebastian Kurz
+
 **DIE DRITTE MISSION 2017**
 
 **Erkennen sie die Not der Menschen an, Herr Kurz**
@@ -69,28 +94,8 @@ Unser **Kapitän Kai Kaltegärtner** beschreibt die Entwicklungen an Bord wie fo
 
 Seit Gründung des Vereins haben wir darauf hingewiesen, dass die private Seenotrettung aktuell vorhandene staatliche Lücken füllt. Unsere Forderung nach einem Seenotrettungsprogramm der EU bleibt im Zuge der Entwicklungen der letzten Tage aktueller denn je. Obwohl unser Verein seit einem Jahr zivile Seenotrettung ausübt, ist keine Verbesserung der Lage in Sicht. Die NGOs wiederum können immer wieder unter bestimmten Umständen an ihre Belastungsgrenzen stoßen. Dies zeigen die extremen Zahlen der letzten Tage: So haben wir als private Organisation innerhalb von drei Tagen 2.147 Menschen mit Rettungsmitteln versorgt. Die Europäische Union muss hier Unterstützung leisten und sich an der Seenotrettung von Menschen auf der Flucht mit einem klaren Mandat beteiligen. Die alleinige Konzentration auf die Beseitigung der Schleppernetzwerke hilft nicht den Menschen, die in diesem Moment vor Krieg und Gewalt fliehen müssen. Ihre Leben dürfen zu keinem Zeitpunkt für eine Politik der Abschreckung und geschlossene Grenzen aufs Spiel gesetzt werden. 
 
-Weitere Informationen und Statements von Crew und Kapitän folgen in den kommenden Tagen. Aus gegebenem Anlass brauchen sie nach diesem tagelangen Extremeinsatz einen Moment Ruhe auf der Fahrt nach Malta. 
-'
+Weitere Informationen und Statements von Crew und Kapitän folgen in den kommenden Tagen. Aus gegebenem Anlass brauchen sie nach diesem tagelangen Extremeinsatz einen Moment Ruhe auf der Fahrt nach Malta.
 
-mission_procedure_menu='
-Ablauf
-'
-
-mission_procedure='
-## Ablauf einer Mission
-
-Nachdem ein Boot in Seenot lokalisiert wurde, entweder durch aktive Suche mit Fernglas und Radargerät, oder durch das Rettungskoordinationszentrum (MRCC) in Rom, bleibt die IUVENTA in angemessener Entfernung vom Boot in Seenot. Währenddessen nähern sich die RIBs (Rigid Inflatable Boat)  dem Boot vom Heck aus und verteilen die Rettungswesten.  
-Eines der RIBs beginnt dann, Personen an Bord der IUVENTA zu bringen, während das andere immer mit dem Boot in Kontakt bleibt. Bei Gelegenheit bringen die RIBs das Boot längsseits zur IUVENTA zur direkten Einstieg.  
-Einmal an Bord werden die gerettete Personen mit ärztlicher Hilfe und vor allem Trinkwasser und leichter Kost versorgt.  
-Größere NGO oder Schiffe der italienischen Küstenwache bringen unsere geretteten Personen an Land.
-'
-
-mission_archive_menu='
-Archiv
-'
-
-mission_archive='
-## Archiv
 
 ### Mission Von der Leyen
 
