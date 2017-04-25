@@ -18,7 +18,7 @@ Fabrice Leggeri
 
 donate_animation_mission='
 Laufend:  
-[**Mission 3**: Fabrice Leggeri](./mission)
+[**Mission 4**: Fabrice Leggeri](./mission)
 '
 
 mission_current_title='
@@ -67,7 +67,7 @@ Australien lässt Geflüchtete in menschenunwürdigen Unterkünften auf abgescho
 
 Sie klagen an, dass die NGOs im Mittelmeer die Partner der Schlepper seien. Denn auf Grund fehlender Alternativen sind flüchtende Menschen erst gezwungen ihr Leben Schleppern anzuvertrauen. Vielleicht sollten Sie mal über diese Kausalkette nachdenken, anstatt den Organisationen, die Menschen vor dem Ertrinken bewahren, die Schuld in die Schuhe zu schieben.
 
-### **18.04.17:** Statement zu den Ereignissen des Osterwochenendes
+#### **18.04.17:** Statement zu den Ereignissen des Osterwochenendes
 
 Die letzten Tage waren für unsere Crew eine harte Belastungsprobe. Durch professionelle Arbeit und eine Kombination aus der nötigen Ruhe und guter Zusammenarbeit konnte unser Team alle Personen, die sich an Bord der IUVENTA und in ihrer unmittelbaren Nähe befanden, sicher an ein Schiff von  “Save the Children”, die Vos Hestia, übergeben. Die HelferInnen sind hierbei in den letzten Stunden an ihr Maximum gegangen. Es geht ihnen jedoch den Umständen entsprechend gut und sie befinden sich auf dem Rückweg zu unserem Basishafen auf Malta.
 
