@@ -26,7 +26,19 @@ mission_current_title='
 '
 
 mission_current='
-Wir benennen unsere Mission nach Frontex-Chef Fabrice Leggeri. Wie schon die Missions-Namensgeber vor ihm, steht er in der Verantwortung und sollte mit seiner Behörde mehr für die Menschen in Seenot tuen. Denn wir glauben: Jeder Mensch verdient die Rettung aus Seenot, Herr Leggeri!
+Lieber Fabrice Leggeri,
+
+laut der Sprecherin Ihrer Behörde, Ewa Moncure, habe Frontex uns SAR-NGOs nie kritisiert. Sie würden ja nur die Situation vor Ort beobachten und da sei Ihnen aufgefallen, dass Migranten in Seenot nicht wie in den Jahren zuvor das MRCC anrufen und trotzdem von Schiffen gerettet werden würden. Die Unterstellung, NGOs seien der Grund für den Anstieg an Flüchtenden im Mittelmeer („Pull-Faktor“) und der steigenden Todeszahl, schwingt bei dieser Aussage immer noch mit.
+
+Wir haben am Osterwochenende auch einige Beobachtungen gemacht: An nur einem Wochenende wurden ca. 8.000 Menschen in seeuntüchtigen Booten lokalisiert und gerettet. An den Rettungseinsätzen waren 25 Schiffe beteiligt, davon eines von Frontex, eins von der EU-Mission Sophia und zehn von SAR-NGOs. Trotz der gesendeten Maydays der NGOs, welche auch Ihre Schiffe per Funk gehört haben, wurden von Ihrer Seite her keine weiteren Schiffe zur Seenotrettung abgestellt.
+
+Für einige Menschen kam an diesem Wochenende die Hilfe zu spät: Abermals setzte sich das Sterben auf dem Mittelmeer fort, obgleich die NGOs unermüdlich gearbeitet haben und dabei an ihre Belastungsgrenzen gestoßen sind. Wir fragen uns, ob das Sterben nicht hätte verhindert werden können. Und wieso von Ihren 11 Schiffen, die im Mittelmeer im Einsatz sind, nur eines an den Rettungseinsätzen beteiligt war.
+
+Außerdem fragen wir uns, warum Sie Ihre Bedenken nicht mit uns persönlich diskutieren, Stattdessen wenden Sie sich mit Ihren Vorwürfen lieber an die Presse. Dabei stehen wir von Anfang an für ein klärendes Gespräch unter Erwachsenen zur Verfügung. Leider hatten Sie und Ihre Behörde sich bisher zu keinem Treffen bereit erklärt.
+
+Das Osterwochenende hat abermals gezeigt, dass wir Hilfe leisten müssen, weil staatliche Akteur_innen nicht vor Ort sind. Und deswegen benennen wir unsere vierte Mission nach Ihnen: Die Grenzsicherung darf niemals über der Pflicht stehen, Menschen aus Lebensgefahr zu retten. Wir fordern, dass sich politische Maßnahmen zum Umgang mit der aktuellen Fluchtbewegung endlich nach humanitären Maßstäben richten.
+
+Jeder Mensch verdient die Rettung aus Seenot!
 '
 
 mission_procedure_menu='

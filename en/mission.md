@@ -26,7 +26,19 @@ mission_current_title='
 '
 
 mission_current='
-We name our mission after the Frontex CEO Fabrice Leggeri. Like the missionaries before him, he is responsible and should do more with his authority for the people in distress. We believe: Every person deserves the rescue from distress, Mr. Leggeri!
+Dear Fabrice Leggeri,
+
+According to the spokeswoman of your authority, Ewa Moncure, Frontex has never criticized SAR-NGOs. You would only observe the situation on the ground and you noticed that migrants in distress would not call the MRCC as in the years before and would still be saved by ships. The insinuation that NGOs are the reason for the increase in refugees in the Mediterranean ("pull factor") and the increasing death rate, still resonates with this statement.
+
+We also made some observations on the Easter weekend: on only one weekend some 8.000 people were located and saved in seaworthy boats. 25 ships were involved in the rescue packages, one of which was from Frontex, one from the EU mission Sophia and ten from SAR NGOs. In spite of the May days sent by the NGOs, which have also heard their ships by radio, no further ships were rescued from their side.
+
+For some people, the aid came too late this weekend: but dying on the Mediterranean continued, although the NGOs have worked tirelessly and pushed their limits on their burdens. We wonder whether dying could not have been prevented. And why of your 11 ships, which are deployed in the Mediterranean, only one was involved in the rescue operations.
+
+We also ask ourselves why you would not discuss your concerns with us personally, but instead turn to the press with your reproaches. We have been available since the beginning for a clarifying discussion among adults. Unfortunately, you and your authority have not yet agreed to any meeting.
+
+The Easter weekend has shown again that we need to provide help because state actors are not present. And that is why we are naming our fourth mission after you, Mr Leggeri: Border security must never be above the duty to save people from the danger of life. We demand political measures according to humanitarian standards to deal with the current fleeing of refugees.
+
+Every person deserves rescue at sea! 
 '
 
 mission_procedure_menu='
