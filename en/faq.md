@@ -51,7 +51,7 @@ Our Ship is patrolling on the Mediterranean between Libya and Italy. The Sea rou
 5 Where do the people who escape via the central Mediteranean route come from?
 -------------------------------------------------------------------------------
 
-The IOM reported that in 2016 the majority of people taking that route come from Nigeria, Eritrea und Guinea.[³](#3)
+The IOM reported that in 2016 the majority of people taking that route come from Nigeria, Eritrea and Guinea.[³](#3)
 
 
 6 Where do you take the people after the rescue?
@@ -63,7 +63,7 @@ While on our rescue missions we don't leave the search and rescue zone and don't
 7 Why would you take over the rescue operations?
 ------------------------------------------------
 
-4579 People died on the Mediterranean in 2016, 4581 of them on the central Mediterranean route[⁴](#4). There has not been a universal state rescue program on the Mediterranean since the end of Mare Nostrum in 2014. Instead came Frontex with its Mission Triton mission, who is ostensibly responsible for securing the external borders of Europe. As there has not been any sufficient rescue efforts on behalf of the state, we are compelled and feel urged to become involved.
+5098 People died on the Mediterranean in 2016, 4581 of them on the central Mediterranean route[⁴](#4). There has not been a universal state rescue program on the Mediterranean since the end of Mare Nostrum in 2014. Instead came Frontex with its Mission Triton mission, who is ostensibly responsible for securing the external borders of Europe. As there has not been any sufficient rescue efforts on behalf of the state, we are compelled and feel urged to become involved.
 
 8 What is Mare Nostrum?
 -----------------------
