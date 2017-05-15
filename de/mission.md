@@ -7,38 +7,46 @@ mission_title='
 '
 
 news_news_mission='
-### Mission: Fabrice Leggeri
+### Mission: Mogherini
 
 [Wir übernehmen Verantwortung](./mission)
 '
 
 mission_current_menu='
-Fabrice Leggeri
+Mogherini
 '
 
 donate_animation_mission='
 Laufend:  
-[**Mission 4**: Fabrice Leggeri](./mission)
+[**Mission 5**: Mogherini](./mission)
 '
 
 mission_current_title='
-## Mission: Fabrice Leggeri
+## Mission: Mogherini
 '
 
 mission_current='
-Lieber Fabrice Leggeri,
+Liebe Frau Mogherini,
 
-laut der Sprecherin Ihrer Behörde, Ewa Moncure, habe Frontex uns SAR-NGOs nie kritisiert. Sie würden ja nur die Situation vor Ort beobachten und da sei Ihnen aufgefallen, dass Migranten in Seenot nicht wie in den Jahren zuvor das MRCC anrufen und trotzdem von Schiffen gerettet werden würden. Die Unterstellung, NGOs seien der Grund für den Anstieg an Flüchtenden im Mittelmeer („Pull-Faktor“) und der steigenden Todeszahl, schwingt bei dieser Aussage immer noch mit.
+„Europe is what we make of it“ - das bewarben Sie Ende März beim 60. Jahrestag der Römischen Verträge. Doch was wird aus Europa gemacht? Mit unserer Arbeit zumindest versuchen wir, Europa solidarisch und human zu gestalten: Wir fahren raus auf das Mittelmeer und retten Menschen vor der europäischen Grenze, weil wir das Sterben nicht tatenlos hinnehmen wollen.
 
-Wir haben am Osterwochenende auch einige Beobachtungen gemacht: An nur einem Wochenende wurden ca. 8.000 Menschen in seeuntüchtigen Booten lokalisiert und gerettet. An den Rettungseinsätzen waren 25 Schiffe beteiligt, davon eines von Frontex, eins von der EU-Mission Sophia und zehn von SAR-NGOs. Trotz der gesendeten Maydays der NGOs, welche auch Ihre Schiffe per Funk gehört haben, wurden von Ihrer Seite her keine weiteren Schiffe zur Seenotrettung abgestellt.
+Aber wir vermissen die Unterstützung der EU vor Ort, während wir im Einsatz sind. Wir beobachten zur Zeit im Mittelmeer eine Entwicklung, die unserer Vorstellung eines menschlichen und gerechten Europas widerspricht: Die europäische Politik legt den Fokus auf Grenzschließung. Mit der Schließung der Balkanroute und dem EU-Türkei-Deal hat man die flüchtenden Menschen mehr und mehr auf die gefährliche Mittelmeerroute getrieben. Anstatt sich jetzt der hausgemachten Notsituation im Mittelmeer mit Seenotrettungsprogrammen zu stellen, setzt die EU auf ein befremdliches Abkommen mit dem zerrütteten Bürgerkriegsland Libyen. Wieder basiert das Konzept auf der Schließung von Grenzen – als hätte man in den letzten Monaten nichts dazugelernt.
 
-Für einige Menschen kam an diesem Wochenende die Hilfe zu spät: Abermals setzte sich das Sterben auf dem Mittelmeer fort, obgleich die NGOs unermüdlich gearbeitet haben und dabei an ihre Belastungsgrenzen gestoßen sind. Wir fragen uns, ob das Sterben nicht hätte verhindert werden können. Und wieso von Ihren 11 Schiffen, die im Mittelmeer im Einsatz sind, nur eines an den Rettungseinsätzen beteiligt war.
+Die Ausbildung der libyschen Küstenwache durch die EU erntet aus guten Gründen von vielen Seiten Kritik: Bereits 2016 zeigten Angriffe der libyschen Küstenwache auf die Schiffe von MSF und Sea Watch, dass diese unberechenbar ist. Das Land ist gespalten, es gibt keine einheitliche Regierung, viele rivalisierende Gruppen kämpfen um Macht – das spiegelt sich auch in der Küstenwache wieder. Mit wem kooperiert die EU da eigentlich?
 
-Außerdem fragen wir uns, warum Sie Ihre Bedenken nicht mit uns persönlich diskutieren, Stattdessen wenden Sie sich mit Ihren Vorwürfen lieber an die Presse. Dabei stehen wir von Anfang an für ein klärendes Gespräch unter Erwachsenen zur Verfügung. Leider hatten Sie und Ihre Behörde sich bisher zu keinem Treffen bereit erklärt.
+Erst letzte Woche gab es abermals einen Zwischenfall: Außerhalb des libyschen Hoheitsgewässers intervenierte ein Patrouillenschiff aus Libyen in einen Rettungseinsatz von Sea Watch. Dabei wurde sie beinah vom libyschen Schiff gerammt. Die libyschen Einheiten schleppten mehrere Flüchtenden zurück in ihr Territorialgewässer um sie zurück nach Libyen zu bringen. Sie haben damit mit internationalem Recht gebrochen.
 
-Das Osterwochenende hat abermals gezeigt, dass wir Hilfe leisten müssen, weil staatliche Akteur_innen nicht vor Ort sind. Und deswegen benennen wir unsere vierte Mission nach Ihnen: Die Grenzsicherung darf niemals über der Pflicht stehen, Menschen aus Lebensgefahr zu retten. Wir fordern, dass sich politische Maßnahmen zum Umgang mit der aktuellen Fluchtbewegung endlich nach humanitären Maßstäben richten.
+Was macht es aus Europa, wenn wir Kooperationspartner_innen haben, die geltendes Recht missachten? Wenn wir Abkommen mit Ländern schließen, in denen Menschenrechte nicht durchgesetzt werden? Wenn die EU nicht einmal selbst nicht in der Lage ist, Menschenrechte durchzusetzen? Wenn das fundamentale Menschenrecht auf Leben, Freiheit und Sicherheit auf dem Mittelmeer keine Geltung zu haben scheint?
 
-Jeder Mensch verdient die Rettung aus Seenot!
+Das ist nicht unser Europa. Wir fordern Sie auf, sich für eine menschenwürdige Asylpolitik einzusetzen: Solange es keine legalen Einreisemöglichkeit für flüchtende Menschen gibt, muss es zumindest ein umfassendes Seenotrettungsprogramm der EU geben. Denn solange es solche Programme nicht gibt, werden die Menschen vor den Toren Europas sterben. Wir sind vor Ort aktiv um dem entgegenzuwirken. Aber auch wir stoßen an unsere Grenzen: Die letzten Wochen haben deutlich gemacht, dass Seenotrettung nicht allein durch NGOs gestemmt werden kann.
+
+Wir benennen diese Mission bewusst nach Ihnen. Wir sehen uns in der Position, eine Aufgabe übernehmen zu müssen, die die EU vernachlässigt: Die Rettung von Menschen aus akuter Lebensgefahr.
+
+Wir wünsche uns ein Europa, das Verantwortung übernimmt und für das fundamentale Recht auf Leben und Sicherheit einsteht. Dafür braucht es sinnvolle Maßnahmen wie ein europäisches Seenotrettungsprogramm, das die Notsituation vor Ort entschärft. Wir freuen uns, wenn Sie, Frau Mogherini, sich mit uns zusammensetzen um über solche Maßnahmen und unsere Erfahrungen vor Ort zu sprechen.
+
+
+Mit freundlichen Grüßen,
+ihr Jugend Rettet Team
 '
 
 mission_procedure_menu='
@@ -60,6 +68,22 @@ Archiv
 
 mission_archive='
 ## Archiv
+
+### Mission Leggeri
+
+Lieber Fabrice Leggeri,
+
+laut der Sprecherin Ihrer Behörde, Ewa Moncure, habe Frontex uns SAR-NGOs nie kritisiert. Sie würden ja nur die Situation vor Ort beobachten und da sei Ihnen aufgefallen, dass Migranten in Seenot nicht wie in den Jahren zuvor das MRCC anrufen und trotzdem von Schiffen gerettet werden würden. Die Unterstellung, NGOs seien der Grund für den Anstieg an Flüchtenden im Mittelmeer („Pull-Faktor“) und der steigenden Todeszahl, schwingt bei dieser Aussage immer noch mit.
+
+Wir haben am Osterwochenende auch einige Beobachtungen gemacht: An nur einem Wochenende wurden ca. 8.000 Menschen in seeuntüchtigen Booten lokalisiert und gerettet. An den Rettungseinsätzen waren 25 Schiffe beteiligt, davon eines von Frontex, eins von der EU-Mission Sophia und zehn von SAR-NGOs. Trotz der gesendeten Maydays der NGOs, welche auch Ihre Schiffe per Funk gehört haben, wurden von Ihrer Seite her keine weiteren Schiffe zur Seenotrettung abgestellt.
+
+Für einige Menschen kam an diesem Wochenende die Hilfe zu spät: Abermals setzte sich das Sterben auf dem Mittelmeer fort, obgleich die NGOs unermüdlich gearbeitet haben und dabei an ihre Belastungsgrenzen gestoßen sind. Wir fragen uns, ob das Sterben nicht hätte verhindert werden können. Und wieso von Ihren 11 Schiffen, die im Mittelmeer im Einsatz sind, nur eines an den Rettungseinsätzen beteiligt war.
+
+Außerdem fragen wir uns, warum Sie Ihre Bedenken nicht mit uns persönlich diskutieren, Stattdessen wenden Sie sich mit Ihren Vorwürfen lieber an die Presse. Dabei stehen wir von Anfang an für ein klärendes Gespräch unter Erwachsenen zur Verfügung. Leider hatten Sie und Ihre Behörde sich bisher zu keinem Treffen bereit erklärt.
+
+Das Osterwochenende hat abermals gezeigt, dass wir Hilfe leisten müssen, weil staatliche Akteur_innen nicht vor Ort sind. Und deswegen benennen wir unsere vierte Mission nach Ihnen: Die Grenzsicherung darf niemals über der Pflicht stehen, Menschen aus Lebensgefahr zu retten. Wir fordern, dass sich politische Maßnahmen zum Umgang mit der aktuellen Fluchtbewegung endlich nach humanitären Maßstäben richten.
+
+Jeder Mensch verdient die Rettung aus Seenot!
 
 ### Mission Sebastian Kurz
 
