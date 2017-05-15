@@ -7,38 +7,47 @@ mission_title='
 '
 
 news_news_mission='
-### Mission: Fabrice Leggeri
+### Mission: Mogherini
 
 [We take responsibility](./mission)
 '
 
 mission_current_menu='
-Fabrice Leggeri
+Mogherini
 '
 
 donate_animation_mission='
 Ongoing:  
-[**Mission 4**: Fabrice Leggeri](./mission)
+[**Mission 5**: Mogherini](./mission)
 '
 
 mission_current_title='
-## Mission: Fabrice Leggeri
+## Mission: Mogherini
 '
 
 mission_current='
-Dear Fabrice Leggeri,
+Dear Ms. Mogherini,
 
-According to the spokeswoman of your authority, Ewa Moncure, Frontex has never criticized SAR-NGOs. You would only observe the situation on the ground and you noticed that migrants in distress would not call the MRCC as in the years before and would still be saved by ships. The insinuation that NGOs are the reason for the increase in refugees in the Mediterranean ("pull factor") and the increasing death rate, still resonates with this statement.
+“Europe is what we make of it” - this was promoted by you at the end of March on the 60th anniversary of the Treaties of Rome. But what is being done in Europe? With our work we are trying to shape Europe solidarity and human: We head out to the Mediterranean Sea and rescue people at the European frontier, because we do not want to accept the dying.
 
-We also made some observations on the Easter weekend: on only one weekend some 8.000 people were located and saved in seaworthy boats. 25 ships were involved in the rescue packages, one of which was from Frontex, one from the EU mission Sophia and ten from SAR NGOs. In spite of the May days sent by the NGOs, which have also heard their ships by radio, no further ships were rescued from their side.
+But we miss the support of the EU on the ground while we are in action. We are currently observing at the Mediterranean Sea a development that is contrary to our idea of a human and just Europe: The European policy focuses on border closure. 
 
-For some people, the aid came too late this weekend: but dying on the Mediterranean continued, although the NGOs have worked tirelessly and pushed their limits on their burdens. We wonder whether dying could not have been prevented. And why of your 11 ships, which are deployed in the Mediterranean, only one was involved in the rescue operations.
+With the closure of the Balkan route and the EU-Turkey deal, the fleeing people have been driven more and more onto the dangerous Mediterranean route. Instead of facing the home-made emergency situation at the Mediterranean with the help of sea rescue programs, the EU is counting on an odd agreement with the shattered civil war country Libya. Again, the concept is based on the closure of borders - as if nothing had been understood in the last months.
 
-We also ask ourselves why you would not discuss your concerns with us personally, but instead turn to the press with your reproaches. We have been available since the beginning for a clarifying discussion among adults. Unfortunately, you and your authority have not yet agreed to any meeting.
+The training of the Libyan coast guard by the EU is being criticized by many sides for good reasons: already in 2016 the attacks by the Libyan coast guard on the vessels of MSF and Sea Watch have shown how unpredictable this actor can be. The country is divided, there is no single government, many rival groups struggle for power - this is also reflected in “the” coast guard. With whom does the EU actually cooperate?
 
-The Easter weekend has shown again that we need to provide help because state actors are not present. And that is why we are naming our fourth mission after you, Mr Leggeri: Border security must never be above the duty to save people from the danger of life. We demand political measures according to humanitarian standards to deal with the current fleeing of refugees.
+Last week, however, there was an incident: outside the Libyan territory, a patrol vessel from Libya intervened in a rescue operation from Sea Watch. They were rammed almost by the Libyan ship. The Libyan units dragged several refugees back into their territorial waters to take them back to Libya. They thus broke with international law.
 
-Every person deserves rescue at sea! 
+What will happen to Europe, if we have cooperation partners who disregard valid law? If we conclude agreements with countries where human rights are not enforced? If the EU itself is not even able to protect human rights? If the fundamental human right to life, liberty and security does not seem to have any validity at the Mediterranean?
+
+This is not our Europe. We ask you to engage for a humane asylum policy: as long as there is no legal possibility of entry for refugees, there must be at least a comprehensive  sea rescue program of the EU. For as long as such programs do not exist, people will die at our gates to Europe. We are active at sea to counter this rescue gap. But we also reach our limits: the last few weeks have made it clear that search and rescue cannot be performed alone by NGOs.
+
+We name this mission consciously after you. We see ourselves in the position to take on a task which the EU neglects: the rescue of people from acute danger of life.
+
+We want a Europe that takes responsibility and stands for the fundamental right to life and security. This requires reasonable measures, such as a European sea rescue program, which helps to alleviate the emergency situation at sea. We are happy if you, Ms. Mogherini, join us to talk about such measures and our experience at the Mediterranean.
+
+With kind regards,
+The Jugend Rettet Team
 '
 
 mission_procedure_menu='
@@ -63,6 +72,22 @@ Archive
 
 mission_archive='
 ## Archive
+
+### Mission Fabrice Leggeri
+
+Dear Fabrice Leggeri,
+
+According to the spokeswoman of your authority, Ewa Moncure, Frontex has never criticized SAR-NGOs. You would only observe the situation on the ground and you noticed that migrants in distress would not call the MRCC as in the years before and would still be saved by ships. The insinuation that NGOs are the reason for the increase in refugees in the Mediterranean ("pull factor") and the increasing death rate, still resonates with this statement.
+
+We also made some observations on the Easter weekend: on only one weekend some 8.000 people were located and saved in seaworthy boats. 25 ships were involved in the rescue packages, one of which was from Frontex, one from the EU mission Sophia and ten from SAR NGOs. In spite of the May days sent by the NGOs, which have also heard their ships by radio, no further ships were rescued from their side.
+
+For some people, the aid came too late this weekend: but dying on the Mediterranean continued, although the NGOs have worked tirelessly and pushed their limits on their burdens. We wonder whether dying could not have been prevented. And why of your 11 ships, which are deployed in the Mediterranean, only one was involved in the rescue operations.
+
+We also ask ourselves why you would not discuss your concerns with us personally, but instead turn to the press with your reproaches. We have been available since the beginning for a clarifying discussion among adults. Unfortunately, you and your authority have not yet agreed to any meeting.
+
+The Easter weekend has shown again that we need to provide help because state actors are not present. And that is why we are naming our fourth mission after you, Mr Leggeri: Border security must never be above the duty to save people from the danger of life. We demand political measures according to humanitarian standards to deal with the current fleeing of refugees.
+
+Every person deserves rescue at sea! 
 
 ### Mission Sebastian Kurz
 
