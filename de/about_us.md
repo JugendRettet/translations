@@ -179,5 +179,9 @@ Eine gesellschaftsrechtliche Verbundenheit mit Dritten, z.B. ausgegliederter Wir
 
 ### 10. NAMEN VON JURISTISCHEN PERSONEN, DEREN JÄHRLICHE ZAHLUNGEN MEHR ALS 10% DES GESAMTBUDGETS AUSMACHEN
 
-JUGEND **RETTET** hat derzeit keine Unterstützer_innen oder Förderer_innen, deren jährliche Zahlungen mehr als 10% des Gesamtbudgets ausmachen. Unsere Arbeit trägt sich durch das Engagement und die Hilfe vieler.
+Unterstützer_innen oder Förderer_innen, deren jährliche Zahlungen mehr als 10% des Gesamtbudgets ausmachen:
+
+- Kreuzberger Kinderstiftung 
+
+Unsere Arbeit trägt sich durch das Engagement und die Hilfe vieler.
 '
