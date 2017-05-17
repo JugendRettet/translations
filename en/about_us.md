@@ -183,5 +183,9 @@ There are no relationships with third parties regarding company law.
 
 ### 10. NAMES OF LEGAL PERSONS, WHOSe ANNUAL PAYMENTS MAKE UP MORE THAN 10% OF OUR WHOLE BUDGET
 
-JUGEND RETTET **IUVENTA** has no supporter or sponsor whose annual payments make up more than 10% of our whole budget. Our work is made possible by the contributions of many.
+Supporters or sponsors whose annual payments make up more than 10% of our whole budget:
+
+- Kreuzberger Kinderstiftung
+
+Our work is made possible by the contributions of many.
 '
