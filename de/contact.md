@@ -12,6 +12,8 @@ contact='
 * Europäische Botschaften: <Embassies@jugendrettet.org>
 * [Presse](./press)
 * [Crewing](./crewing)
+* Webmaster: <webmaster@jugendrettet.org>
 
 Sicherheitslücken melden: <security@jugendrettet.org> [(PGP-Schlüssel)](../f/files/040ACAF1.asc)
 '
+
