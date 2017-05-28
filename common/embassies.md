@@ -3,7 +3,7 @@ sub_team_embassies='
 
 * **Barcelona**: [Leo](mailto:Leo@jugendrettet.org)
 * **Basel**: [Angelica](mailto:Angelica_Basel@jugendrettet.org)
-* **Berlin**: [Sonja](mailto:Sonja@jugendrettet.org), [Ina](mailto:Ina_Berlin@jugendrettet.org), [Projekt Begegnung](Projekt.Begegnung_Berlin@jugendrettet.org)
+* **Berlin**: [Sonja](mailto:Sonja@jugendrettet.org), [Ina](mailto:Ina_Berlin@jugendrettet.org), [Projekt Begegnung](mailto:Projekt.Begegnung_Berlin@jugendrettet.org)
 * **Bielefeld**: [Andreas](mailto:Andreas_Bielefeld@jugendrettet.org)
 * **Bochum**: [Sebastian](mailto:Sebastian_Bochum@jugendrettet.org)
 * **Bonn**: [Alex](mailto:Alex_Bonn@jugendrettet.org), [Anna](mailto:AnnaB@jugendrettet.org)
@@ -40,7 +40,7 @@ sub_team_embassies='
 * **Mönchengladbach**: [Pascal](mailto:Pascal_Moenchengladbach@jugendrettet.org)
 * **München**: [Lisa](mailto:Lisa@jugendrettet.org), [Lili](mailto:Lili_Muenchen@jugendrettet.org)
 * **Münster**: [Paul](mailto:Paul_Muenster@jugendrettet.org)
-* **Neustadt:** [AG Integration](AG.Integration_Neustadt@jugendrettet.org)
+* **Neustadt:** [AG Integration](mailto:AG.Integration_Neustadt@jugendrettet.org)
 * **Nürnberg**: [Annemarie](mailto:Annemarie_Nuernberg@jugendrettet.org), [Mark](mailto:Mark_Nuernberg@jugendrettet.org)
 * **Oldenburg**: [Deniz](mailto:Deniz_Oldenburg@jugendrettet.org), [Maxi](mailto:Maxi_Oldenburg@jugendrettet.org), [Sabeth](mailto:Sabeth_Oldenburg@jugendrettet.org)
 * **Osnabrück**: [Jascha](mailto:Jascha_Osnabrueck@jugendrettet.org)
