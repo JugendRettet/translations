@@ -7,46 +7,65 @@ mission_title='
 '
 
 news_news_mission='
-### Mission: Mogherini
+### Mission: Hirsi Jammaa
 
 [Wir übernehmen Verantwortung](./mission)
 '
 
 mission_current_menu='
-Mogherini
+Hirsi Jammaa
 '
 
 donate_animation_mission='
 Laufend:  
-[**Mission 5**: Mogherini](./mission)
+[**Mission 5**: Hirsi Jammaa](./mission)
 '
 
 mission_current_title='
-## Mission: Mogherini
+## Mission: Hirsi Jammaa
 '
 
 mission_current='
-Liebe Frau Mogherini,
+Wir kritisieren die, die ignorieren.
 
-„Europe is what we make of it“ - das bewarben Sie Ende März beim 60. Jahrestag der Römischen Verträge. Doch was wird aus Europa gemacht? Mit unserer Arbeit zumindest versuchen wir, Europa solidarisch und human zu gestalten: Wir fahren raus auf das Mittelmeer und retten Menschen vor der europäischen Grenze, weil wir das Sterben nicht tatenlos hinnehmen wollen.
+Liebe Unterstützer_innen,  
+Unsere vergangenen Missionen richteten sich an staatliche Akteure, mit der
+Bitte uns zu helfen und Menschen aus Seenot zu retten. Aufgrund der letzten
+Ereignisse benennen wir unsere 6. Mission nach einem Präzedenzfall.  
+Hirsi Jamaa steht für einen Fall, der sich 2009 ereignete: Über 200 eritreische
+und somalische Geflüchtete wurden 35 Seemeilen südlich von Lampedusa vom
+italienischen Zoll und der Küstenwache aufgegriffen und nach Tripolis gebracht.
+Begründet wurde es mit einem Rückführungsabkommen. Daraufhin reichten 24
+Personen Klage beim Europäischen Menschenrechtsgerichtshof ein. 2012 wurde
+Italien daraufhin zu einer Schadensersatzzahlung verurteilt. Der italienische
+Staat hätte die Geflüchteten nicht nach Libyen zurückführen dürfen, da niemand
+der Folter oder unmenschlicher Strafe ausgesetzt werden darf. (Art. 3 EMRK)
+Aktuell werden genau diese illegalen Push-Back Aktionen von der libyschen
+Küstenwache unter Anwendung von Gewalt wiederholt. Diese Aktionen, wie sie in
+der Vergangenheit durchgeführt wurden, sind für Menschen in Seenot gefährlich.
+Auch Rettungseinheiten vor Ort geraten dabei ins Kreuzfeuer.  
+Menschen in internationalen Gewässern werden ohne rechtliche Grundlage nach
+Libyen zurückgeführt. Aktuell ist Libyen kein sicherer Hafen nach Genfer
+Konventionen.
 
-Aber wir vermissen die Unterstützung der EU vor Ort, während wir im Einsatz sind. Wir beobachten zur Zeit im Mittelmeer eine Entwicklung, die unserer Vorstellung eines menschlichen und gerechten Europas widerspricht: Die europäische Politik legt den Fokus auf Grenzschließung. Mit der Schließung der Balkanroute und dem EU-Türkei-Deal hat man die flüchtenden Menschen mehr und mehr auf die gefährliche Mittelmeerroute getrieben. Anstatt sich jetzt der hausgemachten Notsituation im Mittelmeer mit Seenotrettungsprogrammen zu stellen, setzt die EU auf ein befremdliches Abkommen mit dem zerrütteten Bürgerkriegsland Libyen. Wieder basiert das Konzept auf der Schließung von Grenzen – als hätte man in den letzten Monaten nichts dazugelernt.
+“[...] Nach Libyen zurückschicken ist unmöglich. Die Lage in Libyen ermöglicht
+es nicht, weil es nicht als ein sicheres Land betrachtet werden kann. Zur Zeit
+sind solche Bedingungen nicht erfüllt. [...]” - Fabrice Leggeri,
+https://www.zdf.de/…/fro…/interview-leggeri-frontex-100.html, 16.05.2017
 
-Die Ausbildung der libyschen Küstenwache durch die EU erntet aus guten Gründen von vielen Seiten Kritik: Bereits 2016 zeigten Angriffe der libyschen Küstenwache auf die Schiffe von MSF und Sea Watch, dass diese unberechenbar ist. Das Land ist gespalten, es gibt keine einheitliche Regierung, viele rivalisierende Gruppen kämpfen um Macht – das spiegelt sich auch in der Küstenwache wieder. Mit wem kooperiert die EU da eigentlich?
+Weder wir, noch andere Schiffe, dürfen gesetzlich Menschen in Seenot dorthin
+bringen.  
+Mit Sorge betrachten wir nun die Pläne einer libyschen Rettungsleitstelle: Die
+verantwortungslosen “Rettungsmethoden” der Libyschen Küstenwache und
+völkerrechtswidrigen Rückführungen ziehen in vielen Fällen schwere
+Menschenrechtsverstöße in libyschen Internierungslagern nach sich. Zudem sehen
+wir zunehmend die Sicherheit unserer Crew und der Geflüchteten auf den Booten
+in Gefahr.
 
-Erst letzte Woche gab es abermals einen Zwischenfall: Außerhalb des libyschen Hoheitsgewässers intervenierte ein Patrouillenschiff aus Libyen in einen Rettungseinsatz von Sea Watch. Dabei wurde sie beinah vom libyschen Schiff gerammt. Die libyschen Einheiten schleppten mehrere Flüchtenden zurück in ihr Territorialgewässer um sie zurück nach Libyen zu bringen. Sie haben damit mit internationalem Recht gebrochen.
-
-Was macht es aus Europa, wenn wir Kooperationspartner_innen haben, die geltendes Recht missachten? Wenn wir Abkommen mit Ländern schließen, in denen Menschenrechte nicht durchgesetzt werden? Wenn die EU nicht einmal selbst nicht in der Lage ist, Menschenrechte durchzusetzen? Wenn das fundamentale Menschenrecht auf Leben, Freiheit und Sicherheit auf dem Mittelmeer keine Geltung zu haben scheint?
-
-Das ist nicht unser Europa. Wir fordern Sie auf, sich für eine menschenwürdige Asylpolitik einzusetzen: Solange es keine legalen Einreisemöglichkeit für flüchtende Menschen gibt, muss es zumindest ein umfassendes Seenotrettungsprogramm der EU geben. Denn solange es solche Programme nicht gibt, werden die Menschen vor den Toren Europas sterben. Wir sind vor Ort aktiv um dem entgegenzuwirken. Aber auch wir stoßen an unsere Grenzen: Die letzten Wochen haben deutlich gemacht, dass Seenotrettung nicht allein durch NGOs gestemmt werden kann.
-
-Wir benennen diese Mission bewusst nach Ihnen. Wir sehen uns in der Position, eine Aufgabe übernehmen zu müssen, die die EU vernachlässigt: Die Rettung von Menschen aus akuter Lebensgefahr.
-
-Wir wünsche uns ein Europa, das Verantwortung übernimmt und für das fundamentale Recht auf Leben und Sicherheit einsteht. Dafür braucht es sinnvolle Maßnahmen wie ein europäisches Seenotrettungsprogramm, das die Notsituation vor Ort entschärft. Wir freuen uns, wenn Sie, Frau Mogherini, sich mit uns zusammensetzen um über solche Maßnahmen und unsere Erfahrungen vor Ort zu sprechen.
-
-
-Mit freundlichen Grüßen,
-ihr Jugend Rettet Team
+Anstatt Menschenrechtsverstöße durch die Libysche Küstenwache wissentlich in
+Kauf zu nehmen, müssen die Europäischen Regierungen endlich ihrer Verantwortung
+für die Toten an ihren Außengrenzen gerecht werden. Jeder Mensch verdient die
+Rettung aus Seenot.
 '
 
 mission_procedure_menu='
@@ -68,6 +87,73 @@ Archiv
 
 mission_archive='
 ## Archiv
+
+### Mission Mogherini
+
+Liebe Frau Mogherini,
+
+„Europe is what we make of it“ - das bewarben Sie Ende März beim 60. Jahrestag
+der Römischen Verträge. Doch was wird aus Europa gemacht? Mit unserer Arbeit
+zumindest versuchen wir, Europa solidarisch und human zu gestalten: Wir fahren
+raus auf das Mittelmeer und retten Menschen vor der europäischen Grenze, weil
+wir das Sterben nicht tatenlos hinnehmen wollen.
+
+Aber wir vermissen die Unterstützung der EU vor Ort, während wir im Einsatz
+sind. Wir beobachten zur Zeit im Mittelmeer eine Entwicklung, die unserers
+Vorstellung eines menschlichen und gerechten Europas widerspricht: Die
+europäische Politik legt den Fokus auf Grenzschließung. Mit der Schließung
+der Balkanroute und dem EU-Türkei-Deal hat man die flüchtenden Menschen mehr
+und mehr auf die gefährliche Mittelmeerroute getrieben. Anstatt sich jetzt
+der hausgemachten Notsituation im Mittelmeer mit Seenotrettungsprogrammen zu
+stellen, setzt die EU auf ein befremdliches Abkommen mit dem zerrütteten
+Bürgerkriegsland Libyen. Wieder basiert das Konzept auf der Schließung von
+Grenzen – als hätte man in den letzten Monaten nichts dazugelernt.
+
+Die Ausbildung der libyschen Küstenwache durch die EU erntet aus guten Gründen
+von vielen Seiten Kritik: Bereits 2016 zeigten Angriffe der libyschen
+Küstenwache auf die Schiffe von MSF und Sea Watch, dass diese unberechenbar
+ist. Das Land ist gespalten, es gibt keine einheitliche Regierung, viele
+rivalisierende Gruppen kämpfen um Macht – das spiegelt sich auch in der
+Küstenwache wieder. Mit wem kooperiert die EU da eigentlich?
+
+Erst letzte Woche gab es abermals einen Zwischenfall: Außerhalb des libyschen
+Hoheitsgewässers intervenierte ein Patrouillenschiff aus Libyen in einen
+Rettungseinsatz von Sea Watch. Dabei wurde sie beinah vom libyschen Schiff
+gerammt. Die libyschen Einheiten schleppten mehrere Flüchtenden zurück in ihr
+Territorialgewässer um sie zurück nach Libyen zu bringen. Sie haben damit mit
+intern ationalem Recht gebrochen.
+
+Was macht es aus Europa, wenn wir Kooperationspartner_innen haben, die
+geltendes Recht missachten? Wenn wir Abkommen mit Ländern schließen, in denen
+Menschenrechte nicht durchgesetzt werden? Wenn die EU nicht einmal selbst nicht
+in der Lage ist, Menschenrechte durchzusetzen? Wenn das fundamentale
+Menschenrecht auf Leben, Freiheit und Sicherheit auf dem Mittelmeer keine
+Geltung zu haben scheint?
+
+Das ist nicht unser Europa. Wir fordern Sie auf, sich für eine menschenwürdige
+Asylpolitik einzusetzen: Solange es keine legalen Einreisemöglichkeit für
+flüchtende Menschen gibt, muss es zumindest ein umfassendes
+Seenotrettungsprogramm der EU geben. Denn solange es solche Programme nicht
+gibt, werden die Menschen vor den Toren Europas sterben. Wir sind vor Ort aktiv
+um dem entgegenzuwirken. Aber auch wir stoßen an unsere Grenzen: Die letzten
+Wochen haben deutlich gemacht, dass Seenotrettung nicht allein durch NGOs
+gestemmt werden kann.
+
+Wir benennen diese Mission bewusst nach Ihnen. Wir sehen uns in der Position,
+eine Aufgabe übernehmen zu müssen, die die EU vernachlässigt: Die Rettung von
+Menschen aus akuter Lebensgefahr.
+
+Wir wünsche uns ein Europa, das Verantwortung übernimmt und für das
+fundamentale Recht auf Leben und Sicherheit einsteht. Dafür braucht es
+sinnvolle Maßnahmen wie ein europäisches Seenotrettungsprogramm, das die
+Notsituation vor Ort entschärft. Wir freuen uns, wenn Sie, Frau Mogherini, sich
+mit uns zusammensetzen um über solche Maßnahmen und unsere Erfahrungen vor Ort
+zu sprechen.
+
+
+Mit freundlichen Grüßen,
+ihr Jugend Rettet Team
+
 
 ### Mission Leggeri
 
