@@ -26,28 +26,20 @@ mission_current_title='
 '
 
 mission_current='
-Dear Ms. Mogherini,
+We criticize those who ignore.
 
-“Europe is what we make of it” - this was promoted by you at the end of March on the 60th anniversary of the Treaties of Rome. But what is being done in Europe? With our work we are trying to shape Europe solidarity and human: We head out to the Mediterranean Sea and rescue people at the European frontier, because we do not want to accept the dying.
+Dear supporters,  
+Our past missions were aimed at state actors with the request to help us and to save people from distress. Because of recent events, we are naming our 6th mission after a precedent.
+Hirsi Jamaa represents a case that happened in 2009. Over 200 Eritrean and Somali refugees were seized 35 nautical miles south of Lampedusa by the Italian customs and the coast guard and taken to Tripoli. The claimed reason for this was a return agreement. Thereupon, 24 persons appealed to the European Court of Human Rights. In 2012 Italy was condemned to pay damages. Returning the refugees to Libya was unrightful, as nobody may be subjected to torture or inhuman punishment. (Article 3 ECHR)  
+Currently, exactly those same illegal push-back actions are being repeated by the Libyan coast guard under use of violence. Those actions, as done in the past, are dangerous for people in distress and even for rescue units.  
+People in international waters are returned to Libya without legal basis. Currently, Libya is not a safe port by Geneva Conventions.a
 
-But we miss the support of the EU on the ground while we are in action. We are currently observing at the Mediterranean Sea a development that is contrary to our idea of a human and just Europe: The European policy focuses on border closure. 
+"[...] Returning to Libya is impossible. The situation in Libya does not allow it to be viewed as a safe country. Such conditions are currently not met. [...] "- Fabrice Leggeri, https://www.zdf.de/…/fro…/interview-leggeri-frontex-100.html, 16.05.2017
 
-With the closure of the Balkan route and the EU-Turkey deal, the fleeing people have been driven more and more onto the dangerous Mediterranean route. Instead of facing the home-made emergency situation at the Mediterranean with the help of sea rescue programs, the EU is counting on an odd agreement with the shattered civil war country Libya. Again, the concept is based on the closure of borders - as if nothing had been understood in the last months.
+Neither we, nor other ships, are legally allowed to bring people in distress to Libya.  
+Right now we are concerned with the plans of a Libyan rescue control center: The irresponsible "rescue" methods of the Libyan coast guard and violations of international law often result in serious human rights violations in Libyan detention camps. In addition, we are increasingly concerned for the safety of our crew and the refugees on the boats.
 
-The training of the Libyan coast guard by the EU is being criticized by many sides for good reasons: already in 2016 the attacks by the Libyan coast guard on the vessels of MSF and Sea Watch have shown how unpredictable this actor can be. The country is divided, there is no single government, many rival groups struggle for power - this is also reflected in “the” coast guard. With whom does the EU actually cooperate?
-
-Last week, however, there was an incident: outside the Libyan territory, a patrol vessel from Libya intervened in a rescue operation from Sea Watch. They were rammed almost by the Libyan ship. The Libyan units dragged several refugees back into their territorial waters to take them back to Libya. They thus broke with international law.
-
-What will happen to Europe, if we have cooperation partners who disregard valid law? If we conclude agreements with countries where human rights are not enforced? If the EU itself is not even able to protect human rights? If the fundamental human right to life, liberty and security does not seem to have any validity at the Mediterranean?
-
-This is not our Europe. We ask you to engage for a humane asylum policy: as long as there is no legal possibility of entry for refugees, there must be at least a comprehensive  sea rescue program of the EU. For as long as such programs do not exist, people will die at our gates to Europe. We are active at sea to counter this rescue gap. But we also reach our limits: the last few weeks have made it clear that search and rescue cannot be performed alone by NGOs.
-
-We name this mission consciously after you. We see ourselves in the position to take on a task which the EU neglects: the rescue of people from acute danger of life.
-
-We want a Europe that takes responsibility and stands for the fundamental right to life and security. This requires reasonable measures, such as a European sea rescue program, which helps to alleviate the emergency situation at sea. We are happy if you, Ms. Mogherini, join us to talk about such measures and our experience at the Mediterranean.
-
-With kind regards,
-The Jugend Rettet Team
+Instead of consciously accepting violations of human rights by the Libyan coast guard, the European governments must finally fulfill their responsibilities for the dead at their outer borders. Everyone in maritime emergency deserves rescue.
 '
 
 mission_procedure_menu='
@@ -72,6 +64,31 @@ Archive
 
 mission_archive='
 ## Archive
+
+### Mission Mogherini
+
+Dear Ms. Mogherini,
+
+“Europe is what we make of it” - this was promoted by you at the end of March on the 60th anniversary of the Treaties of Rome. But what is being done in Europe? With our work we are trying to shape Europe solidarity and human: We head out to the Mediterranean Sea and rescue people at the European frontier, because we do not want to accept the dying.
+
+But we miss the support of the EU on the ground while we are in action. We are currently observing at the Mediterranean Sea a development that is contrary to our idea of a human and just Europe: The European policy focuses on border closure.
+
+With the closure of the Balkan route and the EU-Turkey deal, the fleeing people have been driven more and more onto the dangerous Mediterranean route. Instead of facing the home-made emergency situation at the Mediterranean with the help of sea rescue programs, the EU is counting on an odd agreement with the shattered civil war country Libya. Again, the concept is based on the closure of borders - as if nothing had been understood in the last months.
+
+The training of the Libyan coast guard by the EU is being criticized by many sides for good reasons: already in 2016 the attacks by the Libyan coast guard on the vessels of MSF and Sea Watch have shown how unpredictable this actor can be. The country is divided, there is no single government, many rival groups struggle for power - this is also reflected in “the” coast guard. With whom does the EU actually cooperate?
+
+Last week, however, there was an incident: outside the Libyan territory, a patrol vessel from Libya intervened in a rescue operation from Sea Watch. They were rammed almost by the Libyan ship. The Libyan units dragged several refugees back into their territorial waters to take them back to Libya. They thus broke with international law.
+
+What will happen to Europe, if we have cooperation partners who disregard valid law? If we conclude agreements with countries where human rights are not enforced? If the EU itself is not even able to protect human rights? If the fundamental human right to life, liberty and security does not seem to have any validity at the Mediterranean?
+
+This is not our Europe. We ask you to engage for a humane asylum policy: as long as there is no legal possibility of entry for refugees, there must be at least a comprehensive  sea rescue program of the EU. For as long as such programs do not exist, people will die at our gates to Europe. We are active at sea to counter this rescue gap. But we also reach our limits: the last few weeks have made it clear that search and rescue cannot be performed alone by NGOs.
+
+We name this mission consciously after you. We see ourselves in the position to take on a task which the EU neglects: the rescue of people from acute danger of life.
+
+We want a Europe that takes responsibility and stands for the fundamental right to life and security. This requires reasonable measures, such as a European sea rescue program, which helps to alleviate the emergency situation at sea. We are happy if you, Ms. Mogherini, join us to talk about such measures and our experience at the Mediterranean.
+
+With kind regards,
+The Jugend Rettet Team
 
 ### Mission Fabrice Leggeri
 
