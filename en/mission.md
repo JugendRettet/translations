@@ -34,7 +34,7 @@ Hirsi Jamaa represents a case that happened in 2009. Over 200 Eritrean and Somal
 Currently, exactly those same illegal push-back actions are being repeated by the Libyan coast guard under use of violence. Those actions, as done in the past, are dangerous for people in distress and even for rescue units.  
 People in international waters are returned to Libya without legal basis. Currently, Libya is not a safe port by Geneva Conventions.a
 
-"[...] Returning to Libya is impossible. The situation in Libya does not allow it to be viewed as a safe country. Such conditions are currently not met. [...] "- Fabrice Leggeri, https://www.zdf.de/…/fro…/interview-leggeri-frontex-100.html, 16.05.2017
+"[...] Returning to Libya is impossible. The situation in Libya does not allow it to be viewed as a safe country. Such conditions are currently not met. [...] " - Fabrice Leggeri, [Link](https://www.zdf.de/politik/frontal-21/interview-leggeri-frontex-100.html), 16.05.2017
 
 Neither we, nor other ships, are legally allowed to bring people in distress to Libya.  
 Right now we are concerned with the plans of a Libyan rescue control center: The irresponsible "rescue" methods of the Libyan coast guard and violations of international law often result in serious human rights violations in Libyan detention camps. In addition, we are increasingly concerned for the safety of our crew and the refugees on the boats.

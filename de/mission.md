@@ -51,7 +51,8 @@ Konventionen.
 “[...] Nach Libyen zurückschicken ist unmöglich. Die Lage in Libyen ermöglicht
 es nicht, weil es nicht als ein sicheres Land betrachtet werden kann. Zur Zeit
 sind solche Bedingungen nicht erfüllt. [...]” - Fabrice Leggeri,
-https://www.zdf.de/…/fro…/interview-leggeri-frontex-100.html, 16.05.2017
+[Link](https://www.zdf.de/politik/frontal-21/interview-leggeri-frontex-100.html),
+16.05.2017
 
 Weder wir, noch andere Schiffe, dürfen gesetzlich Menschen in Seenot dorthin
 bringen.  
