@@ -7,22 +7,22 @@ mission_title='
 '
 
 news_news_mission='
-### Mission: Mogherini
+### Mission: Hirsi Jamaa
 
 [We take responsibility](./mission)
 '
 
 mission_current_menu='
-Mogherini
+Hirsi Jamaa
 '
 
 donate_animation_mission='
 Ongoing:  
-[**Mission 5**: Mogherini](./mission)
+[**Mission 6**: Hirsi Jamaa](./mission)
 '
 
 mission_current_title='
-## Mission: Mogherini
+## Mission: Hirsi Jamaa
 '
 
 mission_current='

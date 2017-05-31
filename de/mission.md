@@ -18,7 +18,7 @@ Hirsi Jammaa
 
 donate_animation_mission='
 Laufend:  
-[**Mission 5**: Hirsi Jammaa](./mission)
+[**Mission 6**: Hirsi Jammaa](./mission)
 '
 
 mission_current_title='
