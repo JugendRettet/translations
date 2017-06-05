@@ -22,7 +22,7 @@ Der Vielzahl an einzelnen Menschen haben wir es zu verdanken, dass wir letztes J
 '
 
 donate_merch_link='
-[KAUFE UNSEREN KUSCHELIGEN MERCHANDISE](/merch)
+[HIER KANNST DU UNS MIT MERCHANDISE UNTERSTÜTZEN.](/merch)
 '
 
 donate_donations_account='
