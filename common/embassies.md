@@ -3,7 +3,7 @@ sub_team_embassies='
 
 * **Barcelona**: [Leo](mailto:Leo@jugendrettet.org)
 * **Basel**: [Angelica](mailto:Angelica_Basel@jugendrettet.org)
-* **Berlin**: [Sonja](mailto:Sonja@jugendrettet.org), [Ina](mailto:Ina_Berlin@jugendrettet.org), [Projekt Begegnung](mailto:Projekt.Begegnung_Berlin@jugendrettet.org)
+* **Berlin**: [Sonja](mailto:Sonja@jugendrettet.org), [Projekt Begegnung](mailto:Projekt.Begegnung_Berlin@jugendrettet.org)
 * **Bielefeld**: [Andreas](mailto:Andreas_Bielefeld@jugendrettet.org)
 * **Bochum**: [Sebastian](mailto:Sebastian_Bochum@jugendrettet.org)
 * **Bonn**: [Alex](mailto:Alex_Bonn@jugendrettet.org), [Anna](mailto:AnnaB@jugendrettet.org), [Natalie](mailto:Natalie_Bonn@jugendrettet.org)
