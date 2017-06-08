@@ -8,7 +8,7 @@ donate_title='
 '
 
 donate_animation_text='
-Currently **9**/15 Missions in 2017 are funded.
+Currently **11**/15 Missions in 2017 are funded.
 
 [Funding of current projects on Betterplace](/betterplace)
 '
