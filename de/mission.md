@@ -7,22 +7,22 @@ mission_title='
 '
 
 news_news_mission='
-### Mission: Hirsi Jammaa
+### Mission: Hirsi Jamaa
 
 [Wir übernehmen Verantwortung](./mission)
 '
 
 mission_current_menu='
-Hirsi Jammaa
+Hirsi Jamaa
 '
 
 donate_animation_mission='
 Laufend:  
-[**Mission 6**: Hirsi Jammaa](./mission)
+[**Mission 6**: Hirsi Jamaa](./mission)
 '
 
 mission_current_title='
-## Mission: Hirsi Jammaa
+## Mission: Hirsi Jamaa
 '
 
 mission_current='
