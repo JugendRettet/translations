@@ -36,7 +36,7 @@ about_our_story_title='
 '
 
 about_our_story='
-Schon von Anfang an wussten wir, dass es nicht immer einfach wird. Mit der Zeit haben wir von der Hilfe und Erfahrung anderer profitiert und uns und damit den Verein selbst weiter entwickelt.  
+Schon von Anfang an wussten wir, dass es nicht immer einfach wird. Mit der Zeit haben wir von der Hilfe und Erfahrung anderer profitiert und haben uns und damit den Verein weiter entwickelt.  
 Hier seht ihr unsere Meilensteine:  
 
 ### 2015
