@@ -7,39 +7,42 @@ mission_title='
 '
 
 news_news_mission='
-### Mission: Hirsi Jamaa
+### Mission: Tusk
 
 [We take responsibility](./mission)
 '
 
 mission_current_menu='
-Hirsi Jamaa
+Tusk
 '
 
 donate_animation_mission='
 Ongoing:  
-[**Mission 6**: Hirsi Jamaa](./mission)
+[**Mission 7**: Tusk](./mission)
 '
 
 mission_current_title='
-## Mission: Hirsi Jamaa
+## Mission: Tusk
 '
 
 mission_current='
-We criticize those who ignore.
 
-Dear supporters,  
-Our past missions were aimed at state actors with the request to help us and to save people from distress. Because of recent events, we are naming our 6th mission after a precedent.
-Hirsi Jamaa represents a case that happened in 2009. Over 200 Eritrean and Somali refugees were seized 35 nautical miles south of Lampedusa by the Italian customs and the coast guard and taken to Tripoli. The claimed reason for this was a return agreement. Thereupon, 24 persons appealed to the European Court of Human Rights. In 2012 Italy was condemned to pay damages. Returning the refugees to Libya was unrightful, as nobody may be subjected to torture or inhuman punishment. (Article 3 ECHR)  
-Currently, exactly those same illegal push-back actions are being repeated by the Libyan coast guard under use of violence. Those actions, as done in the past, are dangerous for people in distress and even for rescue units.  
-People in international waters are returned to Libya without legal basis. Currently, Libya is not a safe port by Geneva Conventions.a
+Dear Mr. Tusk
+We ask ourselves: For which Europe do you stand as EU Council President?
+Your words on refugee protection and active marine rescue in the Mediterranean are becoming increasingly tougher. In April 2015 you have stressed the prevention of further deaths on the Mediterranean route as a top priority for the European Community, they have stood for a clear EU foreclosure policy since autumn 2015. The then "easy" access to Europe was called by you one of the greatest pull factors.
+ 
+At the same time, you urged politicians like Angela Merkel to correct the policy of open doors. Also, you have repeatedly emphasized the image of the wave of refugees as a threat to the security of the European community in public discourse. This rhetoric gives the right voices a sense of legitimation, an anti-refugee sentiment is increasingly accepted by society. This must cease, politics can not even indirectly promote such patterns of thought.
+ 
+You call for an urgent solidarity within the EU Member States, but not for a responsible asylum policy or a state-sponsored sea rescue. They want solidarity in border protection so that the Schengen system is not in danger. Solidarity with people on the run - this is our urgent request to you, Mr President-in-Office of the Council!
+ 
+The current agreement between Italy and Libya was welcomed by you. At the Malta Summit, you emphasized that the core values of our society are in danger when the Mediterranean cruises do not end. The irregular migration would help the right parties to the big elections in several EU countries to success.
+We do not agree with this, it is too quiet support for the protection of the people and against racism on the part of the political decision-makers who make the values waver. We stand for the right to life, salvation from distress and asylum. We need politicians to reflect empathy and human dignity in their policies.
+Mr. Tusk, actions are louder than words!
+ 
+Sincerely,
+ 
+Jugend Rettet
 
-"[...] Returning to Libya is impossible. The situation in Libya does not allow it to be viewed as a safe country. Such conditions are currently not met. [...] " - Fabrice Leggeri, [Link](https://www.zdf.de/politik/frontal-21/interview-leggeri-frontex-100.html), 16.05.2017
-
-Neither we, nor other ships, are legally allowed to bring people in distress to Libya.  
-Right now we are concerned with the plans of a Libyan rescue control center: The irresponsible "rescue" methods of the Libyan coast guard and violations of international law often result in serious human rights violations in Libyan detention camps. In addition, we are increasingly concerned for the safety of our crew and the refugees on the boats.
-
-Instead of consciously accepting violations of human rights by the Libyan coast guard, the European governments must finally fulfill their responsibilities for the dead at their outer borders. Everyone in maritime emergency deserves rescue.
 '
 
 mission_procedure_menu='
@@ -64,6 +67,23 @@ Archive
 
 mission_archive='
 ## Archive
+
+### Mission Hirsi Jamaa
+
+We criticize those who ignore.
+
+Dear supporters,  
+Our past missions were aimed at state actors with the request to help us and to save people from distress. Because of recent events, we are naming our 6th mission after a precedent.
+Hirsi Jamaa represents a case that happened in 2009. Over 200 Eritrean and Somali refugees were seized 35 nautical miles south of Lampedusa by the Italian customs and the coast guard and taken to Tripoli. The claimed reason for this was a return agreement. Thereupon, 24 persons appealed to the European Court of Human Rights. In 2012 Italy was condemned to pay damages. Returning the refugees to Libya was unrightful, as nobody may be subjected to torture or inhuman punishment. (Article 3 ECHR)  
+Currently, exactly those same illegal push-back actions are being repeated by the Libyan coast guard under use of violence. Those actions, as done in the past, are dangerous for people in distress and even for rescue units.  
+People in international waters are returned to Libya without legal basis. Currently, Libya is not a safe port by Geneva Conventions.a
+
+"[...] Returning to Libya is impossible. The situation in Libya does not allow it to be viewed as a safe country. Such conditions are currently not met. [...] " - Fabrice Leggeri, [Link](https://www.zdf.de/politik/frontal-21/interview-leggeri-frontex-100.html), 16.05.2017
+
+Neither we, nor other ships, are legally allowed to bring people in distress to Libya.  
+Right now we are concerned with the plans of a Libyan rescue control center: The irresponsible "rescue" methods of the Libyan coast guard and violations of international law often result in serious human rights violations in Libyan detention camps. In addition, we are increasingly concerned for the safety of our crew and the refugees on the boats.
+
+Instead of consciously accepting violations of human rights by the Libyan coast guard, the European governments must finally fulfill their responsibilities for the dead at their outer borders. Everyone in maritime emergency deserves rescue.
 
 ### Mission Mogherini
 
