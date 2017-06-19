@@ -7,25 +7,62 @@ mission_title='
 '
 
 news_news_mission='
-### Mission: Hirsi Jamaa
+### Mission: Tusk
 
 [Wir übernehmen Verantwortung](./mission)
 '
 
 mission_current_menu='
-Hirsi Jamaa
+Tusk
 '
 
 donate_animation_mission='
 Laufend:  
-[**Mission 6**: Hirsi Jamaa](./mission)
+[**Mission 7**: Tusk](./mission)
 '
 
 mission_current_title='
-## Mission: Hirsi Jamaa
+## Mission: Tusk
 '
 
 mission_current='
+Sehr geehrter Herr Donald Tusk,
+Wir fragen uns: Für welches Europa stehen Sie als EU Ratspräsident?
+Ihre Worte zum Flüchtlingsschutz und aktiver Seenotrettung auf dem Mittelmeer werden immer härter. Haben Sie im April 2015 noch das Verhindern weiterer Tote auf der Mittelmeerroute als oberste Priorität für die Europäische Gemeinschaft betont, so stehen sie seit Herbst 2015 für eine klare Abschottungspolitik der EU. Der damals “einfache” Zugang zu Europa nannten Sie einen der größten ‘Pull-Faktoren’.  
+Zugleich mahnten Sie Politiker_innen wie Angela Merkel die “Politik der offenen Türen zu korrigieren”. Auch haben Sie immer wieder das Bild der “Flüchtlingswelle” als Bedrohung für die Sicherheit der Europäischen Gemeinschaft in dem öffentlichen Diskurs betont. Diese Rhetorik verhilft den rechten Stimmen zu einem Gefühl der Legitimation, eine Anti-Flüchtlings-Stimmung wird zunehmens gesellschaftlich akzeptiert. Dies muss aufhören, die Politik darf solche Denkmuster nicht auch noch indirekt fördern. 
+Sie fordern zwar eine dringende Solidarität innerhalb der EU Mitgliedsstaaten, aber nicht bzgl. einer verantwortlich handelnden Asylpolitik oder einer staatlich organisierten Seenotrettung - sie wollen Solidarität beim Grenzschutz, damit das Schengen-System nicht in Gefahr gerät. Solidarität mit Menschen auf der Flucht - das ist unsere dringliche Bitte an Sie, Herr EU Ratspräsident!
+Das aktuelle Abkommen zwischen Italien und Libyen wurde von Ihnen sehr begrüßt. Auf dem Malta-Gipfel betonten Sie, dass die Kernwerte unserer Gesellschaft in Gefahr seien, wenn die Überfahrten auf dem Mittelmeer kein Ende finden. Die irreguläre Migration würde den rechten Parteien für die großen Wahlen in mehreren EU Staaten zum Erfolg verhelfen. 
+Da stimmen wir Ihnen nicht zu, es ist die zu leise Unterstützung für den Schutz der Menschen und gegen Rassismus seitens der politischen Entscheidungsträger_innen, die die Werte wanken lassen. Wir stehen für das Recht auf Leben, Rettung aus Seenot und Asyl. Wir brauchen Politiker_innen die Mitgefühl und die menschliche Würde in ihrer Politik widerspiegeln. 
+Herr Tusk, Taten sind lauter als Worte!
+ 
+Hochachtungsvoll,
+ 
+Jugend Rettet
+
+'
+
+mission_procedure_menu='
+Ablauf
+'
+
+mission_procedure='
+## Ablauf einer Mission
+
+Nachdem ein Boot in Seenot lokalisiert wurde, entweder durch aktive Suche mit Fernglas und Radargerät, oder durch das Rettungskoordinationszentrum (MRCC) in Rom, bleibt die IUVENTA in angemessener Entfernung vom Boot in Seenot. Währenddessen nähern sich die RIBs (Rigid Inflatable Boat)  dem Boot vom Heck aus und verteilen die Rettungswesten.  
+Eines der RIBs beginnt dann, Personen an Bord der IUVENTA zu bringen, während das andere immer mit dem Boot in Kontakt bleibt. Bei Gelegenheit bringen die RIBs das Boot längsseits zur IUVENTA zur direkten Einstieg.  
+Einmal an Bord werden die gerettete Personen mit ärztlicher Hilfe und vor allem Trinkwasser und leichter Kost versorgt.  
+Größere NGO oder Schiffe der italienischen Küstenwache bringen unsere geretteten Personen an Land.
+'
+
+mission_archive_menu='
+Archiv
+'
+
+mission_archive='
+## Archiv
+
+### Mission Hirsi Jamaa
+
 Wir kritisieren die, die ignorieren.
 
 Liebe Unterstützer_innen,  
@@ -67,27 +104,7 @@ Anstatt Menschenrechtsverstöße durch die Libysche Küstenwache wissentlich in
 Kauf zu nehmen, müssen die Europäischen Regierungen endlich ihrer Verantwortung
 für die Toten an ihren Außengrenzen gerecht werden. Jeder Mensch verdient die
 Rettung aus Seenot.
-'
 
-mission_procedure_menu='
-Ablauf
-'
-
-mission_procedure='
-## Ablauf einer Mission
-
-Nachdem ein Boot in Seenot lokalisiert wurde, entweder durch aktive Suche mit Fernglas und Radargerät, oder durch das Rettungskoordinationszentrum (MRCC) in Rom, bleibt die IUVENTA in angemessener Entfernung vom Boot in Seenot. Währenddessen nähern sich die RIBs (Rigid Inflatable Boat)  dem Boot vom Heck aus und verteilen die Rettungswesten.  
-Eines der RIBs beginnt dann, Personen an Bord der IUVENTA zu bringen, während das andere immer mit dem Boot in Kontakt bleibt. Bei Gelegenheit bringen die RIBs das Boot längsseits zur IUVENTA zur direkten Einstieg.  
-Einmal an Bord werden die gerettete Personen mit ärztlicher Hilfe und vor allem Trinkwasser und leichter Kost versorgt.  
-Größere NGO oder Schiffe der italienischen Küstenwache bringen unsere geretteten Personen an Land.
-'
-
-mission_archive_menu='
-Archiv
-'
-
-mission_archive='
-## Archiv
 
 ### Mission Mogherini
 
