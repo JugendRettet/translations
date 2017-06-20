@@ -26,23 +26,20 @@ mission_current_title='
 '
 
 mission_current='
-
-Dear Mr. Tusk
-We ask ourselves: For which Europe do you stand as EU Council President?
+Dear Mr. Tusk,  
+We ask ourselves: For which Europe do you stand as EU Council President?  
 Your words on refugee protection and active marine rescue in the Mediterranean are becoming increasingly tougher. In April 2015 you have stressed the prevention of further deaths on the Mediterranean route as a top priority for the European Community, they have stood for a clear EU foreclosure policy since autumn 2015. The then "easy" access to Europe was called by you one of the greatest pull factors.
  
 At the same time, you urged politicians like Angela Merkel to correct the policy of open doors. Also, you have repeatedly emphasized the image of the wave of refugees as a threat to the security of the European community in public discourse. This rhetoric gives the right voices a sense of legitimation, an anti-refugee sentiment is increasingly accepted by society. This must cease, politics can not even indirectly promote such patterns of thought.
  
 You call for an urgent solidarity within the EU Member States, but not for a responsible asylum policy or a state-sponsored sea rescue. They want solidarity in border protection so that the Schengen system is not in danger. Solidarity with people on the run - this is our urgent request to you, Mr President-in-Office of the Council!
  
-The current agreement between Italy and Libya was welcomed by you. At the Malta Summit, you emphasized that the core values of our society are in danger when the Mediterranean cruises do not end. The irregular migration would help the right parties to the big elections in several EU countries to success.
-We do not agree with this, it is too quiet support for the protection of the people and against racism on the part of the political decision-makers who make the values waver. We stand for the right to life, salvation from distress and asylum. We need politicians to reflect empathy and human dignity in their policies.
+The current agreement between Italy and Libya was welcomed by you. At the Malta Summit, you emphasized that the core values of our society are in danger when the Mediterranean cruises do not end. The irregular migration would help the right parties to the big elections in several EU countries to success.  
+We do not agree with this, it is too quiet support for the protection of the people and against racism on the part of the political decision-makers who make the values waver. We stand for the right to life, salvation from distress and asylum. We need politicians to reflect empathy and human dignity in their policies.  
 Mr. Tusk, actions are louder than words!
  
-Sincerely,
- 
+Sincerely,  
 Jugend Rettet
-
 '
 
 mission_procedure_menu='
