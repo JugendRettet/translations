@@ -26,19 +26,20 @@ mission_current_title='
 '
 
 mission_current='
-Sehr geehrter Herr Donald Tusk,
-Wir fragen uns: Für welches Europa stehen Sie als EU Ratspräsident?
-Ihre Worte zum Flüchtlingsschutz und aktiver Seenotrettung auf dem Mittelmeer werden immer härter. Haben Sie im April 2015 noch das Verhindern weiterer Tote auf der Mittelmeerroute als oberste Priorität für die Europäische Gemeinschaft betont, so stehen sie seit Herbst 2015 für eine klare Abschottungspolitik der EU. Der damals “einfache” Zugang zu Europa nannten Sie einen der größten ‘Pull-Faktoren’.  
-Zugleich mahnten Sie Politiker_innen wie Angela Merkel die “Politik der offenen Türen zu korrigieren”. Auch haben Sie immer wieder das Bild der “Flüchtlingswelle” als Bedrohung für die Sicherheit der Europäischen Gemeinschaft in dem öffentlichen Diskurs betont. Diese Rhetorik verhilft den rechten Stimmen zu einem Gefühl der Legitimation, eine Anti-Flüchtlings-Stimmung wird zunehmens gesellschaftlich akzeptiert. Dies muss aufhören, die Politik darf solche Denkmuster nicht auch noch indirekt fördern. 
+Sehr geehrter Herr Donald Tusk,  
+Wir fragen uns: Für welches Europa stehen Sie als EU Ratspräsident?  
+Ihre Worte zum Flüchtlingsschutz und aktiver Seenotrettung auf dem Mittelmeer werden immer härter. Haben Sie im April 2015 noch das Verhindern weiterer Tote auf der Mittelmeerroute als oberste Priorität für die Europäische Gemeinschaft betont, so stehen sie seit Herbst 2015 für eine klare Abschottungspolitik der EU. Der damals “einfache” Zugang zu Europa nannten Sie einen der größten ‘Pull-Faktoren’.
+
+Zugleich mahnten Sie Politiker_innen wie Angela Merkel die “Politik der offenen Türen zu korrigieren”. Auch haben Sie immer wieder das Bild der “Flüchtlingswelle” als Bedrohung für die Sicherheit der Europäischen Gemeinschaft in dem öffentlichen Diskurs betont. Diese Rhetorik verhilft den rechten Stimmen zu einem Gefühl der Legitimation, eine Anti-Flüchtlings-Stimmung wird zunehmens gesellschaftlich akzeptiert. Dies muss aufhören, die Politik darf solche Denkmuster nicht auch noch indirekt fördern.
+
 Sie fordern zwar eine dringende Solidarität innerhalb der EU Mitgliedsstaaten, aber nicht bzgl. einer verantwortlich handelnden Asylpolitik oder einer staatlich organisierten Seenotrettung - sie wollen Solidarität beim Grenzschutz, damit das Schengen-System nicht in Gefahr gerät. Solidarität mit Menschen auf der Flucht - das ist unsere dringliche Bitte an Sie, Herr EU Ratspräsident!
-Das aktuelle Abkommen zwischen Italien und Libyen wurde von Ihnen sehr begrüßt. Auf dem Malta-Gipfel betonten Sie, dass die Kernwerte unserer Gesellschaft in Gefahr seien, wenn die Überfahrten auf dem Mittelmeer kein Ende finden. Die irreguläre Migration würde den rechten Parteien für die großen Wahlen in mehreren EU Staaten zum Erfolg verhelfen. 
-Da stimmen wir Ihnen nicht zu, es ist die zu leise Unterstützung für den Schutz der Menschen und gegen Rassismus seitens der politischen Entscheidungsträger_innen, die die Werte wanken lassen. Wir stehen für das Recht auf Leben, Rettung aus Seenot und Asyl. Wir brauchen Politiker_innen die Mitgefühl und die menschliche Würde in ihrer Politik widerspiegeln. 
+
+Das aktuelle Abkommen zwischen Italien und Libyen wurde von Ihnen sehr begrüßt. Auf dem Malta-Gipfel betonten Sie, dass die Kernwerte unserer Gesellschaft in Gefahr seien, wenn die Überfahrten auf dem Mittelmeer kein Ende finden. Die irreguläre Migration würde den rechten Parteien für die großen Wahlen in mehreren EU Staaten zum Erfolg verhelfen.  
+Da stimmen wir Ihnen nicht zu, es ist die zu leise Unterstützung für den Schutz der Menschen und gegen Rassismus seitens der politischen Entscheidungsträger_innen, die die Werte wanken lassen. Wir stehen für das Recht auf Leben, Rettung aus Seenot und Asyl. Wir brauchen Politiker_innen die Mitgefühl und die menschliche Würde in ihrer Politik widerspiegeln.  
 Herr Tusk, Taten sind lauter als Worte!
  
-Hochachtungsvoll,
- 
+Hochachtungsvoll,  
 Jugend Rettet
-
 '
 
 mission_procedure_menu='
