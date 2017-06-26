@@ -23,7 +23,7 @@ Du kannst uns hier direkt mit einer Einzelspende unterstützen.
 
 donate_more_info='
 [Noch mehr Sicherheit geben uns Dauerspenden.  
-Unterstütze uns hier mit einer Dauerspende und erfahre mehr über die Kosten einer Rettungsmission.](/donations)
+Unterstütze uns hier mit einer Dauerspende und erfahre mehr über die Kosten einer Rettungsmission.](./donations)
 '
 
 donate_betterplace_title='
