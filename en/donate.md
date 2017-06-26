@@ -23,7 +23,7 @@ You can support us with a one-time donation here directly.
 
 donate_more_info='
 [You can give us even more security with ongoing donations.
-Support us here with ongoing donations and learn more about the costs of rescue missions.](/donations)
+Support us here with ongoing donations and learn more about the costs of rescue missions.](./donations)
 '
 
 donate_betterplace_title='
