@@ -116,6 +116,22 @@ Wir zeigen durch das Projekt, dass junge Leute auch ohne großen Dachverband im 
 
 Das Mittelmeer ist zum Symbol der europäischen Abschottungspolitik geworden: Obwohl täglich Menschen auf dem Mittelmeer in Not geraten, gibt es kein staatliches Rettungsprogramm. Der Fokus liegt stattdessen auf der Grenzsicherung und dem Aufdecken der Schleppernetzwerke. Unser Schiff ist ein klares Zeichen gegen die europäische Gleichgültigkeit gegenüber dem Sterben auf dem Mittelmeer. Das Recht auf Leben und Sicherheit gilt für alle, überall.
 
+17 Warum akzeptieren wir nur private Spenden?
+---------------------------------------------
+
+Es ist unsere Überzeugung, dass das massenhafte Sterben auf dem
+Mittelmeer politische Ursachen hat und somit auch nur politisch gelöst
+werden kann. Verantwortliche Akteure sind daher staatliche – nicht private.
+Wir helfen akut dort, wo Staaten ihrer Verantwortung nicht nachkommen.
+Gleichzeitig wollen wir jedoch nicht, dass diese Verantwortung an uns abgegeben wird.
+Sie selbst sollen das Sterben beenden.
+
+Dazu gehört für uns, dass Staaten ihre Gelder direkt selbst in
+Lösungen investieren, statt private Organisationen wie uns fördern.
+Gleichzeitig bleiben wir dadurch unabhängig.
+Als einzige Möglichkeit der Finanzierung bleibt uns daher die Unterstützung durch
+private Spenden.
+
 - - -
 '
 

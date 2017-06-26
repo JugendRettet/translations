@@ -111,6 +111,21 @@ With our organization we show that young people are able to move something witho
 
 The Mediterranean has become a symbol of European Isolation policy: Despite of human lives being at risk every day on the Mediterranean there's no state-run rescue program. The focus lies on securing borders and on uncovering smuggler networks. Our ship is a strong symbol against the European indifference to the dying in the Mediterranean. The right to life and security applies to everyone, everywhere.
 
+17 Why do we accept private donations only?
+---------------------------------------------
+
+We belief that the ongoing deaths on the Mediterranean have a political
+cause. Therefore, the solutions can only be political.
+The ones responsible are not private citizens but state actors.
+We are giving immediate help where states are neglecting their responsibilities.
+While we are doing this we do not wish to take this responsibilties from them.
+States themselves need to end the onging deaths.
+
+For us that includes that states use their ressources for solutions directly,
+instead of helping NGOs like ours. This also guarantees our independence.
+The only way that this leaves to finance ourselves is support through private
+donations.
+
 - - -
 '
 
