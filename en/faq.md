@@ -118,12 +118,12 @@ We belief that the ongoing deaths on the Mediterranean have a political
 cause. Therefore, the solutions can only be political.
 The ones responsible are not private citizens but state actors.
 We are giving immediate help where states are neglecting their responsibilities.
-While we are doing this we do not wish to take this responsibilties from them.
+While we are doing this we do not wish to take those responsibilties from them.
 States themselves need to end the onging deaths.
 
 For us that includes that states use their ressources for solutions directly,
 instead of helping NGOs like ours. This also guarantees our independence.
-The only way that this leaves to finance ourselves is support through private
+Consequently the only way left for us to fund ourselves is support through private
 donations.
 
 - - -

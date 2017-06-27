@@ -68,7 +68,7 @@ With ongoing donations you can support us monthly, quarterly,
 semi-annualy or annualy. Ongoing donations help us planning rescue missions more confidentely. Ongoing donations do not have to be of high volume. You decide whether you want to give 10 € or 100 €.  
 Ongoing donations are provided via Betterplace. They end either when you end them or when we close the [project](/betterplace) for donations.
 
-Just fill in the form below and decide for yourself how much and when you want support us.
+Just fill in the form below and decide for yourself how much and when you want to support us.
 '
 
 sub_donate_list='
