@@ -8,7 +8,6 @@ sub_team_embassies='
 * **Bochum**: [Sebastian](mailto:Sebastian_Bochum@jugendrettet.org)
 * **Bonn**: [Alex](mailto:Alex_Bonn@jugendrettet.org), [Anna](mailto:AnnaB@jugendrettet.org), [Natalie](mailto:Natalie_Bonn@jugendrettet.org)
 * **Bremen**: [Niklas](mailto:Niklas_Bremen@jugendrettet.org), [Thomas](mailto:Thomas@jugendrettet.org)
-* **Bremerhaven**: [Birk](mailto:Birk_Bremerhaven@jugendrettet.org)
 * **Cuxhaven**: [Nadine](mailto:Nadine_Cuxhaven@jugendrettet.org)
 * **Dresden**: [Charlotte](mailto:Charlotte@jugendrettet.org)
 * **Duisburg**: [Jana](mailto:Jana@jugendrettet.org)
