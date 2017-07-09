@@ -7,39 +7,39 @@ mission_title='
 '
 
 news_news_mission='
-### Mission: Tusk
+### Mission: Avramopoulous
 
-[Wir übernehmen Verantwortung](./mission)
+[Taten sind lauter als Worte](./mission)
 '
 
 mission_current_menu='
-Tusk
+Avramopoulous
 '
 
 donate_animation_mission='
 Laufend:  
-[**Mission 7**: Tusk](./mission)
+[**Mission 8**: Avramopoulous](./mission)
 '
 
 mission_current_title='
-## Mission: Tusk
+## Mission: Avramopoulous
 '
 
 mission_current='
-Sehr geehrter Herr Donald Tusk,  
-Wir fragen uns: Für welches Europa stehen Sie als EU Ratspräsident?  
-Ihre Worte zum Flüchtlingsschutz und aktiver Seenotrettung auf dem Mittelmeer werden immer härter. Haben Sie im April 2015 noch das Verhindern weiterer Tote auf der Mittelmeerroute als oberste Priorität für die Europäische Gemeinschaft betont, so stehen sie seit Herbst 2015 für eine klare Abschottungspolitik der EU. Der damals “einfache” Zugang zu Europa nannten Sie einen der größten ‘Pull-Faktoren’.
+Sehr geehrter Herr Avramopoulous,
 
-Zugleich mahnten Sie Politiker_innen wie Angela Merkel die “Politik der offenen Türen zu korrigieren”. Auch haben Sie immer wieder das Bild der “Flüchtlingswelle” als Bedrohung für die Sicherheit der Europäischen Gemeinschaft in dem öffentlichen Diskurs betont. Diese Rhetorik verhilft den rechten Stimmen zu einem Gefühl der Legitimation, eine Anti-Flüchtlings-Stimmung wird zunehmens gesellschaftlich akzeptiert. Dies muss aufhören, die Politik darf solche Denkmuster nicht auch noch indirekt fördern.
+Sie sind unser EU Kommissar für Migration und Inneres und damit verantwortlich für Menschen auf der Flucht. „Das Herz des europäischen Projektes ist es, das Leben von Migranten zu schützen“ - Das waren Ihre Worte zu Beginn des Jahres. Wir fragen uns: Wann werden Sie Menschenrechte und Flüchtlingsschutz priorisieren? Wie viele Menschen müssen noch an unseren Außengrenzen sterben?
 
-Sie fordern zwar eine dringende Solidarität innerhalb der EU Mitgliedsstaaten, aber nicht bzgl. einer verantwortlich handelnden Asylpolitik oder einer staatlich organisierten Seenotrettung - sie wollen Solidarität beim Grenzschutz, damit das Schengen-System nicht in Gefahr gerät. Solidarität mit Menschen auf der Flucht - das ist unsere dringliche Bitte an Sie, Herr EU Ratspräsident!
+Vor kurzem haben Sie mit den Innenminister_innen von Deutschland, Frankreich und Italien einen ‘Action-Plan‘ zur Eindämmung der Migration über das Mittelmeer beschlossen. Wir sind entsetzt, dass Europa seine Linie der Abschottung fortsetzt. Es wurden weitere Subventionen an eine sogenannte Libysche Küstenwache beschlossen. Libyen soll seine Südgrenzen für Geflüchtete schließen und Frontex wird verstärkt an Abschiebungen aus Europa mitwirken. Der Internationale Strafgerichtshof in Den Haag  erwägt ein Ermittlungsverfahren gegen die von der EU ausgerüstete und ausgebildete Libysche Küstenwache, weil sie vermehrt gegen das Internationale Seerecht und die Genfer Flüchtlingskonvention verstoßen hat.  Schutzsuchende und die zivilen Seenotrettungsorganisationen wurden durch das Vorgehen der Libyschen Küstenwache in den vergangenen Monaten immer wieder Gefahren ausgesetzt. Deshalb muss eine Kooperation hinterfragt werden. 
 
-Das aktuelle Abkommen zwischen Italien und Libyen wurde von Ihnen sehr begrüßt. Auf dem Malta-Gipfel betonten Sie, dass die Kernwerte unserer Gesellschaft in Gefahr seien, wenn die Überfahrten auf dem Mittelmeer kein Ende finden. Die irreguläre Migration würde den rechten Parteien für die großen Wahlen in mehreren EU Staaten zum Erfolg verhelfen.  
-Da stimmen wir Ihnen nicht zu, es ist die zu leise Unterstützung für den Schutz der Menschen und gegen Rassismus seitens der politischen Entscheidungsträger_innen, die die Werte wanken lassen. Wir stehen für das Recht auf Leben, Rettung aus Seenot und Asyl. Wir brauchen Politiker_innen die Mitgefühl und die menschliche Würde in ihrer Politik widerspiegeln.  
-Herr Tusk, Taten sind lauter als Worte!
+[Es existiert bereits ein gemeinsamer Verhaltenskodex mit den anderen Seenotrettungsorganisationen, der die wesentlichen Punkte bereits regelt.](https://www.humanrightsatsea.org/wp-content/uploads/2017/03/20170302-NGO-Code-of-Conduct-FINAL-SECURED.pdf)  
+Der nun vorgelegte Verhaltenskodex für SAR NGOs, der angeblich für die Sicherheit von Bootsmigrant_innen und uns als Seenotrettungsinitiativen dienen soll, ist unverhältnismäßig. Zudem haben wir haben bereits das Internationale Seerecht, das Non-refoulement Prinzip, die Menschenrechte und das Flüchtlingsrecht. Dass keine zivilen Organisationen bei diesem neuen Entscheidungsprozess miteinbezogen worden sind ist mehr als unverständlich. Mehrere Punkte im Kodex sind besonders kritisch. Wenn wir z.B. nicht mehr Gerettete an andere Boote übergeben dürfen, sondern selbst zum sicheren Hafen bringen müssen, heißt das in der Konsequenz: Weniger Rettungskapazitäten auf dem Mittelmeer - mehr Menschen werden sterben! 
  
-Hochachtungsvoll,  
-Jugend Rettet
+Ihr Posten als EU Flüchtlingskommissar hat laut ihrer Aufgabenbeschreibung die “Rettung von Menschenleben auf See und Sicherung der EU-Außengrenzen” als Priorität. Während jedoch derzeit die Sicherung der EU-Außengrenzen perfektioniert wird, taucht die Rettung von Menschenleben in Ihrer Agenda schlicht nicht auf. Wenn es für Schutzsuchende legale und sichere Wege nach Europa gäbe, gäbe es keine Notwendigkeit mehr, den lebensgefährlichen Weg über das Mittelmeer antreten zu müssen. 
+
+Solidarität mit Italien? Ja, aber wir fordern auch Solidarität mit Menschen auf der Flucht. Pro-aktive Seenotrettung der EU ist dringend notwendig: Im Mittelmeerraum sind allein dieses Jahr bereits 2,257 Menschen vermisst oder tot. Mit den Worten von Pro Asyl: [“Dies alles ist ein menschenrechtliches und humanitäres Versagen”](https://www.proasyl.de/pressemitteilung/frankreich-deutschland-italien-und-die-eu-kommission-einigen-sich-auf-kosten-der-fluechtlinge/).
+
+Herr Avramopoulous, Taten sind lauter als Worte.
 '
 
 mission_procedure_menu='
@@ -61,6 +61,23 @@ Archiv
 
 mission_archive='
 ## Archiv
+
+### Mission Donald Tusk
+
+Sehr geehrter Herr Donald Tusk,  
+Wir fragen uns: Für welches Europa stehen Sie als EU Ratspräsident?  
+Ihre Worte zum Flüchtlingsschutz und aktiver Seenotrettung auf dem Mittelmeer werden immer härter. Haben Sie im April 2015 noch das Verhindern weiterer Tote auf der Mittelmeerroute als oberste Priorität für die Europäische Gemeinschaft betont, so stehen sie seit Herbst 2015 für eine klare Abschottungspolitik der EU. Der damals “einfache” Zugang zu Europa nannten Sie einen der größten ‘Pull-Faktoren’.
+
+Zugleich mahnten Sie Politiker_innen wie Angela Merkel die “Politik der offenen Türen zu korrigieren”. Auch haben Sie immer wieder das Bild der “Flüchtlingswelle” als Bedrohung für die Sicherheit der Europäischen Gemeinschaft in dem öffentlichen Diskurs betont. Diese Rhetorik verhilft den rechten Stimmen zu einem Gefühl der Legitimation, eine Anti-Flüchtlings-Stimmung wird zunehmens gesellschaftlich akzeptiert. Dies muss aufhören, die Politik darf solche Denkmuster nicht auch noch indirekt fördern.
+
+Sie fordern zwar eine dringende Solidarität innerhalb der EU Mitgliedsstaaten, aber nicht bzgl. einer verantwortlich handelnden Asylpolitik oder einer staatlich organisierten Seenotrettung - sie wollen Solidarität beim Grenzschutz, damit das Schengen-System nicht in Gefahr gerät. Solidarität mit Menschen auf der Flucht - das ist unsere dringliche Bitte an Sie, Herr EU Ratspräsident!
+
+Das aktuelle Abkommen zwischen Italien und Libyen wurde von Ihnen sehr begrüßt. Auf dem Malta-Gipfel betonten Sie, dass die Kernwerte unserer Gesellschaft in Gefahr seien, wenn die Überfahrten auf dem Mittelmeer kein Ende finden. Die irreguläre Migration würde den rechten Parteien für die großen Wahlen in mehreren EU Staaten zum Erfolg verhelfen.  
+Da stimmen wir Ihnen nicht zu, es ist die zu leise Unterstützung für den Schutz der Menschen und gegen Rassismus seitens der politischen Entscheidungsträger_innen, die die Werte wanken lassen. Wir stehen für das Recht auf Leben, Rettung aus Seenot und Asyl. Wir brauchen Politiker_innen die Mitgefühl und die menschliche Würde in ihrer Politik widerspiegeln.  
+Herr Tusk, Taten sind lauter als Worte!
+ 
+Hochachtungsvoll,  
+Jugend Rettet
 
 ### Mission Hirsi Jamaa
 
