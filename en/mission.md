@@ -162,17 +162,17 @@ Your Jugend Rettet Team
 
 The last days were a hard strain on our crew. Through professional work and a combination of the necessary peace and good cooperation, our team was able to surrender everyone safely to a ship of "Save the Children", the Vos Hestia. The helpers have gone to their maximum in the last hours. However, they are in a good condition and now back on their way to our port in Malta.
 
-![](/images/missions/170418_01.jpg)
+![](/f/images/missions/170418_01.jpg)
 
 Decisive for the situation at Easter Sunday were the events on Saturday, April 15, 2017: as our crew reported, about 3000 people were in distress at the same time, after already 2000-3000 people arrived in the SAR area during the previous days. According to the Italian coast guard, a total of 7,000 people arrived in the operational area on 15 and 16 April 2017. This has resulted in a maximum demand for all existing deployments and the fact that even large NGO ships such as the Aquarius of SOS MEDITERRANEE and the Phoenix of MOAS could not take up any more people after a short time. As a result, several large NGO vessels had to leave the area of ​​operations with people on board in order to land them. The Iuventa, the sea-eye.org and the Phoenix (MOAS) were left alone in the SAR zone.
 
-![Refugees on deck of the IUVENTA](/images/missions/170418.jpg)
+![Refugees on deck of the IUVENTA](/f/images/missions/170418.jpg)
 *Refugees on deck of the IUVENTA*
 
 After the IUVENTA handed over 800 rescued people to a marine ship on Saturday, they took over 309 people overnight on Sunday. A large part of them could be taken on board, others were provided on rescue boats and islands. At this time, also an estimated 400 people were in their vicinity in distress and without adequate assistance. It was as well officially reported that there were still 5 other inflatable boats with an estimated 600 people on their way to the operational area. In cooperation with the SAR units still present, the IUVENTA provided the surrounding inflatable and wooden boats with life vests and rescue islands all day long. People were given medical care. At midday of that day, all rescue tools were handed out and our resources at the end. Through these exceptional circumstances of rescue, the Iuventa found itself in an extreme situation. The Sea Eye and the Phoenix were already fully loaded with people on board at this time. The MRCC in Rome had sent ships for the acceptance and transfer of the people several times during the day and night, but on their way they found rubber boats in distress themselves they had to take care of. The weather at the same time continued to deteriorate and there was no prospect of assistance.
 The extreme sea and weather conditions particularly threatened the people, who could no longer be accommodated under deck of the IUVENTA. Around the Iuventa, a number of rubber boats and wooden boats, as well as several rescue islands were already in use due to a lack of capacity on board. This particularly high number of people in distress is not a new phenomenon for civilian aid organizations. Nevertheless the last weekend shows how dramatic the situation on the Mediterranean is and how urgent political action is required.
 
-![Tanker "Stemnitsa" on the left.](/images/missions/170418_02.jpg)
+![Tanker "Stemnitsa" on the left.](/f/images/missions/170418_02.jpg)
 *Tanker "Stemnitsa" on the left.*
 
 All night, our crew and the Berlin team were negotiating with MRCC Rome to find a common solution. During the night the MRCC also provided the 250 meter long tanker "Stemnitsa" as an accompaniment for us. In its wind and wave shadow, the IUVENTA was able to drive very slowly northwards to meet the Vos Hestia at an agreed point. The guests on board were able to survive the night on the deck and in the water by means of this practical help. Many of them were directly confronted with the bad weather conditions which made them reach their physical as well as psychological boundaries. Two of the eight pregnant women on board were in critical condition and the medical team of Rainbow for Africa provided them help at the IUVENTA Hospital.
