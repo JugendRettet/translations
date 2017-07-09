@@ -7,39 +7,36 @@ mission_title='
 '
 
 news_news_mission='
-### Mission: Tusk
+### Mission: Avramopoulous
 
-[We take responsibility](./mission)
+[Actions Are Louder Than Words](./mission)
 '
 
 mission_current_menu='
-Tusk
+Avramopoulous
 '
 
 donate_animation_mission='
 Ongoing:  
-[**Mission 7**: Tusk](./mission)
+[**Mission 8**: Avramopoulous](./mission)
 '
 
 mission_current_title='
-## Mission: Tusk
+## Mission: Avramopoulous
 '
 
 mission_current='
-Dear Mr. Tusk,  
-We ask ourselves: For which Europe do you stand as EU Council President?  
-Your words on refugee protection and active marine rescue in the Mediterranean are becoming increasingly tougher. In April 2015 you have stressed the prevention of further deaths on the Mediterranean route as a top priority for the European Community, they have stood for a clear EU foreclosure policy since autumn 2015. The then "easy" access to Europe was called by you one of the greatest pull factors.
- 
-At the same time, you urged politicians like Angela Merkel to correct the policy of open doors. Also, you have repeatedly emphasized the image of the wave of refugees as a threat to the security of the European community in public discourse. This rhetoric gives the right voices a sense of legitimation, an anti-refugee sentiment is increasingly accepted by society. This must cease, politics can not even indirectly promote such patterns of thought.
- 
-You call for an urgent solidarity within the EU Member States, but not for a responsible asylum policy or a state-sponsored sea rescue. They want solidarity in border protection so that the Schengen system is not in danger. Solidarity with people on the run - this is our urgent request to you, Mr President-in-Office of the Council!
- 
-The current agreement between Italy and Libya was welcomed by you. At the Malta Summit, you emphasized that the core values of our society are in danger when the Mediterranean cruises do not end. The irregular migration would help the right parties to the big elections in several EU countries to success.  
-We do not agree with this, it is too quiet support for the protection of the people and against racism on the part of the political decision-makers who make the values waver. We stand for the right to life, salvation from distress and asylum. We need politicians to reflect empathy and human dignity in their policies.  
-Mr. Tusk, actions are louder than words!
- 
-Sincerely,  
-Jugend Rettet
+Dear Mr. Avramopoulous,
+
+You are our EU Commissioner for Migration and Home Affairs, therefore responsible for people in flight. “The heart of the European project is to protect the lives of migrants” - These were your words at the beginning of the year. We ask ourselves: When will you prioritize human rights and refugee protection? How many more people will have to die at our external borders?
+
+Recently you have agreed with the Interior Ministers of Germany, France and Italy an 'Action Plan' to decrease migration across the Mediterranean. We are appalled that Europe is continuing its policy of isolation. Now, further subsidies were made to a so-called Libyan Coast Guard (LCG). Libya shall close down its Southern borders for migrants and Frontex will be increasingly involved in deportations from Europe. The International Criminal Court in The Hague is considering an investigation against the EU-equipped and trained LCG because it has increasingly violated the International Maritime Law and the Geneva Refugee Convention. Protection-seekers and civilian sea rescue organizations have repeatedly been exposed to dangers by the LCG in recent months. Therefore, a cooperation must be questioned.
+
+[We have already agreed on a common Code of Conduct with the other Search and Rescue organizations, which is regulating the core operational aspects](https://www.humanrightsatsea.org/wp-content/uploads/2017/03/20170302-NGO-Code-of-Conduct-FINAL-SECURED.pdf). The newly proposed  Code of Conduct for SAR NGOs by the EU, which is supposedly to protect the safety of boat migrants and refugees as well as us Sea rescue initiatives, is inadequate. In addition, we already have the International Law of the Sea, the Non-refoulement Principle, Human Rights and Refugee Law. The fact that no civilian organizations have been involved in this process is more than incomprehensible. Several points of the Code are particularly critical. For example, if we are no longer allowed to transfer rescued people to other vessels, but have to bring them to a safe haven by our own, the consequence will be: Less rescue capacities at the Mediterranean - more people will die!
+
+Solidarity with Italy? Yes, but we also demand solidarity with people in flight. A pro-active search and rescue program of the EU is urgently needed: in the Mediterranean alone 2,257 people are already missing or dead this year. In the words of Pro Asylum: ["This is a failure of human rights  and humanitarianism"](https://www.proasyl.de/pressemitteilung/frankreich-deutschland-italien-und-die-eu-kommission-einigen-sich-auf-kosten-der-fluechtlinge/).
+
+Mr. Avramopoulous, Actions Are Louder Than Words.
 '
 
 mission_procedure_menu='
@@ -64,6 +61,23 @@ Archive
 
 mission_archive='
 ## Archive
+
+### Mission Donald Tusk
+
+Dear Mr. Tusk,  
+We ask ourselves: For which Europe do you stand as EU Council President?  
+Your words on refugee protection and active marine rescue in the Mediterranean are becoming increasingly tougher. In April 2015 you have stressed the prevention of further deaths on the Mediterranean route as a top priority for the European Community, they have stood for a clear EU foreclosure policy since autumn 2015. The then "easy" access to Europe was called by you one of the greatest pull factors.
+ 
+At the same time, you urged politicians like Angela Merkel to correct the policy of open doors. Also, you have repeatedly emphasized the image of the wave of refugees as a threat to the security of the European community in public discourse. This rhetoric gives the right voices a sense of legitimation, an anti-refugee sentiment is increasingly accepted by society. This must cease, politics can not even indirectly promote such patterns of thought.
+ 
+You call for an urgent solidarity within the EU Member States, but not for a responsible asylum policy or a state-sponsored sea rescue. They want solidarity in border protection so that the Schengen system is not in danger. Solidarity with people on the run - this is our urgent request to you, Mr President-in-Office of the Council!
+ 
+The current agreement between Italy and Libya was welcomed by you. At the Malta Summit, you emphasized that the core values of our society are in danger when the Mediterranean cruises do not end. The irregular migration would help the right parties to the big elections in several EU countries to success.  
+We do not agree with this, it is too quiet support for the protection of the people and against racism on the part of the political decision-makers who make the values waver. We stand for the right to life, salvation from distress and asylum. We need politicians to reflect empathy and human dignity in their policies.  
+Mr. Tusk, actions are louder than words!
+ 
+Sincerely,  
+Jugend Rettet
 
 ### Mission Hirsi Jamaa
 
