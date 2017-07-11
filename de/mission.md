@@ -7,26 +7,26 @@ mission_title='
 '
 
 news_news_mission='
-### Mission: Avramopoulous
+### Mission: Avramopoulos
 
 [Taten sind lauter als Worte](./mission)
 '
 
 mission_current_menu='
-Avramopoulous
+Avramopoulos
 '
 
 donate_animation_mission='
 Laufend:  
-[**Mission 8**: Avramopoulous](./mission)
+[**Mission 8**: Avramopoulos](./mission)
 '
 
 mission_current_title='
-## Mission: Avramopoulous
+## Mission: Avramopoulos
 '
 
 mission_current='
-Sehr geehrter Herr Avramopoulous,
+Sehr geehrter Herr Avramopoulos,
 
 Sie sind unser EU Kommissar für Migration und Inneres und damit verantwortlich für Menschen auf der Flucht. „Das Herz des europäischen Projektes ist es, das Leben von Migranten zu schützen“ - Das waren Ihre Worte zu Beginn des Jahres. Wir fragen uns: Wann werden Sie Menschenrechte und Flüchtlingsschutz priorisieren? Wie viele Menschen müssen noch an unseren Außengrenzen sterben?
 
@@ -39,7 +39,7 @@ Ihr Posten als EU Flüchtlingskommissar hat laut ihrer Aufgabenbeschreibung die 
 
 Solidarität mit Italien? Ja, aber wir fordern auch Solidarität mit Menschen auf der Flucht. Pro-aktive Seenotrettung der EU ist dringend notwendig: Im Mittelmeerraum sind allein dieses Jahr bereits 2,257 Menschen vermisst oder tot. Mit den Worten von Pro Asyl: [“Dies alles ist ein menschenrechtliches und humanitäres Versagen”](https://www.proasyl.de/pressemitteilung/frankreich-deutschland-italien-und-die-eu-kommission-einigen-sich-auf-kosten-der-fluechtlinge/).
 
-Herr Avramopoulous, Taten sind lauter als Worte.
+Herr Avramopoulos, Taten sind lauter als Worte.
 '
 
 mission_procedure_menu='
