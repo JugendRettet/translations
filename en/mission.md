@@ -7,26 +7,26 @@ mission_title='
 '
 
 news_news_mission='
-### Mission: Avramopoulous
+### Mission: Avramopoulos
 
 [Actions Are Louder Than Words](./mission)
 '
 
 mission_current_menu='
-Avramopoulous
+Avramopoulos
 '
 
 donate_animation_mission='
 Ongoing:  
-[**Mission 8**: Avramopoulous](./mission)
+[**Mission 8**: Avramopoulos](./mission)
 '
 
 mission_current_title='
-## Mission: Avramopoulous
+## Mission: Avramopoulos
 '
 
 mission_current='
-Dear Mr. Avramopoulous,
+Dear Mr. Avramopoulos,
 
 You are our EU Commissioner for Migration and Home Affairs, therefore responsible for people in flight. “The heart of the European project is to protect the lives of migrants” - These were your words at the beginning of the year. We ask ourselves: When will you prioritize human rights and refugee protection? How many more people will have to die at our external borders?
 
@@ -36,7 +36,7 @@ Recently you have agreed with the Interior Ministers of Germany, France and Ital
 
 Solidarity with Italy? Yes, but we also demand solidarity with people in flight. A pro-active search and rescue program of the EU is urgently needed: in the Mediterranean alone 2,257 people are already missing or dead this year. In the words of Pro Asylum: ["This is a failure of human rights  and humanitarianism"](https://www.proasyl.de/pressemitteilung/frankreich-deutschland-italien-und-die-eu-kommission-einigen-sich-auf-kosten-der-fluechtlinge/).
 
-Mr. Avramopoulous, Actions Are Louder Than Words.
+Mr. Avramopoulos, Actions Are Louder Than Words.
 '
 
 mission_procedure_menu='
