@@ -25,6 +25,7 @@ sub_team_embassies='
 * **Hannover**: [Aram](mailto:Aram_Hannover@jugendrettet.org), [David](mailto:David_Hannover@jugendrettet.org), [Lukas](mailto:Lukas_Hannover@jugendrettet.org), [Misheel](mailto:Misheel@jugendrettet.org), [Lina](mailto:Lina_Hannover@jugendrettet.org)
 * **Heidelberg**: [Nele](mailto:Nele_Heidelberg@jugendrettet.org), [Johan](mailto:Johan_Heidelberg@jugendrettet.org)
 * **Kassel**: [Anna](mailto:Anna_Kassel@jugendrettet.org), [Leif](mailto:Leif_Kassel@jugendrettet.org)
+* **Koblenz:** [Debbie](mailto:Debbie_Koblenz@jugendrettet.org)
 * **Konstanz**: [Luisa](mailto:Luisa_Konstanz@jugendrettet.org), [Semmi](mailto:Semmi_Konstanz@jugendrettet.org)
 * **Kopenhagen**: [Kira](mailto:Kira@jugendrettet.org)
 * **Köln**: [Gwen](mailto:Koeln@jugendrettet.org), [Hannah](mailto:Koeln@jugendrettet.org)
