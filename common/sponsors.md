@@ -15,4 +15,5 @@ sub_team_sponsors='
 * ![Peter Schmidt Group](../f/logos/PSG.svg "Peter Schmidt Group")
 * ![Raymarine](../f/logos/Raymarine_Logo_2017.svg "Raymarine")
 * ![action medeor](../f/logos/medeor-logo-de.svg "action medeor")
+* ![Kreuzberger Kinderstiftung](../f/logos/KKS_Logo_2016.png "Kreuzberger Kinderstiftung")
 '
