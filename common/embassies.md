@@ -39,7 +39,7 @@ sub_team_embassies='
 * **Lüneburg:** [Tom](mailto:Tom_Lueneburg@jugendrettet.org)
 * **Mainz**: [Christian](mailto:Christian_Mainz@jugendrettet.org)
 * **Mönchengladbach**: [Pascal](mailto:Pascal_Moenchengladbach@jugendrettet.org)
-* **München**: [Lisa](mailto:Lisa@jugendrettet.org), [Lili](mailto:Lili_Muenchen@jugendrettet.org)
+* **München**: [Lisa](mailto:Lisa@jugendrettet.org)
 * **Münster**: [Paul](mailto:Paul_Muenster@jugendrettet.org)
 * **Neustadt:** [AG Integration](mailto:AG.Integration_Neustadt@jugendrettet.org)
 * **Nürnberg**: [Annemarie](mailto:Annemarie_Nuernberg@jugendrettet.org), [Mark](mailto:Mark_Nuernberg@jugendrettet.org)
