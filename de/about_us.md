@@ -155,8 +155,7 @@ Den offiziellen Bescheid finden Sie [hier](../f/files/Gemeinnuetzigkeit_Bescheid
 
 Vorstand:
 
-* Erster Vorsitzender: Jakob Schoen
-* Zweite Vorsitzende: Lena Waldhoff
+Lena Waldhoff
 
 
 ### 5. TÄTIGKEITSBERICHT
