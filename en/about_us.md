@@ -159,8 +159,7 @@ You can see the current notification [here](../f/files/Gemeinnuetzigkeit_Beschei
 
 Board:
 
-* First chair-person: Jakob Schoen
-* Second chair-person: Lena Waldhoff
+Lena Waldhoff
 
 
 ### 5. ACTIVITY REPORT

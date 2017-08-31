@@ -19,8 +19,7 @@ E-Mail: <info@jugendrettet.org>
 
 ## Vertreten durch
 
-* Jakob Schoen, 1. Vorsitzender, Adresse siehe oben  
-* Lena Waldhoff, 2. Vorsitzende, Adresse siehe oben
+* Lena Waldhoff, Vorsitzende, Adresse siehe oben
 
 ## inhaltlich verantwortlich
 

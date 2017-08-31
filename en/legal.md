@@ -21,8 +21,7 @@ E-Mail: <info@jugendrettet.org>
 
 ## Represented by
 
-* Jakob Schoen, 1st chair-person, address provided above 
-* Lena Waldhoff, 2nd chair-person, address provided above
+Lena Waldhoff, chair-person, address provided above
 
 ## Responsible for content
 
