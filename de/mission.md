@@ -7,39 +7,26 @@ mission_title='
 '
 
 news_news_mission='
-### Mission: Avramopoulos
+### Mission: Free IUVENTA
 
-[Taten sind lauter als Worte](./mission)
+[Seenotrettung ist kein Verbrechen](./mission)
 '
 
 mission_current_menu='
-Avramopoulos
+Free IUVENTA
 '
 
 donate_animation_mission='
 Laufend:  
-[**Mission 8**: Avramopoulos](./mission)
+[Free IUVENTA](./mission)
 '
 
 mission_current_title='
-## Mission: Avramopoulos
+## Mission: Free IUVENTA
 '
 
 mission_current='
-Sehr geehrter Herr Avramopoulos,
 
-Sie sind unser EU Kommissar für Migration und Inneres und damit verantwortlich für Menschen auf der Flucht. „Das Herz des europäischen Projektes ist es, das Leben von Migranten zu schützen“ - Das waren Ihre Worte zu Beginn des Jahres. Wir fragen uns: Wann werden Sie Menschenrechte und Flüchtlingsschutz priorisieren? Wie viele Menschen müssen noch an unseren Außengrenzen sterben?
-
-Vor kurzem haben Sie mit den Innenminister_innen von Deutschland, Frankreich und Italien einen ‘Action-Plan‘ zur Eindämmung der Migration über das Mittelmeer beschlossen. Wir sind entsetzt, dass Europa seine Linie der Abschottung fortsetzt. Es wurden weitere Subventionen an eine sogenannte Libysche Küstenwache beschlossen. Libyen soll seine Südgrenzen für Geflüchtete schließen und Frontex wird verstärkt an Abschiebungen aus Europa mitwirken. Der Internationale Strafgerichtshof in Den Haag  erwägt ein Ermittlungsverfahren gegen die von der EU ausgerüstete und ausgebildete Libysche Küstenwache, weil sie vermehrt gegen das Internationale Seerecht und die Genfer Flüchtlingskonvention verstoßen hat.  Schutzsuchende und die zivilen Seenotrettungsorganisationen wurden durch das Vorgehen der Libyschen Küstenwache in den vergangenen Monaten immer wieder Gefahren ausgesetzt. Deshalb muss eine Kooperation hinterfragt werden. 
-
-[Es existiert bereits ein gemeinsamer Verhaltenskodex mit den anderen Seenotrettungsorganisationen, der die wesentlichen Punkte bereits regelt.](https://www.humanrightsatsea.org/wp-content/uploads/2017/03/20170302-NGO-Code-of-Conduct-FINAL-SECURED.pdf)  
-Der nun vorgelegte Verhaltenskodex für SAR NGOs, der angeblich für die Sicherheit von Bootsmigrant_innen und uns als Seenotrettungsinitiativen dienen soll, ist unverhältnismäßig. Zudem haben wir haben bereits das Internationale Seerecht, das Non-refoulement Prinzip, die Menschenrechte und das Flüchtlingsrecht. Dass keine zivilen Organisationen bei diesem neuen Entscheidungsprozess miteinbezogen worden sind ist mehr als unverständlich. Mehrere Punkte im Kodex sind besonders kritisch. Wenn wir z.B. nicht mehr Gerettete an andere Boote übergeben dürfen, sondern selbst zum sicheren Hafen bringen müssen, heißt das in der Konsequenz: Weniger Rettungskapazitäten auf dem Mittelmeer - mehr Menschen werden sterben! 
- 
-Ihr Posten als EU Flüchtlingskommissar hat laut ihrer Aufgabenbeschreibung die “Rettung von Menschenleben auf See und Sicherung der EU-Außengrenzen” als Priorität. Während jedoch derzeit die Sicherung der EU-Außengrenzen perfektioniert wird, taucht die Rettung von Menschenleben in Ihrer Agenda schlicht nicht auf. Wenn es für Schutzsuchende legale und sichere Wege nach Europa gäbe, gäbe es keine Notwendigkeit mehr, den lebensgefährlichen Weg über das Mittelmeer antreten zu müssen. 
-
-Solidarität mit Italien? Ja, aber wir fordern auch Solidarität mit Menschen auf der Flucht. Pro-aktive Seenotrettung der EU ist dringend notwendig: Im Mittelmeerraum sind allein dieses Jahr bereits 2,257 Menschen vermisst oder tot. Mit den Worten von Pro Asyl: [“Dies alles ist ein menschenrechtliches und humanitäres Versagen”](https://www.proasyl.de/pressemitteilung/frankreich-deutschland-italien-und-die-eu-kommission-einigen-sich-auf-kosten-der-fluechtlinge/).
-
-Herr Avramopoulos, Taten sind lauter als Worte.
 '
 
 mission_procedure_menu='
@@ -61,6 +48,23 @@ Archiv
 
 mission_archive='
 ## Archiv
+
+### Avramopoulos
+
+Sehr geehrter Herr Avramopoulos,
+
+Sie sind unser EU Kommissar für Migration und Inneres und damit verantwortlich für Menschen auf der Flucht. „Das Herz des europäischen Projektes ist es, das Leben von Migranten zu schützen“ - Das waren Ihre Worte zu Beginn des Jahres. Wir fragen uns: Wann werden Sie Menschenrechte und Flüchtlingsschutz priorisieren? Wie viele Menschen müssen noch an unseren Außengrenzen sterben?
+
+Vor kurzem haben Sie mit den Innenminister_innen von Deutschland, Frankreich und Italien einen ‘Action-Plan‘ zur Eindämmung der Migration über das Mittelmeer beschlossen. Wir sind entsetzt, dass Europa seine Linie der Abschottung fortsetzt. Es wurden weitere Subventionen an eine sogenannte Libysche Küstenwache beschlossen. Libyen soll seine Südgrenzen für Geflüchtete schließen und Frontex wird verstärkt an Abschiebungen aus Europa mitwirken. Der Internationale Strafgerichtshof in Den Haag  erwägt ein Ermittlungsverfahren gegen die von der EU ausgerüstete und ausgebildete Libysche Küstenwache, weil sie vermehrt gegen das Internationale Seerecht und die Genfer Flüchtlingskonvention verstoßen hat.  Schutzsuchende und die zivilen Seenotrettungsorganisationen wurden durch das Vorgehen der Libyschen Küstenwache in den vergangenen Monaten immer wieder Gefahren ausgesetzt. Deshalb muss eine Kooperation hinterfragt werden. 
+
+[Es existiert bereits ein gemeinsamer Verhaltenskodex mit den anderen Seenotrettungsorganisationen, der die wesentlichen Punkte bereits regelt.](https://www.humanrightsatsea.org/wp-content/uploads/2017/03/20170302-NGO-Code-of-Conduct-FINAL-SECURED.pdf)  
+Der nun vorgelegte Verhaltenskodex für SAR NGOs, der angeblich für die Sicherheit von Bootsmigrant_innen und uns als Seenotrettungsinitiativen dienen soll, ist unverhältnismäßig. Zudem haben wir haben bereits das Internationale Seerecht, das Non-refoulement Prinzip, die Menschenrechte und das Flüchtlingsrecht. Dass keine zivilen Organisationen bei diesem neuen Entscheidungsprozess miteinbezogen worden sind ist mehr als unverständlich. Mehrere Punkte im Kodex sind besonders kritisch. Wenn wir z.B. nicht mehr Gerettete an andere Boote übergeben dürfen, sondern selbst zum sicheren Hafen bringen müssen, heißt das in der Konsequenz: Weniger Rettungskapazitäten auf dem Mittelmeer - mehr Menschen werden sterben! 
+ 
+Ihr Posten als EU Flüchtlingskommissar hat laut ihrer Aufgabenbeschreibung die “Rettung von Menschenleben auf See und Sicherung der EU-Außengrenzen” als Priorität. Während jedoch derzeit die Sicherung der EU-Außengrenzen perfektioniert wird, taucht die Rettung von Menschenleben in Ihrer Agenda schlicht nicht auf. Wenn es für Schutzsuchende legale und sichere Wege nach Europa gäbe, gäbe es keine Notwendigkeit mehr, den lebensgefährlichen Weg über das Mittelmeer antreten zu müssen. 
+
+Solidarität mit Italien? Ja, aber wir fordern auch Solidarität mit Menschen auf der Flucht. Pro-aktive Seenotrettung der EU ist dringend notwendig: Im Mittelmeerraum sind allein dieses Jahr bereits 2,257 Menschen vermisst oder tot. Mit den Worten von Pro Asyl: [“Dies alles ist ein menschenrechtliches und humanitäres Versagen”](https://www.proasyl.de/pressemitteilung/frankreich-deutschland-italien-und-die-eu-kommission-einigen-sich-auf-kosten-der-fluechtlinge/).
+
+Herr Avramopoulos, Taten sind lauter als Worte.
 
 ### Mission Donald Tusk
 
