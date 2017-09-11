@@ -16,7 +16,7 @@ news_news_item_title='
 '
 
 news_news_item='
-[**March 17th:** Suddenly: Mail from the Ministry of the Interior...](./archive#top)
+[**Sep 12th:** Free IUVENTA - Sea Rescue is not a Crime](./archive)
 '
 
 news_press_release='

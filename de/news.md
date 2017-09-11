@@ -16,7 +16,7 @@ news_news_item_title='
 '
 
 news_news_item='
-[**17. März:** Wenn dir das Innenministerium aufeinmal schreibt...](./archive#top)
+[**12. Sept.:** Free IUVENTA - Seenotrettung ist kein Verbrechen](./archive)
 '
 
 news_press_release='

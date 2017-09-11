@@ -7,36 +7,26 @@ mission_title='
 '
 
 news_news_mission='
-### Mission: Avramopoulos
+### Mission: Free IUVENTA
 
-[Actions Are Louder Than Words](./mission)
+[Sea Rescue is not a Crime](./mission)
 '
 
 mission_current_menu='
-Avramopoulos
+Free IUVENTA
 '
 
 donate_animation_mission='
 Ongoing:  
-[**Mission 8**: Avramopoulos](./mission)
+[Free IUVENTA](./mission)
 '
 
 mission_current_title='
-## Mission: Avramopoulos
+## Mission: Free IUVENTA
 '
 
 mission_current='
-Dear Mr. Avramopoulos,
 
-You are our EU Commissioner for Migration and Home Affairs, therefore responsible for people in flight. “The heart of the European project is to protect the lives of migrants” - These were your words at the beginning of the year. We ask ourselves: When will you prioritize human rights and refugee protection? How many more people will have to die at our external borders?
-
-Recently you have agreed with the Interior Ministers of Germany, France and Italy an 'Action Plan' to decrease migration across the Mediterranean. We are appalled that Europe is continuing its policy of isolation. Now, further subsidies were made to a so-called Libyan Coast Guard (LCG). Libya shall close down its Southern borders for migrants and Frontex will be increasingly involved in deportations from Europe. The International Criminal Court in The Hague is considering an investigation against the EU-equipped and trained LCG because it has increasingly violated the International Maritime Law and the Geneva Refugee Convention. Protection-seekers and civilian sea rescue organizations have repeatedly been exposed to dangers by the LCG in recent months. Therefore, a cooperation must be questioned.
-
-[We have already agreed on a common Code of Conduct with the other Search and Rescue organizations, which is regulating the core operational aspects](https://www.humanrightsatsea.org/wp-content/uploads/2017/03/20170302-NGO-Code-of-Conduct-FINAL-SECURED.pdf). The newly proposed  Code of Conduct for SAR NGOs by the EU, which is supposedly to protect the safety of boat migrants and refugees as well as us Sea rescue initiatives, is inadequate. In addition, we already have the International Law of the Sea, the Non-refoulement Principle, Human Rights and Refugee Law. The fact that no civilian organizations have been involved in this process is more than incomprehensible. Several points of the Code are particularly critical. For example, if we are no longer allowed to transfer rescued people to other vessels, but have to bring them to a safe haven by our own, the consequence will be: Less rescue capacities at the Mediterranean - more people will die!
-
-Solidarity with Italy? Yes, but we also demand solidarity with people in flight. A pro-active search and rescue program of the EU is urgently needed: in the Mediterranean alone 2,257 people are already missing or dead this year. In the words of Pro Asylum: ["This is a failure of human rights  and humanitarianism"](https://www.proasyl.de/pressemitteilung/frankreich-deutschland-italien-und-die-eu-kommission-einigen-sich-auf-kosten-der-fluechtlinge/).
-
-Mr. Avramopoulos, Actions Are Louder Than Words.
 '
 
 mission_procedure_menu='
@@ -61,6 +51,20 @@ Archive
 
 mission_archive='
 ## Archive
+
+### Mission: Avramopoulos
+
+Dear Mr. Avramopoulos,
+
+You are our EU Commissioner for Migration and Home Affairs, therefore responsible for people in flight. “The heart of the European project is to protect the lives of migrants” - These were your words at the beginning of the year. We ask ourselves: When will you prioritize human rights and refugee protection? How many more people will have to die at our external borders?
+
+Recently you have agreed with the Interior Ministers of Germany, France and Italy an 'Action Plan' to decrease migration across the Mediterranean. We are appalled that Europe is continuing its policy of isolation. Now, further subsidies were made to a so-called Libyan Coast Guard (LCG). Libya shall close down its Southern borders for migrants and Frontex will be increasingly involved in deportations from Europe. The International Criminal Court in The Hague is considering an investigation against the EU-equipped and trained LCG because it has increasingly violated the International Maritime Law and the Geneva Refugee Convention. Protection-seekers and civilian sea rescue organizations have repeatedly been exposed to dangers by the LCG in recent months. Therefore, a cooperation must be questioned.
+
+[We have already agreed on a common Code of Conduct with the other Search and Rescue organizations, which is regulating the core operational aspects](https://www.humanrightsatsea.org/wp-content/uploads/2017/03/20170302-NGO-Code-of-Conduct-FINAL-SECURED.pdf). The newly proposed  Code of Conduct for SAR NGOs by the EU, which is supposedly to protect the safety of boat migrants and refugees as well as us Sea rescue initiatives, is inadequate. In addition, we already have the International Law of the Sea, the Non-refoulement Principle, Human Rights and Refugee Law. The fact that no civilian organizations have been involved in this process is more than incomprehensible. Several points of the Code are particularly critical. For example, if we are no longer allowed to transfer rescued people to other vessels, but have to bring them to a safe haven by our own, the consequence will be: Less rescue capacities at the Mediterranean - more people will die!
+
+Solidarity with Italy? Yes, but we also demand solidarity with people in flight. A pro-active search and rescue program of the EU is urgently needed: in the Mediterranean alone 2,257 people are already missing or dead this year. In the words of Pro Asylum: ["This is a failure of human rights  and humanitarianism"](https://www.proasyl.de/pressemitteilung/frankreich-deutschland-italien-und-die-eu-kommission-einigen-sich-auf-kosten-der-fluechtlinge/).
+
+Mr. Avramopoulos, Actions Are Louder Than Words.
 
 ### Mission Donald Tusk
 
