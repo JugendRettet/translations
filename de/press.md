@@ -14,7 +14,9 @@ D- 10973 Berlin
 
 Mail: [press@jugendrettet.org](mailto://press@jugendrettet.org)
 
-[→ Pressemappe](/f/files/Pressemappe_JR.pdf) (aktualisiert 02.12.16)
+[Pressemappe](/f/files/Pressemappe_JR.pdf) (aktualisiert 02.12.16)
+[Englisch](/f/files/Press Kit_long_EN.pdf) (aktualisiert 19.09.17)
+[Italienisch](/f/files/Press Kit_long_ITAL.pdf) (aktualisiert 19.09.17)
 
 [Bewerbung für Presse an Bord](./crewing#press)
 '
