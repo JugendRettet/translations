@@ -25,6 +25,10 @@ news_press_release='
 [**18. April:** Statement zu den Vorfällen des Osterwochenendes](../f/files/press_release_180417.pdf) 
 '
 
+news_press_kit='
+[Pressemappe #FreeIUVENTA](./press)
+'
+
 news_events='
 [VERANSTALTUNGEN](https://www.facebook.com/pg/JugendRettet/events/)
 '

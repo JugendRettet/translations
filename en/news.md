@@ -25,6 +25,10 @@ news_press_release='
 [**April 18th:** Statement on the incidents of the Easter weekend](../f/files/press_release_180417.pdf) 
 '
 
+news_press_kit='
+[Press Kit #FreeIUVENTA](./press)
+'
+
 news_events='
 [EVENTS](https://www.facebook.com/pg/JugendRettet/events/)
 '
