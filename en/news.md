@@ -22,7 +22,8 @@ news_news_item='
 news_press_release='
 ### Press release
 
-[**April 18th:** Statement on the incidents of the Easter weekend](../f/files/press_release_180417.pdf) 
+[**Sept. 22nd:** Court of Trapani declines appeal to lift seizure of the ship Iuventa.  
+The organisation checks ruling and prepares revision.](../f/files/press_release_170922.pdf) 
 '
 
 news_press_kit='

@@ -22,7 +22,8 @@ news_news_item='
 news_press_release='
 ### Pressemeldung
 
-[**18. April:** Statement zu den Vorfällen des Osterwochenendes](../f/files/press_release_180417.pdf) 
+[**22. Sept.:** Gericht von Trapani lehnt Antrag auf Freigabe des Schiffes IUVENTA ab.  
+Verein prüft Entscheidung und bereitet die Revision vor.](../f/files/Pressemitteilung_170922.pdf) 
 '
 
 news_press_kit='
