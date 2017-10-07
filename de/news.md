@@ -15,10 +15,6 @@ news_news_item_title='
 ### News
 '
 
-news_news_item='
-[**12. Sept.:** Free IUVENTA - Seenotrettung ist kein Verbrechen](./archive)
-'
-
 news_press_release='
 ### Pressemeldung
 
@@ -35,7 +31,7 @@ news_events='
 '
 
 news_archive='
-[ARCHIV](./archive)
+**[ARCHIV](./archive)**
 '
 
 news_follow_iuv='

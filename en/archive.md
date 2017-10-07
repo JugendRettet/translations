@@ -6,8 +6,20 @@ archive_title='
 # Archive
 '
 
-archive_2017='
+archive_current='
 ## 2017
+
+#### [**Oct. 5th:** Auction VUT Award 2017 Böhmermann x Feine Sahne Fischfilet](https://www.youtube.com/watch?v=-tBOkO4fjaw)
+
+Jan Böhmermann and Feine Sahne Fischfilet auction off their award to support us with the proceeds. ❤  
+While Böhmermann will give his price money on top to the proceeds, Feine Sahne Fischfilet offer a place on their guest list for the highest bidder and we'll invite him_her to a harbour cruise in Hamburg with a real IUVENTA captain and our 3x5 meter #FreeIUVENTA banner!  
+To make it even more exciting we invite Böhmi and Feine Sahne Fischfilet to also attend the harbour cruise!
+
+[To the auction](http://www.ebay.de/itm/-/112590006293)
+
+#### [**Sept. 12th:** Free IUVENTA - Sea Rescue is not a Crime](./archive)
+
+#### **Sept. 29th:** Solidarity party "Monvmental" in Rostock
 
 #### **April 5th:** The IUVENTA starts it's 3rd mission in 2017
 
