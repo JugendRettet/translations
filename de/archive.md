@@ -6,10 +6,22 @@ archive_title='
 # Archiv
 '
 
-archive_2017='
+archive_current='
 ## 2017
 
-#### **05. April:** Die IUVENTA bricht zu ihrer dritten Mission, im Jahr 2017 auf
+#### [**05. Okt.:** Versteigerung VUT Preis 2017 Böhmermann x Feine Sahne Fischfilet](https://www.youtube.com/watch?v=-tBOkO4fjaw)
+
+Erst haben wir Stress mit den italienischen Behörden und jetzt ziehen uns auch noch Jan Böhmermann und Feine Sahne Fischfilet in ihren Kleinkrieg rein! Nun haben sie sich entschlossen, ihren Award zu versteigern und uns damit zu unterstützen. ❤️   
+Während der "blasse dünne Junge" auch noch das Preisgeld als Spende on top gibt und die Jungs von Feine Sahne Fischfilet einen Gästelistenplatz für den Meistbietenden bereit stellen, laden wir den/die Gewinner_in der Aktion auf eine Hafenrundfahrt in Hamburg mit einem echten IUVENTA Kapitän ein! Gratis drauf gibt es noch unser 3x5 Meter #FreeIUVENTA Banner!  
+Damit die edlen Spender nicht zu kurz kommen, laden wir hiermit auch Böhmi und die Jungs von Feine Sahne ein, die einzigartige Hafentour zu begleiten - Wir versprechen: Es wird besonders!
+
+[Zur Versteigerung](http://www.ebay.de/itm/-/112590006293)
+
+#### [**12. Sept.:** Free IUVENTA - Seenotrettung ist kein Verbrechen](./archive)
+
+#### **29. Sept.:** Soliparty "Monvmental" in Rostock
+
+#### **05. April:** Die IUVENTA bricht zu ihrer dritten Mission im Jahr 2017 auf
 
 #### **17. März:** Wenn dir das Innenministerium aufeinmal schreibt...
 

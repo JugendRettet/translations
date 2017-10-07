@@ -15,10 +15,6 @@ news_news_item_title='
 ### News
 '
 
-news_news_item='
-[**Sep 12th:** Free IUVENTA - Sea Rescue is not a Crime](./archive)
-'
-
 news_press_release='
 ### Press release
 
@@ -35,7 +31,7 @@ news_events='
 '
 
 news_archive='
-[ARCHIVE](./archive)
+**[ARCHIVE](./archive)**
 '
 
 news_follow_iuv='
