@@ -9,6 +9,12 @@ archive_title='
 archive_current='
 ## 2017
 
+#### **Oct. 8th:** VUT Award 2017 Böhmermann x Feine Sahne Fischfilet auctioned off for Jugend Rettet IUVENTA
+
+Jan Böhmermann and Feine Sahne Fischfilet auctioned off their award to support us with the proceeds. Together with Böhmermann's price money and additions by Feine Sahne Fischfilet the whole donation consists of more than 5.000€!  
+We are looking forward to meet the highest bidder on the harbour cruise in Hamburg together with Feine Sahne. ❤  
+Thanks for your support! #freeIUVENTA
+
 #### [**Oct. 5th:** Auction VUT Award 2017 Böhmermann x Feine Sahne Fischfilet](https://www.youtube.com/watch?v=-tBOkO4fjaw)
 
 Jan Böhmermann and Feine Sahne Fischfilet auction off their award to support us with the proceeds. ❤  

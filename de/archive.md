@@ -9,6 +9,13 @@ archive_title='
 archive_current='
 ## 2017
 
+#### **08. Okt.:** VUT Preis 2017 Böhmermann x Feine Sahne Fischfilet zugunsten von Jugend Rettet versteigert
+
+Der Preis ist nice: Feine Sahne Fischfilet hat Jan Böhmermanns Preis vom VUT versteigert, um uns damit zu unterstützen.  
+Zusammen mit Böhmis Preisgeld und dem Aufrunden von Feine Sahne kommen so mehr als 5.000€ zusammen!   
+Wir freuen uns den/die Ersteigerer_in auf einer netten Hafenrundfahrt in Hamburg mit Feine Sahne kennen zu lernen. ❤  
+Danke für eure Unterstützung! #freeIUVENTA
+
 #### [**05. Okt.:** Versteigerung VUT Preis 2017 Böhmermann x Feine Sahne Fischfilet](https://www.youtube.com/watch?v=-tBOkO4fjaw)
 
 Erst haben wir Stress mit den italienischen Behörden und jetzt ziehen uns auch noch Jan Böhmermann und Feine Sahne Fischfilet in ihren Kleinkrieg rein! Nun haben sie sich entschlossen, ihren Award zu versteigern und uns damit zu unterstützen. ❤️   
