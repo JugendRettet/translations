@@ -18,8 +18,7 @@ news_news_item_title='
 news_press_release='
 ### Pressemeldung
 
-[**22. Sept.:** Gericht von Trapani lehnt Antrag auf Freigabe des Schiffes IUVENTA ab.  
-Verein prüft Entscheidung und bereitet die Revision vor.](../f/files/Pressemitteilung_170922.pdf) 
+[**12. Okt.:** JUGEND RETTET legt Revision im Beschwerdeverfahren gegen die Beschlagnahmung der IUVENTA beim Kassationsgericht in Rom ein](../f/files/JugendRettetPM_20171012_DE.pdf) 
 '
 
 news_press_kit='

@@ -18,8 +18,7 @@ news_news_item_title='
 news_press_release='
 ### Press release
 
-[**Sept. 22nd:** Court of Trapani declines appeal to lift seizure of the ship Iuventa.  
-The organisation checks ruling and prepares revision.](../f/files/press_release_170922.pdf) 
+[**Oct. 12th:** JUGEND RETTET appeals the seizure of the IUVENTA at the Rome Court of Cassation](../f/files/JugendRettetPM_20171012_ENG.pdf) 
 '
 
 news_press_kit='
