@@ -9,6 +9,14 @@ archive_title='
 archive_current='
 ## 2017
 
+#### **25. Okt.:** [Präses Rekowski fordert Anerkennung und Unterstützung für zivile Seenotrettungsorganisationen](https://www.ekd.de/seenotrettung-29789.htm)
+
+"Nicht der gebotene Einsatz für Menschenleben hat sich verändert, sondern die politische Stimmung"- Präses Manfred Rekowski, Evangelische Kirche in Deutschland, unterstützt unsere Forderungen.
+
+#### [**24. Okt.:** Politische Jugendorganisationen unterstützen den gemeinsamen Appell der Seenotrettungsorganisationen zum Richtungswechsel in der Flüchtlingspolitik](https://gruene-jugend.de/leben-retten-politik-aendern/)
+
+Die Jungparteien Grüne Jugend, Linksjugend ['solid] und Jusos in der SPD zeichnen ein neues Bild über die Rolle Deutschlands in Migrationsfragen: Sie sprechen sich für uns aus und weisen auf die Verantwortung der EU hin.
+
 #### [**23. Okt.:** Gemeinsame Erklärung an die künftige Bundesregierung: Seenotrettungsorganisationen fordern Richtungswechsel in Flüchtlingspolitik](../f/files/JugendRettetPM_20171023_DE.pdf)
 
 #### [**12. Okt.:** JUGEND RETTET legt Revision im Beschwerdeverfahren gegen die Beschlagnahmung der IUVENTA beim Kassationsgericht in Rom ein](../f/files/JugendRettetPM_20171012_DE.pdf)
