@@ -9,6 +9,10 @@ archive_title='
 archive_current='
 ## 2017
 
+#### [**Oct. 23rd:** Joint statement to Germany's coming federal government: Sea rescue organizations demand a change of direction in refugee policy (German)](../f/files/JugendRettetPM_20171023_DE.pdf)
+
+#### [**Oct. 12th:** JUGEND RETTET appeals the seizure of the IUVENTA at the Rome Court of Cassation](../f/files/JugendRettetPM_20171012_ENG.pdf)
+
 #### **Oct. 8th:** VUT Award 2017 Böhmermann x Feine Sahne Fischfilet auctioned off for Jugend Rettet IUVENTA
 
 Jan Böhmermann and Feine Sahne Fischfilet auctioned off their award to support us with the proceeds. Together with Böhmermann's price money and additions by Feine Sahne Fischfilet the whole donation consists of more than 5.000€!  
