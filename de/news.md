@@ -18,7 +18,7 @@ news_news_item_title='
 news_press_release='
 ### Pressemeldung
 
-[**12. Okt.:** JUGEND RETTET legt Revision im Beschwerdeverfahren gegen die Beschlagnahmung der IUVENTA beim Kassationsgericht in Rom ein](../f/files/JugendRettetPM_20171012_DE.pdf) 
+[**23. Okt.:** Gemeinsame Erklärung an die künftige Bundesregierung: Seenotrettungsorganisationen fordern Richtungswechsel in Flüchtlingspolitik](../f/files/JugendRettetPM_20171023_DE.pdf) 
 '
 
 news_press_kit='

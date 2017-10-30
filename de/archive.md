@@ -9,6 +9,10 @@ archive_title='
 archive_current='
 ## 2017
 
+#### [**23. Okt.:** Gemeinsame Erklärung an die künftige Bundesregierung: Seenotrettungsorganisationen fordern Richtungswechsel in Flüchtlingspolitik](../f/files/JugendRettetPM_20171023_DE.pdf)
+
+#### [**12. Okt.:** JUGEND RETTET legt Revision im Beschwerdeverfahren gegen die Beschlagnahmung der IUVENTA beim Kassationsgericht in Rom ein](../f/files/JugendRettetPM_20171012_DE.pdf)
+
 #### **08. Okt.:** VUT Preis 2017 Böhmermann x Feine Sahne Fischfilet zugunsten von Jugend Rettet versteigert
 
 Der Preis ist nice: Feine Sahne Fischfilet hat Jan Böhmermanns Preis vom VUT versteigert, um uns damit zu unterstützen.  

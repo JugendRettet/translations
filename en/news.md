@@ -18,7 +18,7 @@ news_news_item_title='
 news_press_release='
 ### Press release
 
-[**Oct. 12th:** JUGEND RETTET appeals the seizure of the IUVENTA at the Rome Court of Cassation](../f/files/JugendRettetPM_20171012_ENG.pdf) 
+[**Oct. 23rd:** Joint statement to Germany's coming federal government: Sea rescue organizations demand a change of direction in refugee policy (German)](../f/files/JugendRettetPM_20171023_DE.pdf) 
 '
 
 news_press_kit='
