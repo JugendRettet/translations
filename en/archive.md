@@ -9,6 +9,14 @@ archive_title='
 archive_current='
 ## 2017
 
+#### **Oct. 25th:** [Präses Rekowski calls for recognition and support for civilian rescue organisations](https://www.ekd.de/seenotrettung-29789.htm)
+
+"Not the necessary commitment to human life has changed, but the political climate" - Präses Manfred Rekowski, Evangelical Church in Germany, supports our demands.
+
+#### [**Oct. 24th:** Political youth organizations support the joint appeal of the sea rescue organizations to change direction in refugee policy](https://gruene-jugend.de/leben-retten-politik-aendern/)
+
+The youth parties of the Green Party (Grüne Jugend), Left (Linksjugend ['solid]) and Social Democrats (Jusos in der SPD) paint a new picture about the role of Germany in migration issues: They speak out for us and point to the responsibility of the EU.
+
 #### [**Oct. 23rd:** Joint statement to Germany's coming federal government: Sea rescue organizations demand a change of direction in refugee policy (German)](../f/files/JugendRettetPM_20171023_DE.pdf)
 
 #### [**Oct. 12th:** JUGEND RETTET appeals the seizure of the IUVENTA at the Rome Court of Cassation](../f/files/JugendRettetPM_20171012_ENG.pdf)
