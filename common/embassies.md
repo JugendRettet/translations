@@ -19,6 +19,7 @@ sub_team_embassies='
 * **Erkrath**: [Anna](mailto:AnnaB@jugendrettet.org)
 * **Erlangen**: [Felix](mailto:Felix_Erlangen@jugendrettet.org)
 * **Frankfurt**: [Markus](mailto:Markus_Frankfurt@jugendrettet.org)
+* **Freiburg:** [Eliza](mailto:Eliza_Freiburg@jugendrettet.org)
 * **Friedrichshafen**: [Zoe](mailto:Zoe_Friedrichshafen@jugendrettet.org)
 * **Gelsenkirchen:** [Jessi](mailto:Jessi_Gelsenkirchen@jugendrettet.org)
 * **Göttingen**: [Tatjana](mailto:Tatjana_Goettingen@jugendrettet.org), [Felix](mailto:Felix_Goettingen@jugendrettet.org)
