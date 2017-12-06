@@ -13,8 +13,8 @@ index_team_donations='
 ### Spender_innen
 '
 
-index_team_berlin='
-### Berlin
+index_team_org='
+### Verein
 '
 
 index_team_crew='
@@ -36,16 +36,21 @@ sub_team_title='
 # Team
 '
 
-sub_team_berlin_menu='
-Berlin
+sub_team_org_menu='
+Verein
 '
-sub_team_berlin_title='
-## Berlin
+sub_team_org_title='
+## Verein
 '
 
-sub_team_berlin='
-In Berlin schlägt das Herz unseres Vereins. Hier arbeitet das Kernteam Tag für Tag daran, die Missionen zu planen, den Verein bekannter zu machen und unsere Unterstützer_innen untereinander zu vernetzen.  
-Daneben gibt es auch eine Vielzahl an Menschen, die tagtäglich an der Planung und Organisation beteiligt sind. Egal ob Malta, Köln, oder Madrid - Zusammen schaffen wir es, über nationale Grenzen hinaus ein gemeinsames Projekt zu stemmen.
+sub_team_org='
+Ein Projekt wie JUGEND **RETTET** braucht natürlich auch viel landseitige Koordination. Dazu arbeiten viele Freiwillige in verschiedenen Departments zusammen. Diese Teams arbeiten Tag für Tag daran, die Missionen zu planen, den Verein bekannter zu machen und unsere Unterstützer_innen untereinander zu vernetzen. Studierende verschiedener Fachrichtungen, Professionelle und andere Freiwillige bringen sich dort ein, wo sie am besten ihr Wissen anwenden können und das Projekt unterstützen können.
+
+Das Herz des Vereins schlägt in Berlin, allerdings ist die Organisation zunehmend dezentraler geworden und wir sind froh, dass so viele unterschiedliche Leute aus unterschiedlichen Städten und Ländern gemeinsam an einem Projekt arbeiten.
+
+Der Großteil der Arbeit findet in diesen Departments statt, größere Entscheidungen werden von Vertreter_innen aller Departments gemeinsam getroffen.
+
+Neben dieser Organisationsstruktur gibt es noch eine parallele formale Struktur, die dem deutschen Vereinsrecht gerecht wird. Ein etwas kleinerer Kreis an Unterstützer_innen ist offiziell Mitglied und trifft sich einmal im Jahr zur Vollversammlung. Außerdem haben wir drei gleichberechtigte Vorstandsmitglieder.
 
 [Kontakt](./contact)
 [Presse](./press)
