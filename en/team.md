@@ -13,7 +13,7 @@ index_team_donations='
 ### Donors
 '
 
-index_team_berlin='
+index_team_org='
 ### Organization
 '
 
@@ -36,10 +36,10 @@ sub_team_title='
 # Team
 '
 
-sub_team_berlin_menu='
+sub_team_org_menu='
 Organization
 '
-sub_team_berlin_title='
+sub_team_org_title='
 ## Organization
 '
 
