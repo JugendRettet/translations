@@ -14,7 +14,7 @@ index_team_donations='
 '
 
 index_team_berlin='
-### Berlin
+### Organization
 '
 
 index_team_crew='
@@ -37,15 +37,17 @@ sub_team_title='
 '
 
 sub_team_berlin_menu='
-Berlin
+Organization
 '
 sub_team_berlin_title='
-## Berlin
+## Organization
 '
 
 sub_team_berlin='
-Berlin is the heart of our organisation. Here is where our core team is working day for day on planning new missions, raising awareness and to connect our supporters.  
-But there are also a lot of contributors in other places: May it be Malta, Cologne or Madrid: every day we are working together to build our joint project beyond national borders.
+A project like Jugend Rettet also needs a lot of shore-based coordination. Therefore, many volunteers work together in different departments. Those teams are working day for day on planning new missions, raising awareness and to connect our supporters. Students from different subjects, professionals and other volunteers actively participate wherever they can best apply their knowledge and support the project.
+Berlin is the heart of our organisation. However, Jugend Rettet has become more decentralized and we appreciate that so many people from different cities and countries are working together on this project.
+Most of the work takes place within those departments and representatives of all departments jointly agree on bigger decisions.
+Beside this organisational structure, there is a parallel formal structure which meets the requirements of the German law of associations (Vereinsrecht). A smaller group of supporters is an official member of the organisation and meets annually for the plenary assembly. Furthermore, we have three board members who enjoy equal rights.
 
 [Contact](./contact)
 [Press](./press)
