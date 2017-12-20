@@ -96,7 +96,7 @@ sub_team_donations_title='
 '
 
 sub_team_donations='
-It is thanks to the support of many that we were able to save over 6500 lives in the last year. Each donation helps us to further carry out rescue missions and to do what's necessary to stop the dying on the Mediterranean.  
+It is thanks to the support of many that we were able to save over 14,000 lives in the last two years. Each donation helps us to further carry out rescue missions and to do what's necessary to stop the dying on the Mediterranean.  
 For us, donors are a part of our network. Regardless of whether you are helping by donating your time, donating equipment or by donating monetarily - either way will help us carrying on our missions.
 '
 
