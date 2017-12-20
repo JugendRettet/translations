@@ -92,7 +92,7 @@ Renovation of the IUVENTA.
 * **March 9th**  
 [Start of missions in 2017.](./mission)
 * **August 1st**  
-[Seizure of the IUVENTA](./mission#current)
+[Seizure of the IUVENTA.](./mission#current)
 * **2017**  
 Over 10,000 rescued in 7 missions.
 '
