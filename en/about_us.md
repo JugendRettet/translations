@@ -89,8 +89,12 @@ Planning missions for the next year.
 
 * **End of March**  
 Renovation of the IUVENTA.
-* **9. März**  
+* **March 9th**  
 [Start of missions in 2017.](./mission)
+* **August 1st**  
+[Seizure of the IUVENTA.](./mission#current)
+* **2017**  
+Over 10,000 rescued in 7 missions.
 '
 
 about_iuventa_menu='

@@ -8,16 +8,11 @@ donate_title='
 '
 
 donate_calc_text='
-Aktuell sind **11**/15 Missionen im Jahr 2017 finanziert.  
-
 Wir finanzieren uns ausschließlich über [private Spenden](/faq#17_Warum_akzeptieren_wir_nur_private_Spenden_).  
-Der Vielzahl an einzelnen Menschen haben wir es zu verdanken, dass wir letztes Jahr über 6500 Menschen retten konnten. Jede Spende hilft uns auch weiterhin Rettungsmissionen umzusetzen und damit das zu tun, was nötig ist, um das Sterben zu beenden.
+Der Vielzahl an einzelnen Menschen haben wir es zu verdanken, dass wir in den letzten zwei Jahren über 14.000 Menschen retten konnten. Jede Spende hilft uns auch weiterhin Rettungsmissionen umzusetzen und damit das zu tun, was nötig ist, um das Sterben zu beenden.
 '
 
 donate_animation_text='
-Entscheide jetzt, ob wir weiterfahren können:  
-Für **4** Missionen brauchen wir noch deine Hilfe.
-
 Du kannst uns hier direkt mit einer Einzelspende unterstützen.  
 '
 
