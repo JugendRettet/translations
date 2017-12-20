@@ -8,16 +8,11 @@ donate_title='
 '
 
 donate_calc_text='
-Currently **11**/15 Missions in 2017 are funded.
-
 Our only sources of funding are [private donations](/faq#17_Why_do_we_accept_private_donations_only_).  
-It is the work of many that we were able to rescue 6500 people last year. Every donation helps us to carry on with our rescue missions and to do what's necessary to stop the dying on the Mediterranean.
+It is the work of many that we were able to rescue over 14,000 people in two years. Every donation helps us to carry on with our rescue missions and to do what's necessary to stop the dying on the Mediterranean.
 '
 
 donate_animation_text='
-Currently **11**/15 Missions in 2017 are funded.
-For **4** more missions we need your help.
-
 You can support us with a one-time donation here directly.
 '
 

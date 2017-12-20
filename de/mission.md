@@ -17,7 +17,7 @@ Free IUVENTA
 '
 
 donate_animation_mission='
-Laufend:  
+Aktuelles Projekt:  
 [Free IUVENTA](./mission)
 '
 
