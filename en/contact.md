@@ -6,7 +6,7 @@ Contact
 contact='
 # Contact
 
-* Core Team: <Info@jugendrettet.org> [(PGP Key)](../f/files/JR_pub.asc)
+* Organization: <Info@jugendrettet.org> [(PGP Key)](../f/files/JR_pub.asc)
 * Team PR: <Oeffentlichkeit@jugendrettet.org>
 * Team European Embassies: <Embassies@jugendrettet.org>
 * German Embassies: <BotschaftenAG@jugendrettet.org>
