@@ -91,6 +91,10 @@ Planung der nächsten Missionen.
 Umbau der IUVENTA.
 * **9. März**  
 [Start der Missionen in 2017.](./mission)
+* **1. August**
+[Beschlagnahmung der IUVENTA](./mission#current)
+* **2017**
+Über 10.000 Gerettete in 7 Missionen.
 '
 
 about_iuventa_menu='
