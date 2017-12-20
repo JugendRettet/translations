@@ -43,7 +43,7 @@ sub_team_org_title='
 ## Organization
 '
 
-sub_team_berlin='
+sub_team_org='
 A project like Jugend Rettet also needs a lot of shore-based coordination. Therefore, many volunteers work together in different departments. Those teams are working day for day on planning new missions, raising awareness and to connect our supporters. Students from different subjects, professionals and other volunteers actively participate wherever they can best apply their knowledge and support the project.
 Berlin is the heart of our organisation. However, Jugend Rettet has become more decentralized and we appreciate that so many people from different cities and countries are working together on this project.
 Most of the work takes place within those departments and representatives of all departments jointly agree on bigger decisions.
