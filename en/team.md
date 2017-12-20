@@ -44,10 +44,13 @@ sub_team_org_title='
 '
 
 sub_team_org='
-A project like Jugend Rettet also needs a lot of shore-based coordination. Therefore, many volunteers work together in different departments. Those teams are working day for day on planning new missions, raising awareness and to connect our supporters. Students from different subjects, professionals and other volunteers actively participate wherever they can best apply their knowledge and support the project.
-Berlin is the heart of our organisation. However, Jugend Rettet has become more decentralized and we appreciate that so many people from different cities and countries are working together on this project.
-Most of the work takes place within those departments and representatives of all departments jointly agree on bigger decisions.
-Beside this organisational structure, there is a parallel formal structure which meets the requirements of the German law of associations (Vereinsrecht). A smaller group of supporters is an official member of the organisation and meets annually for the plenary assembly. Furthermore, we have three board members who enjoy equal rights.
+A project like JUGEND RETTET **IUVENTA** also needs a lot of shore-based coordination. Therefore, many volunteers work together in different departments. Those teams are working day for day on planning new missions, raising awareness and to connect our supporters. Students from different subjects, professionals and other volunteers actively participate wherever they can best apply their knowledge and support the project.
+
+Berlin is the heart of our organization. However, JUGEND RETTET **IUVENTA** has become more decentralized and we appreciate that so many people from different cities and countries are working together on this project.
+
+Most of the work takes place within such departments and representatives of all departments jointly agree on bigger decisions.
+
+Beside this organizational structure, there is a parallel formal structure which meets the requirements of the German law of associations (Vereinsrecht). A smaller group of supporters is an official member of the organization and meets annually for the plenary assembly. Furthermore, we have three board members who enjoy equal rights.
 
 [Contact](./contact)
 [Press](./press)
