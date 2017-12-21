@@ -37,7 +37,9 @@ about_our_story_title='
 
 about_our_story='
 Right from the beginning we knew that our goals would be hard to reach. As time passed we grew as persons and as an organisation by learning from the experiences of others and with the help of many.
-Here are our most important milestones:
+Here are our most important milestones.  
+
+You can see our more detailed archive of rescue missions [here](./mission#archive).
 
 ### 2015
 
@@ -70,20 +72,11 @@ The IUVENTA is leaving it's conversion harbour in Emden. It's heading to Malta t
 Arriving in Malta.
 * **July 24th**  
 Leaving the harbour in Malta to start the first rescue mission - named 'Solidarity' - saving 1388 people.
-* **August 12th**  
-Mission Equality starts. 140 people will be rescued.
-* **September 1st**  
-Mission Responsibility rescues 1454 people.
-* **September 16th**  
-131 people are being saved on mission Humanity.
-* **Oktober 4th**  
-On mission Unity JUGEND RETTET **IUVENTA** is involved in rescuing 423 people.
-* **Oktober 21st**  
-Our crew of mission Dignity was able to rescue 2733 people from maritime distress.
-* **November 11th**  
-Mission Diversity rescues 393 people.
 * **Winter**  
 Planning missions for the next year.
+* **2016**  
+[6,256 rescued in 7 missions.](./mission#archive)
+
 
 ### 2017
 
@@ -94,7 +87,7 @@ Renovation of the IUVENTA.
 * **August 1st**  
 [Seizure of the IUVENTA.](./mission#current)
 * **2017**  
-Over 10,000 rescued in 8 missions.
+[Over 10,000 rescued in 8 missions.](./mission#archive)
 '
 
 about_iuventa_menu='
