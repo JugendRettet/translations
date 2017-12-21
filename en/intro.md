@@ -31,7 +31,7 @@ ideals_iuv_title='
 '
 
 ideals_iuv_text='
-With our ship, the IUVENTA, we are rescuing people in maritime distress since July 24th 2016. In 2016 and 2017 we managed to carry out 14 rescue missions and save more than 14,000 lives. Our IUVENTA is a concrete field of action and a symbol simultaneously. We ourselves are active and make a change. We're showing that it's possible to do something against the dying. We are breaking through the sensation of powerlessness which is dominating politics.
+With our ship, the IUVENTA, we are rescuing people in maritime distress since July 24th 2016. In 2016 and 2017 we managed to carry out 15 rescue missions and save more than 14,000 lives. Our IUVENTA is a concrete field of action and a symbol simultaneously. We ourselves are active and make a change. We're showing that it's possible to do something against the dying. We are breaking through the sensation of powerlessness which is dominating politics.
 '
 
 ideals_proposals_title='
@@ -50,7 +50,7 @@ ideals_actions='
 With our network of ambassadors we're building a platform for young people to exchange national and European positions on asylum policies and maritime rescue missions on a long-term basis. The organisation is engaged in the concrete and highly symbolic actions of our ship on the one hand, and providing a political platform on the other hand: our network of embassies.
 
 With our IUVENTA we are patrolling on the central Mediterranean route since July 2016 near Libyan territorial waters. We search for boats in maritime distress and put the people in safety. On board of the IUVENTA we provide First Aid as well as water and food.  
-In our first years of action 2016 and 2017 we carried out 14 missions in which we rescued more than 14,000 people from risk of death.
+In our first years of action 2016 and 2017 we carried out 15 missions in which we rescued more than 14,000 people from risk of death.
 
 ### OUR CONCRETE PLANS
 

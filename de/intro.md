@@ -32,7 +32,7 @@ ideals_iuv_title='
 '
 
 ideals_iuv_text='
-Mit unserem Schiff, der IUVENTA, retten wir seit dem 24. Juli 2016 Menschen aus Seenot. In den Jahren 2016 und 2017 konnten unsere Crews in 14 Missionen über 14.000 Menschen vor dem Tod bewahren. Unsere IUVENTA ist somit konkretes Handlungsfeld und Symbol. Wir sind selbst aktiv und handeln. Wir zeigen, dass es möglich ist, etwas gegen das Sterben zu tun. Damit durchbrechen wir das Gefühl der Ohnmacht, welches aktuell in der Politik herrscht. 
+Mit unserem Schiff, der IUVENTA, retten wir seit dem 24. Juli 2016 Menschen aus Seenot. In den Jahren 2016 und 2017 konnten unsere Crews in 15 Missionen über 14.000 Menschen vor dem Tod bewahren. Unsere IUVENTA ist somit konkretes Handlungsfeld und Symbol. Wir sind selbst aktiv und handeln. Wir zeigen, dass es möglich ist, etwas gegen das Sterben zu tun. Damit durchbrechen wir das Gefühl der Ohnmacht, welches aktuell in der Politik herrscht. 
 '
 
 ideals_proposals_title='
@@ -50,7 +50,7 @@ ideals_actions='
 Mit dem Botschafter_Innen-Netzwerk schafft unsere Organisation eine Plattform, auf der sich junge Menschen langfristig über nationale und europäische Positionen in der Flüchtlingspolitik und Seenotrettung austauschen können. Der Verein engagiert sich also einerseits in dem konkreten und hoch symbolischen Aktionsfeld unseres Schiffes und schafft andererseits eine politische Plattform: das Botschafter_Innen- Netzwerk.
 
 Mit unserer IUVENTA patrouillieren wir seit Juli 2016 auf der zentralen Mittelmeerroute nahe der libyschen Hoheitsgewässer. Wir finden in Seenot geratene Boote und bringen die Menschen in Sicherheit. An Bord der IUVENTA leisten wir Erste Hilfe und versorgen die Geretteten mit Wasser und Nahrung.  
-In unseren ersten Einsatzjahren 2016 und 2017 konnten wir auf 14 Rettungsmissionen über 14.000 Menschen aus Lebensgefahr retten. 
+In unseren ersten Einsatzjahren 2016 und 2017 konnten wir auf 15 Rettungsmissionen über 14.000 Menschen aus Lebensgefahr retten. 
 
 ### WAS WIR KONKRET MACHEN wollen
 

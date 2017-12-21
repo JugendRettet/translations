@@ -94,7 +94,7 @@ Umbau der IUVENTA.
 * **1. August**  
 [Beschlagnahmung der IUVENTA.](./mission#current)
 * **2017**  
-Über 10.000 Gerettete in 7 Missionen.
+Über 10.000 Gerettete in 8 Missionen.
 '
 
 about_iuventa_menu='
