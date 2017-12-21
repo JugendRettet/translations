@@ -37,7 +37,9 @@ about_our_story_title='
 
 about_our_story='
 Schon von Anfang an wussten wir, dass es nicht immer einfach wird. Mit der Zeit haben wir von der Hilfe und Erfahrung anderer profitiert und haben uns und damit den Verein weiter entwickelt.  
-Hier seht ihr unsere Meilensteine:  
+Hier seht ihr unsere Meilensteine.  
+
+Zum detaillierten Archiv unserer Rettungsmissionen [hier](./mission#archive).
 
 ### 2015
 
@@ -70,20 +72,10 @@ Die IUVENTA verlässt Emden. Nächster Halt Malta, um von dort noch im Juli mit 
 Die IUVENTA erreicht Malta.
 * **24. Juli**  
 Die IUVENTA verlässt Malta für ihre erste Rettungsmission unter dem Namen Solidarity und rettet 1388 Menschen.
-* **12. August**  
-Mission Equality startet und es können 140 Menschen gerettet werden.
-* **1. September**  
-Die Crew startet die Mission Responsibility und rettet 1454 Menschen.
-* **16. September**  
-Start der Rettungsmission Humanity, bei der 131 Menschen gerettet werden.
-* **4. Oktober**  
-In der Mission Unity ist JUGEND **RETTET** an der Rettung von 423 Menschen beteiligt.
-* **21. Oktober**  
-In der Mission Dignity konnte die Crew 2733 Menschen aus Seenot retten.
-* **11. November**  
-Mission Diversity rettet 393 Menschen aus Seenot.
 * **Winter**  
 Planung der nächsten Missionen.
+* **2016**  
+[6.256 Gerettete in 7 Missionen.](./mission#archive)
 
 ### 2017
 
@@ -94,7 +86,7 @@ Umbau der IUVENTA.
 * **1. August**  
 [Beschlagnahmung der IUVENTA.](./mission#current)
 * **2017**  
-Über 10.000 Gerettete in 8 Missionen.
+[Über 10.000 Gerettete in 8 Missionen.](./mission#archive)
 '
 
 about_iuventa_menu='

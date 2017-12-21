@@ -66,6 +66,8 @@ Solidarity with Italy? Yes, but we also demand solidarity with people in flight.
 
 Mr. Avramopoulos, Actions Are Louder Than Words.
 
+**3773 Rescued.**
+
 ### Mission Donald Tusk
 
 Dear Mr. Tusk,  
@@ -82,6 +84,8 @@ Mr. Tusk, actions are louder than words!
  
 Sincerely,  
 Jugend Rettet
+
+**603 Rescued.**
 
 ### Mission Hirsi Jamaa
 
@@ -125,6 +129,8 @@ We want a Europe that takes responsibility and stands for the fundamental right 
 With kind regards,
 The Jugend Rettet Team
 
+**2921 Rescued.**
+
 ### Mission Fabrice Leggeri
 
 Dear Fabrice Leggeri,
@@ -140,6 +146,8 @@ We also ask ourselves why you would not discuss your concerns with us personally
 The Easter weekend has shown again that we need to provide help because state actors are not present. And that is why we are naming our fourth mission after you, Mr Leggeri: Border security must never be above the duty to save people from the danger of life. We demand political measures according to humanitarian standards to deal with the current fleeing of refugees.
 
 Every person deserves rescue at sea! 
+
+**466 Rescued.**
 
 ### Mission Sebastian Kurz
 
@@ -190,6 +198,8 @@ Since the founding of our association, we have pointed out that private rescue o
 
 Further information and statements from the crew and captain will follow in the next days. Due to the circumstances they went though, they need a moment of rest on their way to Malta after this extreme commitment.
 
+**2147 Rescued.**
+
 ### Mission Von der Leyen
 
 **THE SECOND MISSION 2017**
@@ -200,6 +210,8 @@ Instead of using the 42.3 million Euros to rescue people in maritime distress th
 In 2015 Frau von der Leyen claimed to sent those ships on a mission of search and rescue near the territorial waters of Libya. A mandate to fight against smugglers is the only thing that's left of that promise. There is no appearence of the word 'rescue' in that mandate. For the next two weeks we'll make your words come true and carry out rescue missions.
 
 [Letter to Frau Von der Leyen](https://www.facebook.com/JugendRettet/photos/a.415060405369865.1073741826.409016039307635/639754809567089/?type=3&theater)
+
+**410 Rescued.**
 
 ### Mission De Maizière
 
@@ -217,4 +229,34 @@ This is why our first mission will be dedicated to **Thomas De Maizière**.
 
 [Suddenly: Mail from the Ministry of the Interior... Part 1 (german)](https://www.facebook.com/notes/jugend-rettet-ev/wenn-dir-das-innenministerium-aufeinmal-schreibt-teil-1/636961783179725)  
 [Suddenly: Mail from the Ministry of the Interior... Part 2 (german)](https://www.facebook.com/notes/jugend-rettet-ev/wenn-dir-das-innenministerium-aufeinmal-schreibt-teil-2/638090533066850)
+
+**110 Rescued.**
+
+### Mission Diversity
+
+Mission Diversity rescues 393 people.
+
+### Mission Dignity
+
+Our crew of mission Dignity was able to rescue 2733 people from maritime distress.
+
+### Mission Unity
+
+On mission Unity JUGEND RETTET **IUVENTA** is involved in rescuing 423 people.
+
+### Mission Humanity
+
+131 people are being saved on mission Humanity.
+
+### Mission Responsibility
+
+Mission Responsibility rescues 1454 people.
+
+### Mission Equality
+
+Mission Equality starts. 140 people will be rescued.
+
+### Mission Solidarity
+
+Leaving the harbour in Malta to start the first rescue mission - named 'Solidarity' - saving 1388 people.
 '

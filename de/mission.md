@@ -66,6 +66,8 @@ Solidarität mit Italien? Ja, aber wir fordern auch Solidarität mit Menschen au
 
 Herr Avramopoulos, Taten sind lauter als Worte.
 
+**3773 Gerettete.**
+
 ### Mission Donald Tusk
 
 Sehr geehrter Herr Donald Tusk,  
@@ -82,6 +84,8 @@ Herr Tusk, Taten sind lauter als Worte!
  
 Hochachtungsvoll,  
 Jugend Rettet
+
+**603 Gerettete.**
 
 ### Mission Hirsi Jamaa
 
@@ -194,6 +198,7 @@ zu sprechen.
 Mit freundlichen Grüßen,
 ihr Jugend Rettet Team
 
+**2921 Gerettete.**
 
 ### Mission Leggeri
 
@@ -210,6 +215,8 @@ Außerdem fragen wir uns, warum Sie Ihre Bedenken nicht mit uns persönlich disk
 Das Osterwochenende hat abermals gezeigt, dass wir Hilfe leisten müssen, weil staatliche Akteur_innen nicht vor Ort sind. Und deswegen benennen wir unsere vierte Mission nach Ihnen: Die Grenzsicherung darf niemals über der Pflicht stehen, Menschen aus Lebensgefahr zu retten. Wir fordern, dass sich politische Maßnahmen zum Umgang mit der aktuellen Fluchtbewegung endlich nach humanitären Maßstäben richten.
 
 Jeder Mensch verdient die Rettung aus Seenot!
+
+**466 Gerettete.**
 
 ### Mission Sebastian Kurz
 
@@ -258,6 +265,7 @@ Seit Gründung des Vereins haben wir darauf hingewiesen, dass die private Seenot
 
 Weitere Informationen und Statements von Crew und Kapitän folgen in den kommenden Tagen. Aus gegebenem Anlass brauchen sie nach diesem tagelangen Extremeinsatz einen Moment Ruhe auf der Fahrt nach Malta.
 
+**2147 Gerettete.**
 
 ### Mission Von der Leyen
 
@@ -269,6 +277,8 @@ Anstatt mit 42,3 Millionen Euro Menschen aus Seenot zu retten, dürfen die Schif
 Frau von der Leyen hat 2015 die Schiffe mit diesem öffentlichen Auftrag der Suche und Rettung ins Seegebiet vor Libyen geschickt. Übrig geblieben ist von ihren Versprechen nur ein Mandat zur Schlepperbekämpfung. Das Wort ‘Rescue’ taucht im Mandatstext nirgends mehr auf. Für die nächsten zwei Wochen werden wir ihre Worte Wahrheit werden lassen und Seenotrettung betreiben. 
 
 [Brief an Frau Von der Leyen](https://www.facebook.com/JugendRettet/photos/a.415060405369865.1073741826.409016039307635/639754809567089/?type=3&theater)
+
+**410 Gerettete.**
 
 ### Mission De Maizière
 
@@ -286,4 +296,34 @@ Unsere erste Mission soll deshalb **Thomas De Maizière** gewidmet werden.
 
 [Wenn dir das Innenministerium aufeinmal schreibt... Teil 1](https://www.facebook.com/notes/jugend-rettet-ev/wenn-dir-das-innenministerium-aufeinmal-schreibt-teil-1/636961783179725)  
 [Wenn dir das Innenministerium aufeinmal schreibt... Teil 2](https://www.facebook.com/notes/jugend-rettet-ev/wenn-dir-das-innenministerium-aufeinmal-schreibt-teil-2/638090533066850)
+
+**110 Gerettete.**
+
+### Mission Diversity
+
+Mission Diversity rettet 393 Menschen aus Seenot.
+
+### Mission Dignity
+
+In der Mission Dignity konnte die Crew 2733 Menschen aus Seenot retten.
+
+### Mission Unity
+
+In der Mission Unity ist JUGEND **RETTET** an der Rettung von 423 Menschen beteiligt.
+
+### Mission Humanity
+
+Start der Rettungsmission Humanity, bei der 131 Menschen gerettet werden.
+
+### Mission Responsibility
+
+Die Crew startet die Mission Responsibility und rettet 1454 Menschen.
+
+### Mission Equality
+
+Mission Equality startet und es können 140 Menschen gerettet werden.
+
+### Mission Solidarity
+
+Die IUVENTA verlässt Malta für ihre erste Rettungsmission unter dem Namen Solidarity und rettet 1388 Menschen.
 '
