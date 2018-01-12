@@ -156,8 +156,7 @@ You can see the current notification [here](../f/files/Gemeinnuetzigkeit_Beschei
 
 Board:
 
-Lena Waldhoff
-
+Julian Pahlke & Philipp Külker
 
 ### 5. ACTIVITY REPORT
 

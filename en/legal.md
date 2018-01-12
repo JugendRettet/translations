@@ -21,7 +21,8 @@ E-Mail: <info@jugendrettet.org>
 
 ## Represented by
 
-Lena Waldhoff, chair-person, address provided above
+* Julian Pahlke, chair-person, address provided above
+* Philipp Külker, chair-person, address provided above
 
 ## Responsible for content
 
