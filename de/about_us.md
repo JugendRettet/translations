@@ -151,8 +151,7 @@ Den offiziellen Bescheid finden Sie [hier](../f/files/Gemeinnuetzigkeit_Bescheid
 
 Vorstand:
 
-Lena Waldhoff
-
+Julian Pahlke & Philipp Külker
 
 ### 5. TÄTIGKEITSBERICHT
 

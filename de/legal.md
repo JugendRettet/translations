@@ -19,7 +19,8 @@ E-Mail: <info@jugendrettet.org>
 
 ## Vertreten durch
 
-* Lena Waldhoff, Vorsitzende, Adresse siehe oben
+* Julian Pahlke, Vorsitzender, Adresse siehe oben
+* Philipp Külker, Vorsitzender, Adresse siehe oben
 
 ## inhaltlich verantwortlich
 
