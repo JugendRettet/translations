@@ -7,7 +7,39 @@ archive_title='
 '
 
 archive_current='
+## 2018
+
+#### **17. Jan.:** "Retter im Mittelmeer" im ZDF
+
+Julian war auch mit der IUVENTA für uns auf dem Mittelmeer unterwegs. Derzeit ist er als Einsatzleiter auf der Sea-Watch 3 und berichtet im ZDF über die sich aktuell zuspitzende Situation auf See.  
+
+[Zum Beitrag](https://www.zdf.de/nachrichten/heute/fluechtlings-retter-im-mittelmeer-an-der-belastungsgrenze-100.html)
+
+#### **16. Jan.:** Kommentar in der Tagesschau zur Abschottung Europas
+
+Europa schottet sich ab. Doch zu welchem Preis?  
+Die sinkenden Zahlen an Ankommenden sind allein dadurch zu erreichen, das Menschen dort bleiben müssen, wo ihnen Folter, Gewalt und Terror droht. Wir werden dabei nicht still zuschauen.
+
+[Zum Kommentar von Georg Restle](https://www.facebook.com/tagesschau/videos/10156207723134407/)
+
+#### **11. Jan.:** Bericht in "Monitor": "Tödliche Seenotrettung: Die brutalen Einsätze der libyschen Küstenwache im Mittelmeer"
+
+Dieser erschreckende Bericht von Monitor zeigt, wie die EU mit einem desolaten „Staat“ Deals macht: Die europäische Außengrenze erweitert sich damit über das Mittelmeer.  
+Leidtragende sind dabei Menschen, die beim Versuch Europa zu erreichen, ertrinken.  
+
+[Zum Bericht](https://www1.wdr.de/daserste/monitor/videos/video-toedliche-seenotrettung-die-brutalen-einsaetze-der-libyschen-kuestenwache-im-mittelmeer-100.html)
+
+'
+
+archive_2017='
 ## 2017
+
+#### **22. Dez.:** Workshop zum Thema Seenotrettung
+
+„This is IUVENTA – all hands to stations!“  
+Im Rahmen des 11. Bundeskongress in Zusammenarbeit mit der Bundesvertretung der Medizinstudierenden in Deutschland - bvmd in Mainz haben wir einen Workshop zum Thema Seenotrettung gegeben. Dabei wurden die Herausforderungen ehrenamtlicher SAR-Arbeit beleuchtet und reale, medizinische Case-Reports aus unserer Einsatzerfahrung diskutiert und nachvollzogen.
+
+![Workshop](../f/images/archive/20171222_000.jpg "Workshop")
 
 #### **25. Okt.:** [Präses Rekowski fordert Anerkennung und Unterstützung für zivile Seenotrettungsorganisationen](https://www.ekd.de/seenotrettung-29789.htm)
 
