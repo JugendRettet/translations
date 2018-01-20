@@ -1,3 +1,7 @@
+archive_2018_menu='
+2018
+'
+
 archive_2017_menu='
 2017
 '
