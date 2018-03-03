@@ -7,7 +7,38 @@ archive_title='
 '
 
 archive_current='
+## 2018
+
+#### **Jan. 17th:** "Rescuers in the Mediterranean" on German TV ZDF
+
+Julian was one of our crew members on the Mediterranean. He is currently in charge of the Sea-Watch 3 and reports on ZDF about the currently escalating situation at sea.
+
+[To the report](https://www.zdf.de/nachrichten/heute/fluechtlings-retter-im-mittelmeer-an-der-belastungsgrenze-100.html)
+
+#### **Jan. 26th:** Commentary in the "Tagesschau" on the isolation of Europe
+
+Europe is shutting itself off. But at what price?  
+Falling numbers of arrivals can only be achieved by keeping people where they face torture, violence and terror. We will not be watching.
+
+[To the commentary by Georg Restle](https://www.facebook.com/tagesschau/videos/10156207723134407/)
+
+#### **Jan. 11th:** Report in "Monitor": "Deadly Sea Rescue: The Brutal Operations of the Libyan Coast Guard in the Mediterranean"
+
+This frightening report from "Monitor" shows how the EU is making deals with a desolate "state": the European external border thus expands across the Mediterranean.
+The victims are people drowning in attempts to reach Europe.
+
+[To the report](https://www1.wdr.de/daserste/monitor/videos/video-toedliche-seenotrettung-die-brutalen-einsaetze-der-libyschen-kuestenwache-im-mittelmeer-100.html)
+'
+
+archive_2017='
 ## 2017
+
+#### **Dec. 22nd:** Workshop on sea rescue
+
+"This is IUVENTA – all hands to stations!"  
+As part of the 11th federal congress in cooperation with the federal agency of medicine students in Germany ("bvmd") in Mainz we held a workshop on sea rescue. We spoke about the challenges of unsalaried SAR work and discussed real, medical case reports from our mission experience.
+
+![Workshop](../f/images/archive/20171222_000.jpg "Workshop")
 
 #### **Oct. 25th:** [Präses Rekowski calls for recognition and support for civilian rescue organisations](https://www.ekd.de/seenotrettung-29789.htm)
 
