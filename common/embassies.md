@@ -3,13 +3,12 @@ sub_team_embassies='
 
 * **Aachen:** [Tamara](mailto:Tamara_Aachen@jugendrettet.org), [Johannes](mailto:Johannes_Aachen@jugendrettet.org)
 * **Bad Mergentheim:** [Elsa](mailto:Elsa_BadMergentheim@jugendrettet.org)
-* **Barcelona**: [Leo](mailto:Leo@jugendrettet.org)
 * **Basel**: [Angelica](mailto:Angelica_Basel@jugendrettet.org)
 * **Berlin**: [Sonja](mailto:Sonja@jugendrettet.org), [Projekt Begegnung](mailto:Projekt.Begegnung_Berlin@jugendrettet.org)
 * **Bielefeld**: [Andreas](mailto:Andreas_Bielefeld@jugendrettet.org)
 * **Blagoewgrad:** [Vincent](mailto:Vincent_Blagoewgrad@jugendrettet.org)
 * **Bochum**: [Sebastian](mailto:Sebastian_Bochum@jugendrettet.org)
-* **Bonn**: [Alex](mailto:Alex_Bonn@jugendrettet.org), [Anna](mailto:AnnaB@jugendrettet.org), [Natalie](mailto:Natalie_Bonn@jugendrettet.org)
+* **Bonn**: [Anna](mailto:AnnaB@jugendrettet.org), [Natalie](mailto:Natalie_Bonn@jugendrettet.org)
 * **Bremen**: [Niklas](mailto:Niklas_Bremen@jugendrettet.org), [Thomas](mailto:Thomas@jugendrettet.org)
 * **Cuxhaven**: [Nadine](mailto:Nadine_Cuxhaven@jugendrettet.org)
 * **Duisburg**: [Jana](mailto:Jana@jugendrettet.org)
@@ -49,7 +48,6 @@ sub_team_embassies='
 * **Neustadt:** [AG Integration](mailto:AG.Integration_Neustadt@jugendrettet.org)
 * **Nürnberg**: [Annemarie](mailto:Annemarie_Nuernberg@jugendrettet.org), [Mark](mailto:Mark_Nuernberg@jugendrettet.org)
 * **Oldenburg**: [Deniz](mailto:Deniz_Oldenburg@jugendrettet.org), [Maxi](mailto:Maxi_Oldenburg@jugendrettet.org), [Sabeth](mailto:Sabeth_Oldenburg@jugendrettet.org)
-* **Osnabrück**: [Jascha](mailto:Jascha_Osnabrueck@jugendrettet.org)
 * **Ostfriesland**: [Jana](mailto:Jana_Ostfriesland@jugendrettet.org), [Julia](mailto:Julia@jugendrettet.org), [Mareke](mailto:Mareke@jugendrettet.org)
 * **Paderborn**: [Wiebke](mailto:Paderborn@jugendrettet.org)
 * **Porta Westfalica:** [Marie](mailto:Marie_PortaWestfalica@jugendrettet.org)
@@ -63,5 +61,4 @@ sub_team_embassies='
 * **Tübingen:** [Jovana](mailto:Jovana_Tuebingen@jugendrettet.org)
 * **Warszawa**: [Marcin](mailto:Marcin_Warszawa@jugendrettet.org)
 * **Weimar**: [Manuel](mailto:Manuel_Weimar@jugendrettet.org)
-* **Würzburg:** [Jakob](mailto:Jakob_Wuerzburg@jugendrettet.org)
 '
