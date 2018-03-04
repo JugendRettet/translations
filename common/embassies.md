@@ -57,6 +57,7 @@ sub_team_embassies='
 * **Salem**: [David](mailto:David@jugendrettet.org), [Helena](mailto:Helena@jugendrettet.org)
 * **Siegen:** [Lorenz](mailto:Lorenz_Siegen@jugendrettet.org)
 * **Slupsk**: [Radek](mailto:Radek_Slupsk@jugendrettet.org)
+* **Stendal:** [Saskia](mailto:Saskia_Stendal@jugendrettet.org)
 * **Stockholm**: [Jonas](mailto:Jonas_Stockholm@jugendrettet.org)
 * **Tübingen:** [Jovana](mailto:Jovana_Tuebingen@jugendrettet.org)
 * **Warszawa**: [Marcin](mailto:Marcin_Warszawa@jugendrettet.org)
