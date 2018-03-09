@@ -21,7 +21,7 @@ Die zentrale Mittelmeerroute ist noch immer die gefährlichste Fluchtroute auf d
 
 [Gemeinsame Erklärung](../f/files/20180227_joint_statement.pdf)
 
-![Gemeinsame Erklärung der Seenotrettungsorganisationen](../f/images/archive/20180202_001.jpg "Gemeinsame Erklärung der Seenotrettungsorganisationen")
+![Gemeinsame Erklärung der Seenotrettungsorganisationen](../f/images/archive/20180227_001.jpg "Gemeinsame Erklärung der Seenotrettungsorganisationen")
 
 #### **23. Feb.:** Zeit.de: Gutachten des Bundestages legt nahe, dass europäische Schiffe die Seenotrettung von Flüchtlingen verhindern
 
