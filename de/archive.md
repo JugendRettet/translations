@@ -9,7 +9,7 @@ archive_title='
 archive_current='
 ## 2018
 
-#### **07. März:** Forensic Architecture anaylisiert Fall IUVENTA
+#### **07. März:** Forensic Architecture analysiert Fall IUVENTA
 
 Mit Hilfe von Videomaterial und einer wissenschaftlichen Analyse hat das Team um Forensic Architecture den Fall um die Iuventa nachgestellt. Dabei kam raus: Die italienischen Behörden stellen den Fall deutlich anders da, als er abgelaufen ist.
 
@@ -41,11 +41,10 @@ Beitrag von "Monitor" zum Fall IUVENTA, zum Vorgehen der italienischen Staatsanw
 
 #### **02. Feb.:** Jugend Rettet "Hate Slam"
 
-Bei dieser Hate-Slam-Veranstaltung lesen Personen und Organisationen erhaltene Hasskommentare vor und treten damit gegen professionelle Slammer*innen an.
+Bei dieser Hate-Slam-Veranstaltung lesen Personen und Organisationen erhaltene Hasskommentare vor und treten damit gegen professionelle Slammer*innen an.  
+Dem besten Beitrag wird der 1. Bernd-Höcke-Preis verliehen.
 
 ![IUVENTA im Meer mit Delfin zum Schriftzug "Haters gonna hate"](../f/images/archive/20180202_001.jpg "IUVENTA im Meer mit Delfin zum Schriftzug 'Haters gonna hate'")
-
-Für den besten Beitrag wollen wir den 1. Bernd-Höcke-Preis verleihen. Dazu laden wir euch herzlich ein! 
 
 #### **31. Jan.:** Kettcar sammeln auf Tour Spenden fúr Jugend Rettet
 
