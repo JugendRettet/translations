@@ -9,6 +9,69 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **07. März:** Forensic Architecture anaylisiert Fall IUVENTA
+
+Mit Hilfe von Videomaterial und einer wissenschaftlichen Analyse hat das Team um Forensic Architecture den Fall um die Iuventa nachgestellt. Dabei kam raus: Die italienischen Behörden stellen den Fall deutlich anders da, als er abgelaufen ist.
+
+[Zur Analyse](https://blamingtherescuers.org/iuventa)
+
+#### **27. Feb.:** Seenotrettungsorganisationen legen in Brüssel gemeinsame Erklärung vor
+
+Die zentrale Mittelmeerroute ist noch immer die gefährlichste Fluchtroute auf der Welt. Kriminalisierungen von Rettungen und Flucht tragen dafür keine Linderung bei. In Brüssel haben wir der EU nun ein Joint Statement vorgelegt. Was würde gegen diese Punkte sprechen? Zusammen mit borderline europe - Menschenrechte ohne Grenzen e.V., Watch The Med - Alarmphone, Sea-Watch, LIFELINE Salvamento Marítimo Humanitario und RESQSHIP fragen wir die EU: Sind wir die Sündenböcke der gescheiterten EU-Politik?
+
+[Gemeinsame Erklärung](../f/files/20180227_joint_statement.pdf)
+
+![Gemeinsame Erklärung der Seenotrettungsorganisationen](../f/images/archive/20180202_001.jpg "Gemeinsame Erklärung der Seenotrettungsorganisationen")
+
+#### **23. Feb.:** Zeit.de: Gutachten des Bundestages legt nahe, dass europäische Schiffe die Seenotrettung von Flüchtlingen verhindern
+
+Das Gutachten [...] besagt im Kern, dass nicht nur die libyschen Küstenwächter Menschenrechtsverletzungen begehen. Sondern auch europäische Kriegsschiffe. Und womöglich auch die italienische Seenotleitstelle in Rom.
+
+[Zum Artikel](http://www.zeit.de/2018/09/fluechtlinge-europaeische-union-lybien-voelkerrecht-verstoss-gutachten-bundestag)
+
+#### **09. Feb.:** Jugend Rettet bei Lesung und Diskussion "Diktatoren als Türsteher Europas" in Augsburg
+
+Lesung mit Christian Jakob: Diktatoren als Türsteher Europas – Wie die EU ihre Grenzen nach Afrika verlagert.
+
+#### **04. Feb.:** Beitrag von "Monitor" zum Fall IUVENTA
+
+Beitrag von "Monitor" zum Fall IUVENTA, zum Vorgehen der italienischen Staatsanwaltschaft und über die fehlenden Beweise.
+
+[Zum Beitrag](https://www.facebook.com/monitor.wdr/videos/1652340678138199/)
+
+#### **02. Feb.:** Jugend Rettet "Hate Slam"
+
+Bei dieser Hate-Slam-Veranstaltung lesen Personen und Organisationen erhaltene Hasskommentare vor und treten damit gegen professionelle Slammer*innen an.
+
+![IUVENTA im Meer mit Delfin zum Schriftzug "Haters gonna hate"](../f/images/archive/20180202_001.jpg "IUVENTA im Meer mit Delfin zum Schriftzug 'Haters gonna hate'")
+
+Für den besten Beitrag wollen wir den 1. Bernd-Höcke-Preis verleihen. Dazu laden wir euch herzlich ein! 
+
+#### **31. Jan.:** Kettcar sammeln auf Tour Spenden fúr Jugend Rettet
+
+Auf ihrer aktuellen Tour sammeln Kettcar an der Gästeliste Spenden für uns. Danke für die nicht abnehmende Solidarität von all unseren Unterstützer_innen. Ein noch größeres Danke für die Kraft, die ihr uns gebt, in dieser Zeit nach vorne zu schauen und weiter zu machen.
+
+![Foto vom Konzert](../f/images/archive/20180131_001.jpg "Foto vom Konzert")
+
+#### **30. Jan.:** Artikel vom Jib Collective über die fehlenden Beweise im Fall IUVENTA
+
+Es gibt keine Beweise, welche die Beschlagnahme der Iuventa rechtfertigen. Das Jib Collective hat die Geschehnisse noch einmal chronologisch zusammen gefasst:
+
+[Zum Artikel](https://jib-collective.net/stories/iuventa/de/)
+
+#### **28. Jan.:** Rettungsorganisationen rufen auf zu Social Media Action Day #RechtaufFlucht
+
+„Jeder hat das Recht, in anderen Ländern vor Verfolgung Asyl zu suchen und zu genießen.“ - Allgemeine Erklärung der Menschenrechte, Artikel 14.  
+Nutzer_innen von Social Media werden aufgefordert mit eigenen Fotos, Statements, Geschichten und Videos den Organisationen dabei zu helfen, für das #RechtaufFlucht einzutreten.
+
+[Video von Sea-Watch](https://www.facebook.com/seawatchprojekt/videos/1977841822433889/)
+
+![Gemaltes Transparent "Recht auf Flucht"](../f/images/archive/20180128_001.jpg "Gemaltes Transparent 'Recht auf Flucht'")
+
+#### **25. Jan.:** Beitrag von "Monitor" zum Fall IUVENTA
+
+[Zum Beitrag](https://www.facebook.com/monitor.wdr/videos/1642398952465705/)
+
 #### **17. Jan.:** "Retter im Mittelmeer" im ZDF
 
 Julian war auch mit der IUVENTA für uns auf dem Mittelmeer unterwegs. Derzeit ist er als Einsatzleiter auf der Sea-Watch 3 und berichtet im ZDF über die sich aktuell zuspitzende Situation auf See.  
