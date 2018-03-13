@@ -9,6 +9,74 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **Mar. 13th:** Case IUVENTA: Appointment at the Supreme Court of Cassation
+
+On April 23rd the court in Rome will decide on the release of our Iuventa. On that day we will go into second instance against the seizure and demand the immediate return of our rescue ship. We are certain that the allegations of the public prosecutor's office lack any legal basis, that our crews have always adhered to applicable law and have worked in a highly professional manner and that they have done nothing wrong. Over the last few months, we have had the allegations repeatedly reviewed not only internally but also externally, and the interviewed experts agree with us on all points raised, which prove our innocence. That is why 8 months after the confiscation we are sure: The Iuventa must be released.  
+In addition to the encouragement of international organizations and experts, we are especially encouraged by you!  
+The confiscation as a legal instrument is a political measure. We will not accept that. We are not alone in our fight. Together with other organizations, we not only fight for our Iuventa, but also for a humane right of migration! We say: #freeiuventa! #RechtaufFlucht!
+
+#### **Mar. 7th:** "Forensic Architecture" analysed the IUVENTA case
+
+With the help of video material and a scientific analysis, the "Forensic Architecture" team has recreated the case surrounding the IUVENTA. The results: How the Italian authorities are presenting the case differs clearly from what actually happened.
+
+[To the analysis](https://blamingtherescuers.org/iuventa)
+
+#### **Feb. 27th:** Sea rescue NGOs present Joint Statement in Brussels
+
+The central Mediterranean route is still the most dangerous escape route in the world. Criminalization of rescues and escape do not provide any relief. In Brussels, we have now submitted a joint statement to the EU. What would speak against these points? Together with borderline europe -  Menschenrechte ohne Grenzen e.V., Watch The Med - Alarmphone, Sea-Watch, LIFELINE Salvamento Marítimo Humanitario and RESQSHIP we ask the EU: Are we the scapegoats of the failed EU policy?
+
+[Joint Statement](../f/files/20180227_joint_statement.pdf)
+
+![Joint Statement by Sea Rescue NGOs](../f/images/archive/20180227_001.jpg "Joint Statement by Sea Rescue NGOs")
+
+#### **Feb. 23rd:** Zeit.de: Report of German parliament suggests that European ships prevent the rescue of refugees
+
+"The report basically states that it is not just the Libyan coast guards who commit human rights violations. But also European warships. And possibly also the Italian distress control centre in Rome."
+
+[To the article](http://www.zeit.de/2018/09/fluechtlinge-europaeische-union-lybien-voelkerrecht-verstoss-gutachten-bundestag)
+
+#### **Feb. 9th:** Jugend Rettet at reading and discussion "Dictators as bouncers of Europe" in Augsburg
+
+Reading with Christian Jakob: Dictators as bouncers in Europe - How the EU is moving its borders to Africa ("Diktatoren als Türsteher Europas – Wie die EU ihre Grenzen nach Afrika verlagert").
+
+#### **Feb. 4th:** Report by "Monitor" on the IUVENTA case
+
+Report by "Monitor" on the IUVENTA case, the procedures of the Italian Public Prosecutor's Office and the lack of evidence.
+
+[To the report](https://www.facebook.com/monitor.wdr/videos/1652340678138199/)
+
+#### **Feb. 2nd:** Jugend Rettet "Hate Slam"
+
+On this Hate Slam event individuals and organisations share hate comments they received and compete against professional slammers.  
+The best contribution will receive the first Bernd Höcke award.
+
+![IUVENTA in the sea with dolphin to the slogan "Haters gonna hate"](../f/images/archive/20180202_001.jpg "IUVENTA in the sea with dolphin to the slogan 'Haters gonna hate'")
+
+#### **Jan. 31st:** Kettcar collecting donations for Jugend Rettet on their tour
+
+Kettcar are collecting donations for us on their current tour. We like to thank all of our supporters for the ongoing solidarity and the power you are giving us to continue our work in times like these.
+
+![Photo of a concert](../f/images/archive/20180131_001.jpg "Photo of a concert")
+
+#### **Jan. 30th:** Article by Jib Collective on the missing evidence in the case IUVENTA
+
+There is no evidence to justify the confiscation of Iuventa. The Jib Collective has summarized the events chronologically:
+
+[To the article](https://jib-collective.net/stories/iuventa/en/)
+
+#### **Jan. 28th:** Sea rescue NGOs call for Social Media Action Day #RechtaufFlucht (Right to Asylum)
+
+"Everyone has the right to seek and to enjoy in other countries asylum from persecution." - Universal Declaration of Human Rights, article 14.
+Users of Social Media are called to share photos, statements, stories and videos in support of the organisations' efforts for the right of asylum.
+
+[Video by Sea-Watch](https://www.facebook.com/seawatchprojekt/videos/1977841822433889/)
+
+![Painted banner "Recht auf Flucht" (Right to Asylum)](../f/images/archive/20180128_001.jpg "Painted banner 'Recht auf Flucht' (Right to Asylum)")
+
+#### **Jan. 25th:** Report in "Monitor" on the IUVENTA case
+
+[To the report](https://www.facebook.com/monitor.wdr/videos/1642398952465705/)
+
 #### **Jan. 17th:** "Rescuers in the Mediterranean" on German TV ZDF
 
 Julian was one of our crew members on the Mediterranean. He is currently in charge of the Sea-Watch 3 and reports on ZDF about the currently escalating situation at sea.
