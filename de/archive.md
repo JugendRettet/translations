@@ -9,6 +9,12 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **13. März:** Fall IUVENTA: Termin vor Obersterm Kassationsgerichtshof steht fest
+
+Am 23.04. entscheidet das Gericht in Rom über die Freigabe unserer Iuventa. Wir gehen an diesem Tag in zweiter Instanz gegen die Beschlagnahmung vor und fordern die sofortige Rückgabe unseres Einsatzschiffes. Wir sind uns sicher, dass den Vorwürfen der Staatsanwaltschaft jegliche rechtliche Grundlagen fehlen, sich unsere Crews stets an geltendes Recht gehalten sowie hochprofessionell gearbeitet haben und sich nichts zu Schulden haben kommen lassen. Wir haben in den letzten Monaten die erhobenen Vorwürfe nicht nur intern, sondern auch extern wiederholt überprüfen lassen und die befragten Expert*Innen geben uns in allen erhobenen Punkten, die unsere Unschuld belegen, recht. Deswegen sind wir uns auch ein dreiviertel Jahr nach der Beschlagnahmung sicher: Es muss eine Freigabe der Iuventa entschieden werden.  
+Dabei bestärkt uns der neben dem Zuspruch internationer Organisationen und Expert_innen besonders der Support von euch!
+Die Beschlagnahmung als rechtliches Instrument ist eine politische Maßnahme. Das werden wir nicht hinnehmen. Wir sind in unserem Kampf nicht allein. Zusammen mit weiteren Organisationen kämpfen wir nicht nur für unsere Iuventa, sondern auch für ein humanes Migrationsrecht! Wir sagen: #freeiuventa! #Rechtaufflucht!
+
 #### **07. März:** Forensic Architecture analysiert Fall IUVENTA
 
 Mit Hilfe von Videomaterial und einer wissenschaftlichen Analyse hat das Team um Forensic Architecture den Fall um die Iuventa nachgestellt. Dabei kam raus: Die italienischen Behörden stellen den Fall deutlich anders da, als er abgelaufen ist.
