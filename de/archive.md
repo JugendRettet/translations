@@ -9,6 +9,24 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/03/18** Schiff von Proactiva Open Arms wird beschlagnahmt
+
+Wie selbstverständlich finden staatliche Repressionen gegen unliebsame NGOs in Europa statt: Am 02. August 2017 wurde die IUVENTA von italienischen Behörden beschlagnahmt. Bis heute liegt keine Anklage gegen die Organisation oder Einzelpersonen vor. Am 18. März 2018 wurde das Schiff von Proactiva Open Arms festgesetzt. Anstatt auf konstruktive Lösungen in der Migrationspolitik zu setzen, die auf geltendem Recht und humanitären Werten basieren, wird schlichtweg versucht die Zentrale Mittelmeerroute mit allen Mitteln zu schließen. Dass die europäischen Vertragsstaaten dabei mit völker- und menschenrechtlichen Abkommen brechen, indem Menschen nach Libyen zurückgewiesen werden, wird anscheinend ebenso hingenommen wie die europäische Kooperation mit kriminellen Strukturen in Libyen. Menschenrechte haben für alle Menschen Geltung, unabhängig ihrem rechtlichen Status – und dass die Menschen, die sich für ebendiese Rechte einsetzen, kriminalisiert werden, ist eine untragbare Situation.
+
+![Grafik "In Solidarität mit Proactiva Open Arms"](../f/images/archive/20180318_001.jpg "Grafik 'In Solidarität mit Proactiva Open Arms'")
+
+#### **2018/03/15** Artikel auf tagesschau.de: "Brutale Milizen als Partner Deutschlands?"
+
+"Deutschland unterstützt Libyens Regierung - vor allem, um Flüchtlinge von der EU fernzuhalten. Laut Monitor erhebt ein unveröffentlichter UN-Bericht nun schwere Vorwürfe gegen Sicherheitskräfte in dem Land."
+
+[Zum Artikel](http://www.tagesschau.de/ausland/libyen-milizen-101.html)
+
+#### **2018/03/15** Proactiva Open Arms wird von "libyscher Küstenwache" bedroht
+
+Proactiva Open Arms wird 73 Seemeilen vor der libyschen Küste von der "libyschen Küstenwache" mit Waffen bedroht. Sie sollen die Geretteten ausliefern.  
+
+[Beitrag von Proactiva Open Arms](https://www.facebook.com/proactivaservice/posts/1828792887151554)
+
 #### **13. März:** Fall IUVENTA: Termin vor Obersterm Kassationsgerichtshof steht fest
 
 Am 23.04. entscheidet das Gericht in Rom über die Freigabe unserer Iuventa. Wir gehen an diesem Tag in zweiter Instanz gegen die Beschlagnahmung vor und fordern die sofortige Rückgabe unseres Einsatzschiffes. Wir sind uns sicher, dass den Vorwürfen der Staatsanwaltschaft jegliche rechtliche Grundlagen fehlen, sich unsere Crews stets an geltendes Recht gehalten sowie hochprofessionell gearbeitet haben und sich nichts zu Schulden haben kommen lassen. Wir haben in den letzten Monaten die erhobenen Vorwürfe nicht nur intern, sondern auch extern wiederholt überprüfen lassen und die befragten Expert*Innen geben uns in allen erhobenen Punkten, die unsere Unschuld belegen, recht. Deswegen sind wir uns auch ein dreiviertel Jahr nach der Beschlagnahmung sicher: Es muss eine Freigabe der Iuventa entschieden werden.  
