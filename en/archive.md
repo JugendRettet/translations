@@ -9,6 +9,24 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/03/18** Ship of Proactiva Open Arms confiscated
+
+As a matter of course state repressions against unpleasant NGOs are taking place in Europe: on  August 2nd 2017, the IUVENTA was confiscated by the Italian authorities. To date, there are no charges against the organization or individuals. On March 18th, 2018, the ship of Proactiva Open Arms was detained. Instead of relying on constructive solutions in migration policy based on existing law and humanitarian values, the EU is simply trying to close the Central Mediterranean route by all means. The fact that the European Contracting States thereby break with international and human rights agreements, by people being rejected to Libya, is apparently accepted as well as the European cooperation with criminal structures in Libya. Human rights are valid for all people, irrespective of their legal status - and the criminalization of the people who support these rights is an intolerable situation.
+
+![Graphic "In Solidarity with Proactiva Open Arms"](../f/images/archive/20180318_001.jpg "Graphic 'In Solidarity with Proactiva Open Arms'")
+
+#### **2018/03/15** Article on tagesschau.de: "Brutal militia as a partner of Germany?"
+
+"Germany is supporting Libya's government, especially to keep refugees away from the EU. According to Monitor an unpublished UN report now raises serious allegations against security forces in the country."
+
+[To the article](http://www.tagesschau.de/ausland/libyen-milizen-101.html)
+
+#### **2018/03/15** Proactiva Open Arms threatened by "Libyan Coast Guard"
+
+Proactiva Open Arms is threatened with weapons by the "Libyan Coast Guard" 73 nautical miles off the Libyan coast. They want Proactiva Open Arms to hand over the rescued people on board.
+
+[Post by Proactiva Open Arms](https://www.facebook.com/proactivaservice/posts/1828792887151554)
+
 #### **Mar. 13th:** Case IUVENTA: Appointment at the Supreme Court of Cassation
 
 On April 23rd the court in Rome will decide on the release of our Iuventa. On that day we will go into second instance against the seizure and demand the immediate return of our rescue ship. We are certain that the allegations of the public prosecutor's office lack any legal basis, that our crews have always adhered to applicable law and have worked in a highly professional manner and that they have done nothing wrong. Over the last few months, we have had the allegations repeatedly reviewed not only internally but also externally, and the interviewed experts agree with us on all points raised, which prove our innocence. That is why 8 months after the confiscation we are sure: The Iuventa must be released.  
