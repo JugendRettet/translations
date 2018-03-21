@@ -18,7 +18,7 @@ news_news_item_title='
 news_press_release='
 ### Press release
 
-[**Oct. 23rd:** Joint statement to Germany's coming federal government: Sea rescue organizations demand a change of direction in refugee policy (German)](../f/files/JugendRettetPM_20171023_DE.pdf) 
+[**2018/03/21** Jugend Rettet is devastated by the actions of the Italian authorities and recognizes similarities between the confiscation of the rescue vessel of Proactiva Open Arms and the confiscation of IUVENTA.](../f/files/180321_PM_EN.pdf) 
 '
 
 news_press_kit='

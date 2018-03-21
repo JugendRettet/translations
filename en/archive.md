@@ -9,6 +9,12 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/03/21** Press Statement: Seizure of the Spanish rescue ship Open Arms
+
+Jugend Rettet is devastated by the actions of the Italian authorities and recognizes similarities between the confiscation of the rescue vessel of Proactiva Open Arms and the confiscation of IUVENTA.
+
+[Press Statement]](../f/files/180321_PM_EN.pdf)
+
 #### **2018/03/18** Ship of Proactiva Open Arms confiscated
 
 As a matter of course state repressions against unpleasant NGOs are taking place in Europe: on  August 2nd 2017, the IUVENTA was confiscated by the Italian authorities. To date, there are no charges against the organization or individuals. On March 18th, 2018, the ship of Proactiva Open Arms was detained. Instead of relying on constructive solutions in migration policy based on existing law and humanitarian values, the EU is simply trying to close the Central Mediterranean route by all means. The fact that the European Contracting States thereby break with international and human rights agreements, by people being rejected to Libya, is apparently accepted as well as the European cooperation with criminal structures in Libya. Human rights are valid for all people, irrespective of their legal status - and the criminalization of the people who support these rights is an intolerable situation.
