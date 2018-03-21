@@ -9,6 +9,12 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/03/21** Pressemitteilung: Beschlagnahme des spanischen Rettungsschiffes Open Arms
+
+Jugend Rettet zeigt sich bestürzt über das Vorgehen der italienischen Behörden und sieht Parallelen zwischen der Beschlagnahme des Seenotrettungsschiffes Open Arms von Proactiva Open Arms und der Konfiszierung der IUVENTA. 
+
+[Pressemitteilung]](../f/files/180321_PM_DE.pdf)
+
 #### **2018/03/18** Schiff von Proactiva Open Arms wird beschlagnahmt
 
 Wie selbstverständlich finden staatliche Repressionen gegen unliebsame NGOs in Europa statt: Am 02. August 2017 wurde die IUVENTA von italienischen Behörden beschlagnahmt. Bis heute liegt keine Anklage gegen die Organisation oder Einzelpersonen vor. Am 18. März 2018 wurde das Schiff von Proactiva Open Arms festgesetzt. Anstatt auf konstruktive Lösungen in der Migrationspolitik zu setzen, die auf geltendem Recht und humanitären Werten basieren, wird schlichtweg versucht die Zentrale Mittelmeerroute mit allen Mitteln zu schließen. Dass die europäischen Vertragsstaaten dabei mit völker- und menschenrechtlichen Abkommen brechen, indem Menschen nach Libyen zurückgewiesen werden, wird anscheinend ebenso hingenommen wie die europäische Kooperation mit kriminellen Strukturen in Libyen. Menschenrechte haben für alle Menschen Geltung, unabhängig ihrem rechtlichen Status – und dass die Menschen, die sich für ebendiese Rechte einsetzen, kriminalisiert werden, ist eine untragbare Situation.

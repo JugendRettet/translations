@@ -18,7 +18,7 @@ news_news_item_title='
 news_press_release='
 ### Pressemeldung
 
-[**23. Okt.:** Gemeinsame Erklärung an die künftige Bundesregierung: Seenotrettungsorganisationen fordern Richtungswechsel in Flüchtlingspolitik](../f/files/JugendRettetPM_20171023_DE.pdf) 
+[**2018/03/21** Jugend Rettet zeigt sich bestürzt über das Vorgehen der italienischen Behörden und sieht Parallelen zwischen der Beschlagnahme des Seenotrettungsschiffes Open Arms von Proactiva Open Arms und der Konfiszierung der IUVENTA.](../f/files/180321_PM_DE.pdf) 
 '
 
 news_press_kit='
