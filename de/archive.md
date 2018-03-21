@@ -13,7 +13,7 @@ archive_current='
 
 Jugend Rettet zeigt sich bestürzt über das Vorgehen der italienischen Behörden und sieht Parallelen zwischen der Beschlagnahme des Seenotrettungsschiffes Open Arms von Proactiva Open Arms und der Konfiszierung der IUVENTA. 
 
-[Pressemitteilung]](../f/files/180321_PM_DE.pdf)
+[Pressemitteilung](../f/files/180321_PM_DE.pdf)
 
 #### **2018/03/18** Schiff von Proactiva Open Arms wird beschlagnahmt
 

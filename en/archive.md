@@ -13,7 +13,7 @@ archive_current='
 
 Jugend Rettet is devastated by the actions of the Italian authorities and recognizes similarities between the confiscation of the rescue vessel of Proactiva Open Arms and the confiscation of IUVENTA.
 
-[Press Statement]](../f/files/180321_PM_EN.pdf)
+[Press Statement](../f/files/180321_PM_EN.pdf)
 
 #### **2018/03/18** Ship of Proactiva Open Arms confiscated
 
