@@ -18,16 +18,12 @@ Various experts refuted the allegations of the Italian prosecutor.
 
 If valid law will be spoken, then from April 23rd we can continue to do what we have been convinced of since the beginning: saving people from distress.
 
-#freeiuventa
-
 ![Photo Court of Cassation Rome](../f/images/archive/20180417_001.jpg "Foto Court of Cassation Rome")
 
 #### **2018/04/16** Ship of the Proactiva Open Arms has been released!
 
 The ship of the Proactiva Open Arms has been released! 
 We are in good faith of being able to dedicate ourselves to saving people after April 23rd. See you soon, Proactiva Open Arms!
-
-#freeiuventa
 
 [Post by Proactiva Open Arms](https://www.facebook.com/proactivaservice/posts/1862776257086550)
 
@@ -41,16 +37,12 @@ The documentary "Shitstorm against Sea Rescuers" by ZDF was awarded a silver med
 
 People flee from Libya via the Central Mediterranean route. In Libya, they mainly experience torture and ill treatment. Knowing about this state of affairs, the German Federal Government and the EU continue to cooperate with brutal militias. We demand a humane asylum policy!
 
-#right2rescue
-
 [Video by Monitor](https://www.facebook.com/monitor.wdr/videos/vb.186702484702033/1715982048440728/)
 
 #### **2018/04/04** Italian Member of Parliament Erasmo Palazzotto on the ideological motives of the Italian prosecutors
 
 On April 23rd the court in Rome decides on the confiscation of the IUVENTA. 
 Member of Parliament Erasmo Palazzotto already finds clear words and speaks of ideological motives of the Italian prosecutor.
-
-#freeIUVENTA #freeopenarms
 
 [Video](https://www.facebook.com/JugendRettet/videos/815244942018074/)
 
@@ -64,8 +56,6 @@ Europe relinquishes control of the Mediterranean to civil war Libya. Why right a
 
 Clear words from Human Rights Watch on the confiscation of IUVENTA. 
 How can ships be confiscated while people continue to drown on the outskirts of Europe?
-
-#freeiuventa #freeopenarms
 
 [Video](https://www.facebook.com/JugendRettet/videos/811179902424578/)
 
@@ -92,7 +82,6 @@ Jugend Rettet is devastated by the actions of the Italian authorities and recogn
 
 Sea rescue is still not a crime! 
 Thanks to IsraAID, Refugee rescue and Lighthouse Relief for your solidarity on Lesbos.
-#FreeOpenArms #freeIUVENTA
 
 ![Photo IsraAID](../f/images/archive/20180320_001.jpg "Photo IsraAID")
 
