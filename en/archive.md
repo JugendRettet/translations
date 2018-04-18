@@ -9,11 +9,94 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/04/17** Decision on the release of our IUVENTA on April 23rd in Rome
+
+The decision on the release of our IUVENTA will take place on April 23rd in Rome.
+973 people have died on the central Mediterranean route since the day of the, August 2nd.
+No evidence against us, nor against individual crew members is available to date.
+Various experts refuted the allegations of the Italian prosecutor.
+
+If valid law will be spoken, then from April 23rd we can continue to do what we have been convinced of since the beginning: saving people from distress.
+
+#freeiuventa
+
+![Photo Court of Cassation Rome](../f/images/archive/20180417_001.jpg "Foto Court of Cassation Rome")
+
+#### **2018/04/16** Ship of the Proactiva Open Arms has been released!
+
+The ship of the Proactiva Open Arms has been released! 
+We are in good faith of being able to dedicate ourselves to saving people after April 23rd. See you soon, Proactiva Open Arms!
+
+#freeiuventa
+
+[Post by Proactiva Open Arms](https://www.facebook.com/proactivaservice/posts/1862776257086550)
+
+#### **2018/04/12** Documentation "Shitstorm against Sea Rescuers: When Help Produces Hatred" was awarded a silver medal at the "New York TV & Film Festival".
+
+The documentary "Shitstorm against Sea Rescuers" by ZDF was awarded a silver medal at the "New York TV & Film Festival".
+
+[Documentation](https://www.zdf.de/dokumentation/zdfinfo-doku/seenotretter-im-shitstorm-100.html)
+
+#### **2018/04/06** Video by Monitor: "Torturers and traffickers: Germany's brutal partners in Libya"
+
+People flee from Libya via the Central Mediterranean route. In Libya, they mainly experience torture and ill treatment. Knowing about this state of affairs, the German Federal Government and the EU continue to cooperate with brutal militias. We demand a humane asylum policy!
+
+#right2rescue
+
+[Video by Monitor](https://www.facebook.com/monitor.wdr/videos/vb.186702484702033/1715982048440728/)
+
+#### **2018/04/04** Italian Member of Parliament Erasmo Palazzotto on the ideological motives of the Italian prosecutors
+
+On April 23rd the court in Rome decides on the confiscation of the IUVENTA. 
+Member of Parliament Erasmo Palazzotto already finds clear words and speaks of ideological motives of the Italian prosecutor.
+
+#freeIUVENTA #freeopenarms
+
+[Video](https://www.facebook.com/JugendRettet/videos/815244942018074/)
+
+#### **2018/03/30** Newsdeeply on Europe's dangerous policy at sea
+
+Europe relinquishes control of the Mediterranean to civil war Libya. Why right and humanity are at stake is explained by Matteo of Amnesty International.
+
+[Article](https://www.newsdeeply.com/refugees/community/2018/03/27/how-italys-ngo-boat-seizure-exposes-europes-dangerous-policy-at-sea)
+
+#### **2018/03/26** Human Rights Watch on the confiscation of IUVENTA
+
+Clear words from Human Rights Watch on the confiscation of IUVENTA. 
+How can ships be confiscated while people continue to drown on the outskirts of Europe?
+
+#freeiuventa #freeopenarms
+
+[Video](https://www.facebook.com/JugendRettet/videos/811179902424578/)
+
+#### **2018/03/22** Prospect Magazine: "Europe’s new anti-migrant strategy? Blame the rescuers"
+
+Prospect Magazine on the criminalization campaign against rescue organizations on Europe's most dangerous escape route.
+
+[Article](https://www.prospectmagazine.co.uk/magazine/europes-new-anti-migrant-strategy-blame-the-rescuers)
+
+#### **2018/03/21** Video by Monitor: "Allegations of torture against Libyan partners of the German Federal Government"
+
+Torture allegations against Libyan partners of the German Federal Government. 
+Monitor with the reaction from the Foreign Office.
+
+[Video](https://www.facebook.com/monitor.wdr/posts/1700097306695869)
+
 #### **2018/03/21** Press Statement: Seizure of the Spanish rescue ship Open Arms
 
 Jugend Rettet is devastated by the actions of the Italian authorities and recognizes similarities between the confiscation of the rescue vessel of Proactiva Open Arms and the confiscation of IUVENTA.
 
 [Press Statement](../f/files/180321_PM_EN.pdf)
+
+#### **2018/03/20** Solidarity from IsraAID
+
+Sea rescue is still not a crime! 
+Thanks to IsraAID, Refugee rescue and Lighthouse Relief for your solidarity on Lesbos.
+#FreeOpenArms #freeIUVENTA
+
+![Photo IsraAID](../f/images/archive/20180320_001.jpg "Photo IsraAID")
+
+Copyright: Basil Roth & Lennart Diesen
 
 #### **2018/03/18** Ship of Proactiva Open Arms confiscated
 

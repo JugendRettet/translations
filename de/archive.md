@@ -9,11 +9,94 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/04/17** Am 23. April wird in Rom über die Freigabe unserer IUVENTA entschieden.
+
+Am 23. April wird in Rom über die Freigabe unserer IUVENTA entschieden.
+973 Menschen sind seit dem Tag der Beschlagnahme, dem 02. August auf der zentralen Mittelmeerroute ums Leben gekommen.
+Weder gegen uns, noch gegen einzelne Crewmitglieder liegen bis dato Beweise vor.
+Verschiedene Expert*innen widerlegten die Unterstellungen der italienischen Staatsanwaltschaft. 
+
+Wenn geltendes Recht gesprochen wird, so können wir ab dem 23. April wieder das machen, wovon wir seit Anfang an überzeugt sind: Menschen aus Seenot retten.
+
+#freeiuventa
+
+![Foto Kassationsgericht Rom](../f/images/archive/20180417_001.jpg "Foto Kassationsgericht Rom")
+
+#### **2018/04/16** Schiff der Proactiva Open Arms wurde frei gelassen!
+
+Das Schiff der Proactiva Open Arms wurde frei gelassen!
+Wir sind guter Dinge, dass wir uns nach dem 23. April wieder gemeinsam dem Retten von Menschen widmen können. See you soon, Proactiva Open Arms!
+
+#freeiuventa
+
+[Meldung von Proactiva Open Arms](https://www.facebook.com/proactivaservice/posts/1862776257086550)
+
+#### **2018/04/12** Dokumentation "Seenotretter im Shitstorm: Wenn Hilfe Hass erzeugt" beim "New York TV- & Film-Festival" mit Silbermedaille ausgezeichnet.
+
+Die Dokumentation "Seenotretter im Shitstorm: Wenn Hilfe Hass erzeugt" vom ZDF wurde beim "New York TV- & Film-Festival" mit einer Silbermedaille ausgezeichnet.
+
+[Zur Doku](https://www.zdf.de/dokumentation/zdfinfo-doku/seenotretter-im-shitstorm-100.html)
+
+#### **2018/04/06** Beitrag von Monitor: "Folterknechte und Menschenhändler: Deutschlands brutale Partner in Libyen"
+
+Menschen flüchten von Libyen aus über die zentrale Mittelmeer-Route. In Libyen erleben sie vor allem Folter und Misshandlung. Wissend über diesen Zustand, kooperiert die Bundesregierung und EU auch weiterhin mit brutalen Milizen. Wir fordern eine humane Asylpolitik!
+
+#rechtaufflucht
+
+[Zum Beitrag](https://www.facebook.com/monitor.wdr/videos/vb.186702484702033/1715982048440728/)
+
+#### **2018/04/04** Italienischer Parlamentsabgeordneter Erasmo Palazzotto über die ideologischen Beweggründen der italienischen Staatsanwaltschaft
+
+Am 23.04. entscheidet das Gericht in Rom über die Beschlagnahme der IUVENTA.
+Der Parlamentsabgeordnete Erasmo Palazzotto findet schon jetzt klare Worte und spricht von ideologischen Beweggründen der italienischen Staatsanwaltschaft. 
+
+#freeIUVENTA #freeopenarms
+
+[Zum Video](https://www.facebook.com/JugendRettet/videos/815244942018074/)
+
+#### **2018/03/30** Newsdeeply zu Europas gefährliche Politik auf See
+
+Europa gibt die Kontrolle über das Mittelmeer an das Bürgerkriegsland Libyen ab. Warum damit Recht und Humanität auf dem Spiel stehen, erklärt Matteo von Amnesty International.
+
+[Zum Artikel](https://www.newsdeeply.com/refugees/community/2018/03/27/how-italys-ngo-boat-seizure-exposes-europes-dangerous-policy-at-sea)
+
+#### **2018/03/26** Human Rights Watch zur Beschlagnahme der IUVENTA
+
+Klare Worte von Human Rights Watch zur Beschlagne der IUVENTA.
+Wie können Schiffe beschlagnahmt werden, während weiterhin Menschen an der Außengrenze Europas ertrinken? 
+
+#freeiuventa #freeopenarms
+
+[Zum Video](https://www.facebook.com/JugendRettet/videos/811179902424578/)
+
+#### **2018/03/22** Prospect Magazine: "Europe’s new anti-migrant strategy? Blame the rescuers"
+
+Das Prospect Magazine zu der Kriminalisierungskampagne gegen Rettungsorganisationen auf Europas gefährlichster Fluchtroute.
+
+[Zum Artikel](https://www.prospectmagazine.co.uk/magazine/europes-new-anti-migrant-strategy-blame-the-rescuers)
+
+#### **2018/03/21** Beitrag von Monitor: "Foltervorwürfe gegen libysche Partner der Bundesregierung"
+
+Foltervorwürfe gegen libysche Partner der Bundesregierung.
+Monitor mit der Reaktion aus dem Auswärtigen Amt.
+
+[Zum Beitrag](https://www.facebook.com/monitor.wdr/posts/1700097306695869)
+
 #### **2018/03/21** Pressemitteilung: Beschlagnahme des spanischen Rettungsschiffes Open Arms
 
 Jugend Rettet zeigt sich bestürzt über das Vorgehen der italienischen Behörden und sieht Parallelen zwischen der Beschlagnahme des Seenotrettungsschiffes Open Arms von Proactiva Open Arms und der Konfiszierung der IUVENTA. 
 
 [Pressemitteilung](../f/files/180321_PM_DE.pdf)
+
+#### **2018/03/20** Solidarität von IsraAID
+
+Seenotrettung ist immer noch kein Verbrechen! 
+Danke an IsraAID, Refugee rescue und Lighthouse Relief für eure Solidarität auf Lesbos. 
+#FreeOpenArms #freeIUVENTA 
+
+![Foto IsraAID](../f/images/archive/20180320_001.jpg "Foto IsraAID")
+
+Copyright: Basil Roth & Lennart Diesen
 
 #### **2018/03/18** Schiff von Proactiva Open Arms wird beschlagnahmt
 
