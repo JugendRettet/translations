@@ -18,16 +18,12 @@ Verschiedene Expert*innen widerlegten die Unterstellungen der italienischen Staa
 
 Wenn geltendes Recht gesprochen wird, so können wir ab dem 23. April wieder das machen, wovon wir seit Anfang an überzeugt sind: Menschen aus Seenot retten.
 
-#freeiuventa
-
 ![Foto Kassationsgericht Rom](../f/images/archive/20180417_001.jpg "Foto Kassationsgericht Rom")
 
 #### **2018/04/16** Schiff der Proactiva Open Arms wurde frei gelassen!
 
 Das Schiff der Proactiva Open Arms wurde frei gelassen!
 Wir sind guter Dinge, dass wir uns nach dem 23. April wieder gemeinsam dem Retten von Menschen widmen können. See you soon, Proactiva Open Arms!
-
-#freeiuventa
 
 [Meldung von Proactiva Open Arms](https://www.facebook.com/proactivaservice/posts/1862776257086550)
 
@@ -41,16 +37,12 @@ Die Dokumentation "Seenotretter im Shitstorm: Wenn Hilfe Hass erzeugt" vom ZDF w
 
 Menschen flüchten von Libyen aus über die zentrale Mittelmeer-Route. In Libyen erleben sie vor allem Folter und Misshandlung. Wissend über diesen Zustand, kooperiert die Bundesregierung und EU auch weiterhin mit brutalen Milizen. Wir fordern eine humane Asylpolitik!
 
-#rechtaufflucht
-
 [Zum Beitrag](https://www.facebook.com/monitor.wdr/videos/vb.186702484702033/1715982048440728/)
 
 #### **2018/04/04** Italienischer Parlamentsabgeordneter Erasmo Palazzotto über die ideologischen Beweggründen der italienischen Staatsanwaltschaft
 
 Am 23.04. entscheidet das Gericht in Rom über die Beschlagnahme der IUVENTA.
 Der Parlamentsabgeordnete Erasmo Palazzotto findet schon jetzt klare Worte und spricht von ideologischen Beweggründen der italienischen Staatsanwaltschaft. 
-
-#freeIUVENTA #freeopenarms
 
 [Zum Video](https://www.facebook.com/JugendRettet/videos/815244942018074/)
 
@@ -64,8 +56,6 @@ Europa gibt die Kontrolle über das Mittelmeer an das Bürgerkriegsland Libyen a
 
 Klare Worte von Human Rights Watch zur Beschlagne der IUVENTA.
 Wie können Schiffe beschlagnahmt werden, während weiterhin Menschen an der Außengrenze Europas ertrinken? 
-
-#freeiuventa #freeopenarms
 
 [Zum Video](https://www.facebook.com/JugendRettet/videos/811179902424578/)
 
@@ -92,7 +82,6 @@ Jugend Rettet zeigt sich bestürzt über das Vorgehen der italienischen Behörde
 
 Seenotrettung ist immer noch kein Verbrechen! 
 Danke an IsraAID, Refugee rescue und Lighthouse Relief für eure Solidarität auf Lesbos. 
-#FreeOpenArms #freeIUVENTA 
 
 ![Foto IsraAID](../f/images/archive/20180320_001.jpg "Foto IsraAID")
 
