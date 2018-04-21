@@ -9,6 +9,12 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/04/18** Jugend Rettet IUVENTA started petition website #right2rescue
+
+Following statement can be signed on [right2rescue.org](https://right2rescue.org/en/):
+  
+"Confiscated ships don't safe any lives. We demand the immediate release of the IUVENTA. I herewith support the humanitarian work of civil search-and-rescue NGOs."
+
 #### **2018/04/17** Decision on the release of our IUVENTA on April 23rd in Rome
 
 The decision on the release of our IUVENTA will take place on April 23rd in Rome.

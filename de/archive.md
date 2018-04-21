@@ -9,6 +9,12 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/04/18** Jugend Rettet startet Petitionsseite #right2rescue
+
+Auf der Petitionsseite [right2rescue.org](https://right2rescue.org/de/) kann folgende Erklärung unterschrieben werden:
+  
+"Beschlagnahmte Schiffe retten keine Menschenleben. Wir fordern die Freigabe der IUVENTA. Ich unterstütze hiermit die humanitäre Arbeit der zivilen Seenotrettungsorganisationen."
+
 #### **2018/04/17** Am 23. April wird in Rom über die Freigabe unserer IUVENTA entschieden.
 
 Am 23. April wird in Rom über die Freigabe unserer IUVENTA entschieden.
