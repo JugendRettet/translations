@@ -9,6 +9,10 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/04/23** Beschluss über Freigabe der IUVENTA wird morgen früh mitgeteilt.
+
+Das Kassationsgericht in Rom hat heute Vormittag getagt, ein Beschluss wurde jedoch noch nicht bekannt gegeben. Für unsere Anwälte ist klar: Die erhobenen Vorwürfe, die bereits von externen Expert*innen widerlegt wurden, erfüllen nicht die Kriterien für eine Beschlagnahme der IUVENTA. Bis heute Abend werden die Richter eine Entscheidung gefällt haben. Über den Ausgang der Entscheidung werden wir dann morgen früh informiert.
+
 #### **2018/04/18** Jugend Rettet startet Petitionsseite #right2rescue
 
 Auf der Petitionsseite [right2rescue.org](https://right2rescue.org/de/) kann folgende Erklärung unterschrieben werden:

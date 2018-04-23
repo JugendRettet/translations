@@ -9,6 +9,10 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/04/23** Decision to release IUVENTA will be announced tomorrow morning.
+
+The Cassation Court in Rome held this morning, but no decision has yet been announced. For our lawyers, it is clear that the allegations that have already been refuted by external experts do not meet the criteria for seizure of IUVENTA. By this evening, the judges will have made a decision. We will be informed of the outcome of the decision tomorrow morning.
+
 #### **2018/04/18** Jugend Rettet IUVENTA started petition website #right2rescue
 
 Following statement can be signed on [right2rescue.org](https://right2rescue.org/en/):
