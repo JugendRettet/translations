@@ -18,7 +18,7 @@ news_news_item_title='
 news_press_release='
 ### Press release
 
-[**2018/03/21** Jugend Rettet is devastated by the actions of the Italian authorities and recognizes similarities between the confiscation of the rescue vessel of Proactiva Open Arms and the confiscation of IUVENTA.](../f/files/180321_PM_EN.pdf) 
+[**Berlin, 24.4.2018**: The First Criminal Section of the Cassation Court in Rome rejects objection to the seizure of IUVENTA by Jugend Rettet e.V. Despite the lack of evidence for the allegations against the organization and high death toll on the central Mediterranean route, the IUVENTA until further notice will not be able to operate. A more detailed explanation of the decision is currently pending.](../f/files/180424_PM_EN.pdf) 
 '
 
 news_press_kit='
