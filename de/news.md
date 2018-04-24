@@ -18,7 +18,7 @@ news_news_item_title='
 news_press_release='
 ### Pressemeldung
 
-[**2018/03/21** Jugend Rettet zeigt sich bestürzt über das Vorgehen der italienischen Behörden und sieht Parallelen zwischen der Beschlagnahme des Seenotrettungsschiffes Open Arms von Proactiva Open Arms und der Konfiszierung der IUVENTA.](../f/files/180321_PM_DE.pdf) 
+[**Berlin, 24.4.2018** Kassationsgericht in Rom lehnt Einspruch gegen Beschlagnahme der IUVENTA vom Jugend Rettet e.V. ab. Trotz ausbleibender Beweise für die Vorwürfe gegen die Organisation und hohen Todeszahlen auf der zentralen Mittelmeerroute fehlt die IUVENTA nun weiterhin im Einsatzgebiet.](../f/files/180424_PM_DE.pdf) 
 '
 
 news_press_kit='
