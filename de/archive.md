@@ -9,6 +9,17 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/04/24** Einspruch gegen Beschlagnahme der IUVENTA abgelehnt.
+
+Kassationsgericht in Rom lehnt Einspruch gegen Beschlagnahme der 
+IUVENTA vom Jugend Rettet e.V. ab. Trotz ausbleibender Beweise für die Vorwürfe gegen 
+die Organisation und hohen Todeszahlen auf der zentralen Mittelmeerroute fehlt die 
+IUVENTA nun weiterhin im Einsatzgebiet.  
+Die Erste Strafkammer des Kassationsgerichts hat dem Einspruch von Jugend Rettet nicht 
+stattgegeben und somit gegen eine unmittelbare Aufhebung der Beschlagnahme der IUVENTA 
+entschieden.  
+Eine genauere Begründung der Entscheidung steht derzeit noch aus.
+
 #### **2018/04/23** Beschluss über Freigabe der IUVENTA wird morgen früh mitgeteilt.
 
 Das Kassationsgericht in Rom hat heute Vormittag getagt, ein Beschluss wurde jedoch noch nicht bekannt gegeben. Für unsere Anwälte ist klar: Die erhobenen Vorwürfe, die bereits von externen Expert*innen widerlegt wurden, erfüllen nicht die Kriterien für eine Beschlagnahme der IUVENTA. Bis heute Abend werden die Richter eine Entscheidung gefällt haben. Über den Ausgang der Entscheidung werden wir dann morgen früh informiert.

@@ -9,6 +9,14 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/04/24** Objection against seizure of IUVENTA rejected.
+
+The First Criminal Section of the Cassation Court in Rome rejects 
+objection to the seizure of IUVENTA by Jugend Rettet e.V. Despite the lack of evidence 
+for the allegations against the organization and high death toll on the central 
+Mediterranean route, the IUVENTA until further notice will not be able to operate.  
+A more detailed explanation of the decision is currently pending.
+
 #### **2018/04/23** Decision to release IUVENTA will be announced tomorrow morning.
 
 The Cassation Court in Rome held this morning, but no decision has yet been announced. For our lawyers, it is clear that the allegations that have already been refuted by external experts do not meet the criteria for seizure of IUVENTA. By this evening, the judges will have made a decision. We will be informed of the outcome of the decision tomorrow morning.
