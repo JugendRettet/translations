@@ -46,7 +46,7 @@ sub_team_embassies='
 * **Ostfriesland**: [Jana](mailto:Jana_Ostfriesland@jugendrettet.org), [Julia](mailto:Julia@jugendrettet.org), [Mareke](mailto:Mareke@jugendrettet.org)
 * **Paderborn**: [Wiebke](mailto:Paderborn@jugendrettet.org)
 * **Porta Westfalica:** [Marie](mailto:Marie_PortaWestfalica@jugendrettet.org)
-* **Potsdam**: [Christoph](mailto:Christoph@jugendrettet.org)
+* **Potsdam**: [Clemens](mailto:Clemens@jugendrettet.org), [Antonia](mailto:Antonia_Potsdam@jugendrettet.org)
 * **Roma**: [Carla](mailto:Carla_Roma@jugendrettet.org)
 * **Rostock**: [Paul](mailto:Paul_Rostock@jugendrettet.org)
 * **Salem**: [David](mailto:David@jugendrettet.org)
