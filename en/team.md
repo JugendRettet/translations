@@ -87,6 +87,10 @@ As an ambassador you're engaged in discussions on political solutions and helpin
 Take a look on the map and find out if there's already an embassy near you:
 '
 
+sub_team_embassies_map='
+[To the map →](https://www.google.com/maps/d/u/0/viewer?mid=1MPGOL2_dmS64Tq5BfVtV7KuU5UY)
+'
+
 sub_team_donations_menu='
 Donors
 '

@@ -87,6 +87,10 @@ Als Botschafter_in diskutierst du aktiv über politische Lösungen und gestaltes
 Schaue hier, ob es vielleicht schon ein_e Botschafter_in in deinem Ort gibt, die du unterstützen kannst:
 '
 
+sub_team_embassies_map='
+[Zur Karte →](https://www.google.com/maps/d/u/0/viewer?mid=1MPGOL2_dmS64Tq5BfVtV7KuU5UY)
+'
+
 sub_team_donations_menu='
 Spender_innen
 '
