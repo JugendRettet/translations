@@ -30,7 +30,7 @@ donate_betterplace_text='
 '
 
 donate_merch_link='
-[HIER KANNST DU UNS MIT MERCHANDISE UNTERSTÜTZEN.](/merch)
+[HIER KANNST DU UNS MIT MERCHANDISE UNTERSTÜTZEN (diraction.org)](/merch)
 '
 
 donate_donations_account='
