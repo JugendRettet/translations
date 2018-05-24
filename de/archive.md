@@ -953,12 +953,6 @@ Rette mit: <a target="_blank" href="http://bit.ly/betterplace_JR">http://bit.ly/
 
 Danke auch an Alice Dwyer, Fabian Busch, Yvonne Catterfeld, Jonas Nay, Oliver Wnuk, Joel Basman, Jan Josef Liefers, Sabin Tambrea
 
-<video class="news" style="max-width:100%" controls>
-<source src="../f/videos/betterplace.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
-
 #### **05. April 2016** Beitrag von RTL WEST 
 
 
