@@ -67,7 +67,7 @@ Personen sind damit nicht möglich.
 ### Newsletter per MailChimp
 
 * "JUGEND RETTET News" (news@jugendrettet.org)
-* "Presseverteiler" (press_list@jugendrettet.org)
+* "JUGEND RETTET Press List" (press_list@jugendrettet.org)
 
 Um Interessenten über unser Projekt, unsere Missionen und
 Spendenmöglichkeiten zu informieren, nutzen wir Dienste des Anbieters
@@ -108,7 +108,7 @@ Zur Verarbeitung und Speicherung der Daten durch MailChimp, siehe
 
 ### Newsletter mit interner Lösung
 
-* Crew-Verteiler (crews@jugendrettet.org / noreply-crews@jugendrettet.org)
+* Crews-Verteiler (crews_newsletter@jugendrettet.org)
 
 Um Freiwillige, die als Teil einer Crew bei uns tätig waren, über Tätigkeiten
 des Vereins weiter zu informieren und gegebenenfalls für weitere Arbeiten
