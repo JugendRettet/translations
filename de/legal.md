@@ -34,6 +34,26 @@ Als Diensteanbietende sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf di
 
 Die durch die Seitenbetreiber_innen erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung der jeweiligen Autor_innen bzw. Ersteller_innen. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht von den Betreiber_innen erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
 
+Copyright Daniel Hofer:
+
+* <../f/files/images/new/about_transparenz.jpg>
+
+Copyright César Dezfuli
+
+* <../f/files/images/new/team_donor.jpg>
+
+Copyright Selena Ena
+
+* <../f/files/images/new/rescue_donor.jpg>
+* <../f/files/images/new/team_crew.jpg>
+
+Copyright Jule Müller
+
+* <../f/files/images/new/team_embassies.jpg>
+* <../f/files/images/new/team_sponsor_.jpg>
+* <../f/files/images/new/rescue_embassie.jpg>
+* <../f/files/images/new/rescue_help.jpg>
+
 ## Datenschutz
 
 Der Verein JUGEND **RETTET** e.V. nimmt den Schutz deiner personenbezogenen Daten sehr ernst. Wir möchten, dass du weißt, wann wir welche Daten erheben und wie wir sie verwenden.  
