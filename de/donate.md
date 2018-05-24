@@ -26,7 +26,7 @@ donate_betterplace_title='
 '
 
 donate_betterplace_text='
-[Jetzt Spenden für „Rette mit! Spende für Rettungseinsätze auf dem Mittelmeer“ bei unserem Partner betterplace.org](./betterplace)
+[Jetzt Spenden für „Rette mit! Spende für Rettungseinsätze auf dem Mittelmeer“ bei unserem Partner betterplace.org](/betterplace)
 '
 
 donate_merch_link='
