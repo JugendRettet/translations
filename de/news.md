@@ -8,7 +8,12 @@ news_title='
 '
 
 news_follow_us='
-NEWSLETTER ABONNIEREN
+### Folge uns
+'
+
+news_newsletter='
+[NEWSLETTER ABONNIEREN](https://jugendrettet.us11.list-manage.com/subscribe?u=f6a6af2c458db9585a65cb
+ee8&id=cf9c18faae)
 '
 
 news_news_item_title='

@@ -1,6 +1,4 @@
 sub_team_embassies='
-<iframe id="team_emb_map" src="https://www.google.com/maps/d/u/0/embed?mid=1MPGOL2_dmS64Tq5BfVtV7KuU5UY"></iframe>
-
 * **Aachen:** [Tamara](mailto:Tamara_Aachen@jugendrettet.org), [Johannes](mailto:Johannes_Aachen@jugendrettet.org)
 * **Bad Mergentheim:** [Elsa](mailto:Elsa_BadMergentheim@jugendrettet.org)
 * **Basel**: [Angelica](mailto:Angelica_Basel@jugendrettet.org)

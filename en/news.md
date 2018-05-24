@@ -8,7 +8,11 @@ news_title='
 '
 
 news_follow_us='
-SUBSCRIBE TO OUR NEWSLETTER
+### Follow us
+'
+
+news_newsletter='
+[SUBSCRIBE TO OUR NEWSLETTER](https://jugendrettet.us11.list-manage.com/subscribe?u=f6a6af2c458db9585a65cbee8&id=cf9c18faae)
 '
 
 news_news_item_title='
