@@ -36,23 +36,23 @@ Die durch die Seitenbetreiber_innen erstellten Inhalte und Werke auf diesen Seit
 
 Copyright Daniel Hofer:
 
-* <https://jugendrettet.org/f/files/images/new/about_transparenz.jpg>
+* <https://jugendrettet.org/f/images/new/about_transparenz.jpg>
 
 Copyright César Dezfuli
 
-* <https://jugendrettet.org/f/files/images/new/team_donor.jpg>
+* <https://jugendrettet.org/f/images/new/team_donor.jpg>
 
 Copyright Selena Ena
 
-* <https://jugendrettet.org/f/files/images/new/rescue_donor.jpg>
-* <https://jugendrettet.org/f/files/images/new/team_crew.jpg>
+* <https://jugendrettet.org/f/images/new/rescue_donor.jpg>
+* <https://jugendrettet.org/f/images/new/team_crew.jpg>
 
 Copyright Jule Müller
 
-* <https://jugendrettet.org/f/files/images/new/team_embassies.jpg>
-* <https://jugendrettet.org/f/files/images/new/team_sponsor_.jpg>
-* <https://jugendrettet.org/f/files/images/new/rescue_embassie.jpg>
-* <https://jugendrettet.org/f/files/images/new/rescue_help.jpg>
+* <https://jugendrettet.org/f/images/new/team_embassies.jpg>
+* <https://jugendrettet.org/f/images/new/team_sponsor_.jpg>
+* <https://jugendrettet.org/f/images/new/rescue_embassie.jpg>
+* <https://jugendrettet.org/f/images/new/rescue_help.jpg>
 
 ## Datenschutz
 
