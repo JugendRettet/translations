@@ -191,7 +191,8 @@ zwecks der weiteren Kontaktaufnahme auf anderem Wege zur Verfügung gestellt
 haben, sowie darauffolgend gesammelte Daten (siehe "Erfolgsmessung")
 gespeichert und verarbeitet.
 
-[Datenschutz bei MailChimp](https://kb.mailchimp.com/accounts/management/about-mailchimp-the-eu-swiss-privacy-shield-and-the-gdpr)
+[Datenschutz bei MailChimp](https://kb.mailchimp.com/accounts/management/about-mailchimp-the-eu-swiss-privacy-shield-and-the-gdpr)  
+[Sicherheit bei MailChimp](https://mailchimp.com/about/security/)  
 
 ### Verträge zur Auftragsverarbeitung
 
