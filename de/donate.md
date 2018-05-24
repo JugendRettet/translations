@@ -61,7 +61,7 @@ sub_donate_title='
 sub_donate_intro='
 Mit einer Dauerspende kannst du uns monatlich, vierteljährlich, halbjährlich oder jährlich unterstützen.  
 Die Dauerspende hat für uns den Vorteil, dass wir die Missionen besser planen können. Eine Dauerspende muss nicht besonders groß sein. Ob 10 € oder 100 € entscheidest ganz allein du.  
-Dauerspenden werden von Betterplace bereit gestellt. Sie enden, wenn du sie beendest, oder wir das [Projekt](/betterplace) für die Dauerspende schließen.  
+Dauerspenden werden von Betterplace bereit gestellt. Sie enden, wenn du sie beendest, oder wir das [Projekt auf betterplace.org →](/betterplace) für die Dauerspende schließen.  
 
 Trag dich einfach in das unten stehende Formular ein und entscheide selbst, wie viel und wann du uns unterstützen möchtest. 
 '
@@ -103,5 +103,5 @@ sub_donate_list='
 * Medikamente: **500 €**
 * Equipment: **500 €**
 
-[Finanzierung aktueller Projekte auf Betterplace](/betterplace)
+[Finanzierung aktueller Projekte auf betterplace.org →](/betterplace)
 '
