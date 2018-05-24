@@ -26,7 +26,7 @@ donate_betterplace_title='
 '
 
 donate_betterplace_text='
-[Join the rescue: sea rescue on the Mediterranean". The donation is processed by our partner betterplace.org](/betterplace)
+[Donate now for: "Join the rescue: sea rescue on the Mediterranean". The donation is processed by our partner betterplace.org](/betterplace)
 '
 
 donate_merch_link='
