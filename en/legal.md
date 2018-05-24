@@ -36,6 +36,26 @@ The contents of our pages have been created with the utmost care. However, we ca
 
 Our web pages and their contents are subject to German copyright law. Unless expressly permitted by law (§ 44a et seq. of the copyright law), every form of utilizing, reproducing or processing works subject to copyright protection on our web pages requires the prior consent of the respective owner of the rights. Individual reproductions of a work are allowed only for private use, so must not serve either directly or indirectly for earnings. Unauthorized utilization of copyrighted works is punishable (§ 106 of the copyright law).
 
+Copyright Daniel Hofer:
+
+* <../f/files/images/new/about_transparenz.jpg>
+
+Copyright César Dezfuli
+
+* <../f/files/images/new/team_donor.jpg>
+
+Copyright Selena Ena
+
+* <../f/files/images/new/rescue_donor.jpg>
+* <../f/files/images/new/team_crew.jpg>
+
+Copyright Jule Müller
+
+* <../f/files/images/new/team_embassies.jpg>
+* <../f/files/images/new/team_sponsor_.jpg>
+* <../f/files/images/new/rescue_embassie.jpg>
+* <../f/files/images/new/rescue_help.jpg>
+
 ## Privacy
 
 JUGEND **RETTET** e.V. takes the protection of your personal information very seriously. We want you to know when we collect what data and how we use it.  
