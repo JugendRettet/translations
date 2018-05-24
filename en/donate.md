@@ -30,7 +30,7 @@ donate_betterplace_text='
 '
 
 donate_merch_link='
-[HELP BY BUYING MERCHANDISE](/merch)
+[HELP BY BUYING MERCHANDISE (diraction.org)](/merch)
 '
 
 donate_donations_account='
