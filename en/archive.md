@@ -101,10 +101,6 @@ Jugend Rettet is devastated by the actions of the Italian authorities and recogn
 Sea rescue is still not a crime! 
 Thanks to IsraAID, Refugee rescue and Lighthouse Relief for your solidarity on Lesbos.
 
-![Photo IsraAID](../f/images/archive/20180320_001.jpg "Photo IsraAID")
-
-Copyright: Basil Roth & Lennart Diesen
-
 #### **2018/03/18** Ship of Proactiva Open Arms confiscated
 
 As a matter of course state repressions against unpleasant NGOs are taking place in Europe: on  August 2nd 2017, the IUVENTA was confiscated by the Italian authorities. To date, there are no charges against the organization or individuals. On March 18th, 2018, the ship of Proactiva Open Arms was detained. Instead of relying on constructive solutions in migration policy based on existing law and humanitarian values, the EU is simply trying to close the Central Mediterranean route by all means. The fact that the European Contracting States thereby break with international and human rights agreements, by people being rejected to Libya, is apparently accepted as well as the European cooperation with criminal structures in Libya. Human rights are valid for all people, irrespective of their legal status - and the criminalization of the people who support these rights is an intolerable situation.
@@ -164,13 +160,11 @@ Report by "Monitor" on the IUVENTA case, the procedures of the Italian Public Pr
 On this Hate Slam event individuals and organisations share hate comments they received and compete against professional slammers.  
 The best contribution will receive the first Bernd Höcke award.
 
-![IUVENTA in the sea with dolphin to the slogan "Haters gonna hate"](../f/images/archive/20180202_001.jpg "IUVENTA in the sea with dolphin to the slogan 'Haters gonna hate'")
 
 #### **Jan. 31st:** Kettcar collecting donations for Jugend Rettet on their tour
 
 Kettcar are collecting donations for us on their current tour. We like to thank all of our supporters for the ongoing solidarity and the power you are giving us to continue our work in times like these.
 
-![Photo of a concert](../f/images/archive/20180131_001.jpg "Photo of a concert")
 
 #### **Jan. 30th:** Article by Jib Collective on the missing evidence in the case IUVENTA
 
@@ -185,7 +179,6 @@ Users of Social Media are called to share photos, statements, stories and videos
 
 [Video by Sea-Watch](https://www.facebook.com/seawatchprojekt/videos/1977841822433889/)
 
-![Painted banner "Recht auf Flucht" (Right to Asylum)](../f/images/archive/20180128_001.jpg "Painted banner 'Recht auf Flucht' (Right to Asylum)")
 
 #### **Jan. 25th:** Report in "Monitor" on the IUVENTA case
 
@@ -220,7 +213,6 @@ archive_2017='
 "This is IUVENTA – all hands to stations!"  
 As part of the 11th federal congress in cooperation with the federal agency of medicine students in Germany ("bvmd") in Mainz we held a workshop on sea rescue. We spoke about the challenges of unsalaried SAR work and discussed real, medical case reports from our mission experience.
 
-![Workshop](../f/images/archive/20171222_000.jpg "Workshop")
 
 #### **Oct. 25th:** [Präses Rekowski calls for recognition and support for civilian rescue organisations](https://www.ekd.de/seenotrettung-29789.htm)
 
@@ -632,7 +624,7 @@ Our crew is currently preparing themselves for the first operation which starts 
 #### **July 17th** G&#295;andi pja&#267;ir, Valetta! - The Iuventa reaches Malta
 
 
-Not too long now until the IUVENTA will fulfil her intended goal: rescue people in maritime distress. We reckon she will leave for her first mission on 24th of July.  <img src="../f/images/old/07-2016/iuventa.jpg" class="news">
+Not too long now until the IUVENTA will fulfil her intended goal: rescue people in maritime distress. We reckon she will leave for her first mission on 24th of July.
 
 
 
@@ -804,19 +796,15 @@ Each euro will help us to start our mission in June.
 
 Right now we're in the making of our crowdfunding clip!
 
-<a href="../f/images/old/dreh.jpg" target="_blank"><img class="news" src='../f/images/old/dreh.jpg'></a>
-
 
 #### **February 15th** Soli party in newyorck59 
 
-<a href="../f/images/old/newyorck.jpg" target="_blank"><img class="news" src='../f/images/old/newyorck.jpg'></a>
 
 #### **February 13th** Ship inspection! 
 
 
 We went to the Netherlands today to visit the two ships that we consider as the best fit to our needs. Our expert gives us green lights about the machinery. More infos will follow soon!
 
-<a href="../f/images/old/20160213.jpg" target="_blank"><img class="news" src='../f/images/old/20160213.jpg'></a>
 
 
 #### **February 10th** Phase 1 almost complete! 
@@ -833,14 +821,13 @@ support us by telling about us. Every little donation will bring us closer to ou
 Thank you so much everyone, who already donated to us and spread our word. It is important now to get
 everything going, so the conversion for rescue missions can be realized.
 
-<a href="../files/schiff.gif" target="_blank"><img class="news" src='../files/schiff_twitter.gif'></a>
+<a href="../f/files/schiff.gif" target="_blank"><img class="news" src='../files/schiff_twitter.gif'></a>
 
 
 #### **January 20th** Talk at Rotary Club Aachen
 
 Last night Team Aachen, here a part of the team together with Rotary-President Jens Zier, presented Jugend Rettet at the Rotary Club. Keep up the good work! If you want to join Team Aachen, send an e-mail to <a href="mailto:luisa@jugendrettet.org">Luisa</a>!
 
-<a href="../f/images/old/rotary.jpg" target="_blank"><img class="news" src='../f/images/old/rotary.jpg'></a>
 
 #### **Januar 16th** Article on n-tv
 
@@ -858,7 +845,6 @@ Follow us on <a href="https://www.instagram.com/jugendrettet/">Instagram</a>!
 
 Thank you for 16,500€! As always: tell your friends about us! Every donation counts. Thank you all for your great support!     <a href="../spenden">donate</a>
 
-<a href="../f/images/old/16500.jpg" target="_blank"><img class="news" src='../f/images/old/16500.jpg'></a>
 
 #### **January 9th** Article in university magazine "Der Albrecht"
 
@@ -869,7 +855,6 @@ Der Albrecht, university magazine of the Christian Albrechts University in Kiel,
 #### **January 9th** Support party in Berlin
 
 Yesterday night we collected 349,55€ at our first support party! Thanks to everyone who celebrated with us, as well as to our Berlin ambassador Sonja and her little rescuers!
-<a href="../f/images/old/schreina.jpg" target="_blank"><img class="news" src='../f/images/old/schreina.jpg'></a>
 
 #### **January 7th** Article in Aachener Nachrichten
 
@@ -878,7 +863,6 @@ The Aachener Nachrichten, a local newspaper, visitet our team in Aachen and publ
 
 #### **January 5th** Party in Aachen
 
-<a href="../f/images/old/partyaachen.jpg" target="_blank"><img class="news" src='../f/images/old/partyaachen.jpg'></a>
 
 #### **January 4th 2016** Article in K50 - Magazin für Köln und Region
 
@@ -895,7 +879,6 @@ Jakob and Luisa hold an open meeting at the RWTH Audimax and in Bonn we again at
 #### **December 15th** Guests at the university radio Aachen
 
 This morning you could hear our ambassador from Aachen at the local universitys radio <a href="http://www.hochschulradio-aachen.de/">Hochschulradio Aachen</a>
-<a href="../f/images/old/radioaachen.jpg" target="_blank"><img class="news" src='../f/images/old/radioaachen.jpg'></a>
 
 #### **December 14th** Open meeting in Bonn
 
@@ -910,13 +893,11 @@ Every donation counts! We thank all our supporters.
 #### **December 12th** Presentation of the movie Asyland in Hamburg
 
 In Hamburg we again accompanied the presentation of the movie <a href="http://www.asyland.de/">Asyland</a> and the following discussion.
-<a href="../f/images/old/hhasyland.jpg" target="_blank"><img class="news" src='../f/images/old/hhasyland.jpg'></a>
 
 #### **December 9th** Christmas market in Trier
 
 On two days, visitors of the christmas market in Trier could tinker christmas cards and support our mission to rescue.
 Thanks to ambassador Asa and all the little rescuers in Trier.
-<a href="../f/images/old/wmtrier.jpg" target="_blank"><img class="news" src='../f/images/old/wmtrier.jpg'></a>
 
 #### **December 8th** Open meeting in Nuremberg
 
@@ -924,7 +905,6 @@ Thanks to ambassador Asa and all the little rescuers in Trier.
 #### **December 2nd** Visit from Jule Müller and presentation at the b.traven secondary school
 
 Today, Jule from <a href="http://imgegenteil.de/">im gegenteil</a>gave us a visit!
-<a href="../f/images/old/julem.jpg" target="_blank"><img class="news" src='../f/images/old/julem.jpg'></a>
 
 Aswell: "Why can't the people simply come with an airplane?" - We answered questions like this during our first presentation in a school, at the b.traven secondary school!
 
@@ -932,47 +912,33 @@ Aswell: "Why can't the people simply come with an airplane?" - We answered quest
 
 Yesterday we have been at the Baiz in Berlin! We presented our project and answered many questions. We are glad about our new supporters.  
 You missed the date? We have a lot of upcoming events like open meetings, where you can ask us any questions and discuss with us.
-<a href="../f/images/old/20151201.jpg" target="_blank"><img class="news" src='../f/images/old/20151201.jpg'>
 
 Aswell, our founding member Jakob was interviewed by FOCUS Online! The article tells about launch and how we imagine the time on the ship. Worth a read! <a href="http://www.focus.de/regional/berlin/mich-beruehrt-die-lage-sehr-jugendlicher-rettet-auf-eigene-faust-fluechtlinge-im-mittelmeer_id_5113218.html" target="_blank">Link</a>
 
 #### **November 29th** Visiting the Paul-Löbe-Haus Berlin
 
 Saturday we attended the "Conference »Refugees welcome«" at the Paul-Löbe-Haus in Berlin! In the workshop, private persons, organizations and societies exchanged their experiences and work. Within the different topics, international escape and the change of escape routes were very interesting for us. We are excited for further exchange! 
-<a href="../f/images/old/20151129.jpg" target="_blank"><img class="news" src='../f/images/old/20151129.jpg'></a>
 
 #### **November 26th** Visiting Theater und Komödie at Kurfürstendamm Berlin
 
 This evening, we visited the performance "Eine Familie" ("One Family") at <a target="_blank" href="https://www.facebook.com/theaterundkomoedieamkurfuerstendamm/">Theater und Komödie am Kurfürstendamm</a>. Big "thank you" to <a target="_blank" href="https://www.facebook.com/SantinisProduction/">Santinis Production</a>, which help us collecting funds.
-<a href="../f/images/old/qdamm.jpg" target="_blank"><img class="news" src='../f/images/old/qdamm.jpg'></a>
 
 #### **November 24th** Open meeting in Münster
 
-<a href="../f/images/old/trex1.jpg" target="_blank"><img class="news" src='../f/images/old/trex1.jpg'></a>
 
 #### **November 23rd** Visiting Radio Q in Münster
 
 Today, Lena was guest at <a target="_blank" href="https://www.facebook.com/radioq/">Radio Q</a> in Münster. For everyone who missed it or is not from Münster, the interview can be found here:<a target="_blank" href="https://soundcloud.com/radioq/jugend-rettet">soundcloud.com/radioq/jugend-rettet</a>
-<a href="../f/images/old/radioq1.jpg" target="_blank"><img class="news" src='../f/images/old/radioq1.jpg'></a>
 
 #### **November 22nd** Presentation at the movie Asyland
 
 Today we were given the opportunity to present ourselves at the screening of the new movie #Asyland. The movie depicts the story of refugees and their experiences in Germany. It becomes clear the we have to meet on eye level! very worth seeing. Our ambassadors Carlo from Cologne Tobi from Bonn where there aswell.
-<a href="../f/images/old/asyland1.jpg" target="_blank"><img class="news" src='../f/images/old/asyland1.jpg'></a>
-
-#### **November 21st** Statement Paris
-
-<video class="news" style="max-width:100%" controls>
-<source src="../f/videos/Unser_Europa_ist_menschlich.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
 
 **November 19th** Open meeting in Potsdam
 
 #### **November 13th** Harald Zindler consults Jugend Rettet + open meeting in  Berlin Neukoelln
 
 We are proud to present you and important consultant of Jugend Rettet: Harald Zindler, founding member of Greenpeace and head of several Greenpeace actions, like the risky occupation in Nordenham (<a target="_blank" href="http://bit.ly/nrdnhm1">http://bit.ly/nrdnhm1</a>). He aquired four ships himself and now consults us with buying our ship.
-<a href="../f/images/old/zindler.jpg" target="_blank"><img src="../f/images/old/zindler.jpg"></a>
 Photo: Jann Wilken‬
 
 #### **November 11th** Invitation to Heimathafen Neukoelln
@@ -990,12 +956,10 @@ Simultaneously, the first week of the funding phase has ended and we are astonis
 #### **November 7th** Visiting Jugendmedientage (Youth Media Days) in Bonn
 
 Our visit at the youth media days was a full success and we found a dedicated ambassador for Bonn. To let his ideas for actions become reality as soon as possible, he needs you as "little rescuers". If you live in Bonn and want to get active, send a mail to <a href="mailto:tobias@jugendrettet.org">tobias@jugendrettet.org</a> .
-<a href="../f/images/old/jmtage.jpg" target="_blank"><img src="../f/images/old/jmtage.jpg"></a>
 
 #### **November 6th** Nuremberg ambassador at Radio AFKmax
 
 Our Nuremberg ambassador Jojo was invited to Radio AFKmax. Here you find a short recording: <a target="_blank" href="http://bit.ly/jrafkmax">http://bit.ly/jrafkmax</a>
-<a href="../f/images/old/afkmax.jpg" target="_blank"><img src="../f/images/old/afkmax.jpg"></a>
 
 #### **November 2nd** Start of 1. phase
 
@@ -1005,7 +969,6 @@ We need your donation, to set something against the European indifference and th
 #### **November 1st** Nowkoelln Flowmarkt
 
 Today we presented our project at the Nowkoelln Flowmarkt! With your support we were able to collect 600€, which are fully invested into our ship.
-<a href="../f/images/old/flowmarkt.jpg" target="_blank"><img class="news" src='../f/images/old/flowmarkt.jpg'></a>
 
 #### **October 31st** Visit from*Jugend Rettet* our consultants to the dutch coast
 
@@ -1023,7 +986,6 @@ We had many discussions at yesterdays meeting at Mehringhof. Especially the miss
 #### **October 12th** Ambassador action Nuremberg
 
 Right now we are present with our ambassador in Nuremberg and start the first flyer action.
-<a href="../f/images/old/nuernberg-flugblaetter.jpg" target="_blank"><img src="../f/images/old/nuernberg-flugblaetter.jpg"></a>
 
 #### **October 10th** Bundeswehr representatives report from their mission on the Mediterranean Sea
 
@@ -1034,7 +996,6 @@ Exchange with representatives from the germany ministry of defense regarding the
 Founding of the association Jugend Rettet, entry to register of associations.  
 Our first open meeting yesterday evening as a big success. Thanks everyone for attending.
 We will regularly repeat the presentation. If you have suggestions for locations in Berlin or other cities where we can present our cause, please mail to <a href="mailto:info@jugendrettet.org" class="link">info@jugendrettet.org</a>.
-<a href="../f/images/old/erstes_treffen.jpg" target="_blank"><img src="../f/images/old/erstes_treffen.jpg"></a>
 
 #### **September 27th**  Jugendrettet.org goes online
 

@@ -104,9 +104,6 @@ Jugend Rettet zeigt sich bestürzt über das Vorgehen der italienischen Behörde
 Seenotrettung ist immer noch kein Verbrechen! 
 Danke an IsraAID, Refugee rescue und Lighthouse Relief für eure Solidarität auf Lesbos. 
 
-![Foto IsraAID](../f/images/archive/20180320_001.jpg "Foto IsraAID")
-
-Copyright: Basil Roth & Lennart Diesen
 
 #### **2018/03/18** Schiff von Proactiva Open Arms wird beschlagnahmt
 
@@ -167,13 +164,11 @@ Beitrag von "Monitor" zum Fall IUVENTA, zum Vorgehen der italienischen Staatsanw
 Bei dieser Hate-Slam-Veranstaltung lesen Personen und Organisationen erhaltene Hasskommentare vor und treten damit gegen professionelle Slammer*innen an.  
 Dem besten Beitrag wird der 1. Bernd-Höcke-Preis verliehen.
 
-![IUVENTA im Meer mit Delfin zum Schriftzug "Haters gonna hate"](../f/images/archive/20180202_001.jpg "IUVENTA im Meer mit Delfin zum Schriftzug 'Haters gonna hate'")
 
 #### **31. Jan.:** Kettcar sammeln auf Tour Spenden fúr Jugend Rettet
 
 Auf ihrer aktuellen Tour sammeln Kettcar an der Gästeliste Spenden für uns. Danke für die nicht abnehmende Solidarität von all unseren Unterstützer_innen. Ein noch größeres Danke für die Kraft, die ihr uns gebt, in dieser Zeit nach vorne zu schauen und weiter zu machen.
 
-![Foto vom Konzert](../f/images/archive/20180131_001.jpg "Foto vom Konzert")
 
 #### **30. Jan.:** Artikel vom Jib Collective über die fehlenden Beweise im Fall IUVENTA
 
@@ -188,7 +183,6 @@ Nutzer_innen von Social Media werden aufgefordert mit eigenen Fotos, Statements,
 
 [Video von Sea-Watch](https://www.facebook.com/seawatchprojekt/videos/1977841822433889/)
 
-![Gemaltes Transparent "Recht auf Flucht"](../f/images/archive/20180128_001.jpg "Gemaltes Transparent 'Recht auf Flucht'")
 
 #### **25. Jan.:** Beitrag von "Monitor" zum Fall IUVENTA
 
@@ -223,8 +217,6 @@ archive_2017='
 
 „This is IUVENTA – all hands to stations!“  
 Im Rahmen des 11. Bundeskongress in Zusammenarbeit mit der Bundesvertretung der Medizinstudierenden in Deutschland - bvmd in Mainz haben wir einen Workshop zum Thema Seenotrettung gegeben. Dabei wurden die Herausforderungen ehrenamtlicher SAR-Arbeit beleuchtet und reale, medizinische Case-Reports aus unserer Einsatzerfahrung diskutiert und nachvollzogen.
-
-![Workshop](../f/images/archive/20171222_000.jpg "Workshop")
 
 #### **25. Okt.:** [Präses Rekowski fordert Anerkennung und Unterstützung für zivile Seenotrettungsorganisationen](https://www.ekd.de/seenotrettung-29789.htm)
 
@@ -748,7 +740,7 @@ Unsere erste Crew bereitet sich auf ihren Einsatz am kommenden Wochenende vor. N
 #### **17. Juli** G&#295;andi pja&#267;ir, Valetta! - Die Iuventa erreicht Malta
 
 
-Nun dauert es nicht mehr lange bis die IUVENTA ihr eigentliches Ziel verfolgen kann: die Rettung aus Menschen in Seenot. Wir rechnen derzeit damit, dass sie am 24. Juli zu ihrer ersten Mission aufbrechen kann.  <img src="../f/images/old/07-2016/iuventa.jpg" class="news">
+Nun dauert es nicht mehr lange bis die IUVENTA ihr eigentliches Ziel verfolgen kann: die Rettung aus Menschen in Seenot. Wir rechnen derzeit damit, dass sie am 24. Juli zu ihrer ersten Mission aufbrechen kann.
 
 
 
@@ -891,7 +883,6 @@ Botschafter Jannik hat uns bei ev1.tv vorgestellt.
 Wir danken Jasmin Gerat für die Unterstützung!
 
 <a target="_blank" href="http://jugendrettet.org/betterplace">‪#‎rettemit‬: jugendrettet.org/betterplace</a>
-<a target="_blank" href="../f/images/old/20160502.jpg"><img class="news" src="../f/images/old/20160502.jpg"></a>
 
 
 #### **02. Mai 2016** Bericht bei La Stampa
@@ -915,7 +906,6 @@ Wenn Ihr bei JUGEND **RETTET** mitmachen wollt, meldet Euch bei Botschafterin Ja
 
 Heute waren wir bei der Veranstaltung Dialog Extrem, bei der Expert_innen ihre Projekte und ihr Vorhaben erklären können. Wir stellten JUGEND **RETTET** vor und erklärten, warum es die Seenotrettung auf dem Mittelmeer braucht.
 
-<a target="_blank" href="../f/images/old/20160426.jpg"><img class="news" src="../f/images/old/20160426.jpg"></a>
 
 
 #### **26. April** Bericht in Berliner Morgenpost
@@ -925,7 +915,6 @@ Heute waren wir bei der Veranstaltung Dialog Extrem, bei der Expert_innen ihre P
 Wir hatten Besuch von der Berliner Morgenpost. Das Ergebnis könnt ihr hier nachlesen:  
 <a target="_blank" href="http://www.morgenpost.de/berlin/article207469977/Junge-Berliner-wollen-Fluechtlinge-aus-dem-Mittelmeer-retten.html">→ Link</a>
 
-<a target="_blank" href="../f/images/old/JR_kernteam_ah-02005_s.jpg"><img class="news" src="../f/images/old/JR_kernteam_ah-02005_s.jpg"></a>
 
 
 #### **23. April** Letztes Gutachten des Schiffs
@@ -933,7 +922,6 @@ Wir hatten Besuch von der Berliner Morgenpost. Das Ergebnis könnt ihr hier nach
 
 Gute Neuigkeiten! Unser Schiff wurde unter Aufsicht unseres Gutachters in das Trockendock gehoben. Das Unterwasserschiff, sowie die Dicke der Außenwände ist in Ordnung. Außerdem sind keine größeren Schäden an Ruder, Propeller oder Bugstrahler zu verzeichnen. Nun können die nächsten Schritte eingeleitet werden.
 
-<a target="_blank" href="../f/images/old/20160423.jpg"><img class="news" src="../f/images/old/20160423.jpg"></a>
 
 
 #### **17. April** Beitrag im Europamagazin in der ARD
@@ -952,7 +940,6 @@ Malta steht für uns als Heimathafen zur Option. Deswegen ist Jakob gerade dort,
 
 Meldet euch bei <a target="_blank" href="tobi@jugendrettet.org">tobi@jugendrettet.org</a>, wenn wir ihr unser Bonner Team unterstützen möchtet.
 
-<a href="../f/images/old/20160414.jpg" target="_blank"><img class="news" src="../f/images/old/20160414.jpg"></a>
 
 
 #### **09. April** Start der Spendenphase 3 
@@ -1017,7 +1004,6 @@ Westfälische Nachrichten hat sich mit unserer Münster Botschafterin Jana unter
 
 Rette mit: <a target="_blank" href="jana@jugendrettet.org">jana@jugendrettet.org</a>
 
-<a href="../f/images/old/20160329.jpg" target="_blank"><img class="news" src="../f/images/old/20160329.jpg"></a>
 
 Foto: Sebastian Stachorra
 
@@ -1032,17 +1018,14 @@ Foto: Sebastian Stachorra
 
 Wir danken Armin Rohde für diese Unterstützung.
 
-<a href="../f/images/old/20160324.jpg" target="_blank"><img class="news" src="../f/images/old/20160324.jpg"></a>
 
 
 #### **23. März** Offenes Treffen Hamburg
 
-<a href="../f/images/old/20160323.jpg" target="_blank"><img class="news" src="../f/images/old/20160323.jpg"></a>
 
 
 #### **22. März** Offenes Treffen Lüneburg
 
-<a href="../f/images/old/20160322.jpg" target="_blank"><img class="news" src="../f/images/old/20160322.jpg"></a>
 
 
 #### **18. März** Spendenziel 2 erreicht + Soli-Party im Lauschangriff Berlin
@@ -1060,7 +1043,6 @@ Wir freuen uns, mit euch die nächsten Ziele und Etappen zu meistern.
 
 Passend zum Anlass fand diesen Abend unsere Soli-Party im Lauschangriff Berlin statt.
 
-<a href="../f/images/old/20160318.jpg" target="_blank"><img class="news" src="../f/images/old/20160318.jpg"></a>
 
 
 #### **18. März** Bericht über JUGEND **RETTET** bei ZEITjUNG 
@@ -1086,7 +1068,6 @@ Heute fand zum zweiten und vorerst letzten Mal die Blutspendeaktion in Bonn stat
 
 Wenn ihr mit Tobi und dem Team Bonn in Kontakt treten wollt, könnt ihr das via Mail: <tobias@jugendrettet.org>.
 
-<a href="../f/images/old/20160317.jpg" target="_blank"><img class="news" src='../f/images/old/20160317.jpg'></a>
 
 
 #### **17. März** JUGEND **RETTET** im ZDF beim "Morgenmagazin" 
@@ -1097,11 +1078,6 @@ Heute Morgen waren wir wieder im ZDF. Diesmal beim "Morgenmagazin".
 
 Lena und Jakob haben mit Dunja Hayali über die aktuelle Situation und die geplanten Rettungsaktionen gesprochen.
 
-<a href="https://www.youtube.com/watch?v=zl4Ga1oY2Fo" target="_blank"><img class="news" src='../f/images/old/20160317_2.jpg'></a>
-
-(Video)
-
-
 
 #### **16. März** JUGEND **RETTET** im ZDF bei "heute – in Deutschland"  
 
@@ -1110,11 +1086,6 @@ Heute Mittag waren wir im ZDF bei "heute – in Deutschland" zu sehen!
 
 
 Es wurde auf die aktuelle Situation und unsere politische Forderung hingewiesen.
-
-<a href="https://www.youtube.com/watch?v=PRWG8YXvOdk" target="_blank"><img class="news" src='../f/images/old/20160316.jpg'></a>
-
-(Video)
-
 
 
 #### **15. März** Offenes Treffen im Emsland 
@@ -1139,11 +1110,6 @@ Hier nochmal kurz und knackig unsere aktuelle Situation erklärt von Jan Josef L
 
 Mittlerweile haben wir mit eurer Hilfe fast 60% geschafft. 19 Tage bleiben noch zum Spenden.
 
-<a href="https://www.youtube.com/watch?v=pdud4bijQHU" target="_blank"><img class="news" src='../f/images/old/20160311.jpg'></a>
-
-(Video)
-
-
 
 #### **10. März** Statement von Maria Furtwängler 
 
@@ -1152,8 +1118,6 @@ Mittlerweile haben wir mit eurer Hilfe fast 60% geschafft. 19 Tage bleiben noch 
 
 
 Vielen Dank an Maria Furtwängler für die Unterstützung!
-
-<a href="../f/images/old/20160310.jpg" target="_blank"><img class="news" src='../f/images/old/20160310.jpg'></a>
 
 
 #### **10. März** Danke Koljah! 
@@ -1187,7 +1151,6 @@ Als einer der 733 Unterzeichner der Initiative sprechen wir uns klar für Transp
 
 Vielen Dank für diese schöne Aktion!
 
-<a href="../f/images/old/20160310_2.jpg" target="_blank"><img class="news" src='../f/images/old/20160310_2.jpg'></a>
 
 
 #### **04. März** Wohin fließen die Spenden? 
@@ -1195,7 +1158,6 @@ Vielen Dank für diese schöne Aktion!
 
 Wohin fließen eigentlich im Moment eure Spenden? Hier eine kleine Übersicht. Wir achten darauf, unsere Ausgaben so gering wie möglich zu halten.
 
-<a href="../f/images/old/20160304.jpg" target="_blank"><img class="news" src='../f/images/old/20160304.jpg'></a>
 
 
 #### **29. Februar** Schiffsbesichtigung in Holland 
@@ -1203,7 +1165,6 @@ Wohin fließen eigentlich im Moment eure Spenden? Hier eine kleine Übersicht. W
 
 Heute waren wir nochmal in den Niederlanden, um eines der für uns geeignetsten Schiffe ein zweites Mal zu besichtigen. Dabei ging es vor allem darum, dass wir uns ein detailierteres Bild für den Umbau machen können.
 
-<a href="../f/images/old/20160229.jpg" target="_blank"><img class="news" src='../f/images/old/20160229.jpg'></a>
 
 
 #### **27. Februar** Bötchen-Spendenaktion in Liechtenstein 
@@ -1214,7 +1175,6 @@ Danke an unsere Liechtensteiner Botschafterin Helena, die ähnlich wie Team Aach
 
 Wenn ihr Helena bei ihrer Arbeit in Liechtenstein unterstützen wollt, schickt ihr eine Mail an <helena@jugendrettet.org>
 
-<a href="../f/images/old/20160227.jpg" target="_blank"><img class="news" src='../f/images/old/20160227.jpg'></a>
 
 
 #### **26. Februar** Vortrag an der Beaconhurst School in England 
@@ -1222,7 +1182,6 @@ Wenn ihr Helena bei ihrer Arbeit in Liechtenstein unterstützen wollt, schickt i
 
 Ein riesiger Dank geht heute an Jana von der Beaconhurst School in England, die am Vormittag an ihrem College einen Vortag über uns gehalten hat, um uns aktiv bei unseren Anliegen zu unterstützen.
 
-<a href="../f/images/old/20160226.jpg" target="_blank"><img class="news" src='../f/images/old/20160226.jpg'></a>
 
 
 #### **22. Februar** Jule blogt über uns bei "im gegenteil" 
@@ -1260,7 +1219,6 @@ Jeder Euro geht direkt in den Umbau. Helft uns, im Juni rausfahren zu können.
 
 Wir wurden heute bei unserer Arbeit im Büro begleitet. Aus diesem Material entsteht dann ein Teil unseres Crowdfunding-Clips.
 
-<a href="../f/images/old/dreh.jpg" target="_blank"><img class="news" src='../f/images/old/dreh.jpg'></a>
 
 #### **15. Februar** Radiointerview bei BHeins 
 
@@ -1270,18 +1228,15 @@ Wir wurden heute bei unserer Arbeit im Büro begleitet. Aus diesem Material ents
 
 Motivierte Potsdamer können sich per Mail an <a href="mailto:christoph@jugendrettet.org">Christoph</a> wenden.
 
-<a href="../f/images/old/bheins.jpg" target="_blank"><img class="news" src='../f/images/old/bheins.jpg'></a>
 
 #### **15. Februar** Soliparty im newyorck59 
 
-<a href="../f/images/old/newyorck.jpg" target="_blank"><img class="news" src='../f/images/old/newyorck.jpg'></a>
 
 #### **13. Februar** Schiffsbesichtigung! 
 
 
 Wir waren heute in Holland, um die zwei Schiffe zu besichtigen, die für uns in der Endauswahl stehen. Unser Schiffsgutachter gibt grünes Licht, was die Technik anbelangt. Mehr Infos folgen ganz bald!
 
-<a href="../f/images/old/20160213.jpg" target="_blank"><img class="news" src='../f/images/old/20160213.jpg'></a>
 
 #### **12. Februar** Aktionstage 
 
@@ -1292,22 +1247,15 @@ In den letzten zwei Tagen starteten gleich 5 Botschafter-Aktionen.
 
 Bonn: Botschafter Tobi organisierte eine Gedenkveranstaltung "In Gedenken an die Todesopfer während der Flucht 2015". Gemeinsam mit anderen Initiativen und Teilnehmern wurde dort vor der EU-Kommission ein Kranz niedergelegt. Anschließend wurden bei einem bekannten Brunnen noch Papierboote ins Wasser gesetzt.
 
-<a href="../f/images/old/5/tobi.jpg" target="_blank"><img class="news" src='../f/images/old/5/tobi.jpg'></a>
-<a href="../f/images/old/5/tobi2.jpg" target="_blank"><img class="news" src='../f/images/old/5/tobi2.jpg'></a>
-<a href="../f/images/old/5/tobi3.jpg" target="_blank"><img class="news" src='../f/images/old/5/tobi3.jpg'></a>
 
 
 Allgäu: Botschafterin Lioba richtete einen Infostand aus und bereitete gleichzeitig eine andere Aktion vor: es gab die Möglichkeit, Holzplanken zu bemalen, die dann wiederum Teil einer anderen Aktion zusammen mit Sternsingern werden.
 
 <a href="http://lebenretten.sternsinger.org/">Link</a>
-<a href="../f/images/old/5/lioba.jpg" target="_blank"><img class="news" src='../f/images/old/5/lioba.jpg'></a>
-<a href="../f/images/old/5/lioba2.jpg" target="_blank"><img class="news" src='../f/images/old/5/lioba2.jpg'></a>
 
 
 Münster: Botschafterin Jana hat im Cafe "Teilchen und Beschleuniger" selbstgebackenen Kuchen an die Gäste verkauft.
 
-<a href="../f/images/old/5/jana.jpg" target="_blank"><img class="news" src='../f/images/old/5/jana.jpg'></a>
-<a href="../f/images/old/5/jana2.jpg" target="_blank"><img class="news" src='../f/images/old/5/jana2.jpg'></a>
 
 
 Köln: Botschafter Carlo war bei der Aufführung von "Der gute Mensch von Sezuan" für JUGEND **RETTET** dabei. Es wurden Flyer verteilt und Spenden gesammelt.
@@ -1349,13 +1297,11 @@ Heute wollen wir euch die "Bötchenaktion" des Team Aachen vorstellen: Sie haben
 
 Wir waren heute Teil der "Konferenz zur Zukunft bürgerschaftlichen Engagements für Flüchtlinge" von Bündnis 90/Die Grünen. Es sind gute Kontakte zu anderen Organisationen entstanden und wir freuen uns auf mögliche, zukünftige Zusammenarbeiten.
 
-<a href="../f/images/old/20160129.jpg" target="_blank"><img class="news" src='../f/images/old/20160129.jpg'></a>
 
 #### **20. Januar** Vortrag beim Rotary Club Aachen
 
 Team Aachen, hier ein Teil des Teams zusammen mit Rotary-Präsidenten Jens Zier, hat heute einen Vortrag über uns im Rotary Club gehalten. Tolle Arbeit, danke dafür! Wer sich dem Team anschließen möchte, meldet sich bitte bei <a href="mailto:luisa@jugendrettet.org">Luisa</a>!
 
-<a href="../f/images/old/rotary.jpg" target="_blank"><img class="news" src='../f/images/old/rotary.jpg'></a>
 
 #### **16. Januar** Bericht bei n-tv
 
@@ -1373,7 +1319,6 @@ Ihr findet uns ab jetzt auch auf <a href="https://www.instagram.com/jugendrettet
 
 Wir sagen DANKE zu 16.500€! Es gilt wie immer: erzählt euren Freunden und Bekannten von uns! Jede Spende zählt. Danke an euch alle für die tolle Unterstützung!    <a href="./spenden">spenden</a>
 
-<a href="../f/images/old/16500.jpg" target="_blank"><img class="news" src='../f/images/old/16500.jpg'></a>
 
 #### **09. Januar** Bericht in Hochschulzeitung "Der Albrecht"
 
@@ -1384,7 +1329,6 @@ Der Albrecht, Hochschulzeitung der Christian-Albrechts-Universität in Kiel, hat
 #### **09. Januar** Soliparty in Berlin
 
 Gestern Abend sind bei unserer ersten Soliparty 349,55€ zusammengekommen! Vielen Dank an alle, die mit uns gefeiert haben, sowie an unsere Berliner Botschafterin Sonja und ihre Kleinen Retter!
-<a href="../f/images/old/schreina.jpg" target="_blank"><img class="news" src='../f/images/old/schreina.jpg'></a>
 
 #### **07. Januar** Bericht in den Aachener Nachrichten
 
@@ -1393,7 +1337,6 @@ Die Aachener Nachrichten haben unser Team vor Ort besucht und über uns geschrie
 
 #### **05. Januar** Party in Aachen
 
-<a href="../f/images/old/partyaachen.jpg" target="_blank"><img class="news" src='../f/images/old/partyaachen.jpg'></a>
 
 #### **04. Januar 2016** Bericht im K50 - Magazin für Köln und Region
 
@@ -1410,7 +1353,6 @@ Jakob und Luisa halten ein offenes Treffen im RWTH Audimax ab und in Bonn sind w
 #### **15. Dezember** Zu Gast beim Hochschulradio Aachen
 
 Heute Morgen war unsere Aachener Botschafterin beim <a href="http://www.hochschulradio-aachen.de/">Hochschulradio Aachen</a> zu hören!
-<a href="../f/images/old/radioaachen.jpg" target="_blank"><img class="news" src='../f/images/old/radioaachen.jpg'></a>
 
 #### **14. Dezember** Offenes Treffen in Bonn
 
@@ -1425,13 +1367,11 @@ Jede Spende zählt! Wir danken allen Unterstützern.
 #### **12. Dezember** Filmvorstellung Asyland in Hamburg
 
 In Hamburg waren wir wieder bei der Filmvorstellung von <a href="http://www.asyland.de/">Asyland</a> und der anschließenden Gesprächsrunde dabei.
-<a href="../f/images/old/hhasyland.jpg" target="_blank"><img class="news" src='../f/images/old/hhasyland.jpg'></a>
 
 #### **09. Dezember** Weihnachtsmarkt in Trier
 
 Auf dem Weihnachtsmarkt in Trier konnten Besucher_innen an 2 Tagen Weihnachtskarten basteln und uns so beim Retten unterstützen.
 Danke an Botschafterin Asa und alle Kleinen Retter in Trier.
-<a href="../f/images/old/wmtrier.jpg" target="_blank"><img class="news" src='../f/images/old/wmtrier.jpg'></a>
 
 #### **08. Dezember** Offenes Treffen in Nürnberg
 
@@ -1439,7 +1379,6 @@ Danke an Botschafterin Asa und alle Kleinen Retter in Trier.
 #### **02. Dezember** Besuch von Jule Müller und Schulvortrag in der b.traven Oberschule
 
 Heute bekamen wir Besuch von Jule von <a href="http://imgegenteil.de/">im gegenteil</a>!
-<a href="../f/images/old/julem.jpg" target="_blank"><img class="news" src='../f/images/old/julem.jpg'></a>
 
 Außerdem: "Warum können die Menschen nicht einfach mit dem Flugzeug kommen?" - diese und noch weitere Fragen durften wir heute bei unserem ersten Schulvortrag in der b.traven Oberschule beantworten!
 
@@ -1447,47 +1386,34 @@ Außerdem: "Warum können die Menschen nicht einfach mit dem Flugzeug kommen?" -
 
 Gestern waren wir im Baiz in Berlin! Wir haben das Projekt vorgestellt und viele Fragen beantwortet! Wir freuen uns über die neuen Unterstützer.  
 Ihr wart nicht dabei? Wir haben in der nächsten Zeit noch einige offenen Treffen, bei denen ihr uns direkt Fragen stellen könnt und mit uns diskutieren könnt.
-<a href="../f/images/old/20151201.jpg" target="_blank"><img class="news" src='../f/images/old/20151201.jpg'></a>
 
 Unser Gründungsmitglied Jakob wurde außerdem vom FOCUS Online interviewt! Bei dem Artikel geht es unter anderem um die Gründung und wie wir uns die Zeit auf dem Schiff vorstellen. Sehr lesenswert! <a href="http://www.focus.de/regional/berlin/mich-beruehrt-die-lage-sehr-jugendlicher-rettet-auf-eigene-faust-fluechtlinge-im-mittelmeer_id_5113218.html" target="_blank">Link</a>
 
 #### **29. November** Besuch im Paul-Löbe-Haus Berlin
 
 Am Samstag waren wir bei der "Konferenz »Refugees welcome«" im Paul-Löbe-Haus in Berlin! In dem Workshop haben sich Privatleute, Organisationen und Vereine über ihre Arbeit ausgetauscht. Bei den unterschiedlichen Themen war für uns die internationale Flucht und Veränderung der Fluchtwege sehr interessant. Wir freuen uns auf weiteren Austausch!
-<a href="../f/images/old/20151129.jpg" target="_blank"><img class="news" src='../f/images/old/20151129.jpg'></a>
 
 #### **26. November** Besuch beim Theater und Komödie am Kurfürstendamm
 
 Heute Abend waren wir wieder beim <a target="_blank" href="https://www.facebook.com/theaterundkomoedieamkurfuerstendamm/">Theater und Komödie am Kurfürstendamm</a> bei dem Stück "Eine Familie" dabei. Großes Dankeschön an die <a target="_blank" href="https://www.facebook.com/SantinisProduction/">Santinis Production</a>, die uns hierbei durch das Sammeln von Spenden unterstützt.
-<a href="../f/images/old/qdamm.jpg" target="_blank"><img class="news" src='../f/images/old/qdamm.jpg'></a>
 
 #### **24. November** Offenes Treffen Münster
 
-<a href="../f/images/old/trex1.jpg" target="_blank"><img class="news" src='../f/images/old/trex1.jpg'></a>
 
 #### **23. November** Besuch bei Radio Q in Münster
 
 Lena war heute bei <a target="_blank" href="https://www.facebook.com/radioq/">Radio Q</a> in Münster zu Gast. Alle, die nicht aus der Gegend um Münster kommen oder es verpasst haben, können das Interview hier nachhören: <a target="_blank" href="https://soundcloud.com/radioq/jugend-rettet">soundcloud.com/radioq/jugend-rettet</a>
-<a href="../f/images/old/radioq1.jpg" target="_blank"><img class="news" src='../f/images/old/radioq1.jpg'></a>
 
 #### **22. November** Vorstellung beim Film Asyland
 
 Heute durften wir uns in Köln bei der Aufführung des neuen Films #Asyland vorstellen. Der Film zeigt die Geschichte von Geflüchteten und wie es ihnen in Deutschland geht. Es wird klar, das man sich auf Augenhöhe begegnen muss! Sehr sehenswert. Unsere Botschafter aus Köln, Carlo, und Bonn, Tobi, waren auch dabei!
-<a href="../f/images/old/asyland1.jpg" target="_blank"><img class="news" src='../f/images/old/asyland1.jpg'></a>
 
-#### **21. November** Statement Paris
-
-<video class="news" style="max-width:100%" controls>
-<source src="../f/videos/Unser_Europa_ist_menschlich.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
 
 **19. November** Offenes Treffen in Potsdam  
 #### **13. November** Harald Zindler berät JUGEND **RETTET** + offenes Treffen in Berlin Neukoelln
 
 Wir sind stolz, euch einen wichtigen Berater von JUGEND **RETTET** vorstellen zu können: Harald Zindler, Gründungsmitglied von Greenpeace und Leiter mehrerer Greenpeace-Aktionen, wie der riskanten Besetzung in Nordenham (<a target="_blank" href="http://bit.ly/nrdnhm1">http://bit.ly/nrdnhm1</a>). Er hat selber vier Schiffe angeschafft und berät uns nun beim Schiffskauf.
 
-<a href="../f/images/old/zindler.jpg" target="_blank"><img src="../f/images/old/zindler.jpg"></a>
 
 Foto: Jann Wilken
 
@@ -1505,12 +1431,10 @@ Gleichzeitig ging die erste Woche der Spendenphase vorbei und wir sind überwäl
 #### **7. November** Besuch bei den Jugendmedientagen in Bonn
 
 Unser Besuch bei den Jugendmedientagen war ein voller Erfolg und wir haben einen engagierten Botschafter für Bonn gefunden. Damit er möglichst schnell seine Aktionsideen umsetzen kann, braucht er jetzt euch als Kleine Retter. Wenn ihr in Bonn lebt und bereit seid aktiv zu werden meldet euch bei <tobias@jugendrettet.org>.
-<a href="../f/images/old/jmtage.jpg" target="_blank"><img src="../f/images/old/jmtage.jpg"></a>
 
 #### **6. November** Nürnberger Botschafterin bei Radio AFKmax
 
 Unsere Nürnberger Botschafterin Jojo war beim Radiosender AFKmax zu Gast. Hier ein kurzer Mitschnitt: <a target="_blank" href="http://bit.ly/jrafkmax">http://bit.ly/jrafkmax</a>
-<a href="../f/images/old/afkmax.jpg" target="_blank"><img src="../f/images/old/afkmax.jpg"></a>
 
 #### **2. November** Start der 1. Phase
 
@@ -1520,7 +1444,6 @@ Wir brauchen deine Spende, um der europäischen Gleichgkültigekit gegenüber de
 #### **1. November 2015** Nowkoelln Flowmarkt
 
 Heute konnten wir auf dem Nowkoelln Flowmarkt über unser Projekt berichten! Gleichzeitig konnten wir mit eurer Unterstützung ganze 600€ zusammen bekommen, die direkt in unser Schiff fließen.
-<a href="../f/images/old/flowmarkt.jpg" target="_blank"><img class="news" src='../f/images/old/flowmarkt.jpg'></a>
 
 #### **31. Oktober** Besuch von *JUGEND **RETTET*** und seiner Berater an der holländischen Küste
 
@@ -1538,7 +1461,6 @@ Beim gestrigen Treffen im Mehringhof wurde viel diskutiert. Besonders der Einsat
 #### **12. Oktober** Botschafteraktion Nürnberg
 
 Wir sind gerade mit unserer <a target="_blank" href="aendern#botschafter">Botschafterin</a> in Nürnberg und starten die erste Flugblattaktion vor Ort.
-<a href="../f/images/old/nuernberg-flugblaetter.jpg" target="_blank"><img src="../f/images/old/nuernberg-flugblaetter.jpg"></a>
 
 #### **10. Oktober** Vertreter der Bundeswehr berichten von ihrem Einsatz auf dem Mitttelmeer
 
@@ -1549,7 +1471,6 @@ Austausch mit Vertretern des Bundesministeriums der Verteidigung über den Bunde
 Gründung des Vereins JUGEND **RETTET**, Eintragung ins Vereinsregister.  
 Unser erstes offenes Treffen gestern Abend war ein voller Erfolg. Vielen Dank an alle, die da waren.
 Wir werden den Vortrag regelmäßig wiederholen. Wer noch Tipps für Räumlichkeiten in Berlin oder anderen deutschen Städten hat, in denen wir uns vorstellen könnten, schreibt uns bitte an <info@jugendrettet.org>.
-<a href="../f/images/old/erstes_treffen.jpg" target="_blank"><img src="../f/images/old/erstes_treffen.jpg"></a>
 
 #### **27. September**  Jugendrettet.org geht online
 
