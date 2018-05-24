@@ -38,23 +38,23 @@ Our web pages and their contents are subject to German copyright law. Unless exp
 
 Copyright Daniel Hofer:
 
-* <../f/files/images/new/about_transparenz.jpg>
+* <https://jugendrettet.org/f/files/images/new/about_transparenz.jpg>
 
 Copyright César Dezfuli
 
-* <../f/files/images/new/team_donor.jpg>
+* <https://jugendrettet.org/f/files/images/new/team_donor.jpg>
 
 Copyright Selena Ena
 
-* <../f/files/images/new/rescue_donor.jpg>
-* <../f/files/images/new/team_crew.jpg>
+* <https://jugendrettet.org/f/files/images/new/rescue_donor.jpg>
+* <https://jugendrettet.org/f/files/images/new/team_crew.jpg>
 
 Copyright Jule Müller
 
-* <../f/files/images/new/team_embassies.jpg>
-* <../f/files/images/new/team_sponsor_.jpg>
-* <../f/files/images/new/rescue_embassie.jpg>
-* <../f/files/images/new/rescue_help.jpg>
+* <https://jugendrettet.org/f/files/images/new/team_embassies.jpg>
+* <https://jugendrettet.org/f/files/images/new/team_sponsor_.jpg>
+* <https://jugendrettet.org/f/files/images/new/rescue_embassie.jpg>
+* <https://jugendrettet.org/f/files/images/new/rescue_help.jpg>
 
 ## Privacy
 
