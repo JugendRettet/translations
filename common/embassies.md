@@ -8,7 +8,7 @@ sub_team_embassies='
 * **Bonn**: [Anna](mailto:AnnaB@jugendrettet.org), [Natalie](mailto:Natalie_Bonn@jugendrettet.org)
 * **Bremen**: [Niklas](mailto:Niklas_Bremen@jugendrettet.org), [Thomas](mailto:Thomas@jugendrettet.org)
 * **Cuxhaven**: [Nadine](mailto:Nadine_Cuxhaven@jugendrettet.org)
-* **Düsseldorf:** [Philip](mailto:Philip_Duesseldorf@jugendrettet.org)
+* **Düsseldorf:** [Philip](mailto:Philip_Duesseldorf@jugendrettet.org), [Lotte](mailto:Lotte_Duesseldorf@jugendrettet.org)
 * **Emden**: [Patrick](mailto:Patrick_Emden@jugendrettet.org)
 * **Emsland**: [Jannik](mailto:Jannik_Emsland@jugendrettet.org), [Max](mailto:MaxB@jugendrettet.org)
 * **Engstingen**: [Aron](mailto:Aron_Engstingen@jugendrettet.org), [Jeremias](mailto:Jeremias_Engstingen@jugendrettet.org)
