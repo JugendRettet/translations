@@ -9,6 +9,10 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/06/22 PRESSEMELDUNG**: ERNEUTE DROHGEBÄRDEN DES ITALIENISCHEN INNENMINISTERS GEGEN DEUTSCHE SEENOTRETTUNGSORGANISATIONEN
+
+[Matteo Salvinis Ambitionen die italienischen Häfen als sichere Häfen für NGO-Schiffe zu schließen und die Arbeit der NGOs zu behindern, sowie Rettungskapazitäten zu verringern, kosten erneut zahlreiche Menschenleben.](../f/files/JR_PM_20180622_GER.pdf)
+
 #### **2018/04/24** Einspruch gegen Beschlagnahme der IUVENTA abgelehnt.
 
 Kassationsgericht in Rom lehnt Einspruch gegen Beschlagnahme der 

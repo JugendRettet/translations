@@ -23,7 +23,9 @@ news_news_item_title='
 news_press_release='
 ### Pressemeldung
 
-[**Berlin, 24.4.2018** Kassationsgericht in Rom lehnt Einspruch gegen Beschlagnahme der IUVENTA vom Jugend Rettet e.V. ab. Trotz ausbleibender Beweise für die Vorwürfe gegen die Organisation und hohen Todeszahlen auf der zentralen Mittelmeerroute fehlt die IUVENTA nun weiterhin im Einsatzgebiet.](../f/files/180424_PM_DE.pdf) 
+#### ERNEUTE DROHGEBÄRDEN DES ITALIENISCHEN INNENMINISTERS GEGEN DEUTSCHE SEENOTRETTUNGSORGANISATIONEN
+
+[**Berlin, 22.6.2018**: Matteo Salvinis Ambitionen die italienischen Häfen als sichere Häfen für NGO-Schiffe zu schließen und die Arbeit der NGOs zu behindern, sowie Rettungskapazitäten zu verringern, kosten erneut zahlreiche Menschenleben.](../f/files/JR_PM_20180622_GER.pdf) 
 '
 
 news_press_kit='

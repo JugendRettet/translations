@@ -22,7 +22,9 @@ news_news_item_title='
 news_press_release='
 ### Press release
 
-[**Berlin, 24.4.2018**: The First Criminal Section of the Cassation Court in Rome rejects objection to the seizure of IUVENTA by Jugend Rettet e.V. Despite the lack of evidence for the allegations against the organization and high death toll on the central Mediterranean route, the IUVENTA until further notice will not be able to operate. A more detailed explanation of the decision is currently pending.](../f/files/180424_PM_EN.pdf) 
+#### NEW THREATENING GESTURES OF THE ITALIAN INTERIOR MINISTER AGAINST GERMAN MARITIME RESCUE ORGANIZATIONS
+
+[**Berlin, 22.6.2018**: Matteo Salvini's ambitions to close down Italian ports as a place of safety for NGO vessels and to hamper the work of NGOs, as well as to reduce rescue capacity, cost numerous lives again.](../f/files/JR_PM_20180622_ENG.pdf) 
 '
 
 news_press_kit='

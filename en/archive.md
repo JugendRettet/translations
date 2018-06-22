@@ -9,6 +9,10 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/06/22 PRESS RELEASE**: NEW THREATENING GESTURES OF THE ITALIAN INTERIOR MINISTER AGAINST GERMAN MARITIME RESCUE ORGANIZATIONS
+
+[Matteo Salvini's ambitions to close down Italian ports as a place of safety for NGO vessels and to hamper the work of NGOs, as well as to reduce rescue capacity, cost numerous lives again.](../f/files/JR_PM_20180622_ENG.pdf)
+
 #### **2018/04/24** Objection against seizure of IUVENTA rejected.
 
 The First Criminal Section of the Cassation Court in Rome rejects 
