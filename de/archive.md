@@ -9,6 +9,17 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/06/24 Gemeinsame Erklärung**: Die Externalisierung der Europäischen Grenzen stoppen
+
+Die zivile Rettungsflotte fordert die EU und ihre Mitgliedstaaten nachdrücklich
+auf, die fortlaufende Externalisierung ihrer Grenzen durch eine Politik der
+Eindämmung der Migration und ausgelagerten Pull-Backs zu stoppen. Statt sich
+auf die Kriminalisierung ziviler Rettungsorganisationen zu konzentrieren,
+bitten wir um Solidarität zwischen den europäischen Staaten (Art. 80 AEUV) und
+gegenüber den Menschen, die internationalen Schutz benötigen.
+
+[Vollständige gemeinsame Erklärung (auf Englisch)](../f/files/joint_statement_180624.pdf)
+
 #### **2018/06/22 PRESSEMELDUNG**: ERNEUTE DROHGEBÄRDEN DES ITALIENISCHEN INNENMINISTERS GEGEN DEUTSCHE SEENOTRETTUNGSORGANISATIONEN
 
 [Matteo Salvinis Ambitionen die italienischen Häfen als sichere Häfen für NGO-Schiffe zu schließen und die Arbeit der NGOs zu behindern, sowie Rettungskapazitäten zu verringern, kosten erneut zahlreiche Menschenleben.](../f/files/JR_PM_20180622_GER.pdf)

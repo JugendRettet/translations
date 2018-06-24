@@ -9,6 +9,16 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/06/24 Joint Statement**: Stop the Externalisation of European Borders
+
+The civil rescue fleet urges the EU and its member states to stop the
+ongoing externalisation of their borders, carried out through a policy of containment of
+migration and pull-backs by proxy. Instead of focusing on the criminalisation of the civil
+rescue NGOs, we ask for solidarity amongst the European states (Art. 80 TFUE) and towards
+the people in need of international protection.
+
+[Full Joint Statement](../f/files/joint_statement_180624.pdf)
+
 #### **2018/06/22 PRESS RELEASE**: NEW THREATENING GESTURES OF THE ITALIAN INTERIOR MINISTER AGAINST GERMAN MARITIME RESCUE ORGANIZATIONS
 
 [Matteo Salvini's ambitions to close down Italian ports as a place of safety for NGO vessels and to hamper the work of NGOs, as well as to reduce rescue capacity, cost numerous lives again.](../f/files/JR_PM_20180622_ENG.pdf)
