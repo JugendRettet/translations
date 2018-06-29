@@ -30,6 +30,7 @@ von unseren Plattformen zu bannen.
 Wir hoffen auf lebhafte und sachliche Diskussionen und Beiträge auf all unseren Plattformen. Wir
 wollen mit unseren Verhaltensregeln niemanden diskriminieren oder gezielt vom Diskurs
 ausschließen, sondern nur für ein angenehmes und freundliches Gesprächsklima sorgen.
+
 Keine Nutzer*innen haben das Recht auf Veröffentlichung ihrer Beiträge. Auch müssen wir uns
 nicht rechtfertigen, wenn wir Kommentare oder Beiträge löschen, vor allem nicht, wenn diese
 erkennbar gegen unsere Netiquette verstoßen. 
