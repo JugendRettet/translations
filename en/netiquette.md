@@ -1,3 +1,8 @@
+# Menu item on the start page
+index_menu_netiquette='
+Netiquette
+'
+
 netiquette='
 # Netiquette
 
