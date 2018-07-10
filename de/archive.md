@@ -9,6 +9,14 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/07/09 PRESSEMELDUNG**: ABSCHOTTUNG MIT SYSTEM: Ermittlungen gegen Crewmitglieder von Jugend Rettet e.V.
+
+[Nachdem das Seenotrettungsschiff IUVENTA von Jugend Rettet e.V. seit
+vergangenem August unter dem Vorwand einer präventiven Beschlagnahme festgesetzt wurde,
+erweitert die italienische Staatsanwaltschaft nun ihre Ermittlungen gegen einzelne Crewmitglieder
+der Organisation. Die Kriminalisierung von Seenotrettung mit dem Ziel der vollständigen
+Abschottung Europas zeigt ein weiteres Mal ihr grausames und abschreckendes Gesicht.](../f/files/PM_090718_DEUTSCH_web.pdf)
+
 #### **2018/06/24 Gemeinsame Erklärung**: Die Externalisierung der Europäischen Grenzen stoppen
 
 Die zivile Rettungsflotte fordert die EU und ihre Mitgliedstaaten nachdrücklich
