@@ -22,9 +22,13 @@ news_news_item_title='
 news_press_release='
 ### Press release
 
-#### NEW THREATENING GESTURES OF THE ITALIAN INTERIOR MINISTER AGAINST GERMAN MARITIME RESCUE ORGANIZATIONS
+#### SYSTEMATIC WALLS-UP POLICY: Investigations against crew members of Jugend Rettet e.V.
 
-[**Berlin, 22.6.2018**: Matteo Salvini's ambitions to close down Italian ports as a place of safety for NGO vessels and to hamper the work of NGOs, as well as to reduce rescue capacity, cost numerous lives again.](../f/files/JR_PM_20180622_ENG.pdf) 
+[**Berlin, July 10th 2018**: After the rescue ship IUVENTA of Jugend Rettet e.V. has been detained under the
+pretext of a preventive seizure last August, the Italian public prosecutor's office is now expanding
+its investigations against individual crew members of the organization. The criminalization of
+search and rescue organizations with the aim of a complete isolation of Europe shows once again
+its cruel and deterrent face.](../f/files/PM_090718_ENGL_web.pdf)
 '
 
 news_press_kit='

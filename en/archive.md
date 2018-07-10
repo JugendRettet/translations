@@ -9,6 +9,14 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/07/09 PRESS RELEASE**: SYSTEMATIC WALLS-UP POLICY: Investigations against crew members of Jugend Rettet e.V.
+
+[After the rescue ship IUVENTA of Jugend Rettet e.V. has been detained under the
+pretext of a preventive seizure last August, the Italian public prosecutor's office is now expanding
+its investigations against individual crew members of the organization. The criminalization of
+search and rescue organizations with the aim of a complete isolation of Europe shows once again
+its cruel and deterrent face.](../f/files/PM_090718_ENGL_web.pdf)
+
 #### **2018/06/24 Joint Statement**: Stop the Externalisation of European Borders
 
 The civil rescue fleet urges the EU and its member states to stop the

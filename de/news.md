@@ -23,9 +23,13 @@ news_news_item_title='
 news_press_release='
 ### Pressemeldung
 
-#### ERNEUTE DROHGEBÄRDEN DES ITALIENISCHEN INNENMINISTERS GEGEN DEUTSCHE SEENOTRETTUNGSORGANISATIONEN
+#### ABSCHOTTUNG MIT SYSTEM: Ermittlungen gegen Crewmitglieder von Jugend Rettet e.V.
 
-[**Berlin, 22.6.2018**: Matteo Salvinis Ambitionen die italienischen Häfen als sichere Häfen für NGO-Schiffe zu schließen und die Arbeit der NGOs zu behindern, sowie Rettungskapazitäten zu verringern, kosten erneut zahlreiche Menschenleben.](../f/files/JR_PM_20180622_GER.pdf) 
+[**Berlin, 10.07.2018**: Nachdem das Seenotrettungsschiff IUVENTA von Jugend Rettet e.V. seit
+vergangenem August unter dem Vorwand einer präventiven Beschlagnahme festgesetzt wurde,
+erweitert die italienische Staatsanwaltschaft nun ihre Ermittlungen gegen einzelne Crewmitglieder
+der Organisation. Die Kriminalisierung von Seenotrettung mit dem Ziel der vollständigen
+Abschottung Europas zeigt ein weiteres Mal ihr grausames und abschreckendes Gesicht.](../f/files/PM_090718_DEUTSCH_web.pdf)
 '
 
 news_press_kit='
