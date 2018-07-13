@@ -35,6 +35,7 @@ sub_team_embassies='
 * **London**: [Lena](mailto:LenaG@jugendrettet.org)
 * **Lübeck:** [Simon](mailto:Simon_Luebeck@jugendrettet.org), [Ronja](mailto:Ronja_Luebeck@jugendrettet.org), [Darlene](mailto:Darlene_Luebeck@jugendrettet.org)
 * **Lüneburg:** [Tom](mailto:Tom_Lueneburg@jugendrettet.org)
+* **Magdeburg:** [Lea](mailto:Lea_Magdeburg@jugendrettet.org)
 * **Mönchengladbach**: [Pascal](mailto:Pascal_Moenchengladbach@jugendrettet.org)
 * **München**: [Johnny](mailto:Johnny@jugendrettet.org)
 * **Münster**: [Paul](mailto:Paul_Muenster@jugendrettet.org)
