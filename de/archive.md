@@ -9,6 +9,12 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/07/25**: Aufruf zum Handeln an die österreichische Ratspräsidentschaft der Europäischen Union
+
+Forderung nach Fortsetzung des Zugangs zu individuellen Asylrechten in Europa.
+
+[Ganze gemeinsame Erklärung (Englisch)](../f/Joint_Statement_Austrian_Presidency.pdf)
+
 #### **2018/07/09 PRESSEMELDUNG**: ABSCHOTTUNG MIT SYSTEM: Ermittlungen gegen Crewmitglieder von Jugend Rettet e.V.
 
 [Nachdem das Seenotrettungsschiff IUVENTA von Jugend Rettet e.V. seit
