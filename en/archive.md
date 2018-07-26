@@ -9,6 +9,12 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/07/25**: Call for Action to the Austrian Presidency of the Council of the European Union
+
+A demand for the continuation of access to individual asylum rights in Europe.
+
+[Full Joint Statement](../f/Joint_Statement_Austrian_Presidency.pdf)
+
 #### **2018/07/09 PRESS RELEASE**: SYSTEMATIC WALLS-UP POLICY: Investigations against crew members of Jugend Rettet e.V.
 
 [After the rescue ship IUVENTA of Jugend Rettet e.V. has been detained under the
