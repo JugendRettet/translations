@@ -1,5 +1,4 @@
 sub_team_sponsors='
-* ![Jugendpresse.de](../f/logos/jpd.svg "Jugendpresse.de")
 * ![Santinis.de](../f/logos/Santini-Logo_sw.svg "Santinis.de")
 * ![printproduction.de](../f/logos/Logo_Print_Production_2c.svg "printproduction.de")
 * ![netzwerk-selbsthilfe.de](../f/logos/nwsh.png "netzwerk-selbsthilfe.de")
