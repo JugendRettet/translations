@@ -5,7 +5,7 @@ sub_team_embassies='
 * **Berlin**: [Sonja](mailto:Sonja@jugendrettet.org), [Projekt Begegnung](mailto:Projekt.Begegnung_Berlin@jugendrettet.org)
 * **Bielefeld**: [Andreas](mailto:Andreas_Bielefeld@jugendrettet.org)
 * **Blagoewgrad:** [Vincent](mailto:Vincent_Blagoewgrad@jugendrettet.org)
-* **Bonn**: [Anna](mailto:AnnaB@jugendrettet.org), [Natalie](mailto:Natalie_Bonn@jugendrettet.org)
+* **Bonn**: [Anna](mailto:AnnaB@jugendrettet.org), [Natalie](mailto:Natalie_Bonn@jugendrettet.org), [Leon](mailto:Leon_Bonn@jugendrettet.org)
 * **Bremen**: [Niklas](mailto:Niklas_Bremen@jugendrettet.org), [Thomas](mailto:Thomas@jugendrettet.org)
 * **Cuxhaven**: [Nadine](mailto:Nadine_Cuxhaven@jugendrettet.org)
 * **Düsseldorf:** [Philip](mailto:Philip_Duesseldorf@jugendrettet.org), [Lotte](mailto:Lotte_Duesseldorf@jugendrettet.org)
