@@ -12,7 +12,6 @@ sub_team_embassies='
 * **Emden**: [Patrick](mailto:Patrick_Emden@jugendrettet.org)
 * **Emsland**: [Jannik](mailto:Jannik_Emsland@jugendrettet.org), [Max](mailto:MaxB@jugendrettet.org)
 * **Engstingen**: [Aron](mailto:Aron_Engstingen@jugendrettet.org), [Jeremias](mailto:Jeremias_Engstingen@jugendrettet.org)
-* **Erkrath**: [Anna](mailto:AnnaB@jugendrettet.org)
 * **Frankfurt**: [Markus](mailto:Markus_Frankfurt@jugendrettet.org)
 * **Freiburg:** [Eliza](mailto:Eliza_Freiburg@jugendrettet.org), [Elisabeth](mailto:Elisabeth_Freiburg@jugendrettet.org)
 * **Gelsenkirchen:** [Jessi](mailto:Jessi_Gelsenkirchen@jugendrettet.org)
