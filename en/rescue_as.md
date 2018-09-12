@@ -81,5 +81,5 @@ rescue_as_ambassador_title='
 
 rescue_as_ambassador='
 Become an official representative of our organisation in your local area. Organise fundraising events, presentations and do PR. We provide the necessary materials and aid in case of any questions. You can help JUGEND RETTET **IUVENTA** by getting creative and bringing in your own ideas. Meet the other ambassadors in our online forum and engage in discussions on asylum policies.  
-Interested? Sent us an email at <Embassies@jugendrettet.org>.
+Interested? Sent us an email at <BotschaftenAG@jugendrettet.org>.
 '

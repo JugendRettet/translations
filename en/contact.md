@@ -8,8 +8,7 @@ contact='
 
 * Organization: <Info@jugendrettet.org> [(PGP Key)](../f/files/JR_pub.asc)
 * Team PR: <Oeffentlichkeit@jugendrettet.org>
-* Team European Embassies: <Embassies@jugendrettet.org>
-* German Embassies: <BotschaftenAG@jugendrettet.org>
+* Team Embassies: <BotschaftenAG@jugendrettet.org>
 * [Press](./press)
 * [Crewing](./crewing)
 * Webmaster: <webmaster@jugendrettet.org>
