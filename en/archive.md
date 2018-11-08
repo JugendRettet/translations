@@ -9,6 +9,14 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/11/04**: Donation and information booth at the "Konzert-Klangbrücke Afrika-Europa" in Herzogenrath
+
+At the "Konzert-Klangbrücke Afrika-Europa" in Herzogenrath we collected donations for our work. In addition, Eddi Hüneke (formerly Wise Guys), Petra Jansen (singer and journalist) and Warnee Poland (guitarist, among others, the Nina Hagen Band) spoke with our ambassadors about our work. It was a nice evening and we would like to thank the Eurode Youth Orchestra Herzogenrath for the invitation and the beautiful music!
+
+#### **2018/10/29**: Participation in podium of the European Graduate School
+
+Clemens sat on the podium at the European Graduate School and, together with other SAR experts, including Charles Heller of Forensic Architecture and Tamino of Sea-Watch, discussed the current situation of the SAR organizations.
+
 #### **2018/07/25**: Call for Action to the Austrian Presidency of the Council of the European Union
 
 A demand for the continuation of access to individual asylum rights in Europe.

@@ -9,6 +9,14 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/11/04**: Spenden- und Informationsstand beim "Konzert-Klangbrücke Afrika-Europa" in Herzogenrath
+
+Beim "Konzert-Klangbrücke Afrika-Europa" in Herzogenrath wir für unsere Arbeit Spenden gesammelt. Außerdem haben sich Eddi Hüneke (ehemals Wise Guys), Petra Jansen (Sängerin und Journalistin) und Warnee Poland (Gitarrist u.a. der Nina Hagen Band) bei unseren Botschafter*innen über unsere Arbeit informiert. Es war ein schöner Abend und wir bedanken uns vor allem beim Eurode Jugendorchester Herzogenrath für die Einladung und die schöne Musik!
+
+#### **2018/10/29**: Teilnahme an Podium der European Graduate School
+
+Clemens saß für uns auf dem Podium der European Graduate School und hat gemeinsam mit anderen SAR-Expert*innen, darunter Charles Heller von Forensic Architecture und Tamino von Sea-Watch, über die aktuelle Situation der Seenotrettungsorganisationen diskutiert.
+
 #### **2018/07/25**: Aufruf zum Handeln an die österreichische Ratspräsidentschaft der Europäischen Union
 
 Forderung nach Fortsetzung des Zugangs zu individuellen Asylrechten in Europa.
