@@ -17,6 +17,21 @@ At the "Konzert-Klangbrücke Afrika-Europa" in Herzogenrath we collected donatio
 
 Clemens sat on the podium at the European Graduate School and, together with other SAR experts, including Charles Heller of Forensic Architecture and Tamino of Sea-Watch, discussed the current situation of the SAR organizations.
 
+#### **2018/10/29**: Our IUVENTA is chained for 453 days
+
+For at least two years, Italian authorities are using the toughest means, such as eavesdropping telephones, listening bugs and smuggling covert investigators on other ships against us, without providing punishable evidence.
+For 453 days we could have saved people on the Mediterranean.
+
+#### **2018/10/27**: Roller Derby in Potsdam
+
+Paws up for the cats! Thank you Prussian Fat Cats - Roller Derby Potsdam for the invitation to the Derby - rolling against racism & for #freeIUVENTA!
+
+#### **2018/10/14**: Interview with Captain Pia at Phoenix
+
+Captain Pia also participated in two missions at the IUVENTA. She and nine other crew members are being investigated in Italy. In the interview with PHOENIX she talks about her motivation to continue anyway. Thank you for your commitment!
+
+[Video](https://www.facebook.com/JugendRettet/videos/270620560244750/)
+
 #### **2018/07/25**: Call for Action to the Austrian Presidency of the Council of the European Union
 
 A demand for the continuation of access to individual asylum rights in Europe.

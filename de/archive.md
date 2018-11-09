@@ -17,6 +17,21 @@ Beim "Konzert-Klangbrücke Afrika-Europa" in Herzogenrath wir für unsere Arbeit
 
 Clemens saß für uns auf dem Podium der European Graduate School und hat gemeinsam mit anderen SAR-Expert*innen, darunter Charles Heller von Forensic Architecture und Tamino von Sea-Watch, über die aktuelle Situation der Seenotrettungsorganisationen diskutiert.
 
+#### **2018/10/29**: Seit 453 Tagen liegt unsere IUVENTA an der Kette.
+
+Mindestens seit 2 Jahren ermitteln italienische Behörden mit härtesten Mittel wie dem Abhören von Telefonen, Abhörwanzen und Einschleusen verdeckter Ermittler auf anderen Schiffen gegen uns, ohne uns bisher Strafbares nachweisen zu können.
+Seit 453 Tagen hätten wir auf dem Mittelmeer Menschen retten können.
+
+#### **2018/10/27**: Roller Derby in Potsdam
+
+Für die Katzen hoch die Tatzen! Danke Prussian Fat Cats - Roller Derby Potsdam für die Einladung zum Derby - rollend gegen Rassismus & für #freeIUVENTA!
+
+#### **2018/10/14**: Interview mit Kapitänin Pia bei Phoenix
+
+Kapitänin Pia war auch bei zwei Missionen auf der IUVENTA dabei. Nun wird unter anderem gegen sie und neun weitere Crewmitglieder in Italien ermittelt. In dem Interview mit PHOENIX erzählt sie über ihre Motivation trotzdem weiter zu machen. Danke für deinen Einsatz!
+
+[zum Video](https://www.facebook.com/JugendRettet/videos/270620560244750/)
+
 #### **2018/07/25**: Aufruf zum Handeln an die österreichische Ratspräsidentschaft der Europäischen Union
 
 Forderung nach Fortsetzung des Zugangs zu individuellen Asylrechten in Europa.
