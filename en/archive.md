@@ -11,13 +11,11 @@ archive_current='
 
 #### **2018/11/11**: Death toll for crossing the Mediterranean has risen almost twelve-fold compared to September of last two years
 
-![Chart death rates] (../f/images/archive/20181111_001.jpg "Chart death rates")
+![Chart death rates](../f/images/archive/20181111_001.jpg "Chart death rates")
 
 The death toll for crossing the Mediterranean has increased almost twelve-fold compared to September of the last two years.
 
 We demand: A government rescue program and an immediate end to the criminalization of humanitarian aid. To guarantee safe escape routes for all people.
-
-#freeIUVENTA #TogetherforRescue
 
 #### **2018/11/04**: Donation and information booth at the "Konzert-Klangbrücke Afrika-Europa" in Herzogenrath
 

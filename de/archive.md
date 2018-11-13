@@ -17,8 +17,6 @@ Die Todesrate für die Überfahrt über das Mittelmeer ist im Vergleich zum Sept
 
 Wir fordern: Ein staatliches Seenotrettungsprogramm und ein sofortiges Ende der Kriminalisierung von humanitärer Hilfe. Um sichere Fluchtwege für alle Menschen zu garantieren.
 
-#freeIUVENTA #TogetherforRescue
-
 #### **2018/11/04**: Spenden- und Informationsstand beim "Konzert-Klangbrücke Afrika-Europa" in Herzogenrath
 
 Beim "Konzert-Klangbrücke Afrika-Europa" in Herzogenrath wir für unsere Arbeit Spenden gesammelt. Außerdem haben sich Eddi Hüneke (ehemals Wise Guys), Petra Jansen (Sängerin und Journalistin) und Warnee Poland (Gitarrist u.a. der Nina Hagen Band) bei unseren Botschafter*innen über unsere Arbeit informiert. Es war ein schöner Abend und wir bedanken uns vor allem beim Eurode Jugendorchester Herzogenrath für die Einladung und die schöne Musik!
