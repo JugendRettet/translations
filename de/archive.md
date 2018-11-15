@@ -47,6 +47,63 @@ Kapitänin Pia war auch bei zwei Missionen auf der IUVENTA dabei. Nun wird unter
 
 [zum Video](https://www.facebook.com/JugendRettet/videos/270620560244750/)
 
+#### **2018/10/12**: Jugend RETTET nimmt teil an "unteilbar"-Demo in Berlin
+
+#### **2018/09/29**: Jugend RETTET nimmt teil an "We'll come united"-Demo in Hamburg
+
+#### **2018/09/20**: Positionspapier zum Gipfel in Salzburg
+
+Das Motto des EU-Gipfels in Salzburg "Ein Europa, das schützt" darf nicht bedeuten, dass nur Europäer geschützt werden. Isolation und die Weigerung, Verantwortung für europäische Werte zu übernehmen, ist ein Verrat an schutzbedürftigen Menschen.  
+Zusammen mit Sea-Watch, LIFELINE, Solidarity at sea, Sea-Eye, Borderline Europe - Menschenrechte ohne Grenzen e.V. haben wir ein Positionspapier entwickelt: [Link (Englisch)](../f/files/Position_Paper_20_09_18.pdf)
+
+#### **2018/09/13**: Podiumsdiskussion im Bundestag: Seenotrettung im Mittelmeer
+
+Wir haben mit vielen Kollegen an der Podiumsdiskussion "Seenotrettung im Mittelmeer" im Bundestag teilgenommen und die Kriminalisierung von Seenotrettung diskutiert: Wir brauchen endlich ein Ende der europäischen Isolationspolitik!
+
+#### **2018/09/07**: Bundesweite Teilnahme an Protesten von "Seebrücke - Schafft sichere Häfen"
+
+Unser Botschaften-Netzwerk wächst gerade wieder stetig und wir sind sehr dankbar über jede*n von ihnen. In diesen schweren Zeiten gibt es immer noch viele junge Menschen, die nicht einfach zusehen können wie Menschen ertrinken, sondern die Idee der praktischen Solidarität sie zum Handeln bewegt.  
+So sind viele landesweit sehr aktiv bei Seebrücke - Schafft sichere Häfen.  
+Bei der European Protest Week in München, Bremen, Köln, Hamburg, Bremen, Berlin und Bonn waren wir wieder zahlreich vertreten.
+
+#### **2018/08/24**: Technische Inspektion unserer IUVENTA
+
+Unsere IUVENTA gibt nicht auf!  
+Nach langem Warten konnten wir gestern endlich eine kurze technische Inspektion machen und unser Schiff besichtigen. Entgegen unserer Befürchtungen zeigt sich die alte Dame sehr widerständig und kämpft tapfer gegen Rost und Seewasser.  
+Wir nehmen uns ein Beispiel daran und werden ebenfalls weiterkämpfen. Denn es ist auch unsere Welt, in der Menschenwürde plötzlich wieder verhandelbar scheint. Wir als junge Europäer*innen haben eine andere Vorstellung davon, wie eine lebenswerte und solidarische Gesellschaft aussieht. Und eine Idee lässt sich nicht so einfach in Ketten legen wie ein Schiff.
+
+![IUVENTA](../f/images/archive/20180824_001.jpg "IUVENTA")
+
+#### **2018/08/02**: Beschlagnahme unserer IUVENTA jährt sich
+
+Ein Jahr. Unser Schiff liegt in Trapani in Ketten, während das Sterben im Mittelmeer weitergeht - die Todesrate so hoch wie seit Jahren nicht mehr. Wir könnten jetzt vor Ort sein und Menschenleben retten. Wo ist unser Schiff?
+
+![Wo ist unser Schiff?](../f/images/archive/20180802_001.jpg "Wo ist unser Schiff?")
+
+#### **2018/07/31**: Italienisches Schiff bringt gerettete Schiffsbrüchige illegal nach Libyen zurück
+
+Gestern brachte ein italienisches Schiff gerettete Schiffsbrüchige nach Libyen zurück - eine illegale Push-Back-Aktion, die uns sprachlos und wütend macht.  
+Bereits 2012 wurde vom EGMR entschieden, dass das Zurückweisen von Menschen nach Libyen illegal ist. Seit Jahren berichten betroffene Personen, NGOs, selbst deutsche Botschafter von den unmenschlichen Zuständen in libyschen Internierungslager. Von der Gewalt, der Zwangsarbeit, den Vergewaltigungen und Exekutionen, denen Migrant*innen ausgesetzt sind.
+
+[Artikel im The Guardian (Englisch)](https://www.theguardian.com/world/2018/jul/31/italian-ship-returned-rescued-people-to-libya-charity-says)
+
+#### **2018/07/31**: Spende von Schüler*innen des Friedrich-List-Gymnasiums
+
+Wir sind überwältigt: Die Schüler*innen des Friedrich-List-Gymnasiums sind für ihr Projekt Krass am FLG-Gemünden mit dem Würzburger Friedenspreis 2018 ausgezeichnet worden und haben während der Veranstaltung mehr als 700€ für Jugend RETTET gesammelt: "Wir (...) hoffen, dass die IUVENTA schon bald wieder in See stechen kann, um weitere Menschenleben zu retten." Danke euch! 
+
+#### **2018/07/30**: Offener Brief an das UNHCR
+
+Heute haben wir gemeinsam mit anderen NGOs, die im Mittelmeer aktiv sind, einen offenen Brief an das UNHCR, the UN Refugee Agency, geschrieben. Wir erwarten, dass das UNHCR seine wichtigste Aufgabe erfüllt: Den Schutz von geflüchteten Menschen.
+
+[offener Brief](../f/Open_Letter_UNHCR.pdf)
+
+#### **2018/07/29**: Unterstützung am Tag der Seenotrettung
+
+Danke Sea-Watch, sea-eye und Mission Lifeline, dass ihr an uns denkt, und für die stetige Unterstützung! Wir hoffen, dass ihr und wir bald wieder in See stechen können!  
+Gerade am #TagDerSeenotrettung sollte die EU uns nicht daran hindern, sondern unterstützen bei dem, was wir tun!
+
+[Video](https://www.facebook.com/seawatchprojekt/videos/2080445775506826/)
+
 #### **2018/07/25**: Aufruf zum Handeln an die österreichische Ratspräsidentschaft der Europäischen Union
 
 Forderung nach Fortsetzung des Zugangs zu individuellen Asylrechten in Europa.

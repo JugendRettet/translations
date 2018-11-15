@@ -47,6 +47,63 @@ Captain Pia also participated in two missions at the IUVENTA. She and nine other
 
 [Video](https://www.facebook.com/JugendRettet/videos/270620560244750/)
 
+#### **2018/10/12**: Jugend RETTET IUVENTA participates at "unteilbar" Demonstration in Berlin
+
+#### **2018/09/29**: Jugend RETTET IUVENTA participates at "We'll come united" Demonstration in Hamburg
+
+#### **2018/09/20**: Position paper for summit in Salzburg
+
+The motto of the EU summit in Salzburg "a Europe that protects" must not mean that only Europeans are protected. Isolation and the refusal to accept responsibility for those European values is a betrayal for the people in need of protection.
+Together with Sea-Watch, LIFELINE, Solidarity at sea, sea-eye and borderline europe - Menschenrechte ohne Grenzen e.V. we developed a position paper: [Link](../f/files/Position_Paper_20_09_18.pdf)
+
+#### **2018/09/13**: Participation in conference "Sea Rescue in the Mediterranean" at the Bundestag
+
+We were participating with many colleagues in the conference "Sea Rescue in the Mediterranean" at the Bundestag in Berlin and discussed the criminalization of search and rescue: We finally need an end of the European policy of isolation!
+
+#### **2018/09/07**: Nationwide participation in protests of "Seebrücke - Schafft sichere Häfen" ("pier - create safe havens")
+
+Our embassy network is growing steadily and we are very grateful to each one of them. In these hard times, there are still many young people who can not simply watch as people drown, but the idea of practical solidarity moves them to action.  
+Therefore many are very active nationwide at "Seebrücke - Schafft sichere Häfen" ("pier - create safe havens"). 
+At the European Protest Week in Munich, Bremen, Cologne, Hamburg, Bremen, Berlin and Bonn we were again numerously represented.
+
+#### **2018/08/24**: Technical inspection of our IUVENTA
+
+Our IUVENTA does not give up!  
+After a long wait we were finally able to do a short technical inspection yesterday and visit our ship. Contrary to our fears, the old lady shows very resistant and bravely fighting against rust and seawater.  
+We'll take an example and continue to fight. For it is also our world in which human dignity suddenly seems to be negotiable again. We as young Europeans have a different idea of what a liveable and caring society looks like. And an idea is not as easy to chain as a ship.
+
+![IUVENTA](../f/images/archive/20180824_001.jpg "IUVENTA")
+
+#### **2018/08/02**: Confiscation of our IUVENTA anniversary
+
+One year. Our ship is in chains in Trapani, while dying in the Mediterranean continues - the death rate is higher than in years. We could be there now and save lives. Where is our ship?
+
+![Where is our ship?](../f/images/archive/20180802_001.jpg "Where is our ship?")
+
+#### **2018/07/31**: Italian ship illegally returns rescued shipwrecked to Libya
+
+Yesterday, an Italian ship brought rescued shipwrecked people back to Libya - an illegal push-back action that leaves us speechless and angry.  
+Already in 2012, the ECtHR ruled that repelling people to Libya was illegal. For years, affected persons, NGOs, even German ambassadors have reported on the inhumane conditions in Libyan internment camps: violence, forced labor, rape and executions.
+
+[Report in The Guardian](https://www.theguardian.com/world/2018/jul/31/italian-ship-returned-rescued-people-to-libya-charity-says)
+
+#### **2018/07/31**: Donation from pupils of the Friedrich-List-Gymnasium
+
+We are overwhelmed: The pupils of the Friedrich-List-Gymnasium have been awarded the Würzburg Peace Prize 2018 for their project Krass at the FLG-Gemünden and have collected more than 700€ for Jugend RETTET during the event: "We (... ) hope that IUVENTA can soon set sail again to save more human lives." Thank you!
+
+#### **2018/07/30**: Open letter to the UNHCR
+
+Today, together with other NGOs active in the Mediterranean, we have written an open letter to UNHCR, the UN Refugee Agency. We expect the UNHCR to fulfill its most important task: the protection of refugees.
+
+[Open letter](../f/Open_Letter_UNHCR.pdf)
+
+#### **2018/07/29**: Support on the day of maritime rescue
+
+Thank you Sea-Watch, sea-eye and Mission Lifeline for thinking of us and for your continued support! We hope that you and we can set sail again soon!  
+Especially on the day of maritime rescue the EU should not stop us, but support us in what we do!
+
+[Video (German)](https://www.facebook.com/seawatchprojekt/videos/2080445775506826/)
+
 #### **2018/07/25**: Call for Action to the Austrian Presidency of the Council of the European Union
 
 A demand for the continuation of access to individual asylum rights in Europe.
