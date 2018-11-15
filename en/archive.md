@@ -9,6 +9,13 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/11/13**: "Investigations against private maritime rescuers" - report in the NDR
+
+The Italian public prosecutor investigates 10 former crew members of our ship, the IUVENTA.  
+They talked about it with the NDR.
+
+[To the video (German)](https://www.ndr.de/fernsehen/sendungen/panorama3/Ermittlungen-gegen-private-Seenotretter,panoramadrei2972.html)
+
 #### **2018/11/11**: Death toll for crossing the Mediterranean has risen almost twelve-fold compared to September of last two years
 
 ![Chart death rates](../f/images/archive/20181111_001.jpg "Chart death rates")

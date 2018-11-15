@@ -9,6 +9,13 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/11/13**: "Ermittlungen gegen private Seenotretter" - Beitrag im NDR
+
+Die italienische Staatsanwaltschaft ermittelt gegen 10 ehemalige Crewmitglieder unseres Schiffs, der IUVENTA.  
+Mit dem NDR haben sie darüber gesprochen.
+
+[Zum Video](https://www.ndr.de/fernsehen/sendungen/panorama3/Ermittlungen-gegen-private-Seenotretter,panoramadrei2972.html)
+
 #### **2018/11/11**: Todesrate für die Überfahrt über das Mittelmeer im Vergleich zum September der letzten zwei Jahre um fast das Zwölffache gestiegen
 
 ![Grafik Todesraten](../f/images/archive/20181111_001.jpg "Grafik Todesraten")
