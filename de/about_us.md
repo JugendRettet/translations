@@ -87,6 +87,8 @@ Umbau der IUVENTA.
 [Beschlagnahmung der IUVENTA.](./mission#current)
 * **2017**  
 [Über 10.000 Gerettete in 8 Missionen.](./mission#archive)
+
+**Aktuelle News in unserem [Archiv](./archive)**
 '
 
 about_iuventa_menu='
