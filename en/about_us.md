@@ -88,6 +88,8 @@ Renovation of the IUVENTA.
 [Seizure of the IUVENTA.](./mission#current)
 * **2017**  
 [Over 10,000 rescued in 8 missions.](./mission#archive)
+
+**Up-to-date news in our [archive](./archive)**
 '
 
 about_iuventa_menu='
