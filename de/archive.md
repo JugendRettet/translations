@@ -9,6 +9,18 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/11/21**: "Leben retten ist kein Verbrechen." - Vereinten Nationen in Genf
+
+Die Vereinten Nationen haben Italien dazu aufgefordert, Menschenrechte zu beachten und die Rettungsorganisationen nicht zu behindern.  
+In einem ausführlichen Brief von elf Sonderberichterstattern fordern die UN Italien dazu auf, humanitäre Hilfe nicht weiter zu kriminalisieren und sich an internationale Regeln zu halten.
+
+[Stellungnahme der UN (Englisch)](https://www.ohchr.org/en/NewsEvents/Pages/DisplayNews.aspx?NewsID=23908&LangID=E)
+
+#### **2018/11/21**: Jugend RETTET steht solidarisch mit SOS Mediterranee und Ärzte ohne Grenzen
+
+"Dies ist Kriminalisierung von humanitärer Hilfe auf See. Derzeit ist kein Rettungsschiff im Mittelmeer im Einsatz, obwohl die Wahrscheinlichkeit, auf der Flucht über das Meer zu sterben, jeden Tag steigt", sagt Frederic Penard, Director of Operations von SOS MEDITERRANEE.  
+Wir stehen solidarisch mit SOS Mediterranee und Ärzte ohne Grenzen. Nach der Beschlagnahme der IUVENTA und laufenden Ermittlungen gegen unsere Crew erreicht die Kriminalisierungskampagne in Italien einen weiteren Gipfel der Absurdität.
+
 #### **2018/11/13**: "Ermittlungen gegen private Seenotretter" - Beitrag im NDR
 
 Die italienische Staatsanwaltschaft ermittelt gegen 10 ehemalige Crewmitglieder unseres Schiffs, der IUVENTA.  

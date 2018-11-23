@@ -9,6 +9,18 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/11/21**: "Saving lives is not a crime." - United Nations in Geneva
+
+The United Nations have called on Italy to respect human rights and not to interfere with rescue organizations.  
+In a detailed letter from eleven Special Rapporteurs, the UN calls on Italy not to further criminalize humanitarian aid and abide by international rules.
+
+[Statement of the UN](https://www.ohchr.org/en/NewsEvents/Pages/DisplayNews.aspx?NewsID=23908&LangID=E)
+
+#### **2018/11/21**: Jugend Rettet IUVENTA stands in solidarity with SOS Mediterranee and Doctors Without Borders
+
+"This is another strike in the series of attacks criminalising humanitarian aid at sea. The tragic current situation is leading to an absence of humanitarian search and rescue vessels operating in the central Mediterranean, while the mortality rate is on the rise" says Frederic Penard, SOS MEDITERRANEE Head of Operations.  
+We stand in solidarity with SOS Mediterranee and Doctors Without Borders. Following the seizure of the IUVENTA and ongoing investigations against our crew, the Italian criminalization campaign reaches yet another peak of absurdity.
+
 #### **2018/11/13**: "Investigations against private maritime rescuers" - report in the NDR
 
 The Italian public prosecutor investigates 10 former crew members of our ship, the IUVENTA.  
