@@ -2,6 +2,6 @@ jobs='
 ## JOBS AN LAND
 
 <span class="text-center">
-**[Advocacy](../jobs/Advocacy.pdf)** | **[Direct Action](../jobs/DirectAction.pdf)** | **[Fundraising](../jobs/Fundraising.pdf)** | **[Presse](../jobs/Press.pdf)** | **[Social Media](../jobs/SoMe.pdf)**
+**[Advocacy](../f/jobs/Advocacy.pdf)** | **[Direct Action](../f/jobs/DirectAction.pdf)** | **[Fundraising](../f/jobs/Fundraising.pdf)** | **[Presse](../f/jobs/Press.pdf)** | **[Social Media](../f/jobs/SoMe.pdf)**
 </span>
 '
