@@ -11,7 +11,7 @@ archive_current='
 
 #### **2018/11/26**: Solidarische Grüße von Ut-Vitam
 
-Wir bekamen solidarische Grüße von der NGO [Ut-Vitam](www.utvitam-togo.org/) aus Togo.
+Wir bekamen solidarische Grüße von der NGO [Ut-Vitam](http://www.utvitam-togo.org/) aus Togo.
 
 [Foto und Gruß](https://www.facebook.com/456315244517006/photos/a.760159144132613/1140273552787835/)
 
