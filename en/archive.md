@@ -11,7 +11,7 @@ archive_current='
 
 #### **2018/11/26**: Solidary greetings from Ut-Vitam
 
-We received solidary greetings from the NGO [Ut-Vitam](www.utvitam-togo.org/) from Togo.
+We received solidary greetings from the NGO [Ut-Vitam](http://www.utvitam-togo.org/) from Togo.
 
 [Photo and Greeting](https://www.facebook.com/456315244517006/photos/a.760159144132613/1140273552787835/)
 
