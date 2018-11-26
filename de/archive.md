@@ -9,6 +9,17 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/11/26**: Solidarische Grüße von Ut-Vitam
+
+Wir bekamen solidarische Grüße von der NGO [Ut-Vitam](www.utvitam-togo.org/) aus Togo.
+
+[Foto und Gruß](https://www.facebook.com/456315244517006/photos/a.760159144132613/1140273552787835/)
+
+#### **2018/11/24**: IUVENTA-Crew nominiert für den International Maritime Rescue Federation Award
+
+Während gegen zehn unserer Crewmitglieder in Italien ermittelt wird, wurde die gesamte Crew unserer IUVENTA für ihren herausragenden Beitrag zum Zivildienst von der International Maritime Rescue Federation - IMRF nominiert.  
+Diese Anerkennung von Engagement und Professionalität macht uns in diesem Moment besonders glücklich, wenn Ermittlungen gegen unsere Freiwilligen laufen, Schiffe beschlagnahmt werden und die SAR-NGOs als Sündenböcke für eine gescheiterte Migrationspolitik herangezogen werden.
+
 #### **2018/11/21**: "Leben retten ist kein Verbrechen." - Vereinten Nationen in Genf
 
 Die Vereinten Nationen haben Italien dazu aufgefordert, Menschenrechte zu beachten und die Rettungsorganisationen nicht zu behindern.  
