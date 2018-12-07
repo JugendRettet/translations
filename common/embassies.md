@@ -10,7 +10,7 @@ sub_team_embassies='
 * **Cuxhaven**: [Nadine](mailto:Nadine_Cuxhaven@jugendrettet.org)
 * **Düsseldorf:** [Philip](mailto:Philip_Duesseldorf@jugendrettet.org), [Lotte](mailto:Lotte_Duesseldorf@jugendrettet.org)
 * **Emden**: [Patrick](mailto:Patrick_Emden@jugendrettet.org)
-* **Emsland**: [Jannik](mailto:Jannik_Emsland@jugendrettet.org), [Max](mailto:MaxB@jugendrettet.org), [Patricia](mailto:Patricia_Emsland@jugendrettet.org)
+* **Emsland**: [Jannik](mailto:Jannik_Emsland@jugendrettet.org), [Max](mailto:MaxB@jugendrettet.org), [Patricia](mailto:Patricia_Emsland@jugendrettet.org), [Thea](mailto:Thea_Emsland@jugendrettet.org)
 * **Engstingen**: [Aron](mailto:Aron_Engstingen@jugendrettet.org), [Jeremias](mailto:Jeremias_Engstingen@jugendrettet.org)
 * **Erlangen:** [Nico](mailto:Nico_Erlangen@jugendrettet.org), [Rebekka](mailto:Rebekka_Erlangen@jugendrettet.org)
 * **Freiburg:** [Eliza](mailto:Eliza_Freiburg@jugendrettet.org), [Elisabeth](mailto:Elisabeth_Freiburg@jugendrettet.org)
