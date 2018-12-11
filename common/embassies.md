@@ -14,6 +14,7 @@ sub_team_embassies='
 * **Engstingen**: [Aron](mailto:Aron_Engstingen@jugendrettet.org), [Jeremias](mailto:Jeremias_Engstingen@jugendrettet.org)
 * **Erlangen:** [Nico](mailto:Nico_Erlangen@jugendrettet.org), [Rebekka](mailto:Rebekka_Erlangen@jugendrettet.org)
 * **Freiburg:** [Eliza](mailto:Eliza_Freiburg@jugendrettet.org), [Elisabeth](mailto:Elisabeth_Freiburg@jugendrettet.org)
+* **Fulda:** [Carmen](mailto:Carmen_Fulda@jugendrettet.org)
 * **Gelsenkirchen:** [Jessi](mailto:Jessi_Gelsenkirchen@jugendrettet.org)
 * **Göttingen**: [Tatjana](mailto:Tatjana_Goettingen@jugendrettet.org), [Felix](mailto:Felix_Goettingen@jugendrettet.org), [Sebastian](mailto:Sebastian_Goettingen@jugendrettet.org)
 * **Göteborg**: [Jana](mailto:Jana_Goeteborg@jugendrettet.org), [Solveij](mailto:Solveij_Goeteborg@jugendrettet.org)
