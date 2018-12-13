@@ -9,6 +9,27 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/12/13**: Nomination for Sakharov Prize for Freedom of Thought by European Parliament
+
+Common Statement:  
+As search and rescue organisations, we are grateful that thanks to the initiative of the Socialists and
+Democrats Group, we were nominated for the Sakharov Prize for Freedom of Thought. This nomination
+is acknowledging the vital role which NGOs have played in saving human lives during the past years. Last
+year alone, NGOs have conducted about 40% of the rescues in the Central Mediterranean.  
+This year constitutes an extraordinary year for the protection of human rights - and simultaneously their
+devaluation - as it marks the 70th anniversary of the UN Declaration of Human Rights. However, in light
+of current EU migration policies, there is no cause for celebration. Over 2.100 people died this year, trying
+to reach safety in Europe. EU member states should use this anniversary to evaluate European migration
+policies with regards to the values agreed by the international community after the atrocities of the
+Second World War.  
+As NGOs, it is our role to critically remind the EU member states of the deadly consequences of their
+policies and of their legal responsibilities, and to shed light on human rights violations taking place in the
+Central Mediterranean at this very moment.  
+We are representing European civil society and jointly stand for and defend the most basic principle of all:
+every single life is of equal value and worth saving.
+
+[Full statement](../f/files/common_statement_strasbourg.pdf)
+
 #### **2018/11/26**: Solidary greetings from Ut-Vitam
 
 We received solidary greetings from the NGO [Ut-Vitam](http://www.utvitam-togo.org/) from Togo.

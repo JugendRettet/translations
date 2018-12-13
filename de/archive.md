@@ -9,6 +9,16 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/12/13**: Nominierung für Sacharow-Preis für geistige Freiheit durch das Europäische Parlament
+
+Gemeinsame Stellungnahme:  
+Als Rettungsorganisationen sind wir dankbar, dass wir dank der Initiative der Fraktion der Sozialdemokraten für den Sacharow-Preis für geistige Freiheit nominiert wurden. Diese Nominierung bestätigt die entscheidende Rolle, die NRO in den letzten Jahren bei der Rettung von Menschenleben gespielt haben. Allein im letzten Jahr haben NRO rund 40% der Rettungsaktionen im zentralen Mittelmeerraum durchgeführt.  
+Dieses Jahr ist ein außergewöhnliches Jahr für den Schutz der Menschenrechte - und gleichzeitig für deren Abwertung - anlässlich des 70. Jahrestages der UN-Menschenrechtserklärung. Angesichts der derzeitigen Migrationspolitik der EU gibt es jedoch keinen Grund zum Feiern. In diesem Jahr starben über 2.100 Menschen, die sich in Europa in Sicherheit bringen wollten. Die EU-Mitgliedstaaten sollten dieses Jubiläum nutzen, um die europäische Migrationspolitik im Hinblick auf die Werte zu bewerten, die die internationale Gemeinschaft nach den Gräueltaten des Zweiten Weltkriegs vereinbart hat.  
+Als NRO ist es unsere Aufgabe, die EU-Mitgliedstaaten kritisch an die tödlichen Konsequenzen ihrer Politik und an ihre rechtlichen Verantwortlichkeiten zu erinnern und die Menschenrechtsverletzungen im zentralen Mittelmeerraum zu beleuchten.  
+Wir vertreten die europäische Zivilgesellschaft und treten gemeinsam für das grundlegendste Prinzip ein: Jedes Leben ist gleichwertig und rettungswürdig.
+
+[Vollständige Stellungnahme](../f/files/common_statement_strasbourg.pdf)
+
 #### **2018/11/26**: Solidarische Grüße von Ut-Vitam
 
 Wir bekamen solidarische Grüße von der NGO [Ut-Vitam](http://www.utvitam-togo.org/) aus Togo.
