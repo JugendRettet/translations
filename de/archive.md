@@ -9,6 +9,13 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/12/16**: Treffen der Jugend RETTET-Botschaften
+
+Gut, wenn man über sich selber lachen kann #foreveryoung  
+Ein wundervolles Wochenende in Hannover geht zu Ende: Seit Freitag haben hier Botschafter*innen aus über 10 Städten gemeinsam die letzten Monate evaluiert, diskutiert und Pläne für das neue Jahr geschmiedet. Wir haben Kraft getankt um den aktuellen Missständen und der sich verschärfenden Kriminalisierung zu trotzen. Ein fettes Danke an all unsere fantastischen Botschaften, die Jugend RETTET mit Leben füllen! <3
+
+![Botschafter_innen vor Laden-Titel "Baby-Laden"](../f/images/archive/20181216_001.jpg "Botschafter_innen vor Laden-Titel 'Baby-Laden'")
+
 #### **2018/12/13**: Nominierung für Sacharow-Preis für geistige Freiheit durch das Europäische Parlament
 
 Gemeinsame Stellungnahme:  

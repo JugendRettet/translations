@@ -9,6 +9,13 @@ archive_title='
 archive_current='
 ## 2018
 
+#### **2018/12/16**: Meeting of Jugend Rettet IUVENTA embassies
+
+Good if you can laugh at yourself #foreveryoung  
+A wonderful weekend in Hanover comes to an end: since Friday, ambassadors from more than 10 cities have jointly evaluated the last months, discussed and forged plans for the new year. We have fueled up to defy the current abuses and the escalating criminalization. A big thank you to all our fantastic messages that bring Jugend Rettet IUVENTA to life! <3
+
+![Ambassadors in front of store "Baby Store"](../f/images/archive/20181216_001.jpg "Ambassadors in front of store 'Baby Store'")
+
 #### **2018/12/13**: Nomination for Sakharov Prize for Freedom of Thought by European Parliament
 
 Common Statement:  
