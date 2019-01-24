@@ -9,8 +9,8 @@ legal='
 ## Diese Website wird betrieben von
 
 JUGEND **RETTET** e.V.  
-Ruhlsdorferstr. 120  
-14513 Teltow  
+Gneisenaustr. 2A
+10961 Berlin 
 
 Vereinsregister: Amtsgericht Berlin (Charlottenburg) VR 34604  
 [Vereinssatzung](../f/files/Vereinssatzung_v1.pdf)  
