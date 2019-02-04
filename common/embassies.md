@@ -41,7 +41,7 @@ sub_team_embassies='
 * **Münster**: [Paul](mailto:Paul_Muenster@jugendrettet.org)
 * **Neustadt:** [AG Integration](mailto:AG.Integration_Neustadt@jugendrettet.org)
 * **Nürnberg**: [Annemarie](mailto:Annemarie_Nuernberg@jugendrettet.org), [Mark](mailto:Mark_Nuernberg@jugendrettet.org), [Hannah](mailto:Hannah_Nuernberg@jugendrettet.org)
-* **Oldenburg**: [Deniz](mailto:Deniz_Oldenburg@jugendrettet.org), [Maxi](mailto:Maxi_Oldenburg@jugendrettet.org), [Sabeth](mailto:Sabeth_Oldenburg@jugendrettet.org)
+* **Oldenburg**: [Deniz](mailto:Deniz_Oldenburg@jugendrettet.org), [Maxi](mailto:Maxi_Oldenburg@jugendrettet.org)
 * **Osnabrück:** [Leonie](mailto:Leonie_Osnabrueck@jugendrettet.org)
 * **Ostfriesland**: [Jana](mailto:Jana_Ostfriesland@jugendrettet.org), [Julia](mailto:Julia@jugendrettet.org), [Mareke](mailto:Mareke@jugendrettet.org)
 * **Paderborn**: [Wiebke](mailto:Paderborn@jugendrettet.org)
