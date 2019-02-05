@@ -16,7 +16,7 @@ sub_team_embassies='
 * **Freiburg:** [Eliza](mailto:Eliza_Freiburg@jugendrettet.org), [Elisabeth](mailto:Elisabeth_Freiburg@jugendrettet.org)
 * **Fulda:** [Carmen](mailto:Carmen_Fulda@jugendrettet.org), [Josefine](mailto:Josefine_Fulda@jugendrettet.org)
 * **Gelsenkirchen:** [Jessi](mailto:Jessi_Gelsenkirchen@jugendrettet.org)
-* **Göttingen**: [Tatjana](mailto:Tatjana_Goettingen@jugendrettet.org), [Sebastian](mailto:Sebastian_Goettingen@jugendrettet.org)
+* **Göttingen**: [Tatjana](mailto:Tatjana_Goettingen@jugendrettet.org), [Sebastian](mailto:Sebastian_Goettingen@jugendrettet.org), [Konstantin](mailto:Konstantin_Goettingen@jugendrettet.org)
 * **Göteborg**: [Jana](mailto:Jana_Goeteborg@jugendrettet.org), [Solveij](mailto:Solveij_Goeteborg@jugendrettet.org)
 * **Hamburg**: [Marie](mailto:Marie_Hamburg@jugendrettet.org), [Sarah](mailto:Sarah_Hamburg@jugendrettet.org), [Edith](mailto:Edith_Hamburg@jugendrettet.org), [Nele](mailto:Nele_Hamburg@jugendrettet.org)
 * **Hannover**: [Aram](mailto:Aram_Hannover@jugendrettet.org), [David](mailto:David_Hannover@jugendrettet.org), [Lina](mailto:Lina_Hannover@jugendrettet.org), [Maria](mailto:Maria_Hannover@jugendrettet.org), [Markus](mailto:Markus@jugendrettet.org), [Nora](mailto:Nora_Hannover@jugendrettet.org)
