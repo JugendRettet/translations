@@ -6,11 +6,11 @@ Press
 press='
 # Press
 
-Isabel Grahn & Pauline Schmidt  
-Heads of Press Jugend Rettet e.V.
+Philipp Külker
+Head of Press Jugend Rettet e.V.
 
-Postfach 36 03 55  
-D- 10973 Berlin
+Gneisenaustraße 2A
+10961 Berlin
 
 Mail: [press@jugendrettet.org](mailto://press@jugendrettet.org)
 
