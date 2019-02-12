@@ -6,11 +6,11 @@ Presse
 press='
 # Presse
 
-Isabel Grahn & Pauline Schmidt  
+Philipp Külker
 Leitung Pressestelle JUGEND **RETTET** e.V.
 
-Postfach 36 03 55  
-D- 10973 Berlin
+Gneisenaustraße 2A
+10961 Berlin
 
 Mail: [press@jugendrettet.org](mailto://press@jugendrettet.org)
 
