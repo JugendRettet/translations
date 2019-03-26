@@ -10,6 +10,8 @@ sub_team_embassies='
 * **Fulda:** [Carmen](mailto:Carmen_Fulda@jugendrettet.org)
 * **Göttingen:** [Tatjana](mailto:Tatjana_Goettingen@jugendrettet.org), [Sebastian](mailto:Sebastian_Goettingen@jugendrettet.org)
 * **Hannover:** [Markus](mailto:Markus@jugendrettet.org), [Nora](mailto:Nora_Hannover@jugendrettet.org)
+* **Hildesheim:** [Lucia](mailto:lucia_hildesheim@jugendrettet.org)
+* **Jena:** [Jelle](mailto:jelle_jena@jugendrettet.org)
 * **Kiel:** [Sascha](mailto:Sascha_Kiel@jugendrettet.org), [Julian](mailto:Julian_Kiel@jugendrettet.org)
 * **Köln:** [Gwen](mailto:Koeln@jugendrettet.org), [Hannah](mailto:Koeln@jugendrettet.org)
 * **Leiden:** [Kaja](mailto:Kaja_Leiden@jugendrettet.org)
