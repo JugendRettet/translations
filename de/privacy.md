@@ -68,6 +68,7 @@ Personen sind damit nicht möglich.
 
 * "JUGEND RETTET News" (news@jugendrettet.org)
 * "JUGEND RETTET Press List" (press_list@jugendrettet.org)
+* "Jugend RETTET Crews-Newsletter"
 
 Um Interessenten über unser Projekt, unsere Missionen und
 Spendenmöglichkeiten zu informieren, nutzen wir Dienste des Anbieters
@@ -106,26 +107,6 @@ Erfolg des Newsletters einzuordnen.
 Zur Verarbeitung und Speicherung der Daten durch MailChimp, siehe
 "Auftragsverarbeitung".
 
-### Newsletter mit interner Lösung
-
-* Crews-Verteiler (crews_newsletter@jugendrettet.org)
-
-Um Freiwillige, die als Teil einer Crew bei uns tätig waren, über Tätigkeiten
-des Vereins weiter zu informieren und gegebenenfalls für weitere Arbeiten
-anzuwerben, bieten wir einen E-Mail-Verteiler an.
-
-#### Anmeldung
-
-Zur Anmeldung genügt die Angabe einer E-Mail-Adresse.  
-Diese wird nicht an Dritte weitergegeben.
-
-#### Abmeldung
-
-Du kannst dich jederzeit von dem Erhalt der Newsletter von JUGEND RETTET
-abmelden. Die Abmeldung erfolgt durch Anklicken des "Abmelde"-Links in der
-Fußzeile einer E-Mail von JUGEND RETTET und anschließendem Folgen der
-Anweisungen.
-
 
 ### Spenden über betterplace.org
 
@@ -143,22 +124,11 @@ verteilen.
 [Datenschutz bei Betterplace](https://www.betterplace.org/c/regeln/datenschutz)
 
 
-## Sicherungskopien
-
-Um Verlust von Daten zu verhindern, fertigen wir automatisiert und regelmäßig
-Sicherungskopien aller Daten auf eigener Hardware an.  
-Um Integrität und Vertraulichkeit der Daten während der Übertragung von den
-verarbeitenden Systemen als auch bei der Lagerung zu gewährleisten, erfolgen
-diese ausschließlich nach modernen Standards verschlüsselt.
-
-[Technische und organisatorische Maßnahmen (TOM)](/de/tom)
-
-
 ## Auftragsverarbeitung
 
 ### Google Cloud
 
-Zur Sicherung und gemeinsamen Bearbeitung von Dateien nutzen wir den Dienst
+Für E-Mails und zur Sicherung und gemeinsamen Bearbeitung von Dateien nutzen wir den Dienst
 "G Suite" aus dem Angebot "Google Cloud" des Unternehmens "Google"
 (<https://www.google.de/contact/impressum.html>).  
 Dabei werden Dateien auf Systemen von Google gespeichert und verarbeitet.
