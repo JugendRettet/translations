@@ -17,14 +17,10 @@ Vereinsregister: Amtsgericht Berlin (Charlottenburg) VR 34604
 
 E-Mail: <info@jugendrettet.org>
 
-## Vertreten durch
+## Vertreten durch / inhaltlich verantwortlich
 
 * Julian Pahlke, Vorsitzender, Adresse siehe oben
 * Philipp Külker, Vorsitzender, Adresse siehe oben
-
-## inhaltlich verantwortlich
-
-Alexander Hof  
 
 ## Haftung für Inhalte
 
